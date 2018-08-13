@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Fel på Google Play-tjänster</string>
+    <string name="common_google_play_services_notification_needs_update_title">Google Play-tjänster måste uppdateras för en app ska fungera.</string>
+    <string name="common_android_wear_notification_needs_update_text">En uppdatering av appen Android Wear krävs för %1$s.</string>
+    <string name="common_google_play_services_needs_enabling_title">Google Play-tjänster måste aktiveras för att en app ska fungera.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Begärdes av %1$s</string>
+    <string name="common_google_play_services_install_title">Hämta Google Play Tjänster</string>
+    <string name="common_google_play_services_install_text_phone">%1$s kan inte köras utan Google Play-tjänster, och dessa saknas på mobilen.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s kan inte köras utan Google Play-tjänster, och dessa saknas på surfplattan.</string>
+    <string name="common_google_play_services_install_button">Hämta Google Play Tjänster</string>
+    <string name="common_google_play_services_enable_title">Aktivera Google Play Tjänster</string>
+    <string name="common_google_play_services_enable_text">%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</string>
+    <string name="common_google_play_services_enable_button">Aktivera Google Play Tjänster</string>
+    <string name="common_google_play_services_update_title">Uppdatera Google Play Tjänster</string>
+    <string name="common_android_wear_update_title">Uppdatera Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s kan inte köras om du inte uppdaterar Google Play-tjänsterna.</string>
+    <string name="common_android_wear_update_text">%1$s körs inte om du inte uppdaterar appen Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Google Play-tjänsterna uppdateras</string>
+    <string name="common_google_play_services_updating_text">%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</string>
+    <string name="common_google_play_services_network_error_title">Nätverksfel</string>
+    <string name="common_google_play_services_network_error_text">En dataanslutning krävs för att ansluta till Google Plays tjänster.</string>
+    <string name="common_google_play_services_invalid_account_title">Ogiltigt konto</string>
+    <string name="common_google_play_services_invalid_account_text">Det angivna kontot finns inte på den här enheten. Välj ett annat konto.</string>
+    <string name="common_google_play_services_unknown_issue">Okänt problem med Google Play Tjänster</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-tjänster</string>
+    <string name="common_google_play_services_unsupported_text">För %1$s krävs Google Play-tjänster, och dessa stöds inte på enheten. Kontakta tillverkaren om du vill ha hjälp.</string>
+    <string name="common_google_play_services_update_button">Uppdatera</string>
+    <string name="common_open_on_phone">Öppna på mobilen</string>
+    <string name="common_google_play_services_api_unavailable_text">För %1$s krävs en eller flera Google Play-tjänster som inte är tillgängliga för närvarande. Kontakta utvecklaren om du vill ha hjälp.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Det gick inte att logga in</string>
+    <string name="common_google_play_services_sign_in_failed_text">Ett fel uppstod när du försökte logga in på kontot. Välj ett annat konto.</string>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Trusted Face-tjänsten</string>
+    <string name="receiver_app_name">Sändningsmottagare för Trusted Face</string>
+    <string name="intro_screen_title">Om betrodda ansikten</string>
+    <string name="intro_screen_header">Lås upp mobilen genom att titta på den</string>
+    <string name="intro_screen_body_start">"Kom ihåg:
+"</string>
+    <string name="intro_screen_bullets">"Ansiktsigenkänning är inte lika säkert som grafiska lösenord, pinkoder eller lösenord
+
+Någon som är lik dig kan låsa upp mobilen
+
+Den data som används för att känna igen ditt ansikte är privat och finns på mobilen"</string>
+    <string name="intro_screen_continue_label">Konfigurera</string>
+    <string name="instructions_screen_title">Lägg till ett betrott ansikte</string>
+    <string name="instructions_screen_header">För bästa resultat:</string>
+    <string name="instructions_screen_bullets">"Stå på lämpligt ställe inomhus där det inte är för mörkt eller för ljust
+
+Håll mobilen i ögonhöjd"</string>
+    <string name="instructions_screen_continue_label">Nästa</string>
+    <string name="enrollment_screen_title">Lägg till ett betrott ansikte</string>
+    <string name="enrollment_screen_message_initializing">Startar ...</string>
+    <string name="enrollment_screen_message_initialization_error">Det gick inte att börja leta efter ditt ansikte</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Kamerabehörighet har ej beviljats</string>
+    <string name="enrollment_screen_message_camera_error">Kameran är inte tillgänglig</string>
+    <string name="enrollment_start_message">Håll ansiktet innanför det streckade området</string>
+    <string name="enrollment_screen_message_instructions">Se till att hela huvudet är innanför cirkeln</string>
+    <string name="enrollment_screen_message_done">Ansiktet har lagts till</string>
+    <string name="enrollment_screen_status_no_face">Visa ditt ansikte</string>
+    <string name="enrollment_screen_status_face_off_center">Hela ditt ansikte syns inte</string>
+    <string name="enrollment_screen_status_missing_template">Vissa ansiktsdrag syns inte</string>
+    <string name="enrollment_screen_continue_label">Nästa</string>
+    <string name="enrollment_screen_done_label">Klar</string>
+    <string name="enrollment_screen_talkback_preview_description">Förhandsgranska i kameran</string>
+    <string name="enrollment_screen_talkback_face_added">Ansiktet har lagts till</string>
+    <string name="end_screen_title">Klart!</string>
+    <string name="end_screen_body">Om du vill låsa upp mobilen aktiverar du skärmen och tittar på kameran</string>
+    <string name="end_screen_bullet_one_text">När mobilen känner igen ditt ansikte låses den upp</string>
+    <string name="end_screen_bullet_two_text">Om ditt ansikte inte kan identifieras kan du låsa upp med ditt grafiska lösenord, pinkoden eller lösenordet istället</string>
+    <string name="end_screen_tip_text">Tips! Förbättra ansiktsmatchningen genom att visa hur du ser ut under olika omständigheter.</string>
+    <string name="end_screen_licenses_label">Licenser</string>
+    <string name="end_screen_continue_label">Klar</string>
+    <string name="add_to_setup_intro_screen_title">Förbättra ansiktsmatchningen</string>
+    <string name="add_to_setup_intro_screen_header">Visa hur du ser ut under olika omständigheter</string>
+    <string name="add_to_setup_intro_screen_body_start">"Exempel:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"I olika ljus
+
+Med eller utan glasögon
+
+Med eller utan skägg
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Håll mobilen i ögonhöjd</string>
+    <string name="add_to_setup_intro_screen_continue_label">Nästa</string>
+    <string name="license_screen_title">Licenser</string>
+    <string name="license_screen_header">Meddelanden om öppen källkod</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">Funktionen Betrott ansikte kan använda delar av följande bibliotek med öppen källkod som har licensierats under licenserna nedan:</string>
+    <string name="license_screen_notices_header">Meddelanden för bibliotek:</string>
+    <string name="shared_cancel_label">Avbryt</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Ansiktsigenkänningen har ändrats. Om du vill fortsätta använda funktionen måste du lägga till ett betrott ansikte på nytt.</string>
+</resources>

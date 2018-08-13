@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">Следующие адреса электронной почты недействительны: %s</item>
+        <item quantity="one">Адрес электронной почты %s недействителен</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">После того как вы добавите эти файлы, к ним получат доступ пользователи, работающие с папкой \"%1$s\"</item>
+        <item quantity="one">После того как вы добавите этот файл, к нему получат доступ пользователи, работающие с папкой \"%1$s\"</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">После того как вы добавите эти файлы и папки, к ним получат доступ пользователи, работающие с папкой \"%1$s\"</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">После того как вы добавите эти папки, к ним получат доступ пользователи, работающие с папкой \"%1$s\"</item>
+        <item quantity="one">После того как вы добавите эту папку, к ней получат доступ пользователи, работающие с папкой \"%1$s\"</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Открыть доступ к файлам?</item>
+        <item quantity="one">Открыть доступ к файлу?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Открыть доступ к файлам и папкам?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Открыть доступ к папкам?</item>
+        <item quantity="one">Открыть доступ к папке?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">Обновлено папок: %1$d. Выбран цвет: %2$s.</item>
+        <item quantity="one">Обновлена %1$d папка. Выбран цвет: %2$s.</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Осталось дней: %1$d</item>
+        <item quantity="one">Осталось дней: %1$d</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Резервные копии удалены.</item>
+        <item quantity="one">Резервная копия удалена.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">Столбцов: %d.</item>
+        <item quantity="one">Столбцов: %d.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">Закрепленные столбцы (%d)</item>
+        <item quantity="one">Закрепленные столбцы (%d)</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">Закрепленные строки (%d)</item>
+        <item quantity="one">Закрепленные строки (%d)</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">Строк: %d.</item>
+        <item quantity="one">Строк: %d.</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Не удалось скачать файлы</item>
+        <item quantity="one">Ошибка скачивания</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">Будут скачаны не все файлы (%1$d из %2$d). См. подробности в оповещении.</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">Будут скачаны все файлы (%1$d). См. подробности в оповещении.</item>
+        <item quantity="one">Будет скачан %1$d файл. См. подробности в оповещении.</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Не удалось скачать объекты (%1$s)</item>
+        <item quantity="one">Не удалось скачать объекты (%1$s)</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Ещё %1$d</item>
+        <item quantity="one">Ещё %1$d</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">Не удалось скачать объекты (%1$d из %2$d)</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Если переместить объекты из общей папки, другие пользователи потеряют к ним доступ.</item>
+        <item quantity="one">Если переместить объект из общей папки, другие пользователи потеряют к нему доступ.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">Вы собираетесь переместить с общих дисков несколько объектов. Другие пользователи потеряют к ним доступ.</item>
+        <item quantity="one">Вы собираетесь переместить с общих дисков один объект. Другие пользователи потеряют к нему доступ.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Переместив эти файлы, вы поделитесь ими со всеми пользователями, которым доступна папка \"%1$s\".</item>
+        <item quantity="one">Переместив этот файл, вы поделитесь им со всеми пользователями, которым доступна папка \"%1$s\".</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Переместив эти файлы и папки, вы поделитесь ими со всеми пользователями, которым доступна папка \"%1$s\".</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Переместив эти папки, вы поделитесь ими со всеми пользователями, которым доступна папка \"%1$s\".</item>
+        <item quantity="one">Переместив эту папку, вы поделитесь ей со всеми пользователями, которым доступна папка \"%1$s\".</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Открыть доступ к файлам?</item>
+        <item quantity="one">Открыть доступ к файлу?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Открыть доступ к файлам и папкам?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Открыть доступ к папкам?</item>
+        <item quantity="one">Открыть доступ к папке?</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">Вы не являетесь владельцем некоторых объектов и поэтому не можете переместить их на общий диск.</item>
+        <item quantity="one">Вы не являетесь владельцем объекта и поэтому не можете переместить его на общий диск.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">У вас нет прав на перемещение некоторых объектов из папки.</item>
+        <item quantity="one">У вас нет прав на перемещение этого объекта из папки.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s Доступ есть у пользователей общего диска \"%2$s\".</item>
+        <item quantity="one">%1$s Доступ есть у пользователей общего диска \"%2$s\".</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">Объекты (%1$d) перемещены на общий диск.</item>
+        <item quantity="one">Объект перемещен на общий диск.</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">Задач: %1$s</item>
+        <item quantity="one">%1$s задача</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">Неотвеченные с упоминанием: %1$s</item>
+        <item quantity="one">Неотвеченные с упоминанием: %1$s</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">Советов: %1$s</item>
+        <item quantity="one">Советов: %1$s</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">Задач: %1$s</item>
+        <item quantity="one">Задач: %1$s</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">Файлов в офлайн-доступе: %1$d из %2$s</item>
+        <item quantity="one">Файлов в офлайн-доступе: %1$d из %2$s</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Все файлы (%1$d) теперь доступны офлайн</item>
+        <item quantity="one">Файлы (%1$d) теперь доступны офлайн</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Скачивание файлов (%1$d)...</item>
+        <item quantity="one">Cкачивание файлов (%1$d)...</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">Файлов: %1$d</item>
+        <item quantity="one">Файлов: %1$d</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">Скачивание приостановлено. Поиск сети Wi-Fi…</item>
+        <item quantity="one">Скачивание приостановлено. Поиск сети Wi-Fi…</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Скачивание файлов приостановлено (%1$d).</item>
+        <item quantity="one">Скачивание файлов приостановлено (%1$d).</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">Вы собираетесь удалить несколько объектов (%1$d). Они также будут удалены из Google Фото.</item>
+        <item quantity="one">Вы собираетесь удалить один объект. Он будет также удален из Google Фото.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">Действия (%1$s)</item>
+        <item quantity="one">Действия (%1$s)</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">Действия (%1$s)</item>
+        <item quantity="one">Действия (%1$s)</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Комментирование файлов (%1$d)</item>
+        <item quantity="one">Комментирование файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Комментирование файлов (%1$d)</item>
+        <item quantity="one">Комментирование файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Комментирование этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Создание объектов (%1$d)</item>
+        <item quantity="one">Создание объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Создание объектов (%1$d)</item>
+        <item quantity="one">Создание объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Создание этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Создание этой папки</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Изменение объектов (%1$d)</item>
+        <item quantity="one">Изменение объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Изменение объектов (%1$d)</item>
+        <item quantity="one">Изменение объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Редактирование этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Окончательное удаление объектов (%1$d)</item>
+        <item quantity="one">Окончательное удаление объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Перемещение объектов (%1$d) в:</item>
+        <item quantity="one">Перемещение объекта в:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Перемещение объектов (%1$d) в:</item>
+        <item quantity="one">Перемещение объекта в:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Перемещение объектов (%1$d)</item>
+        <item quantity="one">Перемещение объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Перемещение объектов (%1$d)</item>
+        <item quantity="one">Перемещение объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Перемещение этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Перемещение этого файла в:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Перемещение этой папки</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Перемещение этой папки в:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Переименование объектов (%1$d)</item>
+        <item quantity="one">Переименование объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Переименование объектов (%1$d)</item>
+        <item quantity="one">Переименование объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Переименование этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Переименование этой папки</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Доступ к объектам (%1$d)</item>
+        <item quantity="one">Доступ к объекту</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Доступ к объектам (%1$d)</item>
+        <item quantity="one">Доступ к объекту</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Доступ к этому файлу</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Доступ к этой папке</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Перемещение объектов (%1$d) в корзину</item>
+        <item quantity="one">Перемещение объекта в корзину</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Перемещение объектов (%1$d) в корзину</item>
+        <item quantity="one">Перемещение объекта в корзину</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Удаление этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Удаление этой папки</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Загрузка объектов (%1$d)</item>
+        <item quantity="one">Загрузка объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Загрузка объектов (%1$d)</item>
+        <item quantity="one">Загрузка объекта</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Загрузка этого файла</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Загрузка этой папки</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s и другие пользователи (%2$d)</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">Файлы (%1$d) будут перемещены в корзину общего диска \"%2$s\" и удалены через 30 дней.</item>
+        <item quantity="one">Файл будет перемещен в корзину общего диска \"%2$s\" и удален через 30 дней.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">Папки (%1$d) будут перемещены в корзину общего диска \"%2$s\" и удалены через 30 дней.</item>
+        <item quantity="one">Папка будет перемещена в корзину общего диска \"%2$s\" и удалена через 30 дней.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">Объекты (%1$d) будут перемещены в корзину общего диска \"%2$s\" и удалены через 30 дней.</item>
+        <item quantity="one">Объект будет перемещен в корзину общего диска \"%2$s\" и удален через 30 дней.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Файлы (%1$d) будут &lt;b>удалены для всех&lt;/b> без возможности восстановления.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Файлы (%1$d) будут сразу удалены без возможности восстановления.</item>
+        <item quantity="one">Файл будет сразу удален без возможности восстановления.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Выбраны объекты (%1$d)</item>
+        <item quantity="one">Выбраны объекты (%1$d)</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Отменен выбор объектов (%1$d)</item>
+        <item quantity="one">Отменен выбор объектов (%1$d)</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">Объекты (%d) будут доступны офлайн</item>
+        <item quantity="one">Объект будет доступен офлайн</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">Выбрано файлов: %1$d</item>
+        <item quantity="one">Выбрано файлов: 1</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">Объекты (%1$d) не доступны офлайн</item>
+        <item quantity="one">Объект больше не доступен офлайн</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Удалена пометка с файлов (%1$d)</item>
+        <item quantity="one">Удалена пометка с файлов (1)</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Восстановлено объектов: %1$d</item>
+        <item quantity="one">Восстановлено объектов: 1</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Объекты (%1$d) восстановлены</item>
+        <item quantity="one">Объект восстановлен</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">Объекты (%1$d) удалены из папки \"%2$s\"</item>
+        <item quantity="one">Объект удален из папки \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">Объекты (%1$d) удалены из папки</item>
+        <item quantity="one">Объект удален из папки</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">Объекты (%1$d) удалены</item>
+        <item quantity="one">Объект удален</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">Объекты (%1$d) возвращены</item>
+        <item quantity="one">Объект возвращен</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">Объекты (%1$d) возвращены в корзину</item>
+        <item quantity="one">Объект возвращен в корзину</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">Объекты (%1$d) возвращены в корзину</item>
+        <item quantity="one">Объект возвращен в корзину</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">Удалено объектов: %1$d</item>
+        <item quantity="one">Объект удален</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">Объекты (%1$d) добавлены в папку \"%2$s\"</item>
+        <item quantity="one">Объект добавлен в папку \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">Объекты (%1$d) добавлены</item>
+        <item quantity="one">Объект добавлен</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">Объекты (%1$d) восстановлены и добавлены в папку \"%2$s\"</item>
+        <item quantity="one">Объект восстановлен и добавлен в папку \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">Объекты (%1$d) перемещены в папку \"%2$s\"</item>
+        <item quantity="one">Объект перемещен в папку \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">Объекты (%1$d) перемещены</item>
+        <item quantity="one">Объект перемещен</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">Объекты (%1$d) восстановлены и перемещены в папку \"%2$s\"</item>
+        <item quantity="one">Объект восстановлен и перемещен в папку \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">Объекты (%1$d) восстановлены</item>
+        <item quantity="one">Объект восстановлен</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">Объекты (%1$d) восстановлены в папке \"%2$s\"</item>
+        <item quantity="one">Объект восстановлен в папке \"%2$s\"</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Отправить с помощью</item>
+        <item quantity="one">Отправить с помощью</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">Пользователи (%1$d) получили доступ к файлу</item>
+        <item quantity="one">1 пользователь теперь может просматривать файл</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s и ещё %2$d чел. получили доступ к файлу</item>
+        <item quantity="one">%1$s и ещё 1 пользователь получили доступ к файлу</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">Пользователи (%1$d) теперь могут комментировать файл</item>
+        <item quantity="one">1 пользователь теперь может комментировать файл</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s и ещё %2$d чел. теперь могут комментировать файл</item>
+        <item quantity="one">Теперь могут комментировать: %1$s и ещё 1 пользователь</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">Пользователи (%1$d) теперь могут редактировать файл</item>
+        <item quantity="one">1 пользователь теперь может редактировать файл</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s и ещё %2$d чел. теперь могут редактировать файл</item>
+        <item quantity="one">Теперь могут редактировать: %1$s и ещё 1 пользователь</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">Пользователи (%1$d) теперь могут просматривать файл</item>
+        <item quantity="one">1 пользователь теперь может просматривать файл</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s и ещё %2$d чел. теперь могут просматривать файл</item>
+        <item quantity="one">Теперь могут просматривать: %1$s и ещё 1 пользователь</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Подписка истекает через %1$d дн.</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">Пользователи (%1$d) добавлены на общий диск</item>
+        <item quantity="one">1 пользователь добавлен на общий диск</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s и другие пользователи (%3$d) теперь имеют доступ к общему диску \"%1$s\"</item>
+        <item quantity="one">%2$s и ещё 1 пользователь добавлены на общий диск \"%1$s\"</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">Участников: %d</item>
+        <item quantity="zero">Участников нет</item>
+        <item quantity="one">Участников: 1</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Возобновить все</item>
+        <item quantity="one">Возобновить</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Подготовка к загрузке файлов (%1$d) отменена</item>
+        <item quantity="one">Подготовка к загрузке файлов (%1$d) отменена</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Не удалось подготовить файлы (%1$d) к загрузке</item>
+        <item quantity="one">Не удалось подготовить файлы (%1$d) к загрузке</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">Все файлы (%1$d) загружены.</item>
+        <item quantity="one">Все файлы (%1$d) загружены.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Не удалось загрузить файлы (%1$d из %2$d).</item>
+        <item quantity="one">Не удалось загрузить файл (%1$d из %2$d).</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Загрузка файлов (%1$d)…</item>
+        <item quantity="one">Загрузка файлов (%1$d)…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">Загрузка приостановлена. Поиск сети Wi-Fi…</item>
+        <item quantity="one">Загрузка приостановлена. Поиск сети Wi-Fi…</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Приостановленных загрузок: %1$d.</item>
+        <item quantity="one">Приостановленных загрузок: %1$d.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Подготовка файлов (%1$d) к загрузке…</item>
+        <item quantity="one">Подготовка файлов (%1$d) к загрузке…</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Загрузка файлов (%1$d) в папку \"%2$s\"…</item>
+        <item quantity="one">Загрузка файлов (%1$d) в папку \"%2$s\"…</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">Фильтры</item>
+        <item quantity="one">Фильтр</item>
+    </plurals>
+</resources>

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Naviger hjem</string>
+    <string name="abc_action_bar_up_description">Naviger op</string>
+    <string name="abc_action_menu_overflow_description">Flere muligheder</string>
+    <string name="abc_action_mode_done">Luk</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Vælg en app</string>
+    <string name="abc_capital_off">FRA</string>
+    <string name="abc_capital_on">TIL</string>
+    <string name="abc_search_hint">Søg…</string>
+    <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
+    <string name="abc_searchview_description_query">Søgeforespørgsel</string>
+    <string name="abc_searchview_description_search">Søg</string>
+    <string name="abc_searchview_description_submit">Indsend forespørgslen</string>
+    <string name="abc_searchview_description_voice">Talesøgning</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="account_blocked_title">Kontoen er blokeret</string>
+    <string name="account_level_title">Kontohandling påkrævet</string>
+    <string name="account_removed_notification_text">%1$s blev fjernet, fordi administrationen af enheden ikke blev fuldført</string>
+    <string name="account_removed_notification_title">Kontoen er blevet fjernet</string>
+    <string name="android_privacy_policy_title">Yderligere privatlivspolitik</string>
+    <string name="app_level_title">Anmodning om login</string>
+    <string name="app_level_title_secondary">Anmodning om login fra %s</string>
+    <string name="audience_selection_done">Udfør</string>
+    <string name="auth_account_already_has_gmail">Kontoen har allerede Gmail.</string>
+    <string name="auth_account_content_provider_label">Google-kontodata</string>
+    <string name="auth_account_module_display_name">Google Konti</string>
+    <string name="auth_account_removed_default_description">Konfigurationen af Enhedsadministration blev ikke gennemført. %1$s</string>
+    <string name="auth_account_removed_default_title">Konfigurationen er annulleret</string>
+    <string name="auth_account_removed_dm_bad_result_description">Konfigurationen af Enhedsadministration blev ikke gennemført. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Dit domæne kræver administration af mobilenheden, men det understøttes ikke på denne enhed. Prøv at bruge en anden konto.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Enhedsadministration understøttes ikke</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Enhedsadministration blev ikke installeret korrekt. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Installationsproblemer</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Opsætning annulleret</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Denne enhed må kun have én administreret konto. Hvis du har nogen spørgsmål, kan du kontakte administratoren for din organisation.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Der findes allerede en administreret konto</string>
+    <string name="auth_account_settings_title">Kontoindstillinger</string>
+    <string name="auth_account_setup_title">Google-konto</string>
+    <string name="auth_account_start_over_and_signin_again">Start forfra, og log ind igen.</string>
+    <string name="auth_account_state_sync_title">Synkronisering af kontostatus</string>
+    <string name="auth_allow_external_site_access">Have løbende adgang til dine data på %s</string>
+    <string name="auth_app_permission_ok_footnote">Ved at fortsætte giver du denne app og Google tilladelse til at bruge dine oplysninger i overensstemmelse med deres respektive servicevilkår og privatlivspolitikker.</string>
+    <string name="auth_cant_add_work_account_message">Denne type konto administreres af din organisation.</string>
+    <string name="auth_captcha_instructions">Skriv den tekst, du ser her:</string>
+    <string name="auth_captcha_title">Det er nødvendigt at indtaste CAPTCHA</string>
+    <string name="auth_common_downloading">Downloader…</string>
+    <string name="auth_common_go_back">Gå tilbage</string>
+    <string name="auth_common_switch_accounts">Skift konto</string>
+    <string name="auth_communicating_message">Din enhed kontakter Google for at gemme oplysninger på din konto. Dette kan tage op til fem minutter.</string>
+    <string name="auth_confirm_creds_sync_title">Status for loginoplysninger</string>
+    <string name="auth_d2d_source_alert_title">Ryg mod ryg</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Lås og bekræft</string>
+    <string name="auth_d2d_source_copy_notice">Vil du kopiere konti og data til din anden enhed?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Når du har bekræftet, aktiveres Bluetooth, så dine enheder kan kommunikere.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Når du har bekræftet, forbindes dine enheder via Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">For at komme videre vil din skærm låse, og du skal bekræfte ved at låse den op.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Du kan ikke bruge Ryg mod ryg, da der ikke er nogen konti på denne enhed.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Du kan ikke bruge Ryg mod ryg, da Bluetooth ikke er tilgængelig på din enhed.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth aktiveres, så dine enheder kan kommunikere.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Dette anvender Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Ryg mod ryg er gennemført</string>
+    <string name="auth_d2d_source_restricted_user_toast">Det er ikke muligt at bruge Tryk og gendan fra en begrænset brugerprofil.</string>
+    <string name="auth_d2d_source_title">Gendan konti</string>
+    <string name="auth_d2d_source_unknown_device_name">Ukendt enhed</string>
+    <string name="auth_d2d_tap_and_go">Ryg mod ryg</string>
+    <string name="auth_d2d_target_tap_progress_message">Tryk på OK på din anden enhed for at fortsætte</string>
+    <string name="auth_d2d_target_title">Ryg mod ryg</string>
+    <string name="auth_d2d_target_unlock_progress_message">Tjek din anden enhed</string>
+    <string name="auth_d2d_target_wait_progress_message">Konti og data hentes...</string>
+    <string name="auth_device_management_download_app_icon">Ikon for %s-appen</string>
+    <string name="auth_device_management_download_description">Denne konto kræver administration af mobilenheden. Installer appen ^1 for at håndhæve de sikkerhedspolitikker, der kræves af kontoen.</string>
+    <string name="auth_device_management_download_description_kids">Hvis du vil føje kontoen til denne enhed, skal du først installere <b>^1</b>". 
+
+^1 hjælper dig med at konfigurere denne enhed til dit barn."</string>
+    <string name="auth_device_management_download_failed_message">Du kan stadig fortsætte konfigurationen uden denne app</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Enhedsadministration kunne ikke installeres. Denne konto fjernes. Prøv igen senere.</string>
+    <string name="auth_device_management_download_failed_title">Appen kan ikke downloades</string>
+    <string name="auth_device_management_download_not_updated_message">Du kan stadig fortsætte konfigurationen ved hjælp af den nuværende version</string>
+    <string name="auth_device_management_download_paused">Sat på pause</string>
+    <string name="auth_device_management_download_progress">Downloader…</string>
+    <string name="auth_device_management_download_skip_message">Denne konto kræver enhedsadministration. Vil du fortsætte uden?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Tilføjelse af denne konto kræver enhedsadministration. Vil du starte forfra med en anden konto?</string>
+    <string name="auth_device_management_go_back">Gå tilbage</string>
+    <string name="auth_device_management_screenlock_description">For at få adgang til din arbejdskonto på denne enhed skal du indstille en låseskærm. Dette er din organisations politik for mobilenheder.</string>
+    <string name="auth_device_management_screenlock_skip_message">Denne konto kræver skærmlåsbeskyttelse. Vil du starte forfra med en anden konto?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Din arbejdsprofil holder dine arbejdsapps adskilt, og den administreres af din organisation.
+
+Du skal bruge en kode fra din it-administrator for at fuldføre konfigurationen. Der downloades et administrationsværktøj, som din it-administrator vil bruge til at administrere din arbejdsprofil."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Din arbejdsprofil holder dine arbejdsapps adskilt, og den administreres af din organisation.
+
+Der downloades et administrationsværktøj, som din it-administrator vil bruge til at administrere din arbejdsprofil."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Konfigurer din arbejdsprofil</string>
+    <string name="auth_device_management_start_description">Denne konto kræver administration af mobilenheden. Når du trykker på Næste, hjælper appen ^1 dig med at håndhæve de sikkerhedspolitikker, der kræves for kontoen.</string>
+    <string name="auth_device_management_start_description_kids">Hvis du vil føje kontoen til denne enhed, skal du bruge <b>^1</b>". 
+
+^1 hjælper dig med at konfigurere denne enhed til dit barn."</string>
+    <string name="auth_device_management_title">Administration af enheder</string>
+    <string name="auth_device_management_update_description">Denne konto kræver administration af mobilenheden. For at opfylde de sikkerhedspolitikker, der gælder for kontoen, skal du installere en nyere version af appen ^1.</string>
+    <string name="auth_device_management_update_description_kids">Hvis du vil føje kontoen til denne enhed, skal du først installere den nyeste version af <b>^1</b>". 
+
+^1 hjælper dig med at konfigurere denne enhed til dit barn."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> bruger ikke Gmail.</string>
+    <string name="auth_error_account_disabled">"Denne konto er deaktiveret.
+
+(Besøg http://google.com/accounts i en webbrowser for at få flere oplysninger)."</string>
+    <string name="auth_error_account_not_verified">"Denne konto er ikke bekræftet. Tjek din mail på en computer, og følg linket for at bekræfte kontoen.
+
+(Gendan dine kontooplysninger ved at gå til http://www.google.com/accounts/recovery på din computer)."</string>
+    <string name="auth_error_bad_password">Adgangskoden er for svag eller indeholder ugyldige tegn. Prøv igen.</string>
+    <string name="auth_error_bad_username">Ugyldigt brugernavn.</string>
+    <string name="auth_error_generic_server_error">"Der opstod problemer med kommunikationen med Googles servere. 
+
+Prøv igen senere."</string>
+    <string name="auth_error_invalid_second_factor">Brug en appspecifik adgangskode i stedet for den almindelige adgangskode til din konto.</string>
+    <string name="auth_error_login_failed">"Dit brugernavn og din adgangskode stemmer ikke overens. Prøv igen.
+
+Hvis du vil gendanne dine kontooplysninger, skal du gå til google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Log ind på nettet, før du kan få adgang til din konto. Tryk på Næste for at logge ind i din browser.</string>
+    <string name="auth_error_no_network">"Du har ingen netværksforbindelse. 
+
+ Dette kan være et midlertidigt problem. Prøv igen, eller opret forbindelse til et andet Wi-Fi-netværk."</string>
+    <string name="auth_error_not_logged_in">Brugeren er ikke logget ind.</string>
+    <string name="auth_error_username_unavailable">Brugernavnet er ikke tilgængeligt.</string>
+    <string name="auth_existing_account_error_text">Der er allerede en konto med navnet ^1 på denne Android-enhed.</string>
+    <string name="auth_existing_account_error_title">Kontoen findes allerede</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Login mislykkedes, fordi adgangskoden blev ændret for nylig. Prøv at logge ind igen, 24 timer efter adgangskoden blev ændret.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Funktionerne til enhedsbeskyttelse vil ikke længere fungere.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Hvis du flytter den sidste Google-konto på enheden væk fra din personlige profil, deaktiveres enhedens tyverisikringsfunktioner. Du kan tilføje en anden konto på enheden, hvis du vil aktivere dem igen på et senere tidspunkt.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Er du sikker?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Vil du flytte kontoen til arbejdsprofilen?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Login mislykkedes, fordi der opstod en ukendt fejl. Prøv en anden konto, eller prøv at logge ind igen efter 24 timer.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Log ind ved hjælp af en af ejerens konti for denne enhed.</string>
+    <string name="auth_field_cant_be_blank">Feltet må ikke være tomt.</string>
+    <string name="auth_frp_add_account_no">Brug ny konto</string>
+    <string name="auth_frp_add_account_prompt">Den tidligere Google-konto på denne enhed er bekræftet. Du kan føje ^1 til denne enhed igen eller bruge en ny konto.</string>
+    <string name="auth_frp_add_account_yes">Tilføj tidligere konto</string>
+    <string name="auth_frp_device_managed_label">Denne enhed er konfigureret til at være administreret af din organisation.</string>
+    <string name="auth_frp_download_management_app_label">Du skal downloade en app til enhedsadministration for at fortsætte konfigurationsprocessen.</string>
+    <string name="auth_frp_enter_device_credentials_label">Skift til administratortilstand</string>
+    <string name="auth_frp_install_dpc_error">Installationen af administrationsappen mislykkedes. Hvis du vælger at springe dette trin over, kan enheden ikke administreres.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Installationen af administrationsappen mislykkedes. Tjek netværksforbindelsen, og prøv igen senere.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Brug min Google-konto i stedet</string>
+    <string name="auth_frp_preadd_lkscreen_text">Din enheds fabriksindstillinger er gendannet, og du kan låse den op ved hjælp af din tidligere hemmelighed.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Beskyttelse mod gendannelse af fabriksindstillinger</string>
+    <string name="auth_frp_start_reenroll_device_title">Din enhed på arbejdet</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Det var ikke muligt at få adgang til denne konto. Sørg for, at din enhed følger organisationens sikkerhedspolitikker. Hvis du fortsat får vist denne fejl, skal du kontakte organisationens administrator.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Kontofejl</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Dit domæne kræver administration af mobilenheden. Installer appen \"Google Apps Device Policy\" for at håndhæve de sikkerhedspolitikker, der kræves af den konto, der tilhører  "<b>^1</b> .</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" må kun indeholde bogstaver,
+tal og punktummer."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> indeholder ikke bogstaver.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> indeholder færre end 6 eller flere end 30 tegn.</string>
+    <string name="auth_gls_is_not_available">Brugernavnet <b>^1</b> er ikke tilgængeligt.</string>
+    <string name="auth_gls_name_checking_info_title">Kontrollerer oplysninger…</string>
+    <string name="auth_gls_sync_item_title">Synkroniser %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Kontoen  "<b>^1</b> skal føjes til en enhed eller arbejdsprofil, der administreres af din organisation. Følg vejledningen fra din it-administrator for at gøre dette.</string>
+    <string name="auth_google_title_logo">Google-logo</string>
+    <string name="auth_invalid_login_character">Ugyldigt tegn. Kun 0-9, a-z, A-Z og punktummer er tilladte.</string>
+    <string name="auth_invalid_password_character">Ugyldigt adgangskodetegn.</string>
+    <string name="auth_invalid_username">Din tekst er ikke et gyldigt brugernavn.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Du har indtastet en forkert adgangskode, eller din konto er ændret. Indtast din adgangskode igen. Hvis du har glemt din adgangskode og har brug for at gendanne din konto, skal du klikke <annotation id="help_url">her</annotation>.</string>
+    <string name="auth_login_task_title">Logger ind</string>
+    <string name="auth_login_title">Indtast mailadresse og adgangskode</string>
+    <string name="auth_minutemaid_ssl_error">"Der kunne ikke oprettes forbindelse til  %s."</string>
+    <string name="auth_network_unreliable_help">Det kan være et midlertidigt problem, eller også kan din Android-enhed ikke anvende datatjenester. Hvis det fortsætter, skal du ringe til kundeservice.</string>
+    <string name="auth_no_network">Du har ikke en netværksforbindelse.</string>
+    <string name="auth_no_network_help">Det·kan·være·et·midlertidigt·problem,·eller·også·kan·din·Android-enhed ikke anvende datatjenester. Prøv igen, når du har forbindelse til et mobilnetværk, eller opret forbindelse til et Wi-Fi-netværk.</string>
+    <string name="auth_no_network_help_wifi_only">Dette kan være et midlertidigt problem. Prøv igen, eller opret forbindelse til et andet Wi-Fi-netværk.</string>
+    <string name="auth_otp_error">Der opstod et problem, da sikkerhedskoden skulle genereres.</string>
+    <string name="auth_otp_explained_paragraph">Hvis du har glemt din adgangskode, eller der er ændringer til dit login, beder Google muligvis om en sikkerhedskode for at beskytte din konto. Brug den nu, eller vend tilbage for at få en ny.</string>
+    <string name="auth_otp_header_message">Hvornår denne kode skal bruges til login</string>
+    <string name="auth_otp_no_accounts_available_message">Der er ingen konfigureret konto på denne enhed.</string>
+    <string name="auth_otp_progress_dialog_message">Genererer sikkerhedskode.</string>
+    <string name="auth_otp_ten_digit_code_header">Dine sikkerhedskoder</string>
+    <string name="auth_otp_ten_digit_explaination">Hvis du glemmer din adgangskode, eller du logger ind på en ny enhed eller fra et nyt sted, kan du af hensyn til din Google-kontos sikkerhed blive bedt om at angive mindst én af disse koder.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Disse koder udløber 15 minutter efter modtagelse, eller efter du har brugt dem. Du bør kun bruge dem på websider med webadresser, der starter med \"https://accounts.google.com/\".</string>
+    <string name="auth_otp_ten_digit_usage_header">Hvornår du skal bruge dine koder</string>
+    <string name="auth_otp_ten_digits_code1">Kode 1</string>
+    <string name="auth_otp_ten_digits_code2">Kode 2</string>
+    <string name="auth_password">Adgangskode</string>
+    <string name="auth_plus_audience_selection_description_acl">DEL MED</string>
+    <string name="auth_plus_info_fragment_app_name">%s vil gerne:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%1$s fra enheden %2$s vil gerne:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Dine udvidede cirkler</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Valgte cirkler</string>
+    <string name="auth_plus_scope_fragment_public_label">Alle på nettet</string>
+    <string name="auth_pre_factory_reset_title">Husk din Google-konto</string>
+    <string name="auth_relogin_activity_title">Angiv adgangskoden igen</string>
+    <string name="auth_remove_account_start_over">Start forfra</string>
+    <string name="auth_request_accounts_list">Få en liste over alle Google-konti på enheden.</string>
+    <string name="auth_scope_more_details">Få flere oplysninger</string>
+    <string name="auth_server_error">Der opstod et problem under kommunikationen med Googles servere.</string>
+    <string name="auth_server_error_help">Prøv igen senere.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Kontoen er tilføjet</string>
+    <string name="auth_setup_wizard_account_added_description">Din konto blev tilføjet. Fortsæt, og vælg valgmuligheder for Google-tjenester</string>
+    <string name="auth_setup_wizard_services_activity_title">Google-tjenester</string>
+    <string name="auth_setup_wizard_title">Konfigurationsguide</string>
+    <string name="auth_show_error_title">Fejl</string>
+    <string name="auth_sign_in_agreement">Ved at logge ind accepterer du <annotation id="google_privacy">Googles</annotation> og <annotation id="android_privacy">andres</annotation> privatlivspolitikker.</string>
+    <string name="auth_sign_in_browser">Log ind i browser</string>
+    <string name="auth_sign_in_with_google_account_short">Log ind med din Google-konto</string>
+    <string name="auth_submission_error_text">Der opstod en fejl. Prøv igen.</string>
+    <string name="auth_submission_title">Beklager…</string>
+    <string name="auth_ui_activity_authenticating">Godkender...</string>
+    <string name="auth_ui_activity_title">Google-login</string>
+    <string name="auth_ui_activity_title_browser_signin">Login</string>
+    <string name="auth_ui_add_account_title">Konfiguration af konto</string>
+    <string name="auth_uncertified_notification_description"><b>Brugere, der har købt denne enhed:</b>"
+Producenten af enheden har forudindlæst Google-apps og -tjenester uden certificering fra Google. Kontakt producenten, og anmod om en certificeret enhed. Få flere oplysninger på g.co/AndroidCertifiedDevice.
+
+"<b>Producenter uden licens:</b>"
+Du skal have en licens fra Google for at distribuere Google-apps og -tjenester. Ansøg om en på g.co/AndroidGMSContact.
+
+"<b>Producenter med licens:</b>"
+Hvis du vil bruge Google-apps og -tjenester under udviklingen, skal du registrere enheden. Kontakt din Google Business Development Manager for at få flere oplysninger.
+
+"<b>Brugere af tilpasset ROM:</b>"
+Hvis du vil bruge Google-apps og -tjenester med en tilpasset ROM, skal du registrere denne enhed. Få flere oplysninger på g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Enheden er ikke certificeret af Google</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_work_authenticator_label">Administreret konto</string>
+    <string name="authorization_dialog">Dialogboks til godkendelse</string>
+    <string name="chrome_privacy_title">Erklæring om privatliv for Chrome</string>
+    <string name="chrome_tos_title">Servicevilkår for Chrome</string>
+    <string name="close_button_label">Luk</string>
+    <string name="common_accept">Acceptér</string>
+    <string name="common_add">Tilføj</string>
+    <string name="common_add_account_label">Tilføj en konto</string>
+    <string name="common_ads_settings_title">Annoncer</string>
+    <string name="common_agree">Enig</string>
+    <string name="common_app_name">Google Play-tjenester</string>
+    <string name="common_application_info">App-oplysninger</string>
+    <string name="common_application_info_composed_string">appoplysninger</string>
+    <string name="common_asm_google_account_title">Google-konto</string>
+    <string name="common_asm_manage_google_account_title">Administrer din Google-konto</string>
+    <string name="common_asm_preferences_settings_title">Kontopræferencer</string>
+    <string name="common_asm_privacy_settings_title">Personlige oplysninger og privatliv</string>
+    <string name="common_asm_security_settings_title">Login og sikkerhed</string>
+    <string name="common_back">Tilbage</string>
+    <string name="common_battery">Batteri</string>
+    <string name="common_block">Bloker</string>
+    <string name="common_cancel">Annuller</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan ikke startes (tilladelsesfejl).</string>
+    <string name="common_car_permission_desc">Adgang til bilservice.</string>
+    <string name="common_car_permission_label">Bilsevice</string>
+    <string name="common_card">Kort</string>
+    <string name="common_chips_label_empty_circles">Ingen cirkler</string>
+    <string name="common_chips_label_extended_circles">Udvidede cirkler</string>
+    <string name="common_chips_label_only_you">Kun dig</string>
+    <string name="common_chips_label_public">Offentlig</string>
+    <string name="common_chips_label_your_circles">Dine cirkler</string>
+    <string name="common_choose_account_label">Vælg en konto</string>
+    <string name="common_confirm_screen_lock_title">Bekræft din skærmlås</string>
+    <string name="common_connect">Opret forbindelse</string>
+    <string name="common_connected">Tilsluttet</string>
+    <string name="common_connected_apps_settings_title">Tilknyttede apps</string>
+    <string name="common_connecting">Tilslutter…</string>
+    <string name="common_continue">Fortsæt</string>
+    <string name="common_disabled">Deaktiveret</string>
+    <string name="common_disagree">Uenig</string>
+    <string name="common_disconnect">Afbryd forbindelsen</string>
+    <string name="common_dismiss">Afvis</string>
+    <string name="common_done">Udfør</string>
+    <string name="common_edit">Rediger</string>
+    <string name="common_email">Mail</string>
+    <string name="common_fingerprint_hint">Sæt fingeren på sensoren</string>
+    <string name="common_from">Fra:</string>
+    <string name="common_games_settings_title">Play Spil</string>
+    <string name="common_get_started">Kom godt i gang</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Du skal aktivere Google Play-tjenester, for at %1$s kan fungere.</string>
+    <string name="common_google_play_services_enable_title">Aktivér Google Play-tjenester</string>
+    <string name="common_google_play_services_error_dialog_title">Fejl</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
+    <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
+    <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
+    <string name="common_google_play_services_update_button">Opdater</string>
+    <string name="common_google_play_services_update_text">%1$s kan ikke køre, medmindre du opdaterer Google Play-tjenester.</string>
+    <string name="common_google_play_services_update_title">Opdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_text">%1$s kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres.</string>
+    <string name="common_google_play_services_updating_title">Google Play-tjenester opdateres</string>
+    <string name="common_google_play_services_wear_update_text">Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play-tjenester er installeret med forkert arkitektur.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play-tjenester er installeret med en arkitektur (%1$s), som er forskellig fra din enheds arkitektur (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Forkert arkitektur</string>
+    <string name="common_google_settings">Google Indstillinger</string>
+    <string name="common_google_settings_account">Konto</string>
+    <string name="common_google_settings_credentials_title">Smart Lock til adgangskoder</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Installer</string>
+    <string name="common_learn_more">Få flere oplysninger</string>
+    <string name="common_list_apps_menu_help">Hjælp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hjælp og feedback</string>
+    <string name="common_loading">Indlæser…</string>
+    <string name="common_location_settings_title">Placering</string>
+    <string name="common_login_activity_task_title">Logger ind…</string>
+    <string name="common_login_error_title">Der kan ikke logges ind</string>
+    <string name="common_magictether_settings_title">Øjeblikkelig netdeling</string>
+    <string name="common_maps_settings_title">Maps og Latitude</string>
+    <string name="common_mdm_feature_name">Find min enhed</string>
+    <string name="common_missing_url_viewer">Der mangler en fremviser til den eksterne webadresse.</string>
+    <string name="common_more">Mere</string>
+    <string name="common_more_options">Flere valgmuligheder</string>
+    <string name="common_mute_notification">Ignorer underretning</string>
+    <string name="common_network_unavailable">Der er ingen internetforbindelse</string>
+    <string name="common_networking_settings_title">Netværk</string>
+    <string name="common_never">Aldrig</string>
+    <string name="common_next">Næste</string>
+    <string name="common_no_browser_for_restricted_url">Begrænset adgang. Der blev ikke fundet nogen browser.</string>
+    <string name="common_no_devices_found">Der blev ikke fundet nogen enheder</string>
+    <string name="common_no_network">Ikke tilgængeligt, da enheden er offline</string>
+    <string name="common_no_thanks">Nej tak</string>
+    <string name="common_not_now">Ikke nu</string>
+    <string name="common_off">Fra</string>
+    <string name="common_offline">Du er offline</string>
+    <string name="common_on">Til</string>
+    <string name="common_open">Åbn</string>
+    <string name="common_open_on_phone">Åbn på telefonen</string>
+    <string name="common_open_source_licenses">Open source-licenser</string>
+    <string name="common_pause">Sæt på pause</string>
+    <string name="common_people_settings_title">Kontaktpersoner</string>
+    <string name="common_permissions_enable_in_settings">Aktivér i Indstillinger</string>
+    <string name="common_permissions_missing_end">Åbn Indstillinger, derefter Tilladelser og tillad alle angivne elementer for at fortsætte.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Gå til
+Indstillinger >
+Tilladelser >
+Google Play-tjenester for at aktivere"</string>
+    <string name="common_permissions_missing_start">Denne app virker ikke korrekt, medmindre du tillader Google Play-tjenesters anmodning om adgang til følgende:</string>
+    <string name="common_permissions_open_settings">Åbn Indstillinger</string>
+    <string name="common_phone">Ring</string>
+    <string name="common_play">Afspil</string>
+    <string name="common_privacy_policy">Privatlivspolitik</string>
+    <string name="common_privacy_policy_composed_string">Privatlivspolitik</string>
+    <string name="common_refresh">Opdater</string>
+    <string name="common_remove">Fjern</string>
+    <string name="common_reply">Svar</string>
+    <string name="common_restore">Gendan</string>
+    <string name="common_retry">Prøv igen</string>
+    <string name="common_save">Gem</string>
+    <string name="common_saved">Gemt</string>
+    <string name="common_saving">Gemmer…</string>
+    <string name="common_search_settings_title">Søgning</string>
+    <string name="common_security_ootp_setting_title">Sikkerhedskode</string>
+    <string name="common_select">Vælg</string>
+    <string name="common_sending">Sender…</string>
+    <string name="common_set_up_nearby_device_settings_title">Konfigurer enhed tæt på</string>
+    <string name="common_settings">Indstillinger</string>
+    <string name="common_share">Del</string>
+    <string name="common_sign_in">Log ind</string>
+    <string name="common_signin_button_text">Log ind</string>
+    <string name="common_signin_button_text_long">Log ind med Google</string>
+    <string name="common_skip">Spring over</string>
+    <string name="common_skip_fingerprint">Brug skærmlås</string>
+    <string name="common_something_went_wrong">Der gik noget galt</string>
+    <string name="common_system_info">Systemoplysninger</string>
+    <string name="common_system_info_composed_string">konto- og systemoplysninger</string>
+    <string name="common_take_photo_label">Tag billede</string>
+    <string name="common_terms_of_service">Servicevilkår</string>
+    <string name="common_terms_of_service_composed_string">Servicevilkår</string>
+    <string name="common_today">I dag</string>
+    <string name="common_try_again">Prøv igen</string>
+    <string name="common_turn_on">Aktivér</string>
+    <string name="common_turn_on_bluetooth">Aktivér Bluetooth</string>
+    <string name="common_turn_on_nfc">Aktivér NFC</string>
+    <string name="common_ui_confirm_deleting_button">Slet</string>
+    <string name="common_ui_confirm_deleting_checkbox">Forstået – slet</string>
+    <string name="common_unknown">Ukendt</string>
+    <string name="common_update">Opdater</string>
+    <string name="common_url_load_unsuccessful_message">Din Android-enhed har ikke forbindelse til en datatjeneste. Se disse oplysninger nu ved at besøge %s i en webbrowser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Din Android-enhed har ikke forbindelse til et Wi-Fi-netværk. Hvis du vil se disse oplysninger nu, kan du gå til %s i en webbrowser.</string>
+    <string name="common_usage_and_diagnostics">Brug og diagnostik</string>
+    <string name="common_view">Se</string>
+    <string name="common_yesterday">I går</string>
+    <string name="continue_to_login_heading">Log ind.</string>
+    <string name="continue_to_login_text">Dine loginoplysninger er godkendt. Fortsæt med at logge ind på din første enhed.</string>
+    <string name="description_fingerprint_icon">Ikon for fingeraftryk</string>
+    <string name="download_msg_error_invalid">Downloadet blev konfigureret forkert.</string>
+    <string name="download_msg_in_progress">Downloadet er i gang.</string>
+    <string name="download_msg_not_allowed_space">Der er ikke plads nok til at gennemføre downloadet.</string>
+    <string name="download_msg_pending">Downloadet venter.</string>
+    <string name="download_notification_description">%1$s har anmodet om dette.</string>
+    <string name="download_notification_title">Henter mere data</string>
+    <string name="expand_button_title">Avanceret</string>
+    <string name="fido_ble_device_icon_content_description">En Bluetooth-enhed blev registreret</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Tryk på knappen på din nøgle i mindst fem sekunder for at sikre, at den er i forbindelsestilstand</string>
+    <string name="fido_ble_dont_see_your_key_hint">Kan du ikke se din nøgle?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Din sikkerhedsnøgle fungerer kun, når Bluetooth og Placeringstjenester er aktiveret på din enhed</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Din sikkerhedsnøgle fungerer kun, når Bluetooth er aktiveret på din enhed</string>
+    <string name="fido_ble_enable_body_location_only">Din sikkerhedsnøgle fungerer kun, når Placeringstjenester er aktiveret på din enhed</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Aktivér Bluetooth og Placering</string>
+    <string name="fido_ble_enable_title_location_only">Aktivér Placering</string>
+    <string name="fido_ble_instructions_body">På de fleste nøgler skal du bare trykke på knappen for at bruge dem</string>
+    <string name="fido_ble_locate_pin_body">Forbindelsespinkoden er normalt et fire- eller sekscifret tal og står muligvis på bagsiden af din nøgle. Fortsæt, når du er klar til at indtaste pinkoden.</string>
+    <string name="fido_ble_locate_pin_title">Find pinkoden til Bluetooth-parring for nøglen %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Forbinder din Sikkerhedsnøgle…</string>
+    <string name="fido_ble_pair_instructions_body">Forbind din nøgle med denne enhed, så du kan bruge den med din konto</string>
+    <string name="fido_ble_pair_instructions_title">Er du klar til at parre din sikkerhedsnøgle?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Få din nøgle tilbage i forbindelsestilstand</string>
+    <string name="fido_ble_pairing_mode_body">Tryk på knappen på din Sikkerhedsnøgle, og hold den nede i mindst fem sekunder</string>
+    <string name="fido_ble_pairing_mode_title">Start parringstilstand</string>
+    <string name="fido_ble_select_device_body">Vælg den Sikkerhedsnøgle på listen nedenfor, som du vil forbinde med din enhed. Navnet står muligvis på bagsiden af nøglen.</string>
+    <string name="fido_ble_select_device_title">Vælg din Sikkerhedsnøgle</string>
+    <string name="fido_instructions_title">Vil du give tilladelse til at bruge din sikkerhedsnøgle?</string>
+    <string name="fido_nfc_enable_body">Din sikkerhedsnøgle fungerer kun, når NFC er slået til på din enhed</string>
+    <string name="fido_nfc_instructions_body">Hold nøglen fladt op imod bagsiden af din enhed, indtil den holder op med at vibrere</string>
+    <string name="fido_paask_body">En enhed i nærheden prøver at logge ind med din Google-konto</string>
+    <string name="fido_paask_chip">bruger@gmail.com</string>
+    <string name="fido_paask_footer">Dette er en forbedret loginbeskyttelse, som benytter en krypteret Bluetooth-forbindelse til en enhed i nærheden.</string>
+    <string name="fido_paask_header">Prøver du at logge ind på en enhed i nærheden?</string>
+    <string name="fido_paask_no_text">Nej, det er ikke mig</string>
+    <string name="fido_paask_yes_text">Ja, det er mig</string>
+    <string name="fido_pair_another_security_key">Tilknyt en anden Sikkerhedsnøgle</string>
+    <string name="fido_processing">Bekræfter din Sikkerhedsnøgle…</string>
+    <string name="fido_transport_selection_bluetooth">Brug sikkerhedsnøgle med Bluetooth</string>
+    <string name="fido_transport_selection_body">Sikkerhedsnøgler fungerer sammen med Bluetooth, NFC og USB. Vælg, hvordan du vil bruge din nøgle.</string>
+    <string name="fido_transport_selection_fingerprint">Brug Sikkerhedsnøgle med fingeraftryk</string>
+    <string name="fido_transport_selection_nfc">Brug sikkerhedsnøgle med NFC</string>
+    <string name="fido_transport_selection_title">Vælg, hvordan du vil bruge din Sikkerhedsnøgle</string>
+    <string name="fido_transport_selection_usb">Brug sikkerhedsnøglen med USB</string>
+    <string name="fido_usb_instructions_body">Slut din sikkerhedsnøgle til USB-porten, eller slut den til et USB-kabel. Hvis din nøgle har en knap eller en gulddisk, skal du trykke på den nu.</string>
+    <string name="fido_use_ble_instead">Brug din Sikkerhedsnøgle med Bluetooth</string>
+    <string name="fido_use_fp_instead">Brug din sikkerhedsnøgle med fingeraftryk</string>
+    <string name="fido_use_nfc_instead">Brug din Sikkerhedsnøgle med NFC</string>
+    <string name="fido_use_usb_instead">Brug din sikkerhedsnøgle med USB</string>
+    <string name="fido_welcome_body">Når du bruger din Sikkerhedsnøgle med %1$s, er dine private data bedre beskyttet.</string>
+    <string name="fido_welcome_title">Brug din Sikkerhedsnøgle med %1$s</string>
+    <string name="fingerprint_description">Bekræft dit fingeraftryk, så %1$s kan bekræfte din identitet.</string>
+    <string name="fingerprint_no_imprints_description">%1$s vil gerne bekræfte din identitet ved hjælp af dit fingeraftryk, men du har ikke tilføjet dine fingeraftryk på denne enhed endnu.</string>
+    <string name="fingerprint_not_recognized">Fingeraftrykket blev ikke genkendt. Prøv igen</string>
+    <string name="fingerprint_success">Fingeraftrykket blev genkendt</string>
+    <string name="gcm_fallback_notification_channel_label">Diverse</string>
+    <string name="google_app_permissions_title">Apptilladelser</string>
+    <string name="google_legal_title">Google Legal</string>
+    <string name="google_play_tos_title">Servicevilkår for Google Play</string>
+    <string name="google_plus_privacy_policy_title">Privatlivspolitik for Google Plus</string>
+    <string name="google_privacy_policy_title">Googles privatlivspolitik</string>
+    <string name="google_terms_of_service_title">Google Servicevilkår</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Tillad, at en app overfører Wi-Fi-loginoplysningerne for et netværk til en anden enhed.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Overfør Wi-Fi-loginoplysninger</string>
+    <string name="no_screen_lock_description">Du skal først konfigurere en skærmlås på din enhed</string>
+    <string name="no_screen_lock_title">Der er ingen skærmlås på din telefon</string>
+    <string name="notification_ticker">Der er anmodet om adgang</string>
+    <string name="open_source_activity_prompt_heading">Åbn applikationen</string>
+    <string name="open_source_activity_prompt_text">"Åbn SourceResponseActivity på din telefon for at gennemføre godkendelsesprocessen. "</string>
+    <string name="permgrouplab_calendar">Kalender</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktpersoner</string>
+    <string name="permgrouplab_location">Placering</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Kropssensorer</string>
+    <string name="permgrouplab_sms">Sms</string>
+    <string name="permgrouplab_storage">Lagerplads</string>
+    <string name="permissions_not_granted_text">Log ind igen for at give tilladelser.</string>
+    <string name="permissions_not_granted_title">Der er ikke givet tilladelser.</string>
+    <string name="plus_manage_app_only_you_label">Kun dig</string>
+    <string name="plus_network_unreliable">Der kan ikke oprettes en pålidelig forbindelse til serveren.</string>
+    <string name="plus_oob_interstitial_loading_text">Dette kan tage et par minutter.</string>
+    <string name="search_menu_title">Søg</string>
+    <string name="set_up">KONFIGURER</string>
+    <string name="setupservices_additional_privacy_title">Yderligere oplysninger om privatliv</string>
+    <string name="setupservices_android_privacy_policy_title">Yderligere privatlivspolitik</string>
+    <string name="setupservices_chrome_privacy_title">Erklæring om privatliv for Google Chrome</string>
+    <string name="setupservices_chrome_tos_title">Servicevilkår for Chrome</string>
+    <string name="setupservices_google_app_permissions_title">Apptilladelser</string>
+    <string name="setupservices_google_legal_title">Google Legal</string>
+    <string name="setupservices_google_play_tos_title">Servicevilkår for Google Play</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Privatlivspolitik for Google Plus</string>
+    <string name="setupservices_google_privacy_policy_title">Googles privatlivspolitik</string>
+    <string name="setupservices_google_services_agreement">Hvis du fortsætter, accepterer du, at denne enhed også kan downloade og installere opdateringer automatisk fra Google, dit mobilselskab og producenten af din enhed, eventuelt ved hjælp af mobildata. Nogle af disse app tilbyder muligvis køb i appen. Du kan til enhver tid fjerne disse apps.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Hvis du vil fjerne apps, kan du gå til Indstillinger > Apps eller Administration af apps. Tryk derefter på den app, du vil afinstallere (du skal muligvis stryge til højre eller til venstre for at finde appen). Tryk derefter på Afinstaller eller Deaktiver.</string>
+    <string name="setupservices_google_services_agreement_korea">Du giver hermed også dit samtykke til og tillader, at forudindlæste Google-apps får adgang til oplysninger og funktioner på din enhed. Gå til <annotation link="app_permissions">denne side</annotation> for at få flere oplysninger om, hvordan apps bruger disse tilladelser.</string>
+    <string name="setupservices_google_services_agreement_title">Installer opdateringer og apps</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Når telefonens lager er ved at være fyldt op, kan du frigøre plads ved at fjerne nogle data fra enheden, f.eks. sikkerhedskopierede billeder og videoer.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Når du har oprettet forbindelse, kan du stadig få adgang til disse data. Du kan styre denne funktion, og hvad der skal fjernes, ved at gå til Indstillinger > Lagerplads > Smart Storage.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Frigør plads</string>
+    <string name="setupservices_google_services_backup">Du kan altid nemt gendanne dine data eller skifte telefon. Din sikkerhedskopi omfatter apps, appdata og enhedsindstillinger (bl.a. adgangskoder til Wi‑Fi).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Backupdata tæller ikke med i din kvote for Drev-lagerplads."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Appdata kan være alle former for data, som en app har gemt (afhængigt af udviklerens indstillinger). Det kan f.eks. være potentielt følsomme data såsom kontaktpersoner, beskeder og billeder.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Du kan slå denne tjeneste fra i Indstillinger.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Fotos og videoer på denne enhed synkroniseres til din Google Fotos-samling, så du kan søge i, redigere, slette og dele dem fra alle dine enheder. Billeder og videoer i fuld opløsning uploades som standard til Google Fotos.
+
+Backupdata tæller ikke med i din kvote for Drev-lagerplads."</string>
+    <string name="setupservices_google_services_backup_title">Sikkerhedskopiér til Google Drev</string>
+    <string name="setupservices_google_services_backup_v23">Du kan altid nemt gendanne dine data eller skifte telefon. Din sikkerhedskopi omfatter apps, appdata, opkaldshistorik, kontaktpersoner og enhedsindstillinger (bl.a. Wi-Fi-adgangskoder og -tilladelser).</string>
+    <string name="setupservices_google_services_backup_v26">Du kan altid nemt gendanne dine data eller skifte telefon. Din sikkerhedskopi omfatter apps, appdata, opkaldshistorik, kontaktpersoner, enhedsindstillinger (bl.a. Wi‑Fi-adgangskoder og -tilladelser) og sms-beskeder.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Du kan altid nemt gendanne dine data eller skifte telefon. Din sikkerhedskopi omfatter apps, appdata, opkaldshistorik, kontaktpersoner, enhedsindstillinger (bl.a. Wi‑Fi-adgangskoder og -tilladelser), fotos, videoer og sms-beskeder. Fotos og videoer synkroniseres med din Google Fotos-samling og kan bruges i flere forskellige tjenester.</string>
+    <string name="setupservices_google_services_data_policy">Data anvendes i overensstemmelse med Googles <annotation link="google_privacy">privatlivspolitik</annotation>.</string>
+    <string name="setupservices_google_services_data_policy_korea">Data anvendes i overensstemmelse med Googles <annotation link="google_privacy">privatlivspolitik</annotation> (bl.a. <annotation link="additional_privacy">samling, lagerplads og brug af personlige oplysninger</annotation>) og <annotation link="location_tos">servicevilkårene for placering</annotation>.</string>
+    <string name="setupservices_google_services_description">Tryk for at få flere oplysninger om hver enkelt tjeneste, f.eks. hvordan du slår tjenesten til eller fra på et senere tidspunkt. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Oplysninger om appen, herunder køb i appen, kan findes i Play Butik. Appdata og -indstillinger synkroniseres med enheder, hvor du er logget ind med din Google-konto. 
+
+Brug af instant apps er underlagt "<a href="https://play.google.com/about/play-terms.html">servicevilkårene for Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Få flere oplysninger</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Når du trykker på et link, vil Google Play undersøge, om der findes en instant app, og køre den uden installation. Instant apps gemmes midlertidigt på din enhed.</string>
+    <string name="setupservices_google_services_instant_apps_title">Brug apps uden at installere dem først</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Googles placeringstjeneste anvender kilder som f.eks. Wi‑Fi, mobilnetværk og sensorer til at fastslå din enheds placering.
+
+Du kan slå Placering fra ved at slå hovedindstillingen for Placering fra på din enhed. Du kan også slå brugen af Wi-Fi, mobilnetværk og sensorer til Placering fra i placeringsindstillingerne."</string>
+    <string name="setupservices_google_services_location_sharing_title">Hjælp apps med at finde placeringer</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Brug placering</string>
+    <string name="setupservices_google_services_location_sharing_v28">Tillad, at apps og tjenester med placeringstilladelse kan bruge din enheds placering. Google kan med jævne mellemrum indsamle placeringsdata og bruge oplysningerne anonymt til at gøre placeringen mere nøjagtig og forbedre placeringsbaserede tjenester.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Tillad, at apps og tjenester søger efter Wi-Fi, selv når det er slået fra.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Du kan slå dette fra i placeringsindstillingerne.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Fastslå placeringen mere nøjagtigt</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Tillad scanning</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Tillad, at apps og tjenester søger efter Wi-Fi- og Bluetooth-signaler, selv når disse indstillinger er slået fra.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Tillad, at apps og tjenester altid kan søge efter Wi-Fi-netværk og enheder i nærheden (selv når Wi-Fi eller Bluetooth er slået fra).</string>
+    <string name="setupservices_google_services_next_button_label">Jeg accepterer</string>
+    <string name="setupservices_google_services_play">Hold mig opdateret med nyheder og tilbud fra Google Play.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Backup og lager</string>
+    <string name="setupservices_google_services_section_device_maintenance">Vedligeholdelse af enhed</string>
+    <string name="setupservices_google_services_tos">Hvis du fortsætter, accepterer du også <annotation link="tos">Googles servicevilkår</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">Når du klikker på knappen \"Jeg accepterer\", accepterer du den fremgangsmåde, der er beskrevet ovenfor for disse Google-tjenester.</string>
+    <string name="setupservices_google_services_tos_germany">Når du bruger denne enhed, overholder vi vores <annotation link="google_privacy">privatlivspolitik</annotation>, og der gælder <annotation link="tos">yderligere vilkår</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">Hjælp med at forbedre din Android-oplevelse ved automatisk at sende diagnostik samt data om enheden og appforbrug til Google. Dette hjælper med at forbedre batteritid, appstabilitet, netværksforbindelse og meget mere. Hvis du derudover har slået Web- og appaktivitet til, gemmes disse oplysninger på din konto, så du kan administrere dem under Min aktivitet.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Dette er generelle oplysninger om din enhed og din brug af den (f.eks. batteriniveau, appforbrug og netværksforbindelse). Dataene bruges til at forbedre Googles produkter og tjenester for alle. Visse samlede oplysninger kan også hjælpe partnere som f.eks. Android-udviklere med at forbedre deres apps og produkter.
+
+Hvis denne funktion slås fra, påvirker det ikke enhedens evne til at sende de oplysninger, den har brug for i forbindelse med vigtige tjenester, f.eks. systemopdateringer og sikkerhedsfunktioner."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Du kan opdatere indstillingerne for Min aktivitet på myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Du kan styre denne funktion via Google Indstillinger. Vælg Forbrug og diagnostik i menuen.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Du kan styre denne funktion via Indstillinger > Google. Vælg Forbrug og diagnostik i menuen.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Send systemdata</string>
+    <string name="setupservices_google_services_wallpaper_permission">Tillad, at animerede baggrunde fra Google reagerer på din placering ved at få adgang til Googles placeringstjeneste.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Du kan slå adgang til Googles placeringstjeneste for Animerede baggrunde til eller fra ved at gå til Indstillinger > Apps og underretninger > Oplysninger om appen. Gå til prikmenuen, og tryk på Vis system > Animerede baggrunde med data eller Animerede baggrunde med billeder af jorden > Tilladelser.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Tillad, at baggrunde anvender placering</string>
+    <string name="setupservices_google_terms_of_service_title">Googles servicevilkår</string>
+    <string name="setupservices_kids_google_services_agreement">Hvis du fortsætter, accepterer du, at denne enhed også kan downloade og installere opdateringer og apps automatisk fra Google, dit mobilselskab og producenten af enheden, eventuelt ved hjælp af mobildata. Nogle af disse apps tilbyder muligvis køb i appen. Du kan til enhver tid fjerne disse apps.</string>
+    <string name="setupservices_kids_google_services_backup">Du kan altid nemt gendanne data eller skifte telefon. Denne sikkerhedskopi omfatter apps, appdata og enhedsindstillinger (bl.a. adgangskoder til Wi‑Fi).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Backupdata tæller ikke med i dit barns kvote for Drev-lagerplads."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Fotos og videoer på denne enhed synkroniseres med dit barns Google Fotos-samling, så dit barn kan søge i, redigere, slette og dele dem fra alle sine enheder. Billeder og videoer i fuld opløsning uploades som standard til Google Fotos.
+
+Backupdata tæller ikke med i dit barns kvote for Drev-lagerplads."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Du kan altid nemt gendanne data eller skifte telefon. Denne sikkerhedskopi omfatter apps, appdata, opkaldshistorik, kontaktpersoner og enhedsindstillinger (bl.a. Wi-Fi-adgangskoder og -tilladelser).</string>
+    <string name="setupservices_kids_google_services_backup_v26">Du kan altid nemt gendanne data eller skifte telefon. Denne sikkerhedskopi omfatter apps, appdata, opkaldshistorik, kontaktpersoner, enhedsindstillinger (bl.a. Wi‑Fi-adgangskoder og -tilladelser) og sms-beskeder.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Du kan altid nemt gendanne data eller skifte telefon. Denne sikkerhedskopi omfatter apps, appdata, opkaldshistorik, kontaktpersoner, enhedsindstillinger (bl.a. Wi‑Fi-adgangskoder og -tilladelser), fotos, videoer og sms-beskeder. Fotos og videoer synkroniseres med dit barns Google Fotos-samling og kan bruges i flere forskellige tjenester.</string>
+    <string name="setupservices_kids_google_services_description">Som forælder kan du trykke for at få flere oplysninger om hver tjeneste, f.eks. hvordan du slår den til eller fra senere. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Googles placeringstjeneste anvender kilder som f.eks. Wi‑Fi, mobilnetværk og sensorer til at fastslå enhedens placering.
+
+Du kan slå Placering fra ved at slå hovedindstillingen for Placering fra på enheden. Du kan også slå brugen af Wi-Fi, mobilnetværk og sensorer til Placering fra i placeringsindstillingerne."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Tillad, at apps og tjenester med placeringstilladelse kan bruge enhedens placering. Google kan med jævne mellemrum indsamle placeringsdata og bruge oplysningerne anonymt til at gøre placeringen mere nøjagtig og forbedre placeringsbaserede tjenester.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Hjælp med at forbedre Android ved automatisk at sende diagnostik samt data om enheden og appforbrug til Google. Dette bruges ikke til at identificere dit barn, og det hjælper med at forbedre batteritid, appstabilitet, netværksforbindelse og meget mere. Hvis yderligere Web- og appaktivitet er slået til for dit barn, gemmes disse oplysninger på dit barns konto.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Dette er generelle oplysninger om denne enhed og brugen af den (f.eks. batteriniveau, appforbrug og netværksforbindelse). Dataene bruges til at forbedre Googles produkter og tjenester for alle. Visse samlede oplysninger kan også hjælpe partnere som f.eks. Android-udviklere med at forbedre deres apps og produkter.
+
+Hvis denne funktion slås fra, påvirker det ikke enhedens evne til at sende de oplysninger, den har brug for i forbindelse med vigtige tjenester, f.eks. systemopdateringer og sikkerhedsfunktioner."</string>
+    <string name="setupservices_location_tos_title">Servicevilkår for placering</string>
+    <string name="sid_lsid_grant_detail">På samme måde som en adgangskode forbinder cookierne Session Identification (SID) og Local Session Identification (LSID) din identitet med en række anmodninger fra en browser. De giver fuld adgang til alle dine kontodata. Det er udelukkende browsere, der kan bruge disse cookies.</string>
+    <string name="sid_lsid_grant_label">Brug SID- og LSID-cookies til at få adgang til alle dine Google-kontodata.</string>
+    <string name="smartdevice_action_copy">Kopiér</string>
+    <string name="smartdevice_action_open_app">Åbn app</string>
+    <string name="smartdevice_action_try_another_way">Prøv en anden metode</string>
+    <string name="smartdevice_action_turn_on_location">Aktivér Placering</string>
+    <string name="smartdevice_alert_disconnected_title">Forbindelsen til enheden blev afbrudt</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Du kan desværre ikke bruge denne funktion, fordi din backupkonto administreres af enhedens administrator.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Funktionen er ikke tilgængelig</string>
+    <string name="smartdevice_alert_exit_setup_message">Er du sikker på, at du vil afslutte konfigurationen af din anden enhed?</string>
+    <string name="smartdevice_alert_exit_setup_title">Vil du afslutte enhedskonfigurationen?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Du skal mindst have én Google-konto for at konfigurere din enhed.</string>
+    <string name="smartdevice_alert_no_accounts_text">Du skal mindst have én Google-konto for at konfigurere din %s.</string>
+    <string name="smartdevice_alert_no_accounts_title">Der er ingen konti at kopiere</string>
+    <string name="smartdevice_alert_quit_button">Afslut</string>
+    <string name="smartdevice_alert_restart_setup_button">Genstart konfiguration</string>
+    <string name="smartdevice_alert_setup_incomplete">Konfigurationen blev ikke fuldført</string>
+    <string name="smartdevice_alert_start_over_button">Start forfra</string>
+    <string name="smartdevice_alert_work_profile_message">Google for Work-konti kan endnu ikke kopieres. Når du har kopieret dine andre Google-konti og -data, skal du gå til Indstillinger på din nye enhed for at tilføje din Work-konto.</string>
+    <string name="smartdevice_alert_work_profile_title">Google for Work-kontoen kan ikke kopieres</string>
+    <string name="smartdevice_application_label">Konfiguration af enheden</string>
+    <string name="smartdevice_choose_device">Vælg din enhed</string>
+    <string name="smartdevice_companion_app_ready">Appen %s er allerede installeret på denne enhed.</string>
+    <string name="smartdevice_connect_to_wifi">Opret forbindelse til din enhed</string>
+    <string name="smartdevice_connection_error">Der opstod et problem med at oprette forbindelse til din anden enhed</string>
+    <string name="smartdevice_connection_error_title">Der kunne ikke oprettes forbindelse</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Opretter forbindelse til din enhed…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Kopiér dine Google-konti og andre konti, og gendan din Google Drev-sikkerhedskopi, hvis du har en</string>
+    <string name="smartdevice_d2d_copy_account_text">Kopiér dine Google-konti, og gendan din Google Drev-sikkerhedskopi, hvis du har en</string>
+    <string name="smartdevice_d2d_copy_account_title">Kopiér til anden enhed?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Ikke genkendt</string>
+    <string name="smartdevice_d2d_fingerprint_title">Bekræft dit fingeraftryk</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Af sikkerhedsmæssige årsager skal du bekræfte dit fingeraftryk. Dine Google-konti, apps og data kopieres til din %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Lås op for at fortsætte med at konfigurere din enhed</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Af sikkerhedsmæssige årsager skal du bekræfte din skærmlås for at fortsætte konfigurationen</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">En anden enhed kan ikke konfigureres, fordi Bluetooth ikke er tilgængelig på din enhed.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Denne funktion er blevet deaktiveret af sikkerhedsmæssige årsager. Tryk på Spring over, og fortsæt opsætningen på din anden enhed.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Konfigurer en ny enhed</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Konfiguration af enheden</string>
+    <string name="smartdevice_d2d_source_notification_title">Konfiguration af ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Genstart konfigurationen, og vælg din ^1 for at sikre, at du kopierer dine Google-konti, apps og de tilhørende data til den rette enhed.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Kan du ikke se koden?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">En ny enhed kan ikke konfigureres fra en begrænset brugerprofil.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Fortsæt konfigurationen på din %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Du er næsten færdig!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Kopiér fra en anden Android-enhed</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK. Følg de næste trin for at konfigurere denne enhed</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Vil du kopiere dine Google-konti, apps og data fra din anden enhed?</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Kopierer konti…</string>
+    <string name="smartdevice_d2d_target_description">1. Sig &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b>, eller skriv \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\", og tryk for at bekræfte&lt;br/>&lt;br/> 2. Tryk på &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> på listen, og følg vejledningen på skærmen</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Prøv dette i stedet</string>
+    <string name="smartdevice_d2d_target_google_settings_description">På din anden enhed:&lt;br/>&lt;br/> 1. Åbn appen &lt;b>Google-indstillinger&lt;/b>&lt;br/>&lt;br/> 2. Vælg &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Tryk på &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> på listen, og følg vejledningen på skærmen</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Disse trin kunne ikke gennemføres</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Lad os bruge Indstillinger</string>
+    <string name="smartdevice_d2d_target_help_text">Har du problemer?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Kan du ikke finde den?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Åbn Google-appen på din anden enhed</string>
+    <string name="smartdevice_d2d_target_instruction_description">Åbn Google-appen</string>
+    <string name="smartdevice_d2d_target_instruction_title">På din anden enhed</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google-appen er forudinstalleret på alle Android-enheder. Se listen over alle dine apps, og kig efter Google-ikonet, som vises ovenfor.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Denne kode skal stemme overens med koden på din anden enhed:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Spring ej over</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Opsætningen kopierer ikke denne konto eller sikkerhedskopierede apps og data til denne enhed.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Spring over</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Vil du springe over denne konto?</string>
+    <string name="smartdevice_d2d_target_title">I Google-appen</string>
+    <string name="smartdevice_do_disclosure_generic">Der kan ikke overføres data</string>
+    <string name="smartdevice_do_unsupported_message">Der kan ikke overføres data fra administrerede enheder</string>
+    <string name="smartdevice_install_app">Installer appen</string>
+    <string name="smartdevice_install_app_reason">Hent appen %1$s, så du kan styre og administrere din nye %2$s fra denne enhed</string>
+    <string name="smartdevice_look_for_other_device">Find dette navn på den anden enhed</string>
+    <string name="smartdevice_magicwand_cancel_signin">Log ikke ind</string>
+    <string name="smartdevice_magicwand_confirm_signin">Login er startet</string>
+    <string name="smartdevice_magicwand_consent_detail">Tryk på <b>Log ind</b> for at afslutte login på en anden enhed.</string>
+    <string name="smartdevice_magicwand_consent_title">Gennemfør login</string>
+    <string name="smartdevice_magicwand_error_detail">Der opstod en fejl, og Google kunne ikke logge dig ind fra denne telefon.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Du har scannet en QR-kode til login på din konto.
+
+Af hensyn til din sikkerhed skal du bekræfte dit fingeraftryk for at vise, at det er dig, der logger ind på en anden enhed."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Dette ekstra trin hjælper med at sikre, at det er en sikker enhed.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Du har scannet en QR-kode til login på din konto.
+
+Af hensyn til din sikkerhed skal du angive mønstret til din skærmlås for at bekræfte, at det er dig, der logger ind på en anden enhed."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">for at fortsætte til din browser</string>
+    <string name="smartdevice_magicwand_success_detail">Gå tilbage til browseren på din anden enhed.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Kig efter disse former på din anden enhed</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Bekræft former</string>
+    <string name="smartdevice_problem_copying">Der opstod et problem med at kopiere data til din anden enhed</string>
+    <string name="smartdevice_problem_copying_title">Dataene kunne ikke kopieres</string>
+    <string name="smartdevice_search_again">Søg igen</string>
+    <string name="smartdevice_searching_for_devices">Søger efter enheder</string>
+    <string name="smartdevice_setup_google_app_trigger">Konfigurer min enhed</string>
+    <string name="smartdevice_setup_info_installing_app">Installerer appen…</string>
+    <string name="smartdevice_setup_intro_text">Bluetooth og Wi-Fi-data på din telefon skal bruges for at konfigurere din anden enhed</string>
+    <string name="smartdevice_setup_intro_text_nfc">Bluetooth på din telefon skal bruges for at konfigurere din anden enhed</string>
+    <string name="smartdevice_setup_intro_title">Kom godt i gang</string>
+    <string name="smartdevice_setup_password_hint">Angiv Wi-Fi-adgangskode</string>
+    <string name="smartdevice_setup_show_password">Vis adgangskode</string>
+    <string name="smartdevice_setup_title_verify_code">Bekræft kode</string>
+    <string name="smartdevice_target_hotphrase_instructions">På den anden enhed skal du sige &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> Du kan også skrive &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> i søgefeltet.</string>
+    <string name="smartdevice_type_typing_ok_google">Hvis talekommandoen ikke virker, kan du prøve at skrive i søgefeltet i stedet. Skriv \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\"</string>
+    <string name="smartdevice_verify_device">Tjek enhed</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Der kan kun bruges offentlige netværk og WPA/WPA2-netværk til at konfigurere denne enhed</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Der kan ikke bruges Wi-Fi-netværk</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Du kan søge efter Wi-Fi ved at aktivere Placering.
+
+Du kan altid ændre dette senere i Indstillinger."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Der kan ikke søges efter Wi-Fi-netværk</string>
+    <string name="storage_management_wear_descriptive_text">Apps bruger enhedens hukommelse til at kopiere data til en Wearable-app.</string>
+    <string name="storage_management_wear_manage_size_label">Administrer hukommelse, der bruges af Wearable-apps</string>
+    <string name="storage_management_wear_size_label">Lager på Wearable-apps</string>
+    <string name="storage_managment_all_storage_descriptive_text">Den samlede mængde data, der anvendes af Google Play-tjenester, f.eks. søgemaskinedata og andre data.</string>
+    <string name="storage_managment_clear_all_data">Ryd alle data</string>
+    <string name="storage_managment_computing_size">Beregner…</string>
+    <string name="storage_managment_icing_size_label">Søgedata</string>
+    <string name="storage_managment_manage_icing_button">Administrer søgedata</string>
+    <string name="storage_managment_search_index_descriptive_text">Vi gør søgningen hurtigere på din enhed ved at give dig en søgemaskine, som dine apps kan bruge.</string>
+    <string name="storage_managment_title">Lagerplads for Google Play-tjenester</string>
+    <string name="storage_managment_total_size_label">Samlet lagerplads</string>
+    <string name="suw_back_button_label">Tilbage</string>
+    <string name="suw_more_button_label">Mere</string>
+    <string name="suw_next_button_label">Næste</string>
+    <string name="uncertified_notification_expired_content">Google-apps og -tjenester vil ikke længere fungere på denne enhed. Tryk for at få flere oplysninger.</string>
+    <string name="uncertified_notification_expired_title">Registreringen er udløbet</string>
+    <string name="uncertified_notification_expiring_title">Registreringen udløber snart</string>
+    <string name="use_nearby_device_heading">Vil du bruge en enhed i nærheden?</string>
+    <string name="use_nearby_device_text">Vil du bruge en enhed i nærheden til at give loginoplysninger?</string>
+    <string name="v7_preference_off">FRA</string>
+    <string name="v7_preference_on">TIL</string>
+    <string name="verify_your_identity_description">%1$s skal bekræfte, at det er dig.</string>
+    <string name="verify_your_identity_title">Bekræft din identitet</string>
+    <string name="waiting_for_account_info_text">Venter på kontooplysninger...</string>
+</resources>

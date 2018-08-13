@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="acc_incoming_audio_call_from">Incoming voice call from %1$s. Swipe up with two fingers to answer. Swipe down with two fingers to decline.</string>
+    <string name="acc_incoming_call_from">Incoming video call from %1$s. Swipe up with two fingers to answer. Swipe down with two fingers to decline.</string>
+    <string name="accountsettings_error_retry_notice">Please try again later</string>
+    <string name="accountsettings_google_account_subtitle">Info, security &amp; personalisation</string>
+    <string name="accountsettings_ootp_menu_subtitle">"Get a one-time code to verify that it's you"</string>
+    <string name="accountsettings_outdated_data_message_other_error">Some info may be out of date. Please try again later.</string>
+    <string name="accountsettings_preferences_settings_menu_subtitle">Adjust account settings, such as payment methods, languages and storage options</string>
+    <string name="accountsettings_privacy_settings_menu_subtitle">Manage visibility settings and the data used for personalisation</string>
+    <string name="accountsettings_security_settings_menu_subtitle">Control your password and Google account access</string>
+    <string name="accountsettings_set_avatar_dialog_message">"Your profile photo is visible to everyone, across Google products. &lt;a href=%s>Find out  more&lt;/a>"</string>
+    <string name="accountsettings_set_avatar_dialog_positive_button">Set profile photo</string>
+    <string name="accountsettings_snackbar_error_no_connection">"Can't connect to the Internet"</string>
+    <string name="activity_recognition_permission_description">Allows an app to receive periodic updates of your activity level from Google, for example, if you are walking, driving, cycling or stationary.</string>
+    <string name="added_to_favorites">Added to favourites</string>
+    <string name="ads_prefs_ads_personalization">Opt out of Ads Personalisation</string>
+    <string name="ads_prefs_ads_personalization_summary">Instruct apps not to use your advertising ID to build profiles or show you personalised ads.</string>
+    <string name="ads_prefs_toggle_interest_based_ads_dialog_msg">&lt;b>You will still see ads, but they may not be based on your interests.&lt;/b>&lt;br>&lt;br> Note that if you clear your cache, you will lose your opt-out setting.</string>
+    <string name="alias_editor_confirmation_message">This will clear your current %s across Google, including Google Maps, Google Now and Google Search.</string>
+    <string name="alias_editor_disclaimer_format">This will update your %s across Google, including Google Maps, Google Now and Google Search.</string>
+    <string name="alias_editor_home_display">Home address</string>
+    <string name="alias_editor_work_display">Work address</string>
+    <string name="appinvite_public_search_results">Public results</string>
+    <string name="ar_high_accuracy_details">"Activity recognition allows apps and services to receive regular updates from Google on your current activity. For example, Google can determine if you’re walking, driving, cycling or stationary.
+
+If high accuracy is turned off, device sensors such as the accelerometer will be used to detect activity.
+
+Sensor and audio data are never recorded or shared with Google or apps."</string>
+    <string name="ar_high_accuracy_title">Activity recognition High accuracy mode</string>
+    <string name="auth_account_module_display_name">Google accounts</string>
+    <string name="auth_account_removed_default_title">Setup cancelled</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Setup cancelled</string>
+    <string name="auth_account_removed_restricted_by_admin_description">"Only one managed account is allowed for this device. If you have questions, contact your organisation's admin."</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">"Choose the account that you're trying to sign in with:"</string>
+    <string name="auth_authzen_workflow_title">Google Authorisation Notification</string>
+    <string name="auth_cant_add_work_account_message">This type of account is managed by your organisation.</string>
+    <string name="auth_captcha_instructions">Type the text that you see here:</string>
+    <string name="auth_common_go_back">Go back</string>
+    <string name="auth_device_management_download_description_kids">To add the account to this device, first install <b>^1</b>". 
+
+^1 helps you set up this device for your child."</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Adding this account requires device management. Would you like to start afresh with a different account?</string>
+    <string name="auth_device_management_screenlock_description">"To access your work account on this device, you'll need to set a lock screen. This is your organisation's mobile device policy."</string>
+    <string name="auth_device_management_screenlock_skip_message">This account requires Screen Lock security. Would you like to start again with a different account?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Your work profile keeps your work apps separate and is managed by your organisation.
+
+To finish setup, you’ll need a code from your IT admin. A management tool will be downloaded and used by your IT admin to manage your work profile."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Your work profile keeps your work apps separate and is managed by your organisation.
+
+A management tool will be downloaded and used by your IT admin to manage your work profile."</string>
+    <string name="auth_device_management_start_description_kids">To add the account to this device, use <b>^1</b>". 
+
+^1 helps you set up this device for your child."</string>
+    <string name="auth_device_management_update_description_kids">To add the account to this device, first install the latest version of <b>^1</b>". 
+
+^1 helps you set up this device for your child."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b>" doesn't use Gmail."</string>
+    <string name="auth_error_needs_browser">To access your account, you must sign in online. Tap Next to start browser sign in.</string>
+    <string name="auth_frp_device_managed_label">This device has been set up to be managed by your organisation.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">"This account couldn't be accessed. Make sure that your device is following your organisation's security policies. If you keep seeing this error, contact your organisation's admin."</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Your domain requires mobile device management. Install the \"Google Apps Device Policy\" app to enforce the security policies required by the "<b>^1</b> account.</string>
+    <string name="auth_gls_third_party_activity_download_message">" The account "<b>^1</b> must be added to a device or work profile administered by your organisation. Please follow the instructions provided by your IT admin in order to complete this.</string>
+    <string name="auth_invalid_login_character">Invalid character. Only 0-9, a-z, A-Z and full stops are allowed.</string>
+    <string name="auth_invalid_username">"The text you have typed isn't a valid username."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">You typed an incorrect password or your account has changed. Re-type your password. If you forgot your password and need to recover your account click <annotation id="help_url">here</annotation>.</string>
+    <string name="auth_no_network_help">This could be a temporary problem or your Android device may not be provisioned for data services. Try again when connected to a mobile network or connect to a Wi-Fi network.</string>
+    <string name="auth_otp_ten_digit_explaination">"If you forget your password or you're signing in from a new device or location, you may be asked for one or both of these codes to help protect your Google account."</string>
+    <string name="auth_otp_ten_digit_phishing_warning">"These codes expire 15 minutes from now or after they're used. You should only use them on web pages with URLs that start with 'https://accounts.google.com/'."</string>
+    <string name="auth_pre_wipe_credential_desc_text">After resetting, you may need to sign in to your <b>%1$s</b>" Google Account. 
+
+"<a href="www.example.com">Review backup status</a> to make sure that you can restore your data later.</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Phone found. Complete setup on the %s.</string>
+    <string name="auth_proximity_auth_setup_inprogress_dialog_content">Once you finish setup on your %1$s, this phone will be used to unlock your %2$s – no password needed.</string>
+    <string name="auth_relogin_activity_title">Retype password</string>
+    <string name="auth_remove_account_start_over">Start Again</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Account added</string>
+    <string name="auth_sign_in_with_google_account_short">Sign in with your Google account:</string>
+    <string name="auth_trust_agent_bt_device_configuring_eid_progress_message">Setting up device...</string>
+    <string name="auth_trust_agent_inactivity_notification_text">Device locked after %1$s%2$s of inactivity</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Named</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Device will unlock when face is recognised</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Improve face-matching</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">"This device will no longer recognise your face, and the 'Trusted face' feature will be turned off."</string>
+    <string name="auth_trust_agent_pref_on_body_detection_enabled_summary">"Device will stay unlocked while it's with you"</string>
+    <string name="auth_trust_agent_pref_on_body_detection_title">Smart Lock on-body detection</string>
+    <string name="auth_trust_agent_pref_voice_unlock_enabled_summary">Device unlocks when voice is recognised</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt_content">"Examples: &lt;br/> &lt;br/> - Your Bluetooth watch &lt;br/> - Your car's Bluetooth system &lt;br/> &lt;br/> &lt;br/> Note: Bluetooth connections have a range of up to 100 metres."</string>
+    <string name="auth_trust_agent_trusted_bt_device_learn_more_about_security">&lt;a href=http://support.google.com/mobile/?p=sl-bt-security>Find out more&lt;/a></string>
+    <string name="auth_trust_agent_trusted_devices_on_boarding_intro_content">"Add a trusted device to keep this device unlocked when it's nearby. &lt;a href=http://support.google.com/mobile/?p=sl-bt-security>Find out more &lt;/a> &lt;br/> &lt;br/> Add %s as a trusted device? &lt;br/> &lt;br/> &lt;br/> Note: Bluetooth connections have a range of up to 100 metres."</string>
+    <string name="auth_trust_agent_trusted_places_note_radius">"Keep in mind that location accuracy can't be guaranteed. Trusted places has a range of up to %s metres."</string>
+    <string name="auth_ui_activity_title_browser_signin">Sign in</string>
+    <string name="auth_ui_add_account_title">Account set up</string>
+    <string name="auth_uncertified_notification_description"><b>Users who purchased this device:</b>"
+The device manufacturer has preloaded Google apps and services without certification from Google. Contact the manufacturer and ask for a certified device. Learn more at g.co/AndroidCertifiedDevice.
+
+"<b>Unlicensed manufacturers:</b>"
+You need a licence from Google to distribute Google apps and services. Apply at g.co/AndroidGMSContact.
+
+"<b>Licensed manufacturers:</b>"
+To use Google apps and services during development, register the device. Contact your Google Business Development Manager for more info.
+
+"<b>Custom ROM users:</b>"
+To use Google apps and services with a custom ROM, register this device. Learn more at g.co/AndroidDeviceRegistration."</string>
+    <string name="authorization_dialog">Authorisation dialogue</string>
+    <string name="auto_restore_summary">When reinstalling an app, restore backed-up settings and data</string>
+    <string name="autofill_button_label">Auto-fill</string>
+    <string name="autofill_complete_autofill">Complete autofill</string>
+    <string name="autofill_dataset_password_warning_message">AutoFill your <b>^1</b> password only if you trust <b>^2</b>.</string>
+    <string name="autofill_dataset_password_warning_opt_out">"Don't show again"</string>
+    <string name="autofill_label">Auto-fill with Google</string>
+    <string name="autofill_optin_line1"><b>Tap to let Google fill this in for you</b></string>
+    <string name="autofill_setup_points">&lt;li>Google can help you fill in forms based on what’s on your screen.&lt;li>You can see and manage your auto-fill info in Settings.&lt;li> Passwords are saved to &lt;a href=https://support.google.com/accounts/answer/6197437>Google Smart Lock&lt;/a> for Chrome and Android.</string>
+    <string name="autofill_setup_summary">With a single tap, fill in passwords, addresses, credit cards and other info saved to your Google Account.</string>
+    <string name="backup_data_summary">Back up app data, Wi‑Fi passwords and other settings to Google Drive</string>
+    <string name="backup_data_summary_full">"Automatically back up device data (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps) remotely.
+
+When you turn on automatic backup, device and app data is regularly saved remotely. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages and photos."</string>
+    <string name="backup_erase_dialog_message">Stop backing up your Wi‑Fi passwords, bookmarks, other settings and app data, plus delete all copies on Google Drive?</string>
+    <string name="backup_now_network_error_text">Please check your Internet connection and try again</string>
+    <string name="backup_now_snackbar_error_text_format">%1$s - %2$s</string>
+    <string name="backup_opt_in_backup_description_v2">Automatic backup ensures that you can easily restore or switch phones at any time. <annotation id="backup_opt_in_learn_more">Find out more</annotation></string>
+    <string name="backup_opt_in_backup_main_message">"When you turn on automatic backup:
+
+ ● Device settings and app data are periodically saved to a private folder in Google Drive. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages and photos.
+
+ Large files, or files developers have chosen to exclude from the service, will not be backed up."</string>
+    <string name="backup_opt_in_backup_photos_sync">Photos and videos on this device sync to your Google Photos library so that you can search, edit, delete and share from any of your devices.</string>
+    <string name="block_report_spam">Blocked and reported messages</string>
+    <string name="camera_switched_to_back">Switched to rear-facing camera</string>
+    <string name="camera_switched_to_front">Switched to front-facing camera</string>
+    <string name="car_driving_mode_behavior_android_auto_not_installed_pref_option_summary">Tap to download Android Auto and stay connected on the road with the help of your personalised Google Assistant</string>
+    <string name="car_driving_mode_behavior_android_auto_pref_option_summary">Stay connected on the road with the help of your personalised Google Assistant</string>
+    <string name="car_driving_mode_behavior_title">Behaviour</string>
+    <string name="car_driving_mode_frx_intro_body">Your device uses motion and Bluetooth to work out when you’re in a moving vehicle.&lt;br/>&lt;br/>Driving mode can then turn on automatically, and open Android Auto to help you stay connected while driving.</string>
+    <string name="car_driving_mode_frx_success_body">The next time you start driving, %1$s. &lt;br/>&lt;br/>You can change this behaviour in driving mode settings.</string>
+    <string name="car_frx_app_tts">Google Text-to-Speech</string>
+    <string name="car_frx_apps_installation_failed_message">"To use Android Auto, you need these apps on your phone: Android Auto, Google Maps, Google Play Music and Google App. 
+
+Try downloading them again."</string>
+    <string name="car_frx_device_incompatible_download_message">"This phone can't connect to your car screen, but it can still run Android Auto. Download the Android Auto app to get started.&lt;br/> %1$s"</string>
+    <string name="car_frx_device_incompatible_reopen_message">"This phone can't connect to your car screen, but it can still run Android Auto. Unplug your phone and re-open the Android Auto app.&lt;br/> %1$s"</string>
+    <string name="car_frx_generic_error_message">"Android Auto couldn't finish setting up. 
+
+Make sure that you have the most recent versions of Android Auto, Google Maps, Google Play Music and Google App installed on your phone, and try again."</string>
+    <string name="car_incompatible_software">The phone and the car are running incompatible software. For details, visit <a href="android.com/auto">android.com/auto</a></string>
+    <string name="car_setup_authorizing_car_connection_bluetooth_text">Android Auto will turn on Bluetooth, pair and sync your contacts with your car.</string>
+    <string name="car_setup_authorizing_car_connection_message_1">Turn on Bluetooth, pair and sync your contacts with your car.</string>
+    <string name="car_setup_authorizing_car_connection_message_2">Allow your car to access and display notifications from your phone.&lt;br/> %1$s</string>
+    <string name="car_setup_car_moving_message">Android Auto will resume when your car is parked. Already parked? Put on the handbrake.</string>
+    <string name="car_setup_data_notice_content">"Many features of Android Auto require a wireless data connection. You are responsible for data charges. 
+
+When connected to the in-dash display of a compatible vehicle, Android Auto may send navigation and media information to that vehicle for purposes such as displaying that information in other vehicle systems, i.e. instrument clusters and heads-up displays. Please consult your vehicle's documentation to learn more about your vehicle manufacturer's handling of information received from products like Android Auto. 
+
+If Android Auto is connected to your in-dash display in a compatible vehicle, your vehicle may also send data from its sensors to your device as follows: 
+
+Vehicle GPS data may be used by your device in the same way the device uses its own GPS data; and will be available to apps on your device according to your device and Google Account settings and app permissions. To learn more about a particular app developer’s handling of data, please consult that app’s documentation. 
+
+Certain vehicle information (for example, headlights, hand brake, compass and gear) will be available to Android Auto-compatible apps to help customise the app experience, such as displaying different graphics for day and night, or setting screen interaction limits based on when you're driving. To learn more about a particular app developer’s handling of data, please consult that app’s documentation. 
+
+Google may access other data about your vehicle, such as the make, model, fuel level, wheel speed, odometer and gear, and whether the passenger seat is occupied. This data is not linked to your Google Account and will be used in accordance with the Google Privacy Policy."</string>
+    <string name="car_solution_check_time">"Make sure that the car's date and time are set correctly."</string>
+    <string name="car_solution_check_time_update_gcore">"Make sure that the car's date and time are set correctly, and that %1$s has been updated."</string>
+    <string name="car_usb_connection_cable_check">"Check your USB connection, and make sure that you're using a high-quality cable.&lt;br/> %1$s"</string>
+    <string name="cast_screen_unapproved_device_warning">Screen casting is not optimised for this device.</string>
+    <string name="common_account_consent_text_permissions">To sign you in, Google will share your name, email address and profile picture with %1$s.</string>
+    <string name="common_add_account_label">Add an account.</string>
+    <string name="common_connected_apps_settings_title">Apps connected</string>
+    <string name="common_connecting">Connecting …</string>
+    <string name="common_get_started">Get started.</string>
+    <string name="common_google_settings_myaccount">Google Account</string>
+    <string name="common_learn_more">Find out more</string>
+    <string name="common_loading">Loading …</string>
+    <string name="common_missing_url_viewer">Missing viewer to show an external URL.</string>
+    <string name="common_network_unavailable">No Internet connection</string>
+    <string name="common_no_thanks">No, thanks</string>
+    <string name="common_open_source_licenses">Open-source licences</string>
+    <string name="common_privacy_policy_composed_string">Privacy policy</string>
+    <string name="common_signin_button_text">Sign In</string>
+    <string name="common_terms_of_service">Terms of Service</string>
+    <string name="common_terms_of_service_composed_string">Terms of service</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">"Your Android device isn't connected to a Wi-Fi network. To view this information now, visit %s via a web browser."</string>
+    <string name="consent_notification_content">Your device will store a list of places that you visit frequently. Google won’t access this information without your permission. You can delete this information or turn off this feature. Tap to change settings.</string>
+    <string name="consent_notification_title">Frequent places enabled</string>
+    <string name="contact_info_source_context_organization_profile">"Via user's organisation profile"</string>
+    <string name="continue_to_login_heading">Please log in</string>
+    <string name="continue_to_login_text">Credentials granted. Proceed to log in on your first device.</string>
+    <string name="copy_confirmation_description">You’ll be copying data, such as your Google Account and apps, to your new phone</string>
+    <string name="copy_confirmation_description_3p_v2">Your Google Accounts, other accounts, apps and data will be transferred to your new phone</string>
+    <string name="core_drive_network_usage_all">Over Wi-Fi or mobile</string>
+    <string name="credentials_auto_signin_warm_welcome">Quickly sign in on Android and Chrome using accounts that you have saved with Google. Smart Lock remembers your passwords and signs you in to apps and sites automatically.</string>
+    <string name="credentials_custom_passphrase_warning">This account uses customised passphrase encryption, which is unsupported at this time.</string>
+    <string name="credentials_no_connection">Changing settings requires an Internet connection</string>
+    <string name="credentials_pref_storage_enabled_summary">Offer to save passwords to your Google account.</string>
+    <string name="credentials_save_suffix_multiple"> To:</string>
+    <string name="credentials_saved_passwords_link_text">Google account</string>
+    <string name="credentials_warm_welcome_link_text">Find out more.</string>
+    <string name="credentials_warm_welcome_prefix">Google Smart Lock for Passwords helps you quickly sign in to apps and sites using accounts that you have saved with Google. </string>
+    <string name="data_usage_tab_mobile">Mobile</string>
+    <string name="discovery_empty_state_offline_summary">"Your device must be online to show links to apps or websites from things nearby.
+
+Try turning off aeroplane mode, turning on mobile data or Wi-Fi or checking the signal in your area."</string>
+    <string name="discovery_pre_n_notification_summary_more_items">%1$s, %2$s and %3$d more</string>
+    <string name="dnd_button_setup">Setup</string>
+    <string name="dnd_text_continue">To use Do Not Disturb while driving, turn on <b>Google Play services</b>" on the next screen.
+
+
+"</string>
+    <string name="dnd_text_intro">To limit interruptions such as calls and text messages, your device can automatically turn on Do Not Disturb <b>when you’re driving</b>".
+
+Your device uses motion and Bluetooth connections to work out when you’re in a moving vehicle."</string>
+    <string name="dnd_text_rule_added">"The next time your device detects that you are in a moving vehicle, Do Not Disturb will turn on automatically.
+
+You can turn this off in Do Not Disturb settings.
+
+"</string>
+    <string name="drive_backup_apps_in_backup">Backed-up app data</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Backup includes device configuration, such as wallpaper, Wi-Fi passwords and default apps.</string>
+    <string name="drive_backup_content_status_never">Waiting to back up</string>
+    <string name="drive_backup_disabled_encryption_supported_info">Your backups are uploaded to Google and encrypted using your Google Account password. For some data, your device’s screen lock PIN, pattern or password is also used for encryption.</string>
+    <string name="drive_document_type_folder_with_color">Folder with colour %s</string>
+    <string name="drive_document_type_ms_powerpoint">Microsoft PowerPoint</string>
+    <string name="drive_document_type_text">Texts</string>
+    <string name="drive_document_type_video">In-stream video</string>
+    <string name="drive_folder_color_old_brick_red">Old red brick</string>
+    <string name="drive_folder_color_toy_eggplant">Toy aubergine</string>
+    <string name="drive_folder_color_unknown">Unknown colour</string>
+    <string name="drive_folder_color_yellow_cab">Yellow taxi</string>
+    <string name="enable_bluetooth">Enable or disable Bluetooth</string>
+    <string name="fetching_licenses">Fetching licences...</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">"Press and hold the button on your key for at least 5 seconds to make sure that it's in pairing mode"</string>
+    <string name="fido_ble_pair_device_pairing">Pairing your Security Key...</string>
+    <string name="fido_ble_pair_instructions_body">Pair your key to this device so that you can use it with your account</string>
+    <string name="fido_ble_select_device_body">From the list below select the Security Key that you wish to pair with your device. The name may be printed on the back of the key.</string>
+    <string name="fido_paask_body">A nearby device is trying to sign in with your Google account</string>
+    <string name="fido_paask_footer">This is an enhanced sign-in protection using an encrypted Bluetooth connection to a nearby device.</string>
+    <string name="fido_paask_yes_body">Your nearby device can now use your Google Account. You can manage your devices at <b>My Google</b> (<a href="https://myaccount.google.com/device-activity">myaccount.google.com/device-activity</a>"). 
+
+Keep Bluetooth on so that Google can make a secure connection to nearby devices."</string>
+    <string name="fido_processing">Verifying your Security Key...</string>
+    <string name="fido_transport_selection_body">Security Keys work with Bluetooth, NFC and USB. Choose how you want to use your key.</string>
+    <string name="fingerprint_description">"Confirm your fingerprint so %1$s can verify that it's you."</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognised. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognised</string>
+    <string name="fitness_data_type_name_active_minutes">Move minutes</string>
+    <string name="fitness_data_type_name_heart_minutes">Heart minutes</string>
+    <string name="fitness_settings_device_description">%1$s is currently storing data in Google Fit. You can manage your data at <a href="http://fit.google.com">fit.google.com</a>.</string>
+    <string name="fm_family_management">Family management</string>
+    <string name="fm_leave_family_error_message">Problem while leaving the family group. Try again.</string>
+    <string name="fm_member_delete_error_message">Problem while removing %s. Try again.</string>
+    <string name="fm_reauth_error">Problem while confirming %s. Try again.</string>
+    <string name="fm_uninvite">Cancel invitation</string>
+    <string name="fm_uninvite_failure_message">Problem while cancelling invitation. Try again.</string>
+    <string name="games_font_roboto_medium">sans-serif</string>
+    <string name="gf_error_report_battery_checkin_details">Check in details</string>
+    <string name="gf_error_report_battery_usage_percent">Percentage of battery used</string>
+    <string name="gf_new_policy">"Go to the %1$s to request content changes for legal reasons.&lt;br />Some %2$s will be sent to Google. We'll use the info that you give us to address technical issues and improve our services, subject to our %3$s and %4$s."</string>
+    <string name="gh_application_info_privacy_policy_message">"Some %1$s will be sent to Google. We'll use the info that you give us to address technical issues and improve our services, subject to our %2$s and %3$s."</string>
+    <string name="gh_c2c_invalid_phone_number_error">Either the number is incorrect or phone support is unavailable.</string>
+    <string name="gh_chat_message_input_hint">Sending a message</string>
+    <string name="gh_chat_queue_subtext">"You won't lose your place in the queue if you go back or go to another app."</string>
+    <string name="gh_menu_clear_history">Clear Help history</string>
+    <string name="gh_print_job_name">Help – %1$s</string>
+    <string name="gh_sign_in_banner_subtitle">Get personalised help options</string>
+    <string name="growth_aob_no_connection_text">Make sure that Wi-Fi or mobile data is turned on and try again</string>
+    <string name="icing_music_recording_corpus_description">Songs, albums and playlists on your device</string>
+    <string name="icing_usage_reports_enabled_summary">"To help improve your search experience, Google can store and use links, provided by apps, to content that you've visited in apps."</string>
+    <string name="location_settings_confirm_location_history_pause_body">"When you pause Location History, places that you go with your devices will stop being added to your Location History map. This limits functionality of some Google products over time, such as Google Maps and Google Now. 
+
+Remember, pausing this setting doesn’t delete any previous activity, but you can view and manage this information in your "<a href="https://www.google.com/locationhistory">Location History map</a>.</string>
+    <string name="location_settings_dialog_message_details_end_paragraph">This may change the Location mode that you’ve selected for your device. For details, go to %s.</string>
+    <string name="location_settings_dialog_message_gls_consent">Use Google’s Location service; as part of this service, anonymous location data will be sent to Google when your device is on.</string>
+    <string name="location_settings_dialog_message_location_services_gps_and_nlp">Use GPS, Wi‑Fi, mobile networks and sensors</string>
+    <string name="location_settings_dialog_message_location_services_nlp">Use Wi‑Fi, mobile networks and sensors</string>
+    <string name="location_settings_dialog_message_wifi">Turn on Wi-Fi</string>
+    <string name="location_settings_frequent_locations_summary_full">Your device will create and store a list of places that you visit frequently. You can view and delete this information or turn off this feature. This information will not be accessed or used by any Google service without your consent. <a href="https://support.google.com/android/answer/3467281#frequent_locations">Learn more</a></string>
+    <string name="location_settings_location_accuracy_activity_summary">"Google’s Location service improves location accuracy by using Wi‑Fi and mobile networks to help estimate your location. Anonymous location data will be sent to Google when your device is on.
+
+Turning this off will result in your device only using GPS for location. This may impact the accuracy of location used by apps such as Maps and Find My Device."</string>
+    <string name="location_settings_location_accuracy_activity_summary_gdpr_approved">"Google’s location service improves location accuracy by using Wi‑Fi, mobile networks and sensors to help estimate your location. Google may collect location data periodically and use this data in an anonymous way to improve location accuracy and location-based services.
+
+Turning this off will result in your device only using GPS for location. This may impact the accuracy of location used by apps such as Maps and Find My Device."</string>
+    <string name="location_settings_location_history_summary_full">Location History helps you get useful information such as automatic commute predictions, improved search results and more useful ads on and off Google. It does this by creating a private map of where you go with your signed-in devices. &lt;br>&lt;br>To create this map, Google regularly obtains location data from devices for which you’ve turned on Location History. This data is collected even when you aren’t using a specific Google product. &lt;br>&lt;br>Remember, location data may be saved from any signed-in devices for which you’ve turned on Location History. You can always control and review your activity at &lt;a href=https://myaccount.google.com/>myaccount.google.com&lt;/a>.</string>
+    <string name="location_settings_screen_title">Google Location Settings</string>
+    <string name="location_sharing_appinvite_recipients_hint_all">Add names, email addresses or phone numbers</string>
+    <string name="location_sharing_general_error_alert">"Sorry, we're having a problem processing your request at the moment. Please try again later."</string>
+    <string name="location_sharing_korean_footer">By turning on Location Sharing, you agree to the <a href="http://www.google.com/intl/ko_kR/policies/terms/location/">Korean Location ToS</a></string>
+    <string name="location_sharing_location_history_summary_full">Location History is required for Location Sharing and also helps you get useful information, such as automatic commute predictions, improved search results and more useful ads on and off Google. To do so, Location History creates a private map of where you go with your signed-in devices. &lt;br>&lt;br>To create this map, Google will regularly obtain location data from devices where you have enabled Location History, including when you aren’t using a specific Google product. &lt;br>&lt;br>You can pause Location History whenever you like, but this doesn’t delete any previous activity. &lt;a href=\"%1$s\">Find out more.&lt;/a></string>
+    <string name="location_sharing_no_name_message">Add your name to your Google account so that people know who’s sharing. Your name may also appear in other Google products, such as when you send an email.</string>
+    <string name="location_sharing_no_name_title">Missing name</string>
+    <string name="location_sharing_no_network_alert">You must have a data connection to see location-sharing settings. Please check your connection or try again later.</string>
+    <string name="location_sharing_onboarding_expanded">"Location Sharing lets you share your real-time location from your devices (using Location History) with people that you choose. &lt;br/>&lt;br/>People that you share your location with can see your name, photo and real-time location across Google products, including Google+ and Google Hangouts. Your shared location may include information about where you are, where you've just been, what you're doing (such as driving or walking), your device (such as battery life or GPS connections) and your places (such as home, work and destinations). &lt;a href=\"%1$s\">Find out more&lt;/a>"</string>
+    <string name="location_sharing_people_share_item">Select people</string>
+    <string name="location_sharing_try_again">Try again</string>
+    <string name="location_sharing_turn_on_location_auto_button">Turn on</string>
+    <string name="location_warning_message_v28">Location may use sources like GPS, Wi‑Fi, mobile networks and sensors to help estimate your device’s location. Anonymous location data will be sent to Google when your device is on.</string>
+    <string name="location_warning_message_v28_gdpr_approved">Location may use sources like GPS, Wi‑Fi, mobile networks and sensors to help estimate your device’s location. Google may collect location data periodically and use this data in an anonymous way to improve location accuracy and location-based services.</string>
+    <string name="magictether_first_time_setup_required_host_dialog_content">This %1$s will create a private Wi-Fi connection for your %2$s. This may use both data and battery (currently %3$d%%). &lt;br>&lt;br>&lt;b>Some operators may block this feature.&lt;/b></string>
+    <string name="magictether_get_internet_setting_title">Get Data Connection</string>
+    <string name="magictether_host_device_list_title">Available Devices</string>
+    <string name="magictether_nearby_dialog_content">Your %1$s will create a private Wi-Fi connection for this %2$s. &lt;br>&lt;br>&lt;b>Some operators may block this feature.&lt;/b>&lt;br>&lt;br> While the hotspot is on, your %3$s will: &lt;br> • Use mobile data &lt;br> • Use its battery more quickly (currently %4$d%%) %5$s %6$s</string>
+    <string name="magictether_providing_internet_content">Providing Internet to other devices.</string>
+    <string name="magictether_provisioning_failed_host_dialog_content">Your operator may have disabled tethering.</string>
+    <string name="manage_data_label">Google account</string>
+    <string name="mdm_account_title">Add Google Account?</string>
+    <string name="mdm_google_search">"Search 'Find My Device'"</string>
+    <string name="messages_opt_in_dialog_basic">Nearby will use location, microphone, Wi‑Fi and Bluetooth.</string>
+    <string name="missed_audio_call_text">"You've missed a voice call from %s"</string>
+    <string name="missed_video_call_text">"You've missed a video call from %s"</string>
+    <string name="ms_add_shortcut">Add to home screen</string>
+    <string name="ms_allo_blocked_message">To continue messaging this business, you need to unblock Google Allo notifications.</string>
+    <string name="ms_erase_all_messages_option">Delete all app preview messages</string>
+    <string name="ms_manage_storage">Manage storage</string>
+    <string name="ms_settings_learn_more_desc">Application preview messages lets others share content &amp; send messages to you – even via applications that you may not have installed.</string>
+    <string name="nearby_setup_wifi_consent_dialog_label">Wifi credential consent dialogue</string>
+    <string name="nearby_setup_wifi_consent_message">"To complete setup for your %1$s, &lt;b>&lt;xliff:g example=Chrome id=app_name>%2$s&lt;/xliff:g>&lt;/b> needs the password for %3$s. &lt;br/>&lt;br/> Make sure that the device you're setting up is the one you have with you, and not a different one nearby."</string>
+    <string name="no_network_connection">Connect to the Internet for more info</string>
+    <string name="onbody_detection_desc">Smart Lock’s on-body detection uses motion to know when your phone is with you. <annotation id="onbody_learn_more"> Learn more </annotation></string>
+    <string name="onbody_detection_disclaimer">"On-body detection can't distinguish between you and someone else. If someone takes your device while it's unlocked, they might be able to access it."</string>
+    <string name="onbody_promotion_desc_smartlock_allset_title">Ready to go!</string>
+    <string name="onbody_promotion_other_trustlets">"You can keep your phone unlocked in other ways too, like when you're at home or near your trusted Bluetooth device.
+
+To turn on other Smart Lock features, go to Smart Lock in your phone settings."</string>
+    <string name="opt_in_description">"When you tap a link, Google Play checks if an instant app exists and runs it without installation. Instant apps are kept on your device temporarily.
+
+Instant apps ask for permissions as you use them. App details, including in-app purchases, can be found in the Google Play Store. App data &amp; settings are synced to devices signed in with:"</string>
+    <string name="opt_in_description_m_plus">"When you tap a link, Google Play checks if an instant app exists and runs it without installation. Instant apps are kept on your device temporarily.
+
+App details, including in-app purchases, can be found in the Google Play Store. App data &amp; settings are synced to devices signed in with:"</string>
+    <string name="organizations_start_to_present">%s-present</string>
+    <string name="outgoing_invite_body">"They haven't set up Duo video calling. Send a message to let them know that you want to video call them."</string>
+    <string name="people_apdl_notification_text">"%1$s wants to access your contacts using a Google service.
+
+This helps %2$s and Google understand the people who you interact with most on this device."</string>
+    <string name="people_first_time_add_ok_text">OK, got it!</string>
+    <string name="permgrouplab_phone">Telephone</string>
+    <string name="permgrouplab_sensors">Body sensors</string>
+    <string name="photo_backup_configure_account_default_summary">No account is currently storing backed-up photos</string>
+    <string name="photo_connection_wifi_and_mobile">Over Wi-Fi or use mobile network</string>
+    <string name="play_protect_all_clear_title">Looks fine</string>
+    <string name="play_protect_banner">"Google Play Protect regularly checks your apps and device for harmful behaviour.
+
+You'll be notified of any security risks found."</string>
+    <string name="play_protect_generic_malware">This app can damage your device, add hidden charges to your mobile bill or steal your personal information.</string>
+    <string name="plus_add_to_circle_progress">Adding...</string>
+    <string name="plus_add_to_new_circle_progress_message">Adding...</string>
+    <string name="plus_app_settings_sign_in_apps_label">Apps with Google Sign In</string>
+    <string name="plus_close_button_description">Button for closing the dialogue</string>
+    <string name="plus_delete_moment_progress_dialog_message">Deleting...</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s will no longer have the access that you granted to your Google account or send your app activities to Google. This may take up to an hour to complete.</string>
+    <string name="plus_facl_default_description">"Your full name, profile picture, Google+ ID, age range and language, and a list of people in the circles ticked below. The list contains their public profiles, but not the names of the circles that you've put them in."</string>
+    <string name="plus_internal_error">An internal error has occurred.</string>
+    <string name="plus_last_name">Surname</string>
+    <string name="plus_list_apps_aspen_empty_message">"You have not connected with any apps using Google Sign In.
+
+"<annotation id="learn_more">Find out more</annotation></string>
+    <string name="plus_list_apps_disabled_error">Unable to load Connected apps at this time. <annotation id="learn_more">Find out more</annotation>"
+
+"</string>
+    <string name="plus_list_apps_error_aspen">"Couldn't load apps.
+
+"<annotation id="learn_more">Find out more</annotation> about apps with Google Sign In.</string>
+    <string name="plus_list_apps_error_fitness">"Couldn't load apps or devices.
+
+"<annotation id="learn_more">Learn more</annotation> about Google Fit apps and devices.</string>
+    <string name="plus_list_apps_fitness_empty_message">"You have not connected any apps or devices to Google Fit
+
+"<annotation id="learn_more">Learn more</annotation>"
+
+"</string>
+    <string name="plus_list_moments_disabled_error">Unable to load your Activity log at this time. <annotation id="learn_more">Learn more</annotation>"
+
+"</string>
+    <string name="plus_manage_app_disabled_error">Unable to load your connected app at this time. <annotation id="learn_more">Learn more</annotation></string>
+    <string name="plus_manage_app_pacl_sub_label">Choices that you make here do not change the visibility of any existing activities in your Activity Log, but they do apply to game activity.</string>
+    <string name="plus_manage_aspen_app_label">App with Google Sign In</string>
+    <string name="plus_manage_moment_no_in_app_delete">Unable to manage this activity. <annotation id="learn_more">Learn more</annotation></string>
+    <string name="plus_oob_interstitial_loading_text">This may take a few minutes.</string>
+    <string name="plus_oob_last_name_content_description">Surname</string>
+    <string name="plus_sharebox_circles_name_used_warning">This circle name is already in use.</string>
+    <string name="plus_sharebox_no_network_connection">Cannot create the post. Please try again.</string>
+    <string name="plus_sharebox_search_hint">Type a name, email address or circle</string>
+    <string name="plus_sharebox_under_age_warning_message">"When you share publicly, people who you haven't added to your circles will be able to view your post and may be able to comment."</string>
+    <string name="plus_update_circles_failed_message">Failed to update circles. Try again later.</string>
+    <string name="profile_about_birthday">Date of birth</string>
+    <string name="promo_auto_backup_cost_warning">By uploading content, you may incur operator costs. You can change your Auto Backup settings at any time.</string>
+    <string name="promo_auto_backup_dialog_description">Back up photos &amp; videos on this device to your Google Photos library to search, edit, delete and share from any device. &lt;a href=%s>Find out more&lt;/a></string>
+    <string name="promo_default_opt_out">No, thanks</string>
+    <string name="quick_actions_hangout">Hangout</string>
+    <string name="quick_actions_schedule">Schedule</string>
+    <string name="recaptcha_verifying_text">"Verifying that you're not a robot"</string>
+    <string name="removed_from_favorites">Removed from favourites</string>
+    <string name="reporting_chain_see_all">See all %d reports</string>
+    <string name="reporting_chain_see_more">See %d more reports</string>
+    <string name="resend_button_title">SEND AGAIN</string>
+    <string name="restore_supervisor_description">To open links in Instant Apps, restore %1$s</string>
+    <string name="romanesco_contacts_restore_dialog_disclaimer">Contacts will be restored as Google Contacts (%1$s)</string>
+    <string name="romanesco_google_contacts_settings_summary">Your Google Contacts automatically sync to your devices</string>
+    <string name="security_status_no_google_account_summary">No Google Account on this device</string>
+    <string name="security_status_verify_apps_disabled">Off/Tap to turn on protection.</string>
+    <string name="setupservices_google_services_agreement">By continuing, you agree that this device may also automatically download and install updates and apps from Google, your operator and your device’s manufacturer, possibly using mobile data. Some of these apps may offer in-app purchases.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">To remove apps, go to Settings > Apps or Application manager. Then tap the app that you want to uninstall (you may need to swipe right or left to find the app). Then tap Uninstall or Disable.</string>
+    <string name="setupservices_google_services_agreement_korea">You also hereby consent and grant preloaded Google apps permission to access information and functions on your device. See <annotation link="app_permissions">this page</annotation> for more information on usage of these permissions.</string>
+    <string name="setupservices_google_services_automatic_storage_manager">When your phone storage is almost full, free space by removing data, such as backed-up photos and videos.</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Backup data will not count towards your Drive storage quota."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data_v28">App data can be any data that an app has saved (based on developer settings), including data such as contacts, messages and photos.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Photos and videos on this device sync to your Google Photos library so that you can search, edit, delete and share from any of your devices. By default, full-resolution photos and videos are uploaded to Google Photos.
+
+Backup data will not count towards your Drive storage quota."</string>
+    <string name="setupservices_google_services_backup_v26">Easily restore your data or switch phones at any time. Your backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions) and SMS.</string>
+    <string name="setupservices_google_services_backup_v26_encrypted">"Easily restore your data or switch phones at any time. Your backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions) and SMS.
+
+Your backups are uploaded to Google and encrypted using your Google Account password. For some data, your device’s screen lock PIN, pattern or password is also used for encryption."</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Easily restore your data or switch phones at any time. Your backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions), photos, videos and SMS. Photos and videos sync to your Google Photos library and may be used across services.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos_encrypted">"Easily restore your data or switch phones at any time. Your backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions), photos, videos and SMS. Photos and videos sync to your Google Photos library and may be used across services.
+
+Your backups are uploaded to Google and encrypted using your Google Account password. For some data, your device’s screen lock PIN, pattern or password is also used for encryption."</string>
+    <string name="setupservices_google_services_data_policy">Data will be used according to Google’s <annotation link="google_privacy">Privacy Policy</annotation>.</string>
+    <string name="setupservices_google_services_data_policy_korea">Data will be used according to Google’s <annotation link="google_privacy">Privacy Policy</annotation> (including <annotation link="additional_privacy">collection, storage and usage of personal information</annotation>) and the <annotation link="location_tos">Location Terms of Service</annotation>.</string>
+    <string name="setupservices_google_services_description">Tap to find out more about each service, such as how to turn it on or off later. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"App details including in-app purchases can be found in the Play Store. App data &amp; settings sync to devices signed in with your Google Account. 
+
+Use of instant apps is governed by the "<a href="https://play.google.com/about/play-terms.html">Google Play Terms of Service</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Learn more</a>.</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google’s Location Service uses sources such as Wi‑Fi, mobile networks and sensors to help estimate your device’s location.
+
+You can turn off location by turning off the main location setting on your device. You can also turn off the use of Wi‑Fi, mobile networks and sensors for location in location settings."</string>
+    <string name="setupservices_google_services_tos_account">"Tap 'Accept' to confirm your selection of these Google services settings."</string>
+    <string name="setupservices_google_services_tos_no_account">"By tapping 'Accept', you agree to the "<annotation link="tos">Google Terms of Service</annotation>. You also confirm your selection of these Google services settings. Note: The <annotation link="google_privacy">Google Privacy Policy</annotation> describes how data is handled when using Google services.</string>
+    <string name="setupservices_google_services_tos_no_account_policy_only">"By tapping 'Accept', you confirm your selection of these Google services settings. Note: The "<annotation link="google_privacy">Google Privacy Policy</annotation> describes how data is handled when using Google services.</string>
+    <string name="setupservices_google_services_usage_reporting">Help improve your Android experience by automatically sending diagnostic, device and app usage data to Google. This will help battery life, system and app stability and other improvements. Some aggregate data will also help Google apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Google Account.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"This is general information about your device and how you use it (such as battery level, system and app activity and errors). The data will be used to improve Android, and some aggregated information will also help Google apps and partners, such as Android developers, make their apps and products better.
+
+Turning off this feature doesn’t affect your device’s ability to send the information needed for essential services such as system updates and security."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Google Account. You can see your data, delete it and change your account settings at account.google.co</string>
+    <string name="setupservices_google_services_wallpaper_permission">Allow Google Live wallpapers to respond to your location by accessing Google’s Location Service.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">You can turn access to Google’s Location Service for live wallpapers on or off by going to Settings > Apps &amp; notifications > App info. In the overflow menu, tap Show system > Live data wallpapers or Live Earth Wallpapers > Permissions.</string>
+    <string name="setupservices_kids_google_services_agreement">By continuing, you agree that this device may also automatically download and install updates and apps from Google, your operator and this device’s manufacturer, possibly using mobile data. Some of these apps may offer in-app purchases.</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Backup data will not count towards your child’s Drive storage quota."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Photos and videos on this device sync to your child’s Google Photos library so that your child can search, edit, delete and share from any of their devices. By default, full-resolution photos and videos are uploaded to Google Photos.
+
+Backup data will not count towards your child’s Drive storage quota."</string>
+    <string name="setupservices_kids_google_services_backup_v26">Easily restore data or switch phones at any time. This backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions) and SMS.</string>
+    <string name="setupservices_kids_google_services_backup_v26_encrypted">"Easily restore data or switch phones at any time. This backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions) and SMS.
+
+Backups are uploaded to Google and encrypted using your child’s Google Account password. For some data, the device’s screen lock PIN, pattern or password is also used for encryption."</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Easily restore data or switch phones at any time. This backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions), photos, videos and SMS. Photos and videos sync to your child’s Google Photos library and may be used across services.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos_encrypted">"Easily restore data or switch phones at any time. This backup includes apps, app data, call history, contacts, device settings (including Wi‑Fi passwords and permissions), photos, videos and SMS. Photos and videos sync to your child’s Google Photos library and may be used across services.
+
+Backups are uploaded to Google and encrypted using your child’s Google Account password. For some data, the device’s screen lock PIN, pattern or password is also used for encryption."</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google’s Location Service uses sources such as Wi‑Fi, mobile networks and sensors to help estimate this device’s location.
+
+You can turn off location by turning off the main location setting on this device. You can also turn off the use of Wi‑Fi, mobile networks and sensors for location in location settings."</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Help improve the Android experience by automatically sending diagnostic, device and app usage data to Google. This won’t be used to identify your child and will help battery life, system and app stability and other improvements. Some aggregate data will also help Google apps and partners, such as Android developers. If additional Web &amp; App Activity is turned on for your child, this data may be saved to their Google Account.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"This is general information about this device and how it’s used (such as battery level, system and app activity and errors). The data will be used to improve Android, and some aggregated information will also help Google apps and partners, such as Android developers, make their apps and products better.
+
+Turning off this feature doesn’t affect this device’s ability to send the information needed for essential services such as system updates and security."</string>
+    <string name="shortcut_disabled_toast">To let contacts reach you, make sure that all app preview messages are on</string>
+    <string name="smartdevice_action_try_another_way">Try another way</string>
+    <string name="smartdevice_action_turn_on_location">Turn on Location</string>
+    <string name="smartdevice_alert_exit_setup_message">Are you sure that you want to exit the setup of your other device?</string>
+    <string name="smartdevice_alert_exit_setup_title">Exit device setup?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">To set up your device, you need at least one Google account.</string>
+    <string name="smartdevice_alert_no_accounts_text">To set up your %s, you need at least one Google account.</string>
+    <string name="smartdevice_alert_quit_button">Exit</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Not recognised</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">For security reasons, confirm your fingerprint. Your Google accounts, apps and data will be copied to your %s.</string>
+    <string name="smartdevice_d2d_source_setup_success">Almost finished!</string>
+    <string name="smartdevice_d2d_target_google_settings_description">On your other device:&lt;br/>&lt;br/> 1. Open the &lt;b>Google Settings&lt;/b> app&lt;br/>&lt;br/> 2. Select &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Touch &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> on the list and follow the on-screen instructions</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">"Setup won't copy this account or backed-up apps and data to this device."</string>
+    <string name="smartdevice_magicwand_consent_detail">Tap <b>Sign in</b> to finish signing in to another device.</string>
+    <string name="smartdevice_magicwand_lockscreen_description">This extra step helps to make sure that this is a secure device.</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Only open networks and WPA/WPA2 networks can be used to set up this device</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">"Can't Search for Wi-Fi Networks"</string>
+    <string name="source_copying_description">The data that you chose is being copied to your new phone</string>
+    <string name="source_success_screen_title">Finished!</string>
+    <string name="star_contact_content_description">Double-tap to add to favourites</string>
+    <string name="switch_camera_button_back">Switch to rear-facing camera</string>
+    <string name="switch_camera_button_front">Switch to front-facing camera</string>
+    <string name="system_update_activity_attempt_download_later_text">Update cannot be downloaded at the moment, please try again later.</string>
+    <string name="system_update_activity_attempt_install_later_text">Update cannot be installed at the moment, please try again later.</string>
+    <string name="system_update_countdown_cancel_button">Cancel installation</string>
+    <string name="system_update_download_waiting_charger_only_text">To download this update, please make sure that your device is connected to a charger.</string>
+    <string name="system_update_managed_by_policy">System software update of this device is controlled by your organisation.</string>
+    <string name="system_update_notification_learn_more">Tap to learn more</string>
+    <string name="system_update_notification_learn_more_and_download">Tap to learn more and download</string>
+    <string name="system_update_notification_learn_more_and_install">Tap to learn more and install</string>
+    <string name="system_update_suw_restart_text">The device will restart so that your system update can be installed.</string>
+    <string name="tachystick_sms_invite">Add me on Duo so that we can video chat. Use this link: %s</string>
+    <string name="tachystick_sms_invite_for_best_efforts">"Hey, I've just video-called you on Duo! Sign up with this link and call me back 😊 %s"</string>
+    <string name="tp_activation_otp_too_many_tries_error_title">Too many attempts</string>
+    <string name="tp_add_card_error_title">"Can't add card at the moment"</string>
+    <string name="tp_autofill_dialog_confirm">Yes, auto-fill</string>
+    <string name="tp_autofill_dialog_title">Auto-fill code?</string>
+    <string name="tp_body_prompt_setup">"It's a safe, easy way to pay with your phone in shops"</string>
+    <string name="tp_default_store_name">Unknown shop</string>
+    <string name="tp_device_admin_notification_content">Update now to keep paying contactless</string>
+    <string name="tp_email_resending_label">You should receive an email from your bank soon</string>
+    <string name="tp_email_resending_label_paypal">You should receive an email from PayPal soon</string>
+    <string name="tp_email_sub_label">You should have received a code from your bank at %1$s</string>
+    <string name="tp_email_sub_label_paypal">You should have received a code from PayPal at %1$s</string>
+    <string name="tp_emails_notification_setting_description">Get exclusive offers, tips and invites to give feedback</string>
+    <string name="tp_enable_nfc_body">NFC lets your phone communicate with the terminal and other NFC-enabled devices. You can turn it off at any time in your %s.</string>
+    <string name="tp_enable_nfc_dialog_message">"You won't be able to pay with your phone in shops while NFC is turned off"</string>
+    <string name="tp_enable_nfc_title">Turn on NFC to pay in shops</string>
+    <string name="tp_feedback_acknowledgement_label">Your feedback will help us to be more accurate in the future</string>
+    <string name="tp_feedback_not_generic_merchant">"It wasn't this shop"</string>
+    <string name="tp_felica_legacy_message">"The primary %1$s card on your phone will be deleted and replaced with the card that you're adding now. After you delete the card, contact your bank and let them know."</string>
+    <string name="tp_felica_legal_message">By continuing, you agree to the &lt;a href=#>Osaifu Keitai App Terms of Use&lt;/a> and &lt;a href=#>Privacy Policy&lt;/a>, and authorise Google to share your email address with FeliCa Networks, Inc.</string>
+    <string name="tp_felica_unchangeable_card_error_message">You have a primary card set up for %1$s in another app. You need to go to the app and deselect the card for %1$s.</string>
+    <string name="tp_issuer_statement_method_label">"Temporary charge:&lt;b>  %1$s &lt;/b>"</string>
+    <string name="tp_list_activation_methods_error_content">"Your card has been added, but it can't be verified at the moment. Come back later to verify this card or try adding a different card."</string>
+    <string name="tp_network_connection_needed_content">"Please make sure that you're connected, then try again"</string>
+    <string name="tp_notifications_setting_description">Receive offers and recommendations to help you get the most out of Google Pay</string>
+    <string name="tp_paypal_payment_option_sub_label">The easy way to shop with PayPal in shops and on apps</string>
+    <string name="tp_phone_icon_description">Shop phone number</string>
+    <string name="tp_receive_call_sub_label">You should receive a call from your bank soon on %1$s</string>
+    <string name="tp_receive_call_sub_label_paypal">You should receive a call from PayPal soon on %1$s</string>
+    <string name="tp_request_select_token_message">%1$s will be charged whenever you pay with Google Pay in shops</string>
+    <string name="tp_request_tokenize_body">Pay faster with your phone in-store and online</string>
+    <string name="tp_request_tokenize_email_opt_in">Get email offers, tips and invites to give feedback from Google Pay</string>
+    <string name="tp_request_tokenize_paypal_body">"You're about to add your account to Google Pay. Once you're finished, you can use it in shops and apps."</string>
+    <string name="tp_secure_keyguard_notification_content">Set it now to keep paying contactless</string>
+    <string name="tp_secure_keyguard_prompt_body">"Google Pay requires you to lock your phone with a PIN, pattern or password. For your security, all cards will be removed from Google Pay if you don't set one of these up in the next 5 minutes."</string>
+    <string name="tp_select_verification_method_subtitle">"Your bank wants to confirm that it's you"</string>
+    <string name="tp_select_verification_method_subtitle_paypal">"PayPal wants to confirm that it's you"</string>
+    <string name="tp_select_verification_method_title">"Choose how you'll verify"</string>
+    <string name="tp_settings_bodytext">Keep all your payment methods, rewards and gift cards in one place. Plus, see your past purchases and get helpful info while you shop</string>
+    <string name="tp_settings_delete_card_on_nfc_not_supported_device_dialog_message">You will not get added security when shopping with selected merchants on this device</string>
+    <string name="tp_settings_delete_paypal_on_nfc_supported_device_dialog_message">You will not be able to pay with your PayPal account in shops</string>
+    <string name="tp_settings_enable_adm_dialog_message">If your phone is lost or stolen, this will help you find, lock and erase it</string>
+    <string name="tp_sms_resending_label">You should receive a text from your bank soon</string>
+    <string name="tp_sms_resending_label_paypal">You should receive a text from PayPal soon</string>
+    <string name="tp_sms_sub_label">You should have received a code from your bank on %1$s</string>
+    <string name="tp_sms_sub_label_paypal">You should have received a code from PayPal on %1$s</string>
+    <string name="tp_summary_attestation_headline">"Can't pay in shops on this phone"</string>
+    <string name="tp_summary_attestation_label">"This phone can't be used to pay in shops. This may be because it is rooted or altered in some other way."</string>
+    <string name="tp_summary_cannot_be_tokenized_headline">"Couldn't finish setup to pay in shops"</string>
+    <string name="tp_summary_nonfc_tokenization_failure_headline">"Can't pay in shops with this phone"</string>
+    <string name="tp_summary_red_path_amex_label">"To resolve this, you'll need to contact American Express"</string>
+    <string name="tp_summary_red_path_label">"To resolve this, you'll need to contact your bank"</string>
+    <string name="tp_tap_locked_prompt">Unlock your phone to pay</string>
+    <string name="tp_tap_transit_expired_ticket_prompt">Ticket has expired</string>
+    <string name="tp_tap_transit_passback_prompt">This ticket has just been used at this station</string>
+    <string name="tp_tap_transit_suspended_ticket_prompt">Ticket has been suspended</string>
+    <string name="tp_tap_ui_attestation">You can no longer pay in shops with Google Pay</string>
+    <string name="tp_tap_ui_ppse_error_tear">"That didn't work"</string>
+    <string name="tp_tap_ui_reader_error2">"This still hasn't worked. There may be an issue with the terminal"</string>
+    <string name="tp_tap_ui_tear2_prompt">Hold phone to terminal until you see a tick</string>
+    <string name="tp_tap_ui_tear_antenna_prompt">Hold this part of your phone to the terminal until you see a tick</string>
+    <string name="tp_tap_ui_tear_prompt">Phone moved too fast</string>
+    <string name="tp_tap_ui_unsupported_prompt">"This card can't be used with Google Pay here"</string>
+    <string name="tp_transaction_additional_details">Additional details</string>
+    <string name="tp_transaction_declined_notification_text_full">DECLINED – %1$s with %2$s</string>
+    <string name="tp_transaction_legal_disclaimer_nfc">"Google Pay provides these transaction details to help you keep track of your purchases. This doesn't replace your receipt from the shop."</string>
+    <string name="tp_transaction_refund_notification_title_sensitive">You received a refund</string>
+    <string name="tp_transaction_unavailable">Transaction details unavailable. Please check again later.</string>
+    <string name="tp_vco_all_cards_available">All Visa cards that you add to Google Pay will be automatically linked to Visa Checkout</string>
+    <string name="tp_vco_benefit_availibility">"Use Google Pay wherever you see the Visa Checkout button. There's no sign-in needed and delivery info is entered for you."</string>
+    <string name="tp_vco_check_mark_img_description">An image of a tick</string>
+    <string name="tp_vco_warning_info_share">"Your email, phone number, address and full details for all Visa cards in Google Pay will be shared with Visa Checkout. They'll use this info per their &lt;a href=#>privacy policy&lt;/a>."</string>
+    <string name="tp_verify_card_error_title">"Can't verify card at the moment"</string>
+    <string name="tp_virtual_account_number_accessibility">Virtual account number ending in %1$s</string>
+    <string name="tp_warm_welcome_device_does_not_support_tap_and_pay">"Just look for the Google Pay button. You won't be able to pay with Google Pay in shops on this device. %s"</string>
+    <string name="tp_warm_welcome_how_to_pay_text_nfc_off">"To pay with your phone in shops, you'll need to turn on your %s"</string>
+    <string name="tp_warm_welcome_install_app_text">Keep loyalty programmes, gift cards and everything else you need at the checkout on your phone</string>
+    <string name="tp_wear_keyguard_message">Bear in mind that your watch can only be used to pay while unlocked and on your wrist</string>
+    <string name="tp_wear_secure_keyguard_prompt_body">"Google Pay requires you to lock your watch with a PIN, pattern or password. For your security, all cards will be removed from Google Pay if you don't set one of these up in the next 5 minutes."</string>
+    <string name="tp_web_icon_description">Shop website</string>
+    <string name="trust_agent_onboarding_smartlock_text_body">"Keep your device unlocked when it's safe with you.
+
+Smart Lock can do this by recognising signals like when your device is in your pocket or near your home. "<annotation id="trustagent_learn_more"> Find out more </annotation></string>
+    <string name="trust_agent_smartlock_disabled_detail">"To use Smart Lock, open the trust agent's setting and turn on Smart Lock."</string>
+    <string name="turned_off_auto_backup_dialog">Any photos &amp; videos taken while Auto-Backup is turned off will be backed up if and when you turn it back on.</string>
+    <string name="udc_setting_toggle_accessibility_action">Modify</string>
+    <string name="unable_to_retrieve_licenses">Unable to retrieve licences</string>
+    <string name="unstar_contact_content_description">Double-tap to remove from favourites</string>
+    <string name="usage_reporting_dialog_message">Help improve your Android experience by automatically sending diagnostic, device and app usage data to Google. This will help battery life, system and app stability, and other improvements. Some aggregate data will also help Google apps and partners, such as Android developers. If your additional Web &amp; App Activity setting is turned on, this data may be saved to your Google account.</string>
+    <string name="usage_reporting_dialog_more_message">This is general information about your device and how you use it (such as battery level, system and app activity, and errors). The data will be used to improve Android, and some aggregated information will also help Google apps and partners, such as Android developers, to make their apps and products better.</string>
+    <string name="verify_apps_disable_confirmation_dialog">Your device will no longer be checked for security threats. Are you sure that you want to disable this protection?</string>
+    <string name="verify_your_identity_description">"Frequent Places needs to verify that it's you."</string>
+    <string name="wallet_add_credit_card_summary_expires_no_label">Expires: %1$s</string>
+    <string name="wallet_android_pay_card_unusable">"%1$s card can't be used with Android Pay at the moment. Please use a different card or try again later."</string>
+    <string name="wallet_cancel_payment_message">Are you sure that you want to cancel your purchase and lose any updates made to your account?</string>
+    <string name="wallet_expand_shipping_address_selector">Expand list of delivery addresses</string>
+    <string name="wallet_login_hint">Log in</string>
+    <string name="wallet_objects_message">Keep all your loyalty cards, gift cards and offers in one place with Google Pay</string>
+    <string name="wallet_screen_blocked">It seems that another app is blocking access to Wallet. Turn off any apps that might be drawing over the screen and try again.</string>
+    <string name="wallet_setup_wizard_reactivation_summary">Get your new phone set up to pay in shops</string>
+    <string name="wallet_setup_wizard_reactivation_title">Reactivate card to pay in shops</string>
+    <string name="wallet_setup_wizard_token_eligible_summary">Activate a card to start enjoying faster, safer checkout in shops</string>
+    <string name="wallet_setup_wizard_token_eligible_title">Pay with your phone in shops</string>
+    <string name="wallet_uic_address_field_address_line_2">Flat</string>
+    <string name="wallet_uic_address_field_organization">Organisation</string>
+    <string name="wallet_uic_address_field_post_town">Postal town</string>
+    <string name="wallet_uic_address_field_postal_code">Postcode</string>
+    <string name="wallet_uic_android_app_redirect_canceled">Your transaction has been cancelled</string>
+    <string name="wallet_uic_android_app_redirect_canceled_title">Transaction cancelled</string>
+    <string name="wallet_uic_error_expired_credit_card">Card has expired</string>
+    <string name="wallet_uic_phone_number">Telephone number</string>
+    <string name="walletp2p_canceled">Cancelled</string>
+    <string name="walletp2p_continue_anyway">Continue any way</string>
+    <string name="walletp2p_request_canceled">Request cancelled</string>
+    <string name="walletp2p_send_cancelled">Send was cancelled</string>
+    <string name="walletp2p_switch_account">Switch accounts</string>
+    <string name="wearable_no_longer_in_network_notification_body"><b>Disconnect &amp; reset</b> to re-pair your watch with your phone</string>
+    <string name="current_locale_sanity_check">en</string>
+</resources>

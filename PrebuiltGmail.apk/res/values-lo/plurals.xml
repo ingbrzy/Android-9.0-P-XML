@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">ຜູ້ຮັບ %s ຄົນ</item>
+        <item quantity="one">ຜູ້ຮັບ 1 ຄົນ</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">ຜູ້ຮັບ ^1 ຄົນໃຊ້ບໍລິການທີ່ບໍ່ຮອງຮັບການເຂົ້າລະຫັດ. ຫາກບໍ່ເຂົ້າລະຫັດ, ຂໍ້ຄວາມຂອງທ່ານອາດຖືກຄົນອື່ນເບິ່ງໃນເວລາສົ່ງໄດ້. ^2</item>
+        <item quantity="one">^1 ໃຊ້ບໍລິການທີ່ບໍ່ຮອງຮັບການເຂົ້າລະຫັດ. ຫາກບໍ່ເຂົ້າລະຫັດ, ຂໍ້ຄວາມຂອງທ່ານອາດຖືກຄົນອື່ນເບິ່ງໃນເວລາສົ່ງໄດ້. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 ແລະ ໂດເມນອື່ນໆບໍ່ຮອງຮັບການເຂົ້າລະຫັດເມື່ອຂໍ້ຄວາມນີ້ຖືກສົ່ງໄປ. ^2</item>
+        <item quantity="one">^1 ບໍ່ຮອງຮັບການເຂົ້າລະຫັດເມື່ອຂໍ້ຄວາມນີ້ຖືກສົ່ງໄປ. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ຈັດເກັບ %1$d ບົດສົນທະນາເຫຼົ່ານີ້?</item>
+        <item quantity="one">ຈັດເກັບບົດສົນທະນານີ້?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ລຶບ %1$d ການສົນທະນາເຫຼົ່ານີ້ບໍ່?</item>
+        <item quantity="one">ລຶບບົດສົນທະນານີ້?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ຖິ້ມ​ສະບັບ​ຮ່າງ​ຈາກ​ %1$d ບົດ​ສົນທະນາເຫຼົ່ານີ້​ບໍ່?</item>
+        <item quantity="one">ຖິ້ມ​ສະບັບ​ຮ່າງ​ຈາກ​ບົດ​ສົນທະນານີ້​ບໍ່?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">ຈັດເກັບ &lt;b>%1$d&lt;/b> ເຂົ້າແຟ້ມແລ້ວ</item>
+        <item quantity="one">ຈັດເກັບ &lt;b>%1$d&lt;/b> ເຂົ້າແຟ້ມແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">ລຶບ &lt;b>%1$d&lt;/b> ອອກແລ້ວ</item>
+        <item quantity="one">ລຶບ &lt;b>%1$d&lt;/b> ອອກແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ປ່ຽນປ້າຍກຳກັບແລ້ວ.</item>
+        <item quantity="one">ປ່ຽນປ້າຍກຳກັບແລ້ວ.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">ຍ້າຍ &lt;b>%1$d&lt;/b> ລາຍການໄປອິນບັອກແລ້ວ</item>
+        <item quantity="one">ຍ້າຍ &lt;b>%1$d&lt;/b> ລາຍການໄປອິນບັອກແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">ປິດສຽງ &lt;b>%1$d&lt;/b> ແລ້ວ</item>
+        <item quantity="one">ປິດສຽງ &lt;b>%1$d&lt;/b> ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">ລາຍງານ &lt;b>%1$d&lt;/b> ວ່າບໍ່ສຳຄັນແລ້ວ</item>
+        <item quantity="one">ລາຍງານ &lt;b>%1$d&lt;/b> ວ່າບໍ່ສຳຄັນແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">ລາຍງານ &lt;b>%1$d&lt;/b> ວ່າບໍ່ແມ່ນສະແປມແລ້ວ</item>
+        <item quantity="one">ລາຍງານ &lt;b>%1$d&lt;/b> ວ່າບໍ່ແມ່ນສະແປມແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ໝາຍວ່າອ່ານແລ້ວ</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ໝາຍວ່າອ່ານແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ເລື່ອນໄປຈົນຮອດ %2$s ແລ້ວ</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ເລື່ອນໄປຈົນຮອດ %2$s ແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">ລາຍງານ &lt;b>%1$d&lt;/b> ວ່າເປັນສະແປມແລ້ວ</item>
+        <item quantity="one">ລາຍງານ &lt;b>%1$d&lt;/b> ວ່າເປັນສະແປມແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">ລາຍງານ %1$d ລາຍການວ່າເປັນສະແປມ ແລະເຊົາຕິດຕາມແລ້ວ</item>
+        <item quantity="one">ລາຍງານ %1$d ລາຍການວ່າເປັນສະແປມ ແລະເຊົາຕິດຕາມແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">ເລື່ອນ &lt;b>%1$d&lt;/b> ລາຍການແລ້ວ</item>
+        <item quantity="one">ເລື່ອນ &lt;b>%1$d&lt;/b> ລາຍການແລ້ວ</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">ກຳລັງລຶບດາວອອກຈາກ %1$d ບົດສົນທະນາ.</item>
+        <item quantity="one">ກຳລັງລຶບດາວອອກຈາກ %1$d ບົດສົນທະນາ.</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກໆມື້</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">ອີເມວເຫຼົ່ານີ້ຈະຖືກໝາຍວ່າເປັນສະແປມ. ທ່ານຕ້ອງການຢຸດຮັບອີເມວຄ້າຍໆກັນຈາກ &lt;b>ຜູ້ສົ່ງ %2$d&lt;/b> ນຳບໍ່?%1$s</item>
+        <item quantity="one">ອີເມວນີ້ຈະຖືກໝາຍວ່າເປັນສະແປມ. ທ່ານຕ້ອງການຢຸດຮັບອີເມວຄ້າຍກັນຈາກ %1$s ນຳບໍ່?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ສະບັບຮ່າງ</item>
+        <item quantity="one">ສະບັບຮ່າງ</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s ບົດສົນທະນາຈະຖືກລຶບອອກຖາວອນ</item>
+        <item quantity="one">%1$s ບົດສົນທະນາຈະຖືກລຶບອອກຖາວອນ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d ເທື່ອ</item>
+        <item quantity="one">; ເທື່ອດຽວ</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">ຜູ່ຮັບຂອງທ່ານອາດບໍ່ສາມາດເຂົ້າເຖິງໄຟລ໌ທີ່ທ່ານແຊກມາຈາກ Drive ໄດ້. ທ່ານອາດຕ້ອງແບ່ງປັນໄຟລ໌ດັ່ງກ່າວຈາກພາຍໃນ Google Drive.</item>
+        <item quantity="one">ຜູ່ຮັບຂອງທ່ານອາດບໍ່ສາມາດເຂົ້າເຖິງໄຟລ໌ທີ່ທ່ານແຊກມາຈາກ Drive ໄດ້. ທ່ານອາດຕ້ອງແບ່ງປັນໄຟລ໌ດັ່ງກ່າວຈາກພາຍໃນ Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">ໝາຍເຫດ: ຜູ່ຮັບບາງຄົນອາດບໍ່ສາມາດເຂົ້າເຖິງໄຟລ໌ນີ້ໄດ້. ທ່ານອາດຕ້ອງແບ່ງປັນໄຟລ໌ນີ້ຈາກພາຍໃນ Google Drive.</item>
+        <item quantity="one">ໝາຍເຫດ: ຜູ່ຮັບບາງຄົນອາດບໍ່ສາມາດເຂົ້າເຖິງໄຟລ໌ນີ້ໄດ້. ທ່ານອາດຕ້ອງແບ່ງປັນໄຟລ໌ນີ້ຈາກພາຍໃນ Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"ທ່ານກຳລັງແບ່ງປັນກັບ:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>ເຊິ່ງບໍ່ໄດ້ຢູ່ໃນອົງກອນ Google Apps ທີ່ໄຟລ໌ເຫຼົ່ານີ້ຂຶ້ນນຳ."</item>
+        <item quantity="one">ທ່ານກຳລັງແບ່ງປັນກັບ:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>ເຊິ່ງບໍ່ໄດ້ຢູ່ໃນອົງກອນ Google Apps ທີ່ໄຟລ໌ນີ້ຂຶ້ນນຳ.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">ຜູ້ຮັບ ^1 ຄົນໃຊ້ບໍລິການທີ່ບໍ່ຮອງຮັບການເຂົ້າລະຫັດ. ຫາກບໍ່ມີການເຂົ້າລະຫັດແລ້ວ, ຂໍ້ຄວາມຂອງທ່ານຈະສາມາດຖືກເປີດອ່ານໃນລະຫວ່າງການຈັດສົ່ງໄດ້. ^2</item>
+        <item quantity="one">^1 ນຳໃຊ້ບໍລິການທີ່ບໍ່ຮອງຮັບການເຂົ້າລະຫັດ. ຫາກບໍ່ມີການເຂົ້າລະຫັດແລ້ວ, ຂໍ້ຄວາມຂອງທ່ານຈະສາມາດຖືກເປີດອ່ານໃນລະຫວ່າງການຈັດສົ່ງໄດ້. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ທຸກໆ %1$d ເດືອນ</item>
+        <item quantity="one">ທຸກໆເດືອນ</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d ຂໍ້ຄວາມໃໝ່</item>
+        <item quantity="one">%1$d ຂໍ້ຄວາມໃໝ່</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ຂໍ້ຄວາມໃໝ່</item>
+        <item quantity="one">%1$d ຂໍ້ຄວາມໃໝ່</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ໄຟລ໌ແນບ</item>
+        <item quantity="one">%1$d ໄຟລ໌ແນບ</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ຂໍ້ຄວາມ</item>
+        <item quantity="one">%1$d ຂໍ້ຄວາມ</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">ບໍ່ໄດ້ແບ່ງປັນປະຕິທິນ</item>
+        <item quantity="one">ບໍ່ໄດ້ແບ່ງປັນປະຕິທິນ</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ສຳລັບ %d ນັດໝາຍ</item>
+        <item quantity="one">ສຳລັບ %d ນັດໝາຍ</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ທຸກໆ %d ມື້</item>
+        <item quantity="one">ທຸກໆ %d ມື້</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ທຸກໆ %d ເດືອນ</item>
+        <item quantity="one">ທຸກໆ %d ເດືອນ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ທຸກໆ %d ອາທິດ</item>
+        <item quantity="one">ທຸກໆ %d ອາທິດ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ທຸກໆ %d ປີ</item>
+        <item quantity="one">ທຸກໆ %d ປີ</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">ໂຫຼດ %d ຜົນການຄົ້ນຫາແລ້ວ</item>
+        <item quantity="one">ໂຫຼດ %d ຜົນການຄົ້ນຫາແລ້ວ</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ຂະຫຍາຍ %1$d ຂໍ້ຄວາມເກົ່າກວ່າ</item>
+        <item quantity="one">ຂະຫຍາຍຂໍ້ຄວາມເກົ່າກວ່າ</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">ໄດ້ເລື່ອນໄປກ່ອນ %d ມື້ກ່ອນ</item>
+        <item quantity="one">ໄດ້ເລື່ອນໄປກ່ອນ %d ມື້ກ່ອນ</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">ໄດ້ເລື່ອນໄປກ່ອນ %d ຊົ່ວໂມງກ່ອນ</item>
+        <item quantity="one">ໄດ້ເລື່ອນໄປກ່ອນ %d ຊົ່ວໂມງກ່ອນ</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">ໄດ້ເລື່ອນໄປກ່ອນ %d ເດືອນກ່ອນ</item>
+        <item quantity="one">ໄດ້ເລື່ອນໄປກ່ອນ %d ເດືອນກ່ອນ</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">ໄດ້ເລື່ອນໄປກ່ອນ %d ອາທິດກ່ອນ</item>
+        <item quantity="one">ໄດ້ເລື່ອນໄປກ່ອນ %d ອາທິດກ່ອນ</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">ໄດ້ເລື່ອນໄປກ່ອນ %d ປີກ່ອນ</item>
+        <item quantity="one">ໄດ້ເລື່ອນໄປກ່ອນ %d ປີກ່ອນ</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">ຂະຫຍາຍ %1$d ຂໍ້ຄວາມທີ່ເກົ່າກວ່າແລ້ວ</item>
+        <item quantity="one">ຂະຫຍາຍນຶ່ງຂໍ້ຄວາມທີ່ເກົ່າກວ່າແລ້ວ</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d ມື້</item>
+        <item quantity="one">ນຶ່ງມື້</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">ອີເມວໃນຮອບ %1$d ມື້ຫຼ້າສຸດຈະຖືກດາວໂຫລດເມື່ອເຊື່ອມຕໍ່ແລ້ວ</item>
+        <item quantity="one">ອີເມວໃນຮອບ 1 ມື້ຫຼ້າສຸດຈະຖືກດາວໂຫລດເມື່ອເຊື່ອມຕໍ່ແລ້ວ</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">%1$d ມື້ສຸດທ້າຍ</item>
+        <item quantity="one">ມື້ສຸດທ້າຍ</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">ວັນຄົບກຳນົດ - %1$s - %2$d ໜ້າວຽກ</item>
+        <item quantity="one">ວັນຄົບກຳນົດ - %1$s - %2$d ໜ້າວຽກ</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">ມື້</item>
+        <item quantity="one">ມື້</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ທຸກໆ %1$d ອາທິດໃນ %2$s</item>
+        <item quantity="one">ທຸກໆອາທິດໃນ %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ທຸກໆ %1$d ປີ</item>
+        <item quantity="one">ທຸກໆປີ</item>
+    </plurals>
+</resources>

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">హోమ్‌కు నావిగేట్ చేయండి</string>
+    <string name="abc_action_bar_up_description">పైకి నావిగేట్ చేయండి</string>
+    <string name="abc_action_menu_overflow_description">మరిన్ని ఎంపికలు</string>
+    <string name="abc_action_mode_done">పూర్తయింది</string>
+    <string name="abc_activity_chooser_view_see_all">అన్నీ చూడండి</string>
+    <string name="abc_activitychooserview_choose_application">అనువర్తనాన్ని ఎంచుకోండి</string>
+    <string name="abc_capital_off">ఆఫ్ చేయి</string>
+    <string name="abc_capital_on">ఆన్ చేయి</string>
+    <string name="abc_search_hint">వెతుకు...</string>
+    <string name="abc_searchview_description_clear">ప్రశ్నను క్లియర్ చేయి</string>
+    <string name="abc_searchview_description_query">ప్రశ్న శోధించండి</string>
+    <string name="abc_searchview_description_search">వెతుకు</string>
+    <string name="abc_searchview_description_submit">ప్రశ్నని సమర్పించు</string>
+    <string name="abc_searchview_description_voice">వాయిస్ శోధన</string>
+    <string name="abc_shareactionprovider_share_with">వీరితో భాగస్వామ్యం చేయి</string>
+    <string name="abc_shareactionprovider_share_with_application">%sతో భాగస్వామ్యం చేయండి</string>
+    <string name="abc_toolbar_collapse_description">కుదించండి</string>
+    <string name="account_blocked_title">ఖాతా బ్లాక్ చేయబడింది</string>
+    <string name="account_level_title">ఖాతా చర్య అవసరం</string>
+    <string name="account_removed_notification_text">%1$s తీసివేయబడింది, దీని వలన పరికర నిర్వహణ పూర్తి కాలేదు</string>
+    <string name="account_removed_notification_title">ఖాతా తీసివేయబడింది</string>
+    <string name="android_privacy_policy_title">అదనపు గోప్యతా విధానం</string>
+    <string name="app_level_title">సైన్-ఇన్ అభ్యర్థన</string>
+    <string name="app_level_title_secondary">%s ద్వారా సైన్-ఇన్ అభ్యర్థన</string>
+    <string name="audience_selection_done">పూర్తయింది</string>
+    <string name="auth_account_already_has_gmail">ఖాతా ఇప్పటికే Gmailను కలిగి ఉంది.</string>
+    <string name="auth_account_content_provider_label">Google ఖాతా డేటా</string>
+    <string name="auth_account_module_display_name">Google ఖాతాలు</string>
+    <string name="auth_account_removed_default_description">పరికర నిర్వహణ పూర్తి కాలేదు. %1$s</string>
+    <string name="auth_account_removed_default_title">సెటప్ రద్దయింది</string>
+    <string name="auth_account_removed_dm_bad_result_description">పరికర నిర్వహణను పూర్తి చేయడం సాధ్యం కాలేదు. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">మీ డొమైన్‌కు మొబైల్ పరికర నిర్వహణ అవసరం, కానీ దీనికి ఈ పరికరంలో మద్దతు లేదు. వేరొక ఖాతాను ఉపయోగించడం ప్రయత్నించండి.</string>
+    <string name="auth_account_removed_dm_not_supported_title">పరికర నిర్వహణకు మద్దతు లేదు</string>
+    <string name="auth_account_removed_dm_setup_failed_description">పరికర నిర్వహణ సరిగ్గా ఇన్‌స్టాల్ కాలేదు. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">ఇన్‌స్టాలేషన్ సమస్య</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">సెటప్ రద్దయింది</string>
+    <string name="auth_account_removed_restricted_by_admin_description">ఈ పరికరంలో ఒక నిర్వహిత ఖాతాకు మాత్రమే అనుమతి ఉంది. మీకు ఏవైనా ప్రశ్నలు ఉంటే, మీ సంస్థ యొక్క నిర్వాహకులను సంప్రదించండి.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">ఇప్పటికే ఒక నిర్వహిత ఖాతా ఉంది</string>
+    <string name="auth_account_settings_title">ఖాతా సెట్టింగ్‌లు</string>
+    <string name="auth_account_setup_title">Google ఖాతా</string>
+    <string name="auth_account_start_over_and_signin_again">మొదటి నుండి ప్రారంభించి, మళ్లీ సైన్ ఇన్ చేయండి.</string>
+    <string name="auth_account_state_sync_title">ఖాతా స్థితి సమకాలీకరణ</string>
+    <string name="auth_allow_external_site_access">%sలో మీ డేటాకి నిరంతర ప్రాప్యతను కలిగి ఉంటుంది</string>
+    <string name="auth_app_permission_ok_footnote">మీరు కొనసాగడం ద్వారా ఈ యాప్ మరియు Google వాటి సంబంధిత సేవా నిబంధనలు మరియు గోప్యతా విధానాలకు అనుగుణంగా మీ సమాచారాన్ని ఉపయోగించడానికి అనుమతిస్తున్నారు.</string>
+    <string name="auth_cant_add_work_account_message">ఈ రకమైన ఖాతా మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.</string>
+    <string name="auth_captcha_instructions">మీరు ఇక్కడ చూసే వచనాన్ని టైప్ చేయండి:</string>
+    <string name="auth_captcha_title">క్యాప్చా నమోదు చేయాలి</string>
+    <string name="auth_common_downloading">డౌన్‌లోడ్ చేస్తోంది…</string>
+    <string name="auth_common_go_back">వెనుకకు వెళ్లండి</string>
+    <string name="auth_common_switch_accounts">ఖాతాలను మార్చండి</string>
+    <string name="auth_communicating_message">మీ ఖాతాలోకి సమాచారాన్ని సేవ్ చేయడం కోసం మీ పరికరం Googleని సంప్రదిస్తోంది. దీనికి గరిష్టంగా 5 నిమిషాలు పట్టవచ్చు.</string>
+    <string name="auth_confirm_creds_sync_title">ఆధారాల స్థితి</string>
+    <string name="auth_d2d_source_alert_title">నొక్కి &amp; వెళ్లండి</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">లాక్ చేసి &amp; ధృవీకరించు</string>
+    <string name="auth_d2d_source_copy_notice">ఖాతాలు మరియు డేటాను మీ మరొక పరికరానికి కాపీ చేయాలా?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">మీరు ధృవీకరించిన తర్వాత, బ్లూటూత్ ఆన్ చేయబడుతుంది కాబట్టి మీ పరికరాలు పరస్పరం కమ్యూనికేట్ చేసుకోగలవు.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">మీరు ధృవీకరించిన తర్వాత, మీ పరికరాలు బ్లూటూత్ ద్వారా కనెక్ట్ చేయబడతాయి.</string>
+    <string name="auth_d2d_source_lock_notice">కొనసాగించడానికి, మీ స్క్రీన్ లాక్ చేయబడుతుంది మరియు మీరు దాన్ని ధృవీకరణ కోసం అన్‌లాక్ చేయాలి.</string>
+    <string name="auth_d2d_source_no_accounts_toast">ఈ పరికరంలో ఖాతాలు ఏవీ లేనందున నొక్కి, వెళ్లడం సాధ్యపడదు.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">మీ పరికరంలో బ్లూటూత్ అందుబాటులో లేనందున నొక్కి, వెళ్లడం సాధ్యపడదు.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">బ్లూటూత్ ఆన్ చేయబడుతుంది కాబట్టి మీ పరికరాలు పరస్పరం కమ్యూనికేట్ చేసుకోగలవు.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">ఇది బ్లూటూత్‌ని ఉపయోగిస్తుంది.</string>
+    <string name="auth_d2d_source_notification_title">నొక్కి, వెళ్లండి చర్య పూర్తయింది</string>
+    <string name="auth_d2d_source_restricted_user_toast">నియంత్రిత వినియోగదారు ప్రొఫైల్ నుండి నొక్కి, పునరుద్ధరించడం సాధ్యపడదు.</string>
+    <string name="auth_d2d_source_title">ఖాతాలను పునరుద్ధరించండి</string>
+    <string name="auth_d2d_source_unknown_device_name">తెలియని పరికరం</string>
+    <string name="auth_d2d_tap_and_go">నొక్కి &amp; వెళ్లండి</string>
+    <string name="auth_d2d_target_tap_progress_message">కొనసాగడానికి, మీ మరో పరికరంలో సరే నొక్కండి</string>
+    <string name="auth_d2d_target_title">నొక్కి &amp; వెళ్లండి</string>
+    <string name="auth_d2d_target_unlock_progress_message">మీ ఇంకో పరికరంలో తనిఖీ చేయండి</string>
+    <string name="auth_d2d_target_wait_progress_message">ఖాతాలు మరియు డేటాను పొందుతోంది...</string>
+    <string name="auth_device_management_download_app_icon">%s అనువర్తన చిహ్నం</string>
+    <string name="auth_device_management_download_description">ఈ ఖాతాకు మొబైల్ పరికర నిర్వహణ అవసరం. ఖాతాకు అవసరమైన భద్రతా విధానాలను అమలు చేయడానికి ^1 అనువర్తనాన్ని ఇన్‌స్టాల్ చేయండి.</string>
+    <string name="auth_device_management_download_description_kids">ఈ పరికరానికి ఖాతాను జోడించడానికి, ముందుగా <b>^1</b>"ని ఇన్‌స్టాల్ చేయండి. 
+
+మీ పిల్లల కోసం ఈ పరికరాన్ని సెటప్ చేయడంలో ^1 మీకు సహాయపడుతుంది."</string>
+    <string name="auth_device_management_download_failed_message">మీరు ఇప్పటికీ ఈ యాప్ లేకుండా సెటప్‌ను కొనసాగించవచ్చు</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">పరికర నిర్వహణ ఇన్‌స్టాల్ చేయడంలో విఫలమైంది. ఈ ఖాతా తీసివేయబడుతుంది. తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="auth_device_management_download_failed_title">యాప్ డౌన్‌లోడ్ చేయడం సాధ్యపడలేదు</string>
+    <string name="auth_device_management_download_not_updated_message">మీరు ఇప్పటికీ ప్రస్తుత సంస్కరణను ఉపయోగించి సెటప్‌ను కొనసాగించవచ్చు</string>
+    <string name="auth_device_management_download_paused">పాజ్ చేయబడింది</string>
+    <string name="auth_device_management_download_progress">డౌన్‌లోడ్ చేస్తోంది…</string>
+    <string name="auth_device_management_download_skip_message">ఈ ఖాతాకి పరికర నిర్వహణ అవసరం. అది లేకుండానే కొనసాగించాలా?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">ఈ ఖాతాను జోడించడానికి పరికర నిర్వహణ అవసరమవుతుంది. మీరు వేరొక ఖాతాతో ప్రారంభించాలనుకుంటున్నారా?</string>
+    <string name="auth_device_management_go_back">వెనుకకు వెళ్లు</string>
+    <string name="auth_device_management_screenlock_description">ఈ పరికరంలో మీ కార్యాలయ ఖాతాను యాక్సెస్ చేయడానికి, మీరు లాక్ స్క్రీన్‌ను సెట్ చేయాలి. ఇది మీ సంస్థ యొక్క మొబైల్ పరికర విధానం.</string>
+    <string name="auth_device_management_screenlock_skip_message">ఈ ఖాతాకు స్క్రీన్‌లాక్ భద్రత అవసరం. మీరు వేరే ఖాతాతో ప్రారంభించాలనుకుంటున్నారా?</string>
+    <string name="auth_device_management_setup_work_profile_description">"మీ కార్యాలయ ప్రొఫైల్ మీ కార్యాలయ యాప్‌లను వేరుగా ఉంచుతుంది మరియు మీ సంస్థచే నిర్వహించబడుతుంది.
+
+సెటప్‌ని పూర్తి చేయడానికి, మీ IT నిర్వాహకుడు నుండి మీకు ఒక కోడ్ అవసరం. మీ కార్యాలయ ప్రొఫైల్‌ని నిర్వహించడానికి మీ IT నిర్వాహకుడి ద్వారా నిర్వహణా సాధనం డౌన్‌లోడ్ చేయబడుతుంది మరియు ఉపయోగించబడుతుంది."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"మీ కార్యాలయ ప్రొఫైల్ మీ కార్యాలయ యాప్‌లను వేరుగా ఉంచుతుంది మరియు మీ సంస్థచే నిర్వహించబడుతుంది.
+
+మీ కార్యాలయ ప్రొఫైల్‌ని నిర్వహించడానికి మీ IT నిర్వాహకుడి ద్వారా నిర్వహణా సాధనం డౌన్‌లోడ్ చేయబడుతుంది మరియు ఉపయోగించబడుతుంది."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">మీ కార్యాలయ ప్రొఫైల్‌ను సెటప్ చేయండి</string>
+    <string name="auth_device_management_start_description">ఈ ఖాతాకు మొబైల్ డివైజ్ నిర్వహణ. మీరు తదుపరిని నొక్కినప్పుడు, ^1 యాప్ ఖాతాకు అవసరమైన భద్రతా విధానాలను అమలు చేయడంలో మీకు సహాయపడుతుంది.</string>
+    <string name="auth_device_management_start_description_kids">ఈ పరికరానికి ఖాతాను జోడించడానికి, <b>^1</b>"ని ఉపయోగించండి. 
+
+మీ పిల్లల కోసం ఈ పరికరాన్ని సెటప్ చేయడంలో ^1 మీకు సహాయపడుతుంది."</string>
+    <string name="auth_device_management_title">పరికర నిర్వహణ</string>
+    <string name="auth_device_management_update_description">ఈ ఖాతాకు మొబైల్ పరికర నిర్వహణ అవసరం. ఖాతాతో అనుబంధించబడిన భద్రతా విధానాలకు అనుగుణంగా ఉండటానికి, మీరు సరికొత్త ^1 అనువర్తన సంస్కరణను ఇన్‌స్టాల్ చేయాలి.</string>
+    <string name="auth_device_management_update_description_kids">ఈ పరికరానికి ఖాతాను జోడించడానికి, ముందుగా సరికొత్త <b>^1</b>" సంస్కరణను ఇన్‌స్టాల్ చేయండి. 
+
+ మీ పిల్లల కోసం ఈ పరికరాన్ని సెటప్ చేయడంలో ^1 మీకు సహాయపడుతుంది."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmailను ఉపయోగించదు.</string>
+    <string name="auth_error_account_disabled">"ఈ ఖాతా నిలిపివేయబడింది. 
+
+(వివరాల కోసం, వెబ్ బ్రౌజర్‌లో http://google.com/accountsను సందర్శించండి.)"</string>
+    <string name="auth_error_account_not_verified">"ఈ ఖాతా ధృవీకరించబడలేదు. మీ ఇమెయిల్‌ను తనిఖీ చేసి, దానిలో చేర్చిన లింక్‌ను అనుసరించి ఈ ఖాతాను ధృవీకరించండి. 
+
+(మీ ఖాతా సమచారాన్ని తిరిగి పొందడానికి, మీ కంప్యూటర్‌లో http://www.google.com/accounts/recoveryకి వెళ్లండి.)"</string>
+    <string name="auth_error_bad_password">పాస్‌వర్డ్ చాలా బలహీనంగా ఉంది లేదా చెల్లని అక్షరాలను కలిగి ఉంది. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="auth_error_bad_username">వినియోగదారు పేరు చెల్లదు.</string>
+    <string name="auth_error_generic_server_error">"Google సర్వర్‌లతో కమ్యూనికేట్ చేయడంలో సమస్య ఉంది. 
+
+తర్వాత మళ్లీ ప్రయత్నించండి."</string>
+    <string name="auth_error_invalid_second_factor">మీ సాధారణ ఖాతా పాస్‌వర్డ్‌కు బదులుగా అనువర్తన-నిర్దిష్ట పాస్‌వర్డ్‌ను ఉపయోగించండి.</string>
+    <string name="auth_error_login_failed">"మీ వినియోగదారు పేరు మరియు పాస్‌వర్డ్ సరిపోలలేదు. మళ్లీ ప్రయత్నించండి.
+
+మీ ఖాతా సమాచారాన్ని తిరిగి పొందడానికి, google.com/accounts/recovery/కి వెళ్లండి."</string>
+    <string name="auth_error_needs_browser">మీ ఖాతాను యాక్సెస్ చేయడానికి, మీరు తప్పనిసరిగా వెబ్‌లో సైన్ ఇన్ చేయాలి. బ్రౌజర్ సైన్-ఇన్‌ను ప్రారంభించడానికి తర్వాత నొక్కండి.</string>
+    <string name="auth_error_no_network">"మీరు నెట్‌వర్క్ కనెక్షన్‌ని కలిగి లేరు. 
+
+ఇది తాత్కాలిక సమస్య కావచ్చు. మళ్లీ ప్రయత్నించండి లేదా మరొక Wi-Fi నెట్‌వర్క్‌కి కనెక్ట్ చేయండి."</string>
+    <string name="auth_error_not_logged_in">వినియోగదారు సైన్ ఇన్ చేయలేదు.</string>
+    <string name="auth_error_username_unavailable">వినియోగదారు పేరు అందుబాటులో లేదు.</string>
+    <string name="auth_existing_account_error_text">ఈ Android పరికరంలో ఇప్పటికే ^1 ఖాతా ఉంది.</string>
+    <string name="auth_existing_account_error_title">ఖాతా ఇప్పటికే ఉంది</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">ఇటీవల పాస్‌వర్డ్‌ను మార్చిన కారణంగా పరికరానికి సైన్ ఇన్ చేయడం సాధ్యపడలేదు. దయచేసి పాస్‌వర్డ్ మార్చిన 24 గంటల తర్వాత మళ్లీ సైన్ ఇన్ చేయడానికి ప్రయత్నించండి.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">పరికర రక్షణ లక్షణాలు ఇకపై పని చేయవు.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">మీ పరికరంలో ఉన్న చివరి Google ఖాతాను మీ వ్యక్తిగత ప్రొఫైల్ నుండి తరలించడం వలన పరికర అపహరణ సంరక్షణ లక్షణాలు నిలిపివేయబడతాయి. మీరు వాటిని తర్వాత మళ్లీ ప్రారంభించడం కోసం పరికరానికి మరొక ఖాతాను జోడించవచ్చు.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">మీరు ఖచ్చితంగా చేయాలనుకుంటున్నారా?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">ఖాతాను కార్యాలయ ప్రొఫైల్‌కి తరలించాలా?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">తెలియని ఎర్రర్ కారణంగా పరికరానికి సైన్ ఇన్ చేయడం సాధ్యపడలేదు. దయచేసి మరో ఖాతాను ప్రయత్నించండి లేదా 24 గంటల తర్వాత మళ్లీ సైన్ ఇన్ చేయడానికి ప్రయత్నించండి.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">దయచేసి ఈ పరికరం కోసం యజమాని ఖాతాల్లో ఒకదాన్ని ఉపయోగించి సైన్ ఇన్ చేయండి</string>
+    <string name="auth_field_cant_be_blank">ఫీల్డ్‌ను ఖాళీగా వదిలిపెట్టకూడదు.</string>
+    <string name="auth_frp_add_account_no">కొత్త ఖాతాని ఉపయోగించండి</string>
+    <string name="auth_frp_add_account_prompt">ఈ పరికరంలో మునుపటి Google ఖాతా ధృవీకరించబడింది. మీరు ఈ పరికరంలో మళ్లీ ^1ని జోడించవచ్చు లేదా మీరు కొత్త ఖాతాను ఉపయోగించవచ్చు.</string>
+    <string name="auth_frp_add_account_yes">మునుపటి ఖాతాని జోడించండి</string>
+    <string name="auth_frp_device_managed_label">ఈ పరికరం మీ సంస్థ ద్వారా నిర్వహించడానికి సెటప్ చేయబడింది.</string>
+    <string name="auth_frp_download_management_app_label">సెటప్ ప్రాసెస్‌ను కొనసాగించడానికి మీరు తప్పనిసరిగా పరికర నిర్వహణ అనువర్తనాన్ని డౌన్‌లోడ్ చేయాలి.</string>
+    <string name="auth_frp_enter_device_credentials_label">నిర్వాహక మోడ్‌కు మారండి</string>
+    <string name="auth_frp_install_dpc_error">నిర్వహణ యాప్ ఇన్‌స్టాలేషన్ విఫలమైంది. మీరు ఈ దశను దాటవేయాలనుకుంటే, డివైజ్ నిర్వహించబడదు.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">నిర్వహణ యాప్ ఇన్‌స్టాలేషన్ విఫలమైంది. దయచేసి నెట్‌వర్క్ కనెక్షన్‌ను తనిఖీ చేసి, ఆపై తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">బదులుగా నా Google ఖాతాను ఉపయోగించండి</string>
+    <string name="auth_frp_preadd_lkscreen_text">మీ పరికరం ఫ్యాక్టరీ రీసెట్ చేయబడింది, మీరు మీ మునుపటి రహస్యంతో దీన్ని అన్‌లాక్ చేయవచ్చు.</string>
+    <string name="auth_frp_preadd_lkscreen_title">ఫ్యాక్టరీ రీసెట్ రక్షణ</string>
+    <string name="auth_frp_start_reenroll_device_title">కార్యాలయంలో మీ పరికరం</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">ఈ ఖాతాను యాక్సెస్ చేయడం సాధ్యపడదు. మీ పరికరం మీ సంస్థ యొక్క భద్రతా విధానాలకు కట్టుబడి ఉందని నిర్ధారించుకోండి. మీకు ఈ ఎర్రర్ ఎప్పుడూ కనిపిస్తూనే ఉంటే, మీ సంస్థ నిర్వాహకులను సంప్రదించండి.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">ఖాతా ఎర్రర్</string>
+    <string name="auth_gls_dmagent_activity_download_message">" మీ డొమైన్‌కి మొబైల్ పరికర నిర్వహణ అవసరం.  "<b>^1</b> ఖాతాకి అవసరమైన భద్రతా విధానాలను అమలు చేయడానికి \"Google అనువర్తనాల పరికర విధానం\" అనువర్తనాన్ని ఇన్‌స్టాల్ చేయండి.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">డౌన్‌లోడ్ చేయి</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"లో అక్షరాలు,
+సంఖ్యలు మరియు చుక్కలు మాత్రమే ఉండవచ్చు."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b>లో అక్షరాలు ఏవీ లేవు.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> 6 కంటే తక్కువ లేదా 30 కంటే ఎక్కువ అక్షరాలను కలిగి ఉంది.</string>
+    <string name="auth_gls_is_not_available">వినియోగదారు పేరు <b>^1</b> అందుబాటులో లేదు.</string>
+    <string name="auth_gls_name_checking_info_title">సమాచారాన్ని తనిఖీ చేస్తోంది....</string>
+    <string name="auth_gls_sync_item_title">%sని సమకాలీకరించండి</string>
+    <string name="auth_gls_third_party_activity_download_message">"  "<b>^1</b> ఖాతాను తప్పనిసరిగా మీ సంస్థ నిర్వహించే పరికరం లేదా కార్యాలయ ప్రొఫైల్‌కి జోడించాలి. దయచేసి దీన్ని పూర్తి చేయడానికి మీ IT నిర్వాహకులు అందించే సూచనలను అనుసరించండి.</string>
+    <string name="auth_google_title_logo">Google లోగో</string>
+    <string name="auth_invalid_login_character">అక్షరం చెల్లదు. 0-9, a-z, A-Z మరియు చుక్కలు మాత్రమే అనుమతించబడతాయి.</string>
+    <string name="auth_invalid_password_character">పాస్‌వర్డ్ అక్షరం చెల్లదు.</string>
+    <string name="auth_invalid_username">మీరు టైప్ చేసిన వచనం చెల్లుబాటు అయ్యే వినియోగదారు పేరు కాదు.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">మీరు చెల్లని పాస్‌వర్డ్‌ను టైప్ చేసారు లేదా మీ ఖాతా మారిపోయింది. మీ పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి. మీరు మీ పాస్‌వర్డ్‌ను మర్చిపోయి ఉంటే, మీ ఖాతాను పునరుద్ధరించుకోవడానికి <annotation id="help_url">ఇక్కడ</annotation> క్లిక్ చేయండి.</string>
+    <string name="auth_login_task_title">సైన్ ఇన్ చేస్తోంది</string>
+    <string name="auth_login_title">ఇమెయిల్ మరియు పాస్‌వర్డ్‌ను టైప్ చేయండి</string>
+    <string name="auth_minutemaid_ssl_error">" %sకి కనెక్ట్ చేయడంలో సమస్య ఏర్పడింది."</string>
+    <string name="auth_network_unreliable_help">ఇది తాత్కాలిక సమస్య కావచ్చు లేదా మీ Android పరికరం డేటా సేవలకు సన్నద్ధమై ఉండకపోవచ్చు. ఇది ఇలాగే కొనసాగితే, కస్టమర్ కేర్‌కు కాల్ చేయండి.</string>
+    <string name="auth_no_network">మీకు నెట్‌వర్క్ కనెక్షన్ లేదు.</string>
+    <string name="auth_no_network_help">ఇది తాత్కాలిక సమస్య కావచ్చు లేదా మీ Android పరికరం డేటా సేవలకు సన్నద్ధమై ఉండకపోవచ్చు. మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ చేసినప్పుడు మళ్లీ ప్రయత్నించండి లేదా Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి.</string>
+    <string name="auth_no_network_help_wifi_only">ఇది తాత్కాలిక సమస్య కావచ్చు. మళ్లీ ప్రయత్నించండి లేదా మరో Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయండి.</string>
+    <string name="auth_otp_error">భద్రతా కోడ్‌ను రూపొందించడంలో సమస్య ఏర్పడింది.</string>
+    <string name="auth_otp_explained_paragraph">మీరు మీ పాస్‌వర్డ్‌ని మర్చిపోతే లేదా మీ సైన్-ఇన్ విధానంలో ఏదైనా కొత్తగా ఉంటే, మీ ఖాతాని రక్షించడం కోసం Google ఒక భద్రతా కోడ్‌ని అడగవచ్చు. దీనిని ఇప్పుడే ఉపయోగించండి లేదా తర్వాత కొత్త దానిని పొందండి.</string>
+    <string name="auth_otp_header_message">సైన్ ఇన్ చేయడ కోసం ఈ కోడ్‌ని ఏ సమయంలో ఉపయోగించాలి</string>
+    <string name="auth_otp_no_accounts_available_message">ఈ పరికరంలో కాన్ఫిగర్ చేయబడిన ఖాతా ఏదీ లేదు.</string>
+    <string name="auth_otp_progress_dialog_message">భద్రతా కోడ్‌ను రూపొందిస్తోంది.</string>
+    <string name="auth_otp_ten_digit_code_header">మీ భద్రతా కోడ్‌లు</string>
+    <string name="auth_otp_ten_digit_explaination">మీరు మీ పాస్‌వర్డ్‌ని మర్చిపోయినప్పుడు లేదా కొత్త పరికరం లేదా కొత్త స్థానం నుండి సైన్ ఇన్ చేస్తున్నప్పుడు, మీ Google ఖాతా రక్షణ దృష్ట్యా, ఈ కోడ్‌లలో ఒకటి లేదా రెండూ నమోదు చేయాల్సి రావచ్చు.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">ఈ కోడ్‌ల గడువు ఇప్పటి నుండి 15 నిమిషాలలో లేదా ఉపయోగించిన తర్వాత ముగుస్తుంది. \"https://accounts.google.com/\" ఉన్న URLలను కలిగిన వెబ్ పేజీలలో మాత్రమే మీరి వీటిని ఉపయోగించాలి.</string>
+    <string name="auth_otp_ten_digit_usage_header">మీ కోడ్‌లను ఎప్పుడు ఉపయోగించాలి</string>
+    <string name="auth_otp_ten_digits_code1">కోడ్ 1</string>
+    <string name="auth_otp_ten_digits_code2">కోడ్ 2</string>
+    <string name="auth_password">పాస్‌వర్డ్</string>
+    <string name="auth_plus_audience_selection_description_acl">వీరితో భాగస్వామ్యం చేయండి</string>
+    <string name="auth_plus_info_fragment_app_name">%s వీటిని చేయాలనుకుంటోంది:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%2$s పరికరంలోని %1$s వీటిని చేయాలనుకుంటోంది:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">మీ విస్తారిత సర్కిల్‌లు</string>
+    <string name="auth_plus_scope_fragment_mixed_label">ఎంచుకున్న సర్కిల్‌లు</string>
+    <string name="auth_plus_scope_fragment_public_label">వెబ్‌లో ఉన్న ఎవరైనా</string>
+    <string name="auth_pre_factory_reset_title">మీ Google ఖాతాను గుర్తుంచుకోండి</string>
+    <string name="auth_relogin_activity_title">పాస్‌వర్డ్‌ను మళ్లీ టైప్ చేయండి</string>
+    <string name="auth_remove_account_start_over">ప్రారంభించు</string>
+    <string name="auth_request_accounts_list">ఈ పరికరంలో Google ఖాతాల జాబితాను పొందండి.</string>
+    <string name="auth_scope_more_details">మరింత సమాచారం</string>
+    <string name="auth_server_error">Google సర్వర్‌లతో కమ్యూనికేట్ చేయడంలో సమస్య ఏర్పడింది.</string>
+    <string name="auth_server_error_help">తర్వాత మళ్లీ ప్రయత్నించండి.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">ఖాతా జోడించబడింది</string>
+    <string name="auth_setup_wizard_account_added_description">మీ ఖాతా జోడించబడింది. దయచేసి Google సేవల ఎంపికలను ఎంచుకోవడానికి కొనసాగండి</string>
+    <string name="auth_setup_wizard_services_activity_title">Google సేవలు</string>
+    <string name="auth_setup_wizard_title">సెటప్ విజార్డ్</string>
+    <string name="auth_show_error_title">ఎర్రర్</string>
+    <string name="auth_sign_in_agreement">మీరు సైన్ ఇన్ చేయడం ద్వారా <annotation id="google_privacy">Google</annotation> మరియు <annotation id="android_privacy">అదనపు</annotation> గోప్యతా విధానాలకు అంగీకరిస్తున్నారు.</string>
+    <string name="auth_sign_in_browser">బ్రౌజర్ సైన్-ఇన్</string>
+    <string name="auth_sign_in_with_google_account_short">మీ Google ఖాతాతో సైన్ ఇన్ చేయండి:</string>
+    <string name="auth_submission_error_text">ఎర్రర్ ఏర్పడింది. మళ్లీ ప్రయత్నించండి.</string>
+    <string name="auth_submission_title">క్షమించండి…</string>
+    <string name="auth_ui_activity_authenticating">ప్రామాణీకరిస్తోంది…</string>
+    <string name="auth_ui_activity_title">Google సైన్-ఇన్</string>
+    <string name="auth_ui_activity_title_browser_signin">సైన్-ఇన్ చేయండి</string>
+    <string name="auth_ui_add_account_title">ఖాతా సెటప్</string>
+    <string name="auth_uncertified_notification_description"><b>ఈ పరికరాన్ని కొనుగోలు చేసిన వినియోగదారులు:</b>"
+పరికర తయారీదారు Google నుండి ప్రమాణీకరణ పొందకుండానే Google అనువర్తనాలు మరియు సేవలను ముందస్తుగా లోడ్ చేసేసారు. తయారీదారును సంప్రదించి, ధృవీకృత పరికరాన్ని అందించమని కోరండి. g.co/AndroidCertifiedDeviceలో మరింత తెలుసుకోండి.
+
+"<b>లైసెన్స్ లేని తయారీదారులు:</b>"
+Google అనువర్తనాలు మరియు సేవలను పంపిణీ చేయాలంటే మీ వద్ద Google లైసెన్స్ ఉండాలి. g.co/AndroidGMSContactలో దరఖాస్తు చేసుకోండి.
+
+"<b>లైసెన్స్ ఉన్న తయారీదారులు:</b>"
+అభివృద్ధి దశలో ఉన్న Google అనువర్తనాలు మరియు సేవలను ఉపయోగించాలంటే, పరికరాన్ని నమోదు చేసుకోండి. మరింత సమాచారం కావాలంటే మీ Google వ్యాపారాభివృద్ధి నిర్వాహకులను సంప్రదించండి.
+
+"<b>అనుకూల ROM వినియోగదారులు:</b>"
+అనుకూల ROMతో Google యాప్‌లు మరియు సేవలను ఉపయోగించాలంటే, ఈ పరికరాన్ని నమోదు చేసుకోండి. g.co/apps-customలో మరింత తెలుసుకోండి."</string>
+    <string name="auth_uncertified_notification_title">పరికరానికి Google ప్రమాణీకరణ లేదు</string>
+    <string name="auth_username">ఇమెయిల్ పంపండి</string>
+    <string name="auth_work_authenticator_label">నిర్వహిత ఖాతా</string>
+    <string name="authorization_dialog">ప్రామాణీకరణ డైలాగ్</string>
+    <string name="chrome_privacy_title">Chrome గోప్యతా నోటీసు</string>
+    <string name="chrome_tos_title">Chrome సేవా నిబంధనలు</string>
+    <string name="close_button_label">మూసివేయి</string>
+    <string name="common_accept">ఆమోదించు</string>
+    <string name="common_add">జోడించు</string>
+    <string name="common_add_account_label">ఖాతాను జోడించండి</string>
+    <string name="common_ads_settings_title">ప్రకటనలు</string>
+    <string name="common_agree">అంగీకరిస్తున్నాను</string>
+    <string name="common_app_name">Google Play సేవలు</string>
+    <string name="common_application_info">అనువర్తన సమాచారం</string>
+    <string name="common_application_info_composed_string">అప్లికేషన్ సమాచారం</string>
+    <string name="common_asm_google_account_title">Google ఖాతా</string>
+    <string name="common_asm_manage_google_account_title">మీ Google ఖాతాను నిర్వహించండి</string>
+    <string name="common_asm_preferences_settings_title">ఖాతా ప్రాధాన్యతలు</string>
+    <string name="common_asm_privacy_settings_title">వ్యక్తిగత సమాచారం &amp; గోప్యత</string>
+    <string name="common_asm_security_settings_title">సైన్-ఇన్ &amp; భద్రత</string>
+    <string name="common_back">వెనుకకు</string>
+    <string name="common_battery">బ్యాటరీ</string>
+    <string name="common_block">బ్లాక్ చేయి</string>
+    <string name="common_cancel">రద్దు చేయి</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ప్రారంభించబడవు (అనుమతి ఎర్రర్).</string>
+    <string name="common_car_permission_desc">కారు సేవకు యాక్సెస్ చేయండి</string>
+    <string name="common_car_permission_label">కారు సేవ</string>
+    <string name="common_card">పేకాట</string>
+    <string name="common_chips_label_empty_circles">సర్కిల్‌లు లేవు</string>
+    <string name="common_chips_label_extended_circles">విస్తారిత సర్కిల్‌లు</string>
+    <string name="common_chips_label_only_you">మీకు మాత్రమే</string>
+    <string name="common_chips_label_public">పబ్లిక్</string>
+    <string name="common_chips_label_your_circles">మీ సర్కిల్‌లు</string>
+    <string name="common_choose_account_label">ఖాతాను ఎంచుకోండి</string>
+    <string name="common_confirm_screen_lock_title">మీ స్క్రీన్ లాక్‌ను నిర్ధారించండి</string>
+    <string name="common_connect">కనెక్ట్ చేయి</string>
+    <string name="common_connected">కనెక్ట్ చేయబడింది</string>
+    <string name="common_connected_apps_settings_title">కనెక్ట్ చేసిన అనువర్తనాలు</string>
+    <string name="common_connecting">కనెక్ట్ చేస్తోంది...</string>
+    <string name="common_continue">కొనసాగించు</string>
+    <string name="common_disabled">నిలిపివేయబడింది</string>
+    <string name="common_disagree">నిరాకరిస్తున్నాను</string>
+    <string name="common_disconnect">డిస్‌కనెక్ట్ చేయి</string>
+    <string name="common_dismiss">విస్మరించు</string>
+    <string name="common_done">పూర్తయింది</string>
+    <string name="common_edit">సవరించు</string>
+    <string name="common_email">ఇమెయిల్</string>
+    <string name="common_fingerprint_hint">స్పర్శ సెన్సార్</string>
+    <string name="common_from">పంపినవారు:</string>
+    <string name="common_games_settings_title">Play ఆటలు</string>
+    <string name="common_get_started">ప్రారంభించు</string>
+    <string name="common_google_play_services_enable_button">ప్రారంభించు</string>
+    <string name="common_google_play_services_enable_text">మీరు Google Play సేవలను ప్రారంభిస్తే మినహా %1$s పని చేయదు.</string>
+    <string name="common_google_play_services_enable_title">Google Play సేవలను ప్రారంభించండి</string>
+    <string name="common_google_play_services_error_dialog_title">ఎర్రర్</string>
+    <string name="common_google_play_services_install_button">ఇన్‌స్టాల్ చేయి</string>
+    <string name="common_google_play_services_install_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు మీ పరికరంలో లేవు.</string>
+    <string name="common_google_play_services_install_title">Google Play సేవలను పొందండి</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play సేవల లభ్యత</string>
+    <string name="common_google_play_services_notification_ticker">Google Play సేవల ఎర్రర్</string>
+    <string name="common_google_play_services_unknown_issue">%1$s Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఈ సేవలకు మీ పరికరంలో మద్దతు లేదు.</string>
+    <string name="common_google_play_services_update_button">అప్‌డేట్ చేయి</string>
+    <string name="common_google_play_services_update_text">మీరు Google Play సేవలను నవీకరిస్తే మినహా %1$s అమలు కాదు.</string>
+    <string name="common_google_play_services_update_title">Google Play సేవలను నవీకరించండి</string>
+    <string name="common_google_play_services_updating_text">%1$s Google Play సేవలు లేకుండా అమలు కాదు, ఆ సేవలు ప్రస్తుతం నవీకరించబడుతున్నాయి.</string>
+    <string name="common_google_play_services_updating_title">Google Play సేవలు నవీకరించబడుతున్నాయి</string>
+    <string name="common_google_play_services_wear_update_text">కొత్త Google Play సేవల వెర్షన్ అవసరం. అది కొద్ది సేపట్లో దానంతట అదే అప్‌డేట్ చేయబడుతుంది.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">తప్పు నిర్మాణాకృతితో Google Play సేవలు ఇన్‌స్టాల్ చేయబడ్డాయి.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play సేవలు మీ పరికర నిర్మాణాకృతి (%2$s)తో కాకుండా వేరే నిర్మాణాకృతి (%1$s)తో ఇన్‌స్టాల్ చేయబడ్డాయి.</string>
+    <string name="common_google_play_services_wrong_architecture_title">నిర్మాణాకృతి తప్పు</string>
+    <string name="common_google_settings">Google సెట్టింగ్‌లు</string>
+    <string name="common_google_settings_account">ఖాతా</string>
+    <string name="common_google_settings_credentials_title">పాస్‌వర్డ్‌ల కోసం Smart Lock</string>
+    <string name="common_got_it">అర్థమైంది</string>
+    <string name="common_install">ఇన్‌స్టాల్ చేయి</string>
+    <string name="common_learn_more">మరింత తెలుసుకోండి</string>
+    <string name="common_list_apps_menu_help">సహాయం</string>
+    <string name="common_list_apps_menu_help_and_feedback">సహాయం &amp; అభిప్రాయం</string>
+    <string name="common_loading">లోడ్ చేస్తోంది…</string>
+    <string name="common_location_settings_title">స్థానం</string>
+    <string name="common_login_activity_task_title">సైన్ ఇన్ చేస్తోంది…</string>
+    <string name="common_login_error_title">సైన్ ఇన్ చేయడం సాధ్యపడలేదు</string>
+    <string name="common_magictether_settings_title">తక్షణ టీథరింగ్</string>
+    <string name="common_maps_settings_title">మ్యాప్‌లు &amp; అక్షాంశం</string>
+    <string name="common_mdm_feature_name">నా డివైజ్‌ని కనిపెట్టు</string>
+    <string name="common_missing_url_viewer">బాహ్య urlను చూపడానికి వ్యూయర్ లేదు.</string>
+    <string name="common_more">మరిన్ని</string>
+    <string name="common_more_options">మరిన్ని ఎంపికలు</string>
+    <string name="common_mute_notification">నోటిఫికేషన్‌ను మ్యూట్ చేయి</string>
+    <string name="common_network_unavailable">ఇంటర్నెట్ కనెక్షన్ లేదు</string>
+    <string name="common_networking_settings_title">నెట్‌వర్కింగ్</string>
+    <string name="common_never">ఎప్పటికీ లేదు</string>
+    <string name="common_next">తదుపరి</string>
+    <string name="common_no_browser_for_restricted_url">యాక్సెస్ నియంత్రించబడింది. బ్రౌజర్ ఏదీ కనుగొనబడలేదు.</string>
+    <string name="common_no_devices_found">పరికరాలు ఏవీ కనుగొనబడలేదు</string>
+    <string name="common_no_network">పరికరం ఆఫ్‌లైన్‌లో ఉన్నందున అందుబాటులో లేదు</string>
+    <string name="common_no_thanks">వద్దు, ధన్యవాదాలు</string>
+    <string name="common_not_now">ఇప్పుడు వద్దు</string>
+    <string name="common_off">ఆఫ్‌లో ఉంది</string>
+    <string name="common_offline">మీరు ఆఫ్‌లైన్‌లో ఉన్నారు</string>
+    <string name="common_ok">సరే</string>
+    <string name="common_on">ఆన్‌లో ఉంది</string>
+    <string name="common_open">తెరువు</string>
+    <string name="common_open_on_phone">ఫోన్‌లో తెరువు</string>
+    <string name="common_open_source_licenses">ఓపెన్ సోర్స్ లైసెన్స్‌లు</string>
+    <string name="common_pause">పాజ్ చేయండి</string>
+    <string name="common_people_settings_title">పరిచయాలు</string>
+    <string name="common_permissions_enable_in_settings">సెట్టింగ్‌ల్లో ప్రారంభించండి</string>
+    <string name="common_permissions_missing_end">కొనసాగించడానికి సెట్టింగ్‌లు, ఆపై అనుమతులు తెరిచి, జాబితా చేసిన అన్ని అంశాలను అనుమతించండి.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ప్రారంభించడానికి, 
+సెట్టింగ్‌లు >
+అనుమతులు >
+Google Play సేవలకు వెళ్లండి"</string>
+    <string name="common_permissions_missing_start">మీరు క్రింది వాటిని యాక్సెస్ చేయడానికి Google Play సేవల అభ్యర్థనను అనుమతిస్తే మినహా ఈ యాప్ సరిగ్గా పని చేయదు:</string>
+    <string name="common_permissions_open_settings">సెట్టింగ్‌లను తెరువు</string>
+    <string name="common_phone">ఫోన్</string>
+    <string name="common_play">ప్లే చేయండి</string>
+    <string name="common_privacy_policy">గోప్యతా విధానం</string>
+    <string name="common_privacy_policy_composed_string">గోప్యతా విధానం</string>
+    <string name="common_refresh">రిఫ్రెష్ చేయి</string>
+    <string name="common_remove">తీసివేయి</string>
+    <string name="common_reply">ప్రత్యుత్తరం పంపండి</string>
+    <string name="common_restore">పునరుద్ధరించు</string>
+    <string name="common_retry">పునఃప్రయత్నించు</string>
+    <string name="common_save">సేవ్ చేయి</string>
+    <string name="common_saved">సేవ్ చేయబడింది</string>
+    <string name="common_saving">సేవ్ చేస్తోంది…</string>
+    <string name="common_search_settings_title">శోధన</string>
+    <string name="common_security_ootp_setting_title">భద్రతా కోడ్</string>
+    <string name="common_select">ఎంచుకోండి</string>
+    <string name="common_send">పంపు</string>
+    <string name="common_sending">పంపుతోంది&amp;#8230;</string>
+    <string name="common_set_up_nearby_device_settings_title">సమీప పరికరాన్ని సెటప్ చేయండి</string>
+    <string name="common_settings">సెట్టింగ్‌లు</string>
+    <string name="common_share">షేర్ చేయి</string>
+    <string name="common_sign_in">సైన్ ఇన్ చేయండి</string>
+    <string name="common_signin_button_text">సైన్ ఇన్ చేయి</string>
+    <string name="common_signin_button_text_long">Googleతో సైన్ ఇన్ చేయి</string>
+    <string name="common_skip">దాటవేయి</string>
+    <string name="common_skip_fingerprint">స్క్రీన్ లాక్‌ను ఉపయోగించు</string>
+    <string name="common_something_went_wrong">ఏదో తప్పు జరిగింది</string>
+    <string name="common_system_info">సిస్టమ్ సమాచారం</string>
+    <string name="common_system_info_composed_string">ఖాతా మరియు సిస్టమ్ సమాచారం</string>
+    <string name="common_take_photo_label">ఫోటో తీయి</string>
+    <string name="common_terms_of_service">సేవా నిబంధనలు</string>
+    <string name="common_terms_of_service_composed_string">సేవా నిబంధనలు</string>
+    <string name="common_today">ఈరోజు</string>
+    <string name="common_try_again">మళ్లీ ప్రయత్నించు</string>
+    <string name="common_turn_on">ఆన్ చేయి</string>
+    <string name="common_turn_on_bluetooth">బ్లూటూత్‌ను ఆన్ చేయి</string>
+    <string name="common_turn_on_nfc">NFCని ఆన్ చేయి</string>
+    <string name="common_ui_confirm_deleting_button">తొలగించు</string>
+    <string name="common_ui_confirm_deleting_checkbox">నేను అర్థం చేసుకున్నాను మరియు తొలగించాలనుకుంటున్నాను</string>
+    <string name="common_unknown">తెలియదు</string>
+    <string name="common_update">అప్‌డేట్ చేయి</string>
+    <string name="common_url_load_unsuccessful_message">మీ Android పరికరం డేటా సేవకు కనెక్ట్ చేయబడలేదు. ఈ సమాచారాన్ని ఇప్పుడే వీక్షించడానికి, వెబ్ బ్రౌజర్‌తో %sను వీక్షించండి.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">మీ Android పరికరం Wi-Fi నెట్‌వర్క్‌కు కనెక్ట్ చేయబడలేదు. ఈ సమాచారాన్ని ఇప్పుడే వీక్షించడానికి, వెబ్ బ్రౌజర్‌లో %sని సందర్శించండి.</string>
+    <string name="common_usage_and_diagnostics">వినియోగం &amp; విశ్లేషణలు</string>
+    <string name="common_view">వీక్షించండి</string>
+    <string name="common_yesterday">నిన్న</string>
+    <string name="continue_to_login_heading">దయచేసి లాగిన్ చేయండి.</string>
+    <string name="continue_to_login_text">ఆధారాలు మంజూరు చేయబడ్డాయి. మీ మొదటి పరికరంలో లాగిన్ చేయడానికి కొనసాగండి.</string>
+    <string name="description_fingerprint_icon">వేలిముద్ర చిహ్నం</string>
+    <string name="download_msg_error_invalid">డౌన్‌లోడ్ తప్పుగా కాన్ఫిగర్ చేయబడింది.</string>
+    <string name="download_msg_in_progress">డౌన్‌లోడ్ ప్రోగ్రెస్‌లో ఉంది.</string>
+    <string name="download_msg_not_allowed_space">డౌన్‌లోడ్ చేయడానికి తగినంత స్థలం లేదు.</string>
+    <string name="download_msg_pending">డౌన్‌లోడ్ పెండింగ్‌లో ఉంది.</string>
+    <string name="download_notification_description">%1$s దీన్ని అభ్యర్థించింది.</string>
+    <string name="download_notification_title">మరింత డేటాను పొందుతోంది</string>
+    <string name="expand_button_title">అధునాతనం</string>
+    <string name="fido_ble_device_icon_content_description">బ్లూటూత్ పరికరం కనుగొనబడింది</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">మీ కీ జత చేసే మోడ్‌లో ఉన్నట్లు నిర్ధారించుకోవడానికి దానిపై ఉన్న బటన్‌ను కనీసం 5 సెకన్ల పాటు నొక్కి ఉంచండి</string>
+    <string name="fido_ble_dont_see_your_key_hint">మీ కీ కనిపించలేదా?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">మీ పరికరం బ్లూటూత్ మరియు స్థాన సేవలు ఆన్‌లో ఉన్నప్పుడు మాత్రమే మీ భద్రతా కీ పని చేస్తుంది</string>
+    <string name="fido_ble_enable_body_bluetooth_only">మీ పరికరం బ్లూటూత్ ఆన్‌లో ఉన్నప్పుడు మాత్రమే మీ భద్రతా కీ పని చేస్తుంది</string>
+    <string name="fido_ble_enable_body_location_only">మీ పరికరం యొక్క స్థాన సేవ ఆన్‌లో ఉన్నప్పుడు మాత్రమే మీ భద్రతా కీ పని చేస్తుంది</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">బ్లూటూత్ మరియు స్థానాన్ని ఆన్ చేయండి</string>
+    <string name="fido_ble_enable_title_location_only">స్థానాన్ని ఆన్ చేయండి</string>
+    <string name="fido_ble_instructions_body">దాదాపు అన్ని కీల వినియోగానికి, కేవలం బటన్‌ని నొక్కితే సరిపోతుంది</string>
+    <string name="fido_ble_locate_pin_body">జత చేసే పిన్ సాధారణంగా 4 నుండి 6 అంకెల సంఖ్య, ఇది మీ కీ వెనుక భాగంలో ఉండవచ్చు. మీరు పిన్ నమోదు చేయడానికి సిద్ధమైనప్పుడు కొనసాగించండి.</string>
+    <string name="fido_ble_locate_pin_title">మీ %1$s కీ కోసం బ్లూటూత్ జత చేసే పిన్‌ను కనుగొనండి</string>
+    <string name="fido_ble_pair_device_pairing">మీ భద్రతా కీని జత చేస్తోంది...</string>
+    <string name="fido_ble_pair_instructions_body">మీ కీని ఈ పరికరంతో జత చేయండి, తద్వారా మీరు దీన్ని మీ ఖాతాతో ఉపయోగించవచ్చు</string>
+    <string name="fido_ble_pair_instructions_title">మీ భద్రతా కీని జత చేయడానికి సిద్ధంగా ఉన్నారా?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">మీ కీని తిరిగి జత చేసే మోడ్‌లో ఉంచండి</string>
+    <string name="fido_ble_pairing_mode_body">మీ భద్రతా కీపై ఉన్న బటన్‌ను కనీసం 5 సెకన్ల పాటు నొక్కి ఉంచండి</string>
+    <string name="fido_ble_pairing_mode_title">జత చేసే మోడ్‌లోకి ప్రవేశించండి</string>
+    <string name="fido_ble_select_device_body">క్రింది జాబితాలో, మీ పరికరంతో జత చేయాలనుకునే భద్రతా కీని ఎంచుకోండి. పేరు కీ వెనుక భాగంలో ముద్రించబడి ఉండవచ్చు.</string>
+    <string name="fido_ble_select_device_title">మీ భద్రతా కీని ఎంచుకోండి</string>
+    <string name="fido_instructions_title">మీ భద్రతా కీ వినియోగాన్ని అనుమతించాలా?</string>
+    <string name="fido_nfc_enable_body">మీ పరికరం యొక్క NFC ఆన్‌లో ఉన్నప్పుడు మాత్రమే మీ భద్రతా కీ పని చేస్తుంది</string>
+    <string name="fido_nfc_instructions_body">మీ పరికరం వైబ్రేట్ కావడం ఆగిపోయే వరకు మీ కీని మీ పరికరం వెనుక భాగానికి ఎదురుగా సమతలంగా ఉండేలా పట్టుకోండి</string>
+    <string name="fido_paask_body">సమీపంలోని పరికరం మీ Google ఖాతాతో సైన్ ఇన్ చేయడానికి ప్రయత్నిస్తుంది</string>
+    <string name="fido_paask_footer">ఇది సమీప పరికరానికి ఎన్‌క్రిప్ట్ చేయబడిన బ్లూటూత్ కనెక్షన్ ఉపయోగించి మెరుగుపరచబడిన సైన్-ఇన్ రక్షణ.</string>
+    <string name="fido_paask_header">సమీపంలోని పరికరంలోకి సైన్ ఇన్ చేయడానికి ప్రయత్నిస్తున్నారా?</string>
+    <string name="fido_paask_no_text">లేదు, అది నేను కాదు</string>
+    <string name="fido_paask_yes_text">అవును, అది నేనే</string>
+    <string name="fido_pair_another_security_key">మరో భద్రతా కీని జత చేయండి</string>
+    <string name="fido_processing">మీ భద్రతా కీని ధృవీకరిస్తోంది...</string>
+    <string name="fido_transport_selection_bluetooth">బ్లూటూత్‌తో భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_transport_selection_body">భద్రతా కీలు బ్లూటూత్, NFC మరియు USBలతో పనిచేస్తాయి. మీ కీని మీరు ఎలా ఉపయోగించాలనుకుంటున్నారో ఎంచుకోండి.</string>
+    <string name="fido_transport_selection_fingerprint">వేలిముద్రతో భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_transport_selection_nfc">NFCతో భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_transport_selection_title">మీ భద్రతా కీని ఎలా ఉపయోగించాలో ఎంచుకోండి</string>
+    <string name="fido_transport_selection_usb">USBతో భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_usb_instructions_body">మీ భద్రతా కీని USB పోర్ట్‌తో లేదా USB కేబుల్‌తో కనెక్ట్ చేయండి. మీ కీ బటన్ లేదా గోల్డ్ డిస్క్‌ని కలిగి ఉంటే, ఇప్పుడు దాన్ని నొక్కండి.</string>
+    <string name="fido_use_ble_instead">బ్లూటూత్‌తో మీ భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_use_fp_instead">వేలిముద్రతో మీ భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_use_nfc_instead">NFCతో మీ భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_use_usb_instead">USBతో మీ భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fido_welcome_body">%1$sతో మీ భద్రతా కీని ఉపయోగించడం వలన మీ ప్రైవేట్ డేటా రక్షించడంలో సహాయకరంగా ఉంటుంది.</string>
+    <string name="fido_welcome_title">%1$sతో మీ భద్రతా కీని ఉపయోగించండి</string>
+    <string name="fingerprint_description">మీ వేలిముద్రను నిర్థారించండి, తద్వారా ఇది మీరేనని %1$s ధృవీకరించగలదు.</string>
+    <string name="fingerprint_no_imprints_description">%1$s మీ వేలిముద్రతో మీ గుర్తింపుని ధృవీకరించాలనుకుంటోంది, కానీ మీరు ఇంకా మీ దాన్ని ఈ పరికరానికి సెట్ చేయలేదు.</string>
+    <string name="fingerprint_not_recognized">వేలిముద్ర గుర్తించబడలేదు. మళ్లీ ప్రయత్నించండి</string>
+    <string name="fingerprint_success">వేలిముద్ర గుర్తించబడింది</string>
+    <string name="gcm_fallback_notification_channel_label">ఇతరాలు</string>
+    <string name="google_app_permissions_title">యాప్ అనుమతులు</string>
+    <string name="google_legal_title">Google చట్టపరం</string>
+    <string name="google_play_tos_title">Google Play సేవా నిబంధనలు</string>
+    <string name="google_plus_privacy_policy_title">Google Plus గోప్యతా విధానం</string>
+    <string name="google_privacy_policy_title">Google గోప్యతా విధానం</string>
+    <string name="google_terms_of_service_title">Google సేవా నిబంధనలు</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">నెట్‌వర్క్ యొక్క Wi-Fi ఆధారాన్ని మరో పరికరానికి బదిలీ చేయడానికి యాప్‌ని అనుమతించండి.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi ఆధారాన్ని బదిలీ చేయి</string>
+    <string name="no_screen_lock_description">మీరు మొదట మీ పరికరంలో స్క్రీన్ లాక్‌ను సెట్ చేయాలి</string>
+    <string name="no_screen_lock_title">మీ ఫోన్‌లో స్క్రీన్ లాక్ లేదు</string>
+    <string name="notification_ticker">యాక్సెస్ అభ్యర్థించబడింది</string>
+    <string name="open_source_activity_prompt_heading">అనువర్తనాన్ని తెరవండి</string>
+    <string name="open_source_activity_prompt_text">"ప్రామాణీకరణ ప్రక్రియను పూర్తి చేయడానికి మీ ఫోన్‌లో SourceResponseActivity తెరవండి. "</string>
+    <string name="permgrouplab_calendar">క్యాలెండర్</string>
+    <string name="permgrouplab_camera">కెమెరా</string>
+    <string name="permgrouplab_contacts">పరిచయాలు</string>
+    <string name="permgrouplab_location">స్థానం</string>
+    <string name="permgrouplab_microphone">మైక్రోఫోన్</string>
+    <string name="permgrouplab_phone">ఫోన్</string>
+    <string name="permgrouplab_sensors">శరీర సెన్సార్‌లు</string>
+    <string name="permgrouplab_storage">నిల్వ</string>
+    <string name="permissions_not_granted_text">అనుమతులను మంజూరు చేయడానికి, మళ్లీ లాగిన్ చేయండి.</string>
+    <string name="permissions_not_granted_title">అనుమతులు మంజూరు చేయలేదు.</string>
+    <string name="plus_manage_app_only_you_label">మీరు మాత్రమే</string>
+    <string name="plus_network_unreliable">సర్వర్‌కు విశ్వసనీయ కనెక్షన్‌ను ఏర్పాటు చేయడం సాధ్యపడదు.</string>
+    <string name="plus_oob_interstitial_loading_text">దీనికి కొన్ని నిమిషాలు పట్టవచ్చు.</string>
+    <string name="search_menu_title">వెతుకు</string>
+    <string name="set_up">సెటప్ చేయి</string>
+    <string name="setupservices_additional_privacy_title">అదనపు గోప్యతా సమాచారం</string>
+    <string name="setupservices_android_privacy_policy_title">అదనపు గోప్యతా విధానం</string>
+    <string name="setupservices_chrome_privacy_title">Chrome గోప్యతా నోటీసు</string>
+    <string name="setupservices_chrome_tos_title">Chrome సేవా నిబంధనలు</string>
+    <string name="setupservices_google_app_permissions_title">యాప్ అనుమతులు</string>
+    <string name="setupservices_google_legal_title">Google చట్ట సంబంధం</string>
+    <string name="setupservices_google_play_tos_title">Google Play సేవా నిబంధనలు</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus గోప్యతా విధానం</string>
+    <string name="setupservices_google_privacy_policy_title">Google గోప్యతా విధానం</string>
+    <string name="setupservices_google_services_agreement">కొనసాగడం ద్వారా, ఈ పరికరం కూడా ఆటోమేటిక్‌గా సెల్యులార్ డేటాను ఉపయోగించి Google, మీ క్యారియర్ మరియు మీ పరికర తయారీదారు నుండి కూడా అప్‌డేట్‌లు మరియు యాప్‌లను డౌన్‌లోడ్ చేయవచ్చని మరియు ఇన్‌స్టాల్ చేయవచ్చని మీరు అంగీకరిస్తున్నారు. యాప్‌లో కొనుగోళ్లు చేయగల సౌలభ్యాన్ని ఈ యాప్‌లలో కొన్ని అందించవచ్చు. మీరు ఈ యాప్‌లను ఎప్పుడైనా తీసివేయవచ్చు.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">యాప్‌లను తీసివేయాలంటే, సెట్టింగ్‌లు > యాప్‌లు లేదా యాప్ నిర్వాహికికి వెళ్లండి. తర్వాత మీరు అన్‌ఇన్‌‌స్టాల్ చేయాలనుకునే యాప్‌ని నొక్కండి (మీరు యాప్‌ని కనుగొనడానికి కుడివైపునకు లేదా ఎడమవైపునకు స్వైప్ చేయాల్సి ఉండవచ్చు). ఆపై అన్‌ఇన్‌స్టాల్ చేయి లేదా నిలిపివేయి నొక్కండి.</string>
+    <string name="setupservices_google_services_agreement_korea">మీరు ఇప్పుడు మీ పరికరంలో సమాచారాన్ని మరియు ఫంక్షన్‌లను యాక్సెస్ చేయడానికి సమ్మతిస్తున్నారు మరియు ముందుగా లోడ్ చేయబడిన Google యాప్‌ల అనుమతిని మంజూరు చేస్తున్నారు. ఈ అనుమతుల వినియోగం గురించి మరింత సమాచారం కోసం <annotation link="app_permissions">ఈ పేజీ</annotation>ని చూడండి.</string>
+    <string name="setupservices_google_services_agreement_title">అప్‌డేట్‌లు &amp; యాప్‌లను ఇన్‌స్టాల్ చేయండి</string>
+    <string name="setupservices_google_services_automatic_storage_manager">మీ ఫోన్ నిల్వ దాదాపుగా నిండిపోయినప్పుడు, బ్యాకప్ చేయబడిన ఫోటోలు మరియు వీడియోలు వంటి కొంత డేటాని తీసివేయడం ద్వారా స్థలాన్ని ఖాళీ చేయండి.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">మీరు కనెక్ట్ చేసినప్పుడు కూడా ఈ డేటాను యాక్సెస్ చేయవచ్చు. మీరు సెట్టింగ్‌లు > నిల్వ > స్మార్ట్ నిల్వ ఎంపికకు వెళ్లడం ద్వారా ఈ ఫీచర్‌ని మరియు తీసివేయగల వాటిని నియంత్రించవచ్చు.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">స్థలాన్ని ఖాళీ చేయి</string>
+    <string name="setupservices_google_services_backup">ఏ సమయంలో అయినా మీ డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా మరియు పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లతో సహా) మీ బ్యాకప్‌లో కలిగి ఉంటాయి.</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+బ్యాకప్ డేటా కోసం మీ డిస్క్ నిల్వ కోటాలో స్థలం ఉపయోగించబడదు."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">పరిచయాలు, సందేశాలు మరియు ఫోటోల వంటి సంభావ్య సున్నితమైన డేటాతో సహా యాప్ సేవ్ చేసిన (డెవలపర్ సెట్టింగ్‌ల ఆధారంగా) ఎలాంటి డేటా అయినా యాప్ డేటాగా పరిగణించబడుతుంది.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">మీరు సెట్టింగ్‌లలో ఈ సేవను ఆఫ్ చేయవచ్చు.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+ఈ పరికరంలోని ఫోటోలు మరియు వీడియోలు మీ Google ఫోటోల లైబ్రరీకి సమకాలీకరించబడతాయి, కనుక మీరు మీ ఏ పరికరాల నుండైనా శోధించవచ్చు, సవరించవచ్చు, తొలగించవచ్చు మరియు షేర్ చేయవచ్చు. డిఫాల్ట్‌గా, పూర్తి రిజల్యూషన్‌లో ఉన్న ఫోటోలు మరియు వీడియోలు Google ఫోటోలకు అప్‌లోడ్ చేయబడతాయి.
+
+బ్యాకప్ డేటా కోసం మీ డిస్క్ నిల్వ కోటాలో స్థలం ఉపయోగించబడదు."</string>
+    <string name="setupservices_google_services_backup_title">Google డిస్క్‌కి బ్యాకప్ చేయి</string>
+    <string name="setupservices_google_services_backup_v23">ఏ సమయంలో అయినా మీ డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా, కాల్ చరిత్ర, పరిచయాలు మరియు పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లు మరియు అనుమతులతో సహా) మీ బ్యాకప్‌లో కలిగి ఉంటాయి.</string>
+    <string name="setupservices_google_services_backup_v26">ఏ సమయంలో అయినా మీ డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా, కాల్ చరిత్ర, పరిచయాలు, పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లు మరియు అనుమతులతో సహా) మరియు SMS సందేశాలు మీ బ్యాకప్‌లో కలిగి ఉంటాయి.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">ఏ సమయంలో అయినా మీ డేటాని సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. Your యాప్‌లు, యాప్ డేటా, కాల్ చరిత్ర, పరిచయాలు, పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లు మరియు అనుమతులతో సహా), ఫోటోలు, వీడియోలు మరియు SMS సందేశాలు మీ బ్యాకప్‌లో కలిగి ఉంటాయి. ఫోటోలు మరియు వీడియోలు మీ Google ఫోటోల లైబ్రరీకి సమకాలీకరించబడతాయి మరియు వాటిని అన్ని సేవలలో ఉపయోగించవచ్చు.</string>
+    <string name="setupservices_google_services_data_policy">Google యొక్క <annotation link="google_privacy">గోప్యతా విధానానికి</annotation> అనుగుణంగా డేటా ఉపయోగించబడుతుంది.</string>
+    <string name="setupservices_google_services_data_policy_korea">Google యొక్క <annotation link="google_privacy">గోప్యతా విధానం</annotation> (<annotation link="additional_privacy">సేకరణ, నిల్వ మరియు వ్యక్తిగత సమాచార వినియోగం</annotation>తో సహా) మరియు <annotation link="location_tos">స్థానం సేవా నిబంధనలకు</annotation> అనుగుణంగా డేటా ఉపయోగించబడుతుంది.</string>
+    <string name="setupservices_google_services_description">ప్రతి సేవ గురించి మరింత తెలుసుకోవడం కోసం నొక్కండి, ఉదాహరణకు దీన్ని తర్వాత ఎలా ఆన్ చేయాలో లేదా ఆఫ్ చేయాలో తెలుసుకోండి. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"యాప్‌లో కొనుగోళ్లతో సహా యాప్ వివరాలను Google Play స్టోర్‌లో కనుగొనవచ్చు. యాప్ డేటా &amp; సెట్టింగ్‌లు మీ Google ఖాతాతో సైన్ ఇన్ చేసిన పరికరాలకు సమకాలీకరించబడతాయి. 
+
+తక్షణ యాప్‌ల యొక్క ఉపయోగం "<a href="https://play.google.com/about/play-terms.html">Google Play సేవా నిబంధనలు</a>" ప్రకారం పర్యవేక్షించబడుతుంది. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">మరింత తెలుసుకోండి</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">మీరు ఏదైనా లింక్‌ను నొక్కినప్పుడు, Google Play ఏదైనా తక్షణ యాప్ అందుబాటులో ఉందేమో తనిఖీ చేస్తుంది మరియు ఇన్‌స్టాల్ చేయకుండానే దాన్ని అమలు చేస్తుంది. తక్షణ యాప్‌లు మీ పరికరంలో తాత్కాలికంగా ఉంచబడతాయి.</string>
+    <string name="setupservices_google_services_instant_apps_title">యాప్‌లను ఇన్‌స్టాల్ చేయకుండానే ఉపయోగించండి</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google స్థాన సేవ మీ పరికర స్థానాన్ని అంచనా వేయడంలో సహాయపడటానికి Wi‑Fi, మొబైల్ నెట్‌వర్క్‌లు మరియు సెన్సార్‌ల వంటి మూలాధారాలను ఉపయోగిస్తుంది.
+
+మీరు మీ పరికరంలో ప్రధాన స్థాన సెట్టింగ్‌ని ఆఫ్ చేయడం ద్వారా స్థానాన్ని ఆఫ్ చేయవచ్చు. మీరు స్థాన సెట్టింగ్‌లలో స్థానం కోసం Wi‑Fi, మొబైల్ నెట్‌వర్క్‌లు మరియు సెన్సార్‌ల ఉపయోగాన్ని కూడా ఆఫ్ చేయవచ్చు."</string>
+    <string name="setupservices_google_services_location_sharing_title">స్థానాన్ని కనుగొనడంలో యాప్‌లకు సహాయపడండి</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">స్థానం ఉపయోగించండి</string>
+    <string name="setupservices_google_services_location_sharing_v28">స్థాన అనుమతిని కలిగిన యాప్‌లు మరియు సేవలు మీ పరికర స్థానాన్ని ఉపయోగించడానికి అనుమతించండి. Google కాలానుగుణంగా స్థాన డేటాని సేకరించవచ్చు మరియు స్థాన ఖచ్చితత్వం మరియు స్థానం-ఆధారిత సేవలను మెరుగుపరచడం కోసం ఈ డేటాని అనామకంగా ఉపయోగించవచ్చు.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Wi‑Fi ఆఫ్‌లో ఉన్నప్పుడు కూడా దాని కోసం స్కాన్ చేయడానికి యాప్‌లు మరియు సేవలను అనుమతించండి.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">మీరు స్థాన సెట్టింగ్‌లలో దీన్ని ఆఫ్ చేయవచ్చు.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">స్థాన ఖచ్చితత్వాన్ని మెరుగుపరచండి</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">స్కానింగ్‌ని అనుమతించండి</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Wi‑Fi మరియు బ్లూటూత్ సిగ్నల్‌ల సెట్టింగ్‌లు ఆఫ్‌లో ఉన్నప్పుడు కూడా వాటి కోసం స్కాన్ చేయడానికి యాప్‌లు మరియు సేవలను అనుమతించండి.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">ఏ సమయంలోనైనా (Wi‑Fi లేదా బ్లూటూత్ ఆఫ్‌లో ఉన్నప్పుడు కూడా) Wi‑Fi నెట్‌‍వర్క్‌లు మరియు సమీపంలోని పరికరాలను స్కాన్ చేయడానికి యాప్‌లు మరియు సేవలను అనుమతించండి.</string>
+    <string name="setupservices_google_services_next_button_label">నేను అంగీకరిస్తున్నాను</string>
+    <string name="setupservices_google_services_play">Google Playలోని వార్తలు మరియు ఆఫర్‌ల గురించి నాకు తాజా విషయాలు తెలియజేస్తుండండి.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">బ్యాకప్ &amp; నిల్వ</string>
+    <string name="setupservices_google_services_section_device_maintenance">పరికర నిర్వహణ</string>
+    <string name="setupservices_google_services_tos">మీరు కొనసాగించడం ద్వారా <annotation link="tos">Google సేవా నిబంధనలు</annotation> కూడా అంగీకరిస్తున్నారు.</string>
+    <string name="setupservices_google_services_tos_agree">“నేను అంగీకరిస్తున్నాను” బటన్‌ను క్లిక్ చేయడం ద్వారా, మీరు ఈ Google సేవల కోసం ఎగువ పేర్కొన్న ప్రాసెసింగ్‌కు అంగీకరిస్తున్నారు.</string>
+    <string name="setupservices_google_services_tos_germany">మీరు ఈ పరికరాన్ని ఉపయోగించినప్పుడు, మేము మా <annotation link="google_privacy">గోప్యతా విధానం</annotation> మరియు వర్తించే <annotation link="tos">అదనపు నిబంధనలు</annotation>కి కట్టుబడి వ్యవహరిస్తాము.</string>
+    <string name="setupservices_google_services_usage_reporting">విశ్లేషణలు మరియు పరికరం మరియు యాప్ వినియోగ డేటాని Googleకి ఆటోమేటిక్‌గా పంపడం ద్వారా మీ Android అనుభవాన్ని మెరుగుపరచడంలో సహాయపడుతుంది. బ్యాటరీ జీవితకాలం, యాప్ స్థిరత్వం, నెట్‌వర్క్ కనెక్టివిటీ మరియు మరిన్నింటిని మెరుగుపరచడంలో ఇది సహాయపడుతుంది. మీరు అదనపు వెబ్ &amp; యాప్ కార్యాకలాపాన్ని ఆన్ చేసినట్లయితే, ఈ సమాచారం మీ ఖాతాలో నిల్వ చేయబడుతుంది, ఆపై మీరు నా కార్యాకలాపంలో దీన్ని నిర్వహించవచ్చు.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"ఇది ఈ పరికరం గురించి మరియు మీరు దీన్ని ఉపయోగించే విధానం (బ్యాటరీ స్థాయి, యాప్ వినియోగం మరియు నెట్‌వర్క్ కనెక్టివిటీ) గురించి తెలిపే సాధారణ సమాచారం. ప్రతిఒక్కరి కోసం Google ఉత్పత్తులు మరియు సేవలను మెరుగుపరచడానికి డేటా ఉపయోగించబడుతుంది. కొంత సమగ్ర సమాచారం Android డెవలపర్‌ల వంటి భాగస్వాములు వారి యాప్‌లు మరియు ఉత్పత్తులను మెరుగుపరచడానికి కూడా సహాయపడుతుంది.
+
+ఈ ఫీచర్‌ని ఆఫ్ చేయడం వలన సిస్టమ్ అప్‌డేట్‌లు మరియు భద్రత వంటి ఆవశ్యక సేవలకు అవసరమైన సమాచారాన్ని పంపగల ఈ పరికర సామర్థ్యంపై ఎలాంటి ప్రభావం ఉండదు."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">మీరు myactivity.google.com ద్వారా నా కార్యకలాప సెట్టింగ్‌లను అప్‌డేట్ చేయవచ్చు.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">మీరు Google సెట్టింగ్‌ల నుండి ఈ ఫీచర్‌ను నియంత్రించవచ్చు. మెనూలో వినియోగం &amp; విశ్లేషణలు ఎంచుకోండి.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">మీరు సెట్టింగ్‌లు > Google నుండి ఈ ఫీచర్‌ని నియంత్రించవచ్చు. మెనూ నుండి వినియోగం &amp; విశ్లేషణలను ఎంచుకోండి.</string>
+    <string name="setupservices_google_services_usage_reporting_title">సిస్టమ్ డేటాని పంపండి</string>
+    <string name="setupservices_google_services_wallpaper_permission">Google స్థాన సేవను యాక్సెస్ చేయడం ద్వారా మీరు ఉంటున్న చోటుకు అనుగుణంగా ప్రతిస్పందించేలా Google ప్రదర్శిత వాల్‌పేపర్‌లను అనుమతించండి.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">మీరు సెట్టింగ్‌లు > యాప్‌లు &amp; నోటిఫికేషన్‌లు > యాప్ సమాచారానికి వెళ్లి, ప్రదర్శిత వాల్‌పేపర్‌ల సేవకు Google స్థాన సేవ యాక్సెస్‌ను అందించవచ్చు లేదా నిలిపివేయవచ్చు. నిండిపోయిన మెనూలో, సిస్టమ్‌ను చూపు > ప్రదర్శిత డేటా వాల్‌పేపర్‌లు లేదా ప్రదర్శిత ఎర్త్ వాల్‌పేపర్‌లు > అనుమతులను నొక్కండి.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">స్థానాన్ని ఉపయోగించడానికి వాల్‌పేపర్‌లను అనుమతించండి</string>
+    <string name="setupservices_google_terms_of_service_title">Google సేవా నిబంధనలు</string>
+    <string name="setupservices_kids_google_services_agreement">కొనసాగడం ద్వారా, ఈ పరికరం కూడా ఆటోమేటిక్‌గా సెల్యులార్ డేటాను ఉపయోగించి Google, మీ క్యారియర్ మరియు ఈ పరికర తయారీదారు నుండి కూడా అప్‌డేట్‌లు మరియు యాప్‌లను డౌన్‌లోడ్ చేయవచ్చని మరియు ఇన్‌స్టాల్ చేయవచ్చని మీరు అంగీకరిస్తున్నారు. యాప్‌లో కొనుగోళ్లు చేయగల సౌలభ్యాన్ని ఈ యాప్‌లలో కొన్ని అందించవచ్చు. మీరు ఈ యాప్‌లను ఎప్పుడైనా తీసివేయవచ్చు.</string>
+    <string name="setupservices_kids_google_services_backup">ఏ సమయంలో అయినా డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా మరియు పరికర సెట్టింగ్‌‌లు (Wi‑Fi పాస్‌వర్డ్‌లతో సహా) ఈ బ్యాకప్‌లో కలిగి ఉంటాయి.</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+బ్యాకప్ డేటా కోసం మీ పిల్లల డిస్క్ నిల్వ కోటాలో స్థలం ఉపయోగించబడదు."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+ఈ పరికరంలోని ఫోటోలు మరియు వీడియోలు మీ పిల్లల Google ఫోటోల లైబ్రరీకి సమకాలీకరించబడతాయి, కనుక వారి ఏ పరికరాల నుండైనా మీ పిల్లలు శోధించవచ్చు, సవరించవచ్చు, తొలగించవచ్చు మరియు షేర్ చేయవచ్చు. డిఫాల్ట్‌గా, పూర్తి రిజల్యూషన్‌లో ఉన్న ఫోటోలు మరియు వీడియోలు Google ఫోటోలకు అప్‌లోడ్ చేయబడతాయి.
+
+బ్యాకప్ డేటా కోసం మీ పిల్లల డిస్క్ నిల్వ కోటాలో స్థలం ఉపయోగించబడదు."</string>
+    <string name="setupservices_kids_google_services_backup_v23">ఏ సమయంలో అయినా డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా, కాల్ చరిత్ర, పరిచయాలు మరియు పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లు మరియు అనుమతులతో సహా) ఈ బ్యాకప్‌లో కలిగి ఉంటాయి.</string>
+    <string name="setupservices_kids_google_services_backup_v26">ఏ సమయంలో అయినా డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా, కాల్ చరిత్ర, పరిచయాలు, పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లు మరియు అనుమతులతో సహా) మరియు SMS సందేశాలు ఈ బ్యాకప్‌లో కలిగి ఉంటాయి.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">ఏ సమయంలో అయినా డేటాను సులభంగా పునరుద్ధరించండి లేదా ఫోన్‌లను మార్చండి. యాప్‌లు, యాప్ డేటా, కాల్ చరిత్ర, పరిచయాలు, పరికర సెట్టింగ్‌లు (Wi‑Fi పాస్‌వర్డ్‌లు మరియు అనుమతులతో సహా), ఫోటోలు, వీడియోలు మరియు SMS సందేశాలు ఈ బ్యాకప్‌లో కలిగి ఉంటాయి. మీ పిల్లల Google ఫోటోల లైబ్రరీకి ఫోటోలు మరియు వీడియోలు సమకాలీకరించబడతాయి మరియు వాటిని అన్ని సేవలలో ఉపయోగించవచ్చు.</string>
+    <string name="setupservices_kids_google_services_description">ఒక తల్లి/తండ్రిగా మీరు ప్రతి సేవ గురించి మరింత తెలుసుకోవడం కోసం నొక్కండి, ఉదాహరణకు దీన్ని తర్వాత ఎలా ఆన్ చేయాలో లేదా ఆఫ్ చేయాలో తెలుసుకోండి. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google స్థాన సేవ ఈ పరికర స్థానాన్ని అంచనా వేయడంలో సహాయపడటానికి Wi‑Fi, మొబైల్ నెట్‌వర్క్‌లు మరియు సెన్సార్‌ల వంటి మూలాధారాలను ఉపయోగిస్తుంది.
+
+మీరు ఈ పరికరంలో ప్రధాన స్థాన సెట్టింగ్‌ని ఆఫ్ చేయడం ద్వారా స్థానాన్ని ఆఫ్ చేయవచ్చు. మీరు స్థాన సెట్టింగ్‌లలో స్థానం కోసం Wi‑Fi, మొబైల్ నెట్‌వర్క్‌లు మరియు సెన్సార్‌ల ఉపయోగాన్ని కూడా ఆఫ్ చేయవచ్చు."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">స్థాన అనుమతిని కలిగిన యాప్‌లు మరియు సేవలు ఈ పరికర స్థానాన్ని ఉపయోగించడానికి అనుమతించండి. Google కాలానుగుణంగా స్థాన డేటాని సేకరించవచ్చు మరియు స్థాన ఖచ్చితత్వం మరియు స్థానం-ఆధారిత సేవలను మెరుగుపరచడం కోసం ఈ డేటాని అనామకంగా ఉపయోగించవచ్చు.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Googleకి విశ్లేషణ, అలాగే పరికర మరియు యాప్ వినియోగ డేటాను ఆటోమేటిక్‌గా పంపడం ద్వారా మీ Androidని మెరుగుపరచడంలో సహాయపడండి. ఇది మీ పిల్లలను గుర్తించడానికి ఉపయోగించబడదు మరియు బ్యాటరీ జీవితకాలం, యాప్ స్థిరత్వం, నెట్‌వర్క్ కనెక్టివిటీ మొదలైన వాటిని మెరుగుపరచడంలో సహాయపడుతుంది. మీ పిల్లలకు అదనపు వెబ్ &amp; యాప్ కార్యకలాపం ఆన్ చేసినట్లయితే, ఈ సమాచారం మీ పిల్లల ఖాతాలో నిల్వ చేయబడుతుంది.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"ఇది ఈ పరికరం గురించి మరియు దీన్ని ఉపయోగించే విధానం (బ్యాటరీ స్థాయి, యాప్ వినియోగం మరియు నెట్‌వర్క్ కనెక్టివిటీ) గురించి తెలిపే సాధారణ సమాచారం. ప్రతిఒక్కరి కోసం Google ఉత్పత్తులు మరియు సేవలను మెరుగుపరచడానికి డేటా ఉపయోగించబడుతుంది. Sకొంత సమగ్ర సమాచారం Android డెవలపర్‌ల వంటి భాగస్వాములు వారి యాప్‌లు మరియు ఉత్పత్తులను మెరుగుపరచడంలో కూడా వారికి సహాయపడుతుంది.
+
+ఈ ఫీచర్‌ని ఆఫ్ చేయడం వలన సిస్టమ్ అప్‌డేట్‌లు మరియు భద్రత వంటి ఆవశ్యక సేవలకు అవసరమైన సమాచారాన్ని పంపగల ఈ పరికర సామర్థ్యంపై ఎలాంటి ప్రభావం ఉండదు."</string>
+    <string name="setupservices_location_tos_title">స్థానం సేవా నిబంధనలు</string>
+    <string name="sid_lsid_grant_detail">పాస్‌వర్డ్ మాదిరే, సెషన్ గుర్తింపు (SID) మరియు స్థానిక సెషన్ గుర్తింపు (LSID) కుక్కీలు సైతం బ్రౌజర్ నుండి చేసే కొన్ని అభ్యర్థనలతో మీ గుర్తింపుని అనుబంధిస్తాయి. అవి మీ ఖాతా డేటా అంతటికీ పూర్తి ప్రాప్యతను అనుమతిస్తాయి. కేవలం బ్రౌజర్‌లు మాత్రమే ఈ కుక్కీలకు న్యాయబద్ధ వినియోగ హక్కును కలిగి ఉంటాయి.</string>
+    <string name="sid_lsid_grant_label">మీ మొత్తం Google ఖాతా డేటాకి ప్రాప్యతను పొందడానికి SID మరియు LSID కుక్కీలను ఉపయోగించండి.</string>
+    <string name="smartdevice_action_copy">కాపీ చేయి</string>
+    <string name="smartdevice_action_open_app">అనువర్తనాన్ని తెరువు</string>
+    <string name="smartdevice_action_try_another_way">మరొక మార్గం ప్రయత్నించు</string>
+    <string name="smartdevice_action_turn_on_location">స్థానాన్ని ఆన్ చేయి</string>
+    <string name="smartdevice_alert_disconnected_title">పరికరం డిస్‌కనెక్ట్ చేయబడింది</string>
+    <string name="smartdevice_alert_dm_backup_account_message">దురదృష్టవశాత్తూ, మీ బ్యాకప్ ఖాతాను మీ పరికర నిర్వాహకులు నిర్వహిస్తున్నందున మీరు ఈ లక్షణాన్ని ఉపయోగించలేరు.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">లక్షణం అందుబాటులో లేదు</string>
+    <string name="smartdevice_alert_exit_setup_message">మీరు మీ మరో పరికరం సెటప్ నుండి ఖచ్చితంగా నిష్క్రమించాలనుకుంటున్నారా?</string>
+    <string name="smartdevice_alert_exit_setup_title">పరికర సెటప్ నుండి నిష్క్రమించాలా?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">మీ పరికరాన్ని సెటప్ చేయడానికి, మీకు కనీసం ఒక Google ఖాతా ఉండాలి.</string>
+    <string name="smartdevice_alert_no_accounts_text">మీ %sని సెటప్ చేయడానికి, మీకు కనీసం ఒక Google ఖాతా ఉండాలి.</string>
+    <string name="smartdevice_alert_no_accounts_title">కాపీ చేయడానికి ఖాతాలు ఏవీ లేవు</string>
+    <string name="smartdevice_alert_quit_button">నిష్క్రమించు</string>
+    <string name="smartdevice_alert_restart_setup_button">సెటప్‌ను పునఃప్రారంభించు</string>
+    <string name="smartdevice_alert_setup_incomplete">సెటప్ పూర్తి కాలేదు</string>
+    <string name="smartdevice_alert_start_over_button">పునఃప్రారంభించు</string>
+    <string name="smartdevice_alert_work_profile_message">కార్యాలయ ఖాతాలను ఇప్పటికీ కాపీ చేయలేరు. మీ ఇతర Google ఖాతాలు మరియు డేటాను కాపీ చేసిన తర్వాత, మీ కార్యాలయ ఖాతాను మీ కొత్త పరికరానికి జోడించడానికి సెట్టింగ్‌లకు వెళ్లండి.</string>
+    <string name="smartdevice_alert_work_profile_title">కార్యాలయ ఖాతాను కాపీ చేయడం సాధ్యపడదు</string>
+    <string name="smartdevice_application_label">పరికర సెటప్</string>
+    <string name="smartdevice_choose_device">మీ పరికరాన్ని ఎంచుకోండి</string>
+    <string name="smartdevice_companion_app_ready">%s యాప్ ఇప్పటికే ఈ డివైజ్‌లో ఇన్‌స్టాల్ చేయబడింది.</string>
+    <string name="smartdevice_connect_to_wifi">మీ పరికరాన్ని కనెక్ట్ చేయండి</string>
+    <string name="smartdevice_connection_error">మీ మరో పరికరానికి కనెక్ట్ చేయడంలో సమస్య ఏర్పడింది.</string>
+    <string name="smartdevice_connection_error_title">కనెక్ట్ చేయడం సాధ్యపడలేదు</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">మీ పరికరానికి కనెక్ట్ చేస్తున్నాము…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">మీ Google ఖాతాలను, ఇతర ఖాతాలను కాపీ చేసి, మీ Google డిస్క్ బ్యాకప్ అందుబాటులో ఉంటే పునరుద్ధరించండి</string>
+    <string name="smartdevice_d2d_copy_account_text">మీ Google ఖాతాలను కాపీ చేసి, మీ Google డిస్క్ బ్యాకప్ అందుబాటులో ఉంటే పునరుద్ధరించండి</string>
+    <string name="smartdevice_d2d_copy_account_title">మీ మరో పరిక. కాపీ చేయాలా?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">గుర్తించలేదు</string>
+    <string name="smartdevice_d2d_fingerprint_title">మీ వేలిముద్రను నిర్ధారించండి</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">భద్రతా కారణాల దృష్ట్యా, మీ వేలిముద్రను నిర్ధారించండి. మీ Google ఖాతాలు, అనువర్తనాలు మరియు డేటా మీ %sకి కాపీ చేయబడతాయి.</string>
+    <string name="smartdevice_d2d_lockscreen_description">మీ పరికరాన్ని సెటప్ చేయడం కొనసాగించడానికి అన్‌లాక్ చేయండి</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">భద్రతా కారణాల దృష్ట్యా, సెటప్‌ను కొనసాగించడానికి మీరు మీ స్క్రీన్ లాక్‌ను నిర్ధారించాలి</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">మీ పరికరంలో బ్లూటూత్ అందుబాటులో లేనందున ఇతర పరికరాన్ని సెటప్ చేయలేరు.</string>
+    <string name="smartdevice_d2d_source_disabled_text">భద్రత కోసం, ఈ ఫీచర్ నిలిపివేయబడింది. మీ మరో పరికరంలో, దాటవేయి తాకి, ఆపై సెటప్‌ను కొనసాగించండి.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">కొత్త పరికరాన్ని సెటప్ చేయండి</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">పరికర సెటప్</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 సెటప్</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">మీరు మీ Google ఖాతాలు, యాప్‌లు మరియు డేటాని సరైన పరికరానికి కాపీ చేసారో లేదో నిర్ధారించుకోవడానికి సెటప్‌ను పునఃప్రారంభించి, మీ ^1ని ఎంచుకోండి.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">కోడ్ కనిపించడం లేదా?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">నియంత్రిత వినియోగదారు ప్రొఫైల్ నుండి కొత్త పరికరాన్ని సెటప్ చేయలేరు.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">మీ %sలో సెటప్ చేయడాన్ని కొనసాగించండి</string>
+    <string name="smartdevice_d2d_source_setup_success">దాదాపు పూర్తయింది!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">మరొక Android పరికరం నుండి కాపీ చేయండి</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">సరే, ఈ పరికరాన్ని సెటప్ చేయడానికి తర్వాత సూచనలను అనుసరించండి</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">మీ మరో పరికరం నుండి మీ Google ఖాతాలు, అనువర్తనాలు మరియు డేటాను కాపీ చేయండి</string>
+    <string name="smartdevice_d2d_target_copying_accounts">ఖాతాలను కాపీ చేయడం…</string>
+    <string name="smartdevice_d2d_target_description">1. &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> చెప్పండి లేదా \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" టైప్ చేసి, నిర్ధారించడానికి నొక్కండి&lt;br/>&lt;br/> 2. జాబితాలో &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> తాకి, ఆపై స్క్రీన్‌పై కనిపించే సూచనలను అనుసరించండి</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">బదులుగా దీన్ని ప్రయత్నించండి</string>
+    <string name="smartdevice_d2d_target_google_settings_description">మీ మరో డివైజ్‌లో:&lt;br/>&lt;br/> 1. &lt;b>Google సెట్టింగ్‌లు&lt;/b> యాప్ తెరవండి&lt;br/>&lt;br/> 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> ఎంచుకోండి&lt;br/>&lt;br/> 3. జాబితాలో &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> తాకి, స్క్రీన్‌పై కనిపించే సూచనలను అనుసరించండి</string>
+    <string name="smartdevice_d2d_target_google_settings_link">ఈ సూచనలను పూర్తి చేయడం సాధ్యపడలేదు</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">సెట్టింగ్‌లను ఉపయోగించండి</string>
+    <string name="smartdevice_d2d_target_help_text">సమస్య ఉందా?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">దాన్ని కనుగొనలేకున్నారా?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">మీ మరో పరికరంలో, Google అనువర్తనాన్ని తెరవండి</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google అనువర్తనాన్ని తెరవండి</string>
+    <string name="smartdevice_d2d_target_instruction_title">మీ మరో పరికరంలో</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google యాప్ అన్ని Android పరికరాలలో ముందస్తుగా ఇన్‌స్టాల్ చేయబడి వస్తుంది. మీ అన్ని యాప్‌లను చూడండి, ఆ తర్వాత పైన చూపించిన Google చిహ్నం కోసం చూడండి.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">ఈ కోడ్ మీ మరో పరికరంలోని కోడ్‌కి సరిపోలాలి:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">దాటవేయవద్దు</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">సెటప్ చేయడం వలన ఈ ఖాతా లేదా బ్యాకప్ చేసిన అనువర్తనాలు మరియు డేటా ఈ పరికరానికి కాపీ చేయబడవు.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">ఏదేమైనా దాటవేయి</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">ఈ ఖాతాను దాటవేయాలా?</string>
+    <string name="smartdevice_d2d_target_title">Google అనువర్తనంలో</string>
+    <string name="smartdevice_do_disclosure_generic">డేటాను బదిలీ చేయడం సాధ్యపడదు</string>
+    <string name="smartdevice_do_unsupported_message">నిర్వహించిన పరికరాల నుండి డేటాను బదిలీ చేయడం సాధ్యపడదు</string>
+    <string name="smartdevice_install_app">అనువర్తనాన్ని ఇన్‌స్టాల్ చేయండి</string>
+    <string name="smartdevice_install_app_reason">మీ కొత్త %2$sని ఈ పరికరం నుండి నియంత్రించడానికి మరియు నిర్వహించడానికి %1$s అనువర్తనాన్ని పొందండి</string>
+    <string name="smartdevice_look_for_other_device">మీ మరో పరికరంలో ఈ పేరు కోసం చూడండి</string>
+    <string name="smartdevice_magicwand_cancel_signin">సైన్ ఇన్ చేయవద్దు</string>
+    <string name="smartdevice_magicwand_confirm_signin">సైన్-ఇన్ ప్రారంభించబడింది</string>
+    <string name="smartdevice_magicwand_consent_detail">మరోక పరికరంలో సైన్ ఇన్ చేయడాన్ని పూర్తి చేయడానికి <b>సైన్ ఇన్</b> నొక్కండి.</string>
+    <string name="smartdevice_magicwand_consent_title">సైన్ ఇన్ చేయడం ముగించండి</string>
+    <string name="smartdevice_magicwand_error_detail">ఏదో తప్పు జరిగింది మరియు Google మిమ్మల్ని ఈ ఫోన్ నుండి సైన్ ఇన్ చేయలేకపోయింది.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"మీరు మీ ఖాతాకు సైన్ ఇన్ చేయడానికి QR కోడ్‌ను స్కాన్ చేసారు. 
+
+మీ భద్రత కోసం, మీరే మరొక పరికరంలో సైన్ ఇన్ చేస్తున్నారని చూపించడానికి, వేలిముద్రను నిర్ధారించండి."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">ఈ అదనపు దశ ఇది సురక్షిత పరికరమని నిర్ధారించుకోవడానికి సహాయపడుతుంది.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"మీరు మీ ఖాతాకు సైన్ ఇన్ చేయడానికి QR కోడ్‌ను స్కాన్ చేసారు. 
+
+మీ భద్రత కోసం, మీరే మరొక పరికరంలో సైన్ ఇన్ చేస్తున్నారని చూపించడానికి, స్క్రీన్ లాక్ నమూనాని నిర్ధారించండి."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">మీ బ్రౌజర్‌లో కొనసాగించడానికి</string>
+    <string name="smartdevice_magicwand_success_detail">మీ మరో పరికరంలో మీ బ్రౌజర్‌కి వెళ్లండి.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">మీ మరో పరికరంలో ఈ ఆకారాల కోసం చూడండి</string>
+    <string name="smartdevice_pairing_verify_shapes_title">ఆకారాలను ధృవీకరించండి</string>
+    <string name="smartdevice_problem_copying">మీ మరో పరికరానికి డేటాను కాపీ చేయడంలో సమస్య ఉంది</string>
+    <string name="smartdevice_problem_copying_title">డేటాను కాపీ చేయడం సాధ్యపడలేదు</string>
+    <string name="smartdevice_search_again">మళ్లీ వెతుకు</string>
+    <string name="smartdevice_searching_for_devices">పరికరాల కోసం శోధిస్తోంది</string>
+    <string name="smartdevice_setup_info_installing_app">అనువర్తనాన్ని ఇన్‌స్టాల్ చేస్తోంది…</string>
+    <string name="smartdevice_setup_intro_text">మీ మరో పరికరాన్ని సెటప్ చేయడానికి, మీ ఫోన్ బ్లూటూత్ మరియు మీ Wi-Fi డేటా ఉపయోగించబడతాయి</string>
+    <string name="smartdevice_setup_intro_text_nfc">మీ మరో పరికరాన్ని సెటప్ చేయడానికి, మీ ఫోన్ బ్లూటూత్ ఉపయోగించబడుతుంది</string>
+    <string name="smartdevice_setup_intro_title">ప్రారంభించండి</string>
+    <string name="smartdevice_setup_password_hint">WiFi పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="smartdevice_setup_show_password">పాస్‌వర్డ్‌ను చూపు</string>
+    <string name="smartdevice_setup_title_verify_code">కోడ్‌ను ధృవీకరించండి</string>
+    <string name="smartdevice_target_hotphrase_instructions">మీ మరో పరికరంలో, &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> అని చెప్పండి లేదా శోధన పెట్టెలో &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> అని టైప్ చేయండి.</string>
+    <string name="smartdevice_type_typing_ok_google">వాయిస్ ఆదేశం పని చేయకపోతే, బదులుగా శోధన పెట్టెలో టైప్ చేసి ప్రయత్నించండి. \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\"ని టైప్ చేయండి</string>
+    <string name="smartdevice_verify_device">పరికరాన్ని ధృవీకరించండి</string>
+    <string name="smartdevice_wifi_cannot_connect_description">ఈ పరికరాన్ని సెటప్ చేయడానికి ఓపెన్ నెట్‌వర్క్‌లు మరియు WPA/WPA2 నెట్‌వర్క్‌లు మాత్రమే ఉపయోగించవచ్చు</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WiFi నెట్‌వర్క్ ఉపయోగించలేరు</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi కోసం శోధించడానికి, స్థానం ఆన్ చేయండి.
+
+మీరు దీన్ని తర్వాత ఎప్పుడైనా సెట్టింగ్‌ల్లో మార్చవచ్చు."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi నెట్‌వర్క్‌ల కోసం శోధించడం సాధ్యపడదు</string>
+    <string name="storage_management_wear_descriptive_text">వేరబుల్‌లో డేటా నకలుని సృష్టించడానికి అనువర్తనాలు మీ పరికర నిల్వని ఉపయోగిస్తాయి.</string>
+    <string name="storage_management_wear_manage_size_label">వేరబుల్ నిల్వని నిర్వహించు</string>
+    <string name="storage_management_wear_size_label">వేరబుల్ నిల్వ</string>
+    <string name="storage_managment_all_storage_descriptive_text">శోధన ఇంజిన్ మరియు ఇతర డేటాతో పాటు Google Play సేవలు ఉపయోగించిన మొత్తం డేటా.</string>
+    <string name="storage_managment_clear_all_data">మొత్తం డేటాను క్లియర్ చేయి</string>
+    <string name="storage_managment_computing_size">గణిస్తోంది…</string>
+    <string name="storage_managment_icing_size_label">శోధన డేటా</string>
+    <string name="storage_managment_manage_icing_button">శోధన డేటాను నిర్వహించండి</string>
+    <string name="storage_managment_search_index_descriptive_text">మీ అనువర్తనాలు ఉపయోగించడానికి శోధన ఇంజిన్‌ను అందించడం ద్వారా మేము మీ పరికరంలో శోధనను వేగవంతం చేస్తాము.</string>
+    <string name="storage_managment_title">Google Play సేవల నిల్వ</string>
+    <string name="storage_managment_total_size_label">మొత్తం నిల్వ</string>
+    <string name="suw_back_button_label">వెనుకకు</string>
+    <string name="suw_more_button_label">మరింత</string>
+    <string name="suw_next_button_label">తర్వాత</string>
+    <string name="uncertified_notification_expired_content">Google యాప్‌లు మరియు సేవలు ఈ పరికరంలో పని చేయవు. మరింత తెలుసుకోవడానికి నొక్కండి.</string>
+    <string name="uncertified_notification_expired_title">నమోదు గడువు ముగిసింది</string>
+    <string name="uncertified_notification_expiring_title">నమోదు గడువు ముగియనుంది</string>
+    <string name="use_nearby_device_heading">సమీప పరికరాన్ని ఉపయోగించాలా?</string>
+    <string name="use_nearby_device_text">మీరు ఆధారాలను మంజూరు చేయడానికి సమీప పరికరాన్ని ఉపయోగించాలనుకుంటున్నారా?</string>
+    <string name="v7_preference_off">ఆఫ్</string>
+    <string name="v7_preference_on">ఆన్</string>
+    <string name="verify_your_identity_description">%1$s ఇది మీరేనని ధృవీకరించాలి.</string>
+    <string name="verify_your_identity_title">మీ గుర్తింపును ధృవీకరించండి</string>
+    <string name="waiting_for_account_info_text">ఖాతా సమాచారం కోసం వేచి ఉంది...</string>
+</resources>

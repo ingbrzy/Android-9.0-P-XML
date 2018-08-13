@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">ဤဓာတ်ပုံများသည် သင့်ကိရိယာ၏အမှိုက်ပုံးအတွက် ကြီးလွန်းနေသည်။ ၎င်းတို့ကိုဖျက်လျှင် သင့်ကိရိယာနှင့် အကောင့်မှ ၎င်းတို့ကို လုံးဝဖယ်ရှားပစ်ပါလိမ့်မည်။</item>
+        <item quantity="one">ဤဓာတ်ပုံသည် သင့်ကိရိယာ၏အမှိုက်ပုံးအတွက် ကြီးလွန်းနေသည်။ ၎င်းကိုဖျက်လျှင် သင့်ကိရိယာနှင့် အကောင့်မှ ၎င်းကို လုံးဝဖယ်ရှားပစ်ပါလိမ့်မည်။</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">အယ်လ်ဘမ်အသစ်၏အရွယ်အစားမှာ လက်ရှိကန့်သတ်ချက် %1$d ခုထက် ပိုကြီးနေနိုင်ပါသည်။</item>
+        <item quantity="one">အယ်လ်ဘမ်အသစ်၏အရွယ်အစားမှာ လက်ရှိကန့်သတ်ချက် %1$d ခုထက် ပိုကြီးနေနိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">အယ်လ်ဘမ်တွင် %1$d ခု ရှိနိုင်ပါသည်။</item>
+        <item quantity="one">အယ်လ်ဘမ်တွင် %1$d ခု ရှိနိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">တည်နေရာ %d ခု ထည့်လိုက်ပါသည်</item>
+        <item quantity="one">တည်နေရာ %d ခု ထည့်လိုက်ပါသည်</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">တည်နေရာ %d ခု</item>
+        <item quantity="one">တည်နေရာ %d ခု</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">မြေပုံ %d ခု</item>
+        <item quantity="one">မြေပုံ %d ခု</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">မြေပုံ %d ခု ထည့်ထားသည်</item>
+        <item quantity="one">မြေပုံ %d ခု ထည့်ထားသည်</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">အယ်လ်ဘမ်မှ ဤအရာများကို ဖယ်ရှားနေသည်…</item>
+        <item quantity="one">အယ်လ်ဘမ်မှ ဤအရာကို ဖယ်ရှားနေသည်…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d ခု ဖယ်ရှားပြီးပါပြီ</item>
+        <item quantity="one">%d ခု ဖယ်ရှားပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">ဤအယ်လ်ဘမ်မှဓာတ်ပုံများကို ဖယ်ရှားနေသည်…</item>
+        <item quantity="one">ဤအယ်လ်ဘမ်မှဓာတ်ပုံကို ဖယ်ရှားနေသည်…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">အယ်လ်ဘမ်မှ ဗီဒီယိုများကို ဖယ်ရှားနေသည်…</item>
+        <item quantity="one">အယ်လ်ဘမ်မှ ဗီဒီယိုကို ဖယ်ရှားနေသည်…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ပုံ</item>
+        <item quantity="one">%1$d ပုံ</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d ခု</item>
+        <item quantity="one">%d ခု</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">စက်ပစ္စည်း (%d) ခုမှ ဖျက်ရန်</item>
+        <item quantity="one">စက်ပစ္စည်း (%d) ခုမှ ဖျက်ရန်</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">စက်ပစ္စည်း (%d) ခုမှ အားလုံးကို ဖျက်ရန်</item>
+        <item quantity="one">စက်ပစ္စည်း (%d) ခုမှ အားလုံးကို ဖျက်ရန်</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">ဖျက်ရန် (%d)</item>
+        <item quantity="one">ဖျက်ရန် (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d ခုကို သိမ်းပြီးပါပြီ</item>
+        <item quantity="one">%d ခုကို သိမ်းပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d ခုကို သိမ်းဆည်းထားရာမှ ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">%d ခုကို သိမ်းဆည်းထားရာမှ ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d ခုကို ရွေးထားသည်</item>
+        <item quantity="one">%d ခုကို ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d ခုကို အပ်လုဒ်လုပ်နေသည်</item>
+        <item quantity="one">%d ခုကို အပ်လုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d ပုံ ကျန်သည်</item>
+        <item quantity="one">%d ပုံ ကျန်သည်</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံ မိတ္တူကူးရန် ကျန်ရှိပါသည်</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံ မိတ္တူကူးရန် ကျန်ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ • %2$s</item>
+        <item quantity="one">ဓာတ်ပုံ %1$d ပုံ • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">%1$d ခု ကို မိတ္တူကူးလိုပါသလား။</item>
+        <item quantity="one">%1$d ခု ကို မိတ္တူကူးလိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">%1$d ခု ကို အပ်လုဒ်လုပ်နေသည်</item>
+        <item quantity="one">%1$d ခု ကို အပ်လုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံကို မိတ္တူမကူးရသေးပါ</item>
+        <item quantity="one">ဓာတ်ပုံ %1$d ပုံကို မိတ္တူမကူးရသေးပါ</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံ သိမ်းထားရန်</item>
+        <item quantity="one">ဓာတ်ပုံ %1$d ပုံ သိမ်းထားရန်</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d ခုကို အပ်လုဒ်လုပ်နေသည်</item>
+        <item quantity="one">%d ခုကို အပ်လုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">ဗီဒီယို %d ခုကို တင်နေသည်</item>
+        <item quantity="one">ဗီဒီယို %d ခုကို တင်နေသည်</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">အပ်လုဒ်လုပ်ရန် %d ခုကျန်သည်</item>
+        <item quantity="one">အပ်လုဒ်လုပ်ရန် %d ခုကျန်သည်</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">တင်ရန်ဗီဒီယို %d ခုကျန်သည်</item>
+        <item quantity="one">တင်ရန်ဗီဒီယို %d ခုကျန်သည်</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">ဓာတ်ပုံအားလုံး %d ပုံ</item>
+        <item quantity="one">ဓာတ်ပုံအားလုံး %d ပုံ</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို မိတ္တူကူးမထားပါ</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံကို မိတ္တူကူးမထားပါ</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d ခု ထည့်ပြီးပါပြီ</item>
+        <item quantity="one">%1$d ခု ထည့်ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">အယ်လ်ဘမ်တစ်ခုတွင် %d ခုသာ ထားရှိနိုင်ပါသည်။</item>
+        <item quantity="one">အယ်လ်ဘမ်တစ်ခုတွင် %d ခုသာ ထားရှိနိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">အများဆုံး %d ခု ရွေးပါ။</item>
+        <item quantity="one">အများဆုံး %d ခု ရွေးပါ။</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">အနည်းဆုံး %d ခု ရွေးပါ။</item>
+        <item quantity="one">အနည်းဆုံး %d ခု ရွေးပါ။</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d ရက်အတွင်းပုံများကို ရွေးပါ။</item>
+        <item quantity="one">%d ရက်အတွင်းပုံများကို ရွေးပါ။</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
+        <item quantity="one">%d ခု ထည့်ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">ပြီးခဲ့သော %d ရက်က</item>
+        <item quantity="one">ပြီးခဲ့သော %d ရက်က</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dနာရီ</item>
+        <item quantity="one">%dနာရီ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">ပြီးခဲ့သည့် %d နာရီက</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d နာရီက</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d ပတ်</item>
+        <item quantity="one">%d ပတ်</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">ပြီးခဲ့သည့် %d ပတ်က</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d ပတ်က</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dမိနစ်</item>
+        <item quantity="one">%dမိနစ်</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">ပြီးခဲ့သည့် %d မိနစ်က</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d မိနစ်က</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dရက်</item>
+        <item quantity="one">%dရက်</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">ပြီးခဲ့သည့် %d ရက်</item>
+        <item quantity="one">ပြီးခဲ့သည့် %d ရက်</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d ခု ကို သင့်စက်မှ ဖယ်ရှားပါမည်။ စိတ်မပူပါနှင့်။ Google Photos ထဲတွင် ၎င်းတို့ ရှိနေပါမည်။</item>
+        <item quantity="one">%1$d ခု ကို သင့်စက်မှ ဖယ်ရှားပါမည်။ စိတ်မပူပါနှင့်။ Google Photos ထဲတွင် ၎င်း ရှိနေပါမည်။</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">စက်မှ %1$d ခု ဖယ်ရှားရန်</item>
+        <item quantity="one">စက်မှ %1$d ခု ဖယ်ရှားရန်</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">ဓာတ်ပုံနှင့် ဗီဒီယို %1$d ခု စက်မှဖယ်ရှားရန်</item>
+        <item quantity="one">ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယို %1$d ခု စက်မှဖယ်ရှားရန်</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">မူရင်းဓာတ်ပုံ (သို့) ဗီဒီယို %1$d ခု ဖျက်နေသည်</item>
+        <item quantity="one">မူရင်းဓာတ်ပုံ (သို့) ဗီဒီယို %1$d ခု ဖျက်နေသည်</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d ခု</item>
+        <item quantity="one">%d ခု</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">ကဒ်အသစ် %d ကဒ်</item>
+        <item quantity="one">ကဒ်အသစ် ၁ ကဒ်</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d ခု ထည့်ထားသည်</item>
+        <item quantity="one">%d ခု ထည့်ထားသည်</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">အပ်ဒိတ် %1$d ခု</item>
+        <item quantity="one">အပ်ဒိတ် %1$d ခု</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">မှတ်ချက် %1$d ခု</item>
+        <item quantity="one">မှတ်ချက် %1$d ခု</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ဒစ်ဂျစ်တိုက်သို့ ဤအရာများကို သိမ်းနေသည်…</item>
+        <item quantity="one">ဒစ်ဂျစ်တိုက်သို့ ဤအရာကို သိမ်းနေသည်…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d ခု ထည့်ပြီးပါပြီ</item>
+        <item quantity="one">%d ခု ထည့်ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">နောက်ထပ် %d ခုသာ ထည့်နိုင်ပါသည်။</item>
+        <item quantity="one">နောက်ထပ် %d ခုသာ ထည့်နိုင်ပါသည်။</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">ဖိုင်တွဲနှင့် ၎င်းအတွင်းရှိ %d ခု ကို ဖျက်မည်</item>
+        <item quantity="one">ဖိုင်တွဲနှင့် ၎င်းအတွင်းရှိ %d ခု ကို ဖျက်မည်</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">စက်ပစ္စည်း (%d) မှ ဖျက်ရန်</item>
+        <item quantity="one">စက်ပစ္စည်း (%d) မှ ဖျက်ရန်</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d ခုကို ကူးယူရာတွင် အခက်အခဲ ရှိပါသည်</item>
+        <item quantity="one">%d ခုကို ကူးယူရာတွင် အခက်အခဲ ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d ခုကို ကူးယူပြီးပါပြီ</item>
+        <item quantity="one">%d ခုကို ကူးယူပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d ခုကို ရွှေ့ရာတွင် အခက်အခဲ ရှိပါသည်</item>
+        <item quantity="one">%d ခုကို ရွှေ့ရာတွင် အခက်အခဲ ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d ခုကို ရွှေ့ပြီးပါပြီ</item>
+        <item quantity="one">%d ခုကို ရွှေ့ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">%1$d ဦးနှင့် မျှဝေထားသည့် အယ်လ်ဘမ်သို့ ထည့်လိုပါသလား။</item>
+        <item quantity="one">%1$d ဦးနှင့် မျှဝေထားသည့် အယ်လ်ဘမ်သို့ ထည့်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">%1$s နှင့် အခြား %2$d ဦးထံ မျှဝေထားသည့် အယ်လ်ဘမ်သို့ ထည့်လိုပါသလား။</item>
+        <item quantity="one">%1$s နှင့် အခြား %2$d ဦးထံ မျှဝေထားသည့် အယ်လ်ဘမ်သို့ ထည့်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">%1$s၊ %2$s နှင့် အခြား %3$d ဦးထံ မျှဝေထားသည့် အယ်လ်ဘမ်သို့ ထည့်လိုပါသလား။</item>
+        <item quantity="one">%1$s၊ %2$s နှင့် အခြား %3$d ဦးထံ မျှဝေထားသည့် အယ်လ်ဘမ်သို့ ထည့်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">%1$s နှင့် အခြား %2$d ဦးထံသို့ ပို့လိုပါသလား။</item>
+        <item quantity="one">%1$s နှင့် အခြား %2$d ဦးထံသို့ ပို့လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">%1$s၊ %2$s နှင့် အခြား %3$d ဦးထံသို့ ပို့လိုပါသလား။</item>
+        <item quantity="one">%1$s၊ %2$s နှင့် အခြား %3$d ဦးထံသို့ ပို့လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">လူ %d ဦး၏ ဓာတ်ပုံများ</item>
+        <item quantity="one">လူ %d ဦး၏ ဓာတ်ပုံများ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">ရွေးချယ်ထားသည့် မျက်နှာ %d ခု ၏ ဓာတ်ပုံများ</item>
+        <item quantity="one">ရွေးချယ်ထားသည့် မျက်နှာ %d ခု ၏ ဓာတ်ပုံများ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d ခု ရွေးထားသည်</item>
+        <item quantity="one">%d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">မျက်နှာ %d ခု ရွေးချယ်ထားသည်</item>
+        <item quantity="one">မျက်နှာ %d ခု ရွေးချယ်ထားသည်</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%2$s ကတည်းက ရွေးချယ်ထားသည့် မျက်နှာ %1$d ခု ၏ ဓာတ်ပုံများ</item>
+        <item quantity="one">%2$s ကတည်းက ရွေးချယ်ထားသည့် မျက်နှာ %1$d ခု ၏ ဓာတ်ပုံများ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">ရွေးချယ်ထားသည့် မျက်နှာ %d ခု ၏ ဓာတ်ပုံများ</item>
+        <item quantity="one">ရွေးချယ်ထားသည့် မျက်နှာ %d ခု ၏ ဓာတ်ပုံများ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">ဓာတ်ပုံ %1$d ပုံကို ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">ဓာတ်ပုံ %1$d ပုံကို ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">%d ဦးသာ ရွေးရန်</item>
+        <item quantity="one">%d ဦးသာ ရွေးရန်</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">အပိုစာမျက်နှာ %d မျက်နှာ</item>
+        <item quantity="one">အပိုစာမျက်နှာ %d မျက်နှာ</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">စာမျက်နှာ %d မျက်နှာ</item>
+        <item quantity="one">စာမျက်နှာ %d မျက်နှာ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">နောက်ထပ် %d ပုံကို ဝယ်ယူရန် ထည့်ပါ</item>
+        <item quantity="one">နောက်ထပ် %d ပုံကို ဝယ်ယူရန် ထည့်ပါ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို ထည့်လိုက်ပါပြီ</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံကို ထည့်လိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">ဓာတ်ပုံများကို ဖျက်လိုက်ခြင်း သို့မဟုတ် မျှဝေမှု မရှိတော့ခြင်း ဖြစ်နိုင်သည်</item>
+        <item quantity="one">ဓာတ်ပုံကို ဖျက်လိုက်ခြင်း သို့မဟုတ် မျှဝေမှု မရှိတော့ခြင်း ဖြစ်နိုင်သည်</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို မရနိုင်တော့ပါ</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံကို မရနိုင်တော့ပ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို ဖယ်ရှားလိုက်ပါပြီ</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံကို ဖယ်ရှားလိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">အပိုစာမျက်နှာ %d မျက်နှာ</item>
+        <item quantity="one">အပိုစာမျက်နှာ %d မျက်နှာ</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">စာမျက်နှာ %d မျက်နှာ</item>
+        <item quantity="one">စာမျက်နှာ %d မျက်နှာ</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံသာ ပုံနှိပ်နိုင်ပါသည်၊ </item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံသာ ပုံနှိပ်နိုင်ပါသည်၊ </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို သင့်အတွက် အကြံပြုထားပါသည်</item>
+        <item quantity="one">ဓာတ်ပုံ%d ပုံကို သင့်အတွက် အကြံပြုထားပါသည်</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံကို အကြံပြုထားသည်</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံကို အကြံပြုထားသည်</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">ဓာတ်ပုံများ သို့မဟုတ် ဗီဒီယိုများ</item>
+        <item quantity="one">ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယို</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">ဓာတ်ပုံများ</item>
+        <item quantity="one">ဓာတ်ပုံ</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">ဗီဒီယိုများ</item>
+        <item quantity="one">ဗီဒီယို</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">အိမ်မွေးတိရစ္ဆာန် %d ကောင်တွေ့သည်</item>
+        <item quantity="one">အိမ်မွေးတိရစ္ဆာန် %d ကောင်တွေ့သည်</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">ထို့အပြင် သင့်ဓာတ်ပုံများတွင် နေရာ %1$d ခုလည်း တွေ့ရှိပါသည်</item>
+        <item quantity="one">ထို့အပြင် သင့်ဓာတ်ပုံများတွင် နေရာ %1$d ခုလည်း တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">ထို့အပြင် သင့်ဓာတ်ပုံများတွင် အရာဝတ္ထု %1$d ခုလည်း တွေ့ရှိပါသည်</item>
+        <item quantity="one">ထို့အပြင် သင့်ဓာတ်ပုံများတွင် အရာဝတ္ထု %1$d ခုလည်း တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">ထို့အပြင် သင့်ဓာတ်ပုံများရှိ နောက်ထပ် နေရာနှင့် အရာဝတ္ထု %1$d ခု</item>
+        <item quantity="one">ထို့အပြင် သင့်ဓာတ်ပုံများရှိ နောက်ထပ် နေရာနှင့် အရာဝတ္ထု %1$d ခု</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">လူ %1$d ဦး တွေ့ရှိပါသည်</item>
+        <item quantity="one">လူ %1$d ဦး တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">နေရာ %1$d ခု တွေ့ရှိပါသည်</item>
+        <item quantity="one">နေရာ %1$d ခု တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">အရာဝတ္ထု %1$d ခု တွေ့ရှိပါသည်</item>
+        <item quantity="one">အရာဝတ္ထု %1$d ခု တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံ</item>
+        <item quantity="one">ဓာတ်ပုံ %d ပုံ</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">ထို့အပြင် နေရာ %1$d ခု</item>
+        <item quantity="one">ထို့အပြင် နေရာ %1$d ခု</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">ထို့အပြင် အရာ %1$d ခု</item>
+        <item quantity="one">ထို့အပြင် အရာ %1$d ခု</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">ထို့အပြင် အရာဝတ္ထုနှင့် နေရာ %1$d ခု</item>
+        <item quantity="one">ထို့အပြင် အရာဝတ္ထုနှင့် နေရာ %1$d ခု</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">သင့်ဓာတ်ပုံများမှ လူ %1$d ဦးကို ကြည့်ပါ</item>
+        <item quantity="one">သင့်ဓာတ်ပုံများမှ လူ %1$d ဦးကို ကြည့်ပါ</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">လူ %1$d ဦး တွေ့ရှိပါသည်</item>
+        <item quantity="one">လူ %1$d ဦး တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">နေရာ %1$d ခု တွေ့ရှိပါသည်</item>
+        <item quantity="one">နေရာ %1$d ခု တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">အရာဝတ္ထု %1$d ခု တွေ့ရှိပါသည်</item>
+        <item quantity="one">အရာဝတ္ထု %1$d ခု တွေ့ရှိပါသည်</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">သင့်ဓာတ်ပုံများမှ အရာဝတ္ထု %1$d ခုကို ကြည့်ပါ</item>
+        <item quantity="one">သင့်ဓာတ်ပုံများမှ အရာဝတ္ထု %1$d ခုကို ကြည့်ပါ</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d ခု ရွေးထားသည်</item>
+        <item quantity="one">%1$d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d ခု ရွေးထားသည်</item>
+        <item quantity="one">%d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">အယ်လ်ဘမ်သို့ %d ခု ထည့်လိုက်ပါသည်</item>
+        <item quantity="one">အယ်လ်ဘမ်သို့ %d ခု ထည့်လိုက်ပါသည်</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d ခုကို အပ်လုဒ်လုပ်နေသည်</item>
+        <item quantity="one">%d ခုကို အပ်လုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">ချိတ်ဆက်ထားသည့်အခါ %d ခုကို အပ်လုဒ်လုပ်သွားပါမည်</item>
+        <item quantity="one">ချိတ်ဆက်ထားသည့်အခါ %d ခုကို အပ်လုဒ်လုပ်သွားပါမည်</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s နှင့် အခြားသူ %2$d ဦး</item>
+        <item quantity="one">%1$s နှင့် အခြားသူ %2$d ဦး</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ခု</item>
+        <item quantity="one">%d ခု</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">သက်ဆိုင်ရာ ဓာတ်ပုံ %d ပုံကို ထည့်လိုပါသလား။</item>
+        <item quantity="one">သက်ဆိုင်ရာ ဓာတ်ပုံ %d ပုံကို ထည့်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">ဓာတ်ပုံအသစ် %1$d ပုံ</item>
+        <item quantity="one">ဓာတ်ပုံအသစ် %1$d ပုံ</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s က ဓာတ်ပုံအသစ် %2$d ပုံကို ထည့်သွင်းထားသည်</item>
+        <item quantity="one">%1$s က ဓာတ်ပုံအသစ် %2$d ပုံကို ထည့်သွင်းထားသည်</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">သင့်ဓာတ်ပုံများတွင် လူ %1$d ဦး တွေ့ပါသည်</item>
+        <item quantity="one">သင့်ဓာတ်ပုံများတွင် လူ %1$d ဦး တွေ့ပါသည်</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">သင့်ဓာတ်ပုံများတွင် နေရာ %1$d ခု တွေ့ပါသည်</item>
+        <item quantity="one">သင့်ဓာတ်ပုံများတွင် နေရာ %1$d ခု တွေ့ပါသည်</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">သင့်ဓာတ်ပုံများတွင် ပစ္စည်း %1$d ခု တွေ့ပါသည်</item>
+        <item quantity="one">သင့်ဓာတ်ပုံများတွင် ပစ္စည်း %1$d ခု တွေ့ပါသည်</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ဓာတ်ပုံများကို ဖျက်၍မရပါ</item>
+        <item quantity="one">ဓာတ်ပုံကို ဖျက်၍မရပါ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d ခုကို မဖျက်နိုင်ပါ</item>
+        <item quantity="one">%d ခုကို မဖျက်နိုင်ပါ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d ခုကို အပြီးဖျက်၍မရပါ</item>
+        <item quantity="one">%d ခုကို အပြီးဖျက်၍မရပါ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">ဤအရာများကို အပြီးဖျက်နေသည်…</item>
+        <item quantity="one">ဤအရာကို အပြီးဖျက်နေသည်…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d ခုကို အပြီးဖျက်လိုက်ပါပြီ</item>
+        <item quantity="one">%d ခုကို အပြီးဖျက်လိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">စက်ပစ္စည်းထဲမှ %d ကို ဖျက်လိုက်ပါပြီ</item>
+        <item quantity="one">စက်ပစ္စည်းထဲမှ %d ကို ဖျက်လိုက်ပါပြီ</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">ဤအရာများကို ပြန်လည်ရယူနေသည်…</item>
+        <item quantity="one">ဤအရာကို ပြန်လည်ရယူနေသည်…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d ခုကို ပြန်လည်မရယူနိုင်ပါ</item>
+        <item quantity="one">%d ခုကို ပြန်လည်မရယူနိုင်ပါ</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d ခုကို အမှိုက်ပုံးမှ ပြန်လည်ရယူလိုက်သည်</item>
+        <item quantity="one">%d ခုကို အမှိုက်ပုံးမှ ပြန်လည်ရယူလိုက်သည်</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">ဓာတ်ပုံများကို အပြီးဖျက်မည်လား။</item>
+        <item quantity="one">ဓာတ်ပုံကို အပြီးဖျက်မလား။</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">%d ခုကို ဖျက်လိုပါသလား။</item>
+        <item quantity="one">%d ခုကို ဖျက်လိုပါသလား။</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d ခုကို အပြီးဖျက်ရန်</item>
+        <item quantity="one">%d ခုကို အပြီးဖျက်ရန်</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">ဤဗားရှင်း သက်တမ်းကုန်ရန် %d ရက်သာလိုပါတော့သည်။ Google Photos ကို ဆက်လက်အသုံးပြုရန် ယခုပင်အပ်ဒိတ်လုပ်ပါ။</item>
+        <item quantity="one">ဤဗားရှင်း သက်တမ်းကုန်ရန် ၁ ရက်သာလိုပါတော့သည်။ Google Photos ကို ဆက်လက်အသုံးပြုရန် ယခုပင်အပ်ဒိတ်လုပ်ပါ။</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d ခု အပ်လုဒ်လုပ်နေသည်</item>
+        <item quantity="one">%d ခု အပ်လုဒ်လုပ်နေသည်</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">ချိတ်ဆက်သည့်အခါ %d ခုကို အပ်လုဒ်လုပ်ပါမည်</item>
+        <item quantity="one">ချိတ်ဆက်သည့်အခါ %d ခုကို အပ်လုဒ်လုပ်ပါမည်</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Wi-F သို့ ချိတ်ဆက်သည့်အခါ %d ခုကို အပ်လုဒ်လုပ်ပါမည်</item>
+        <item quantity="one">Wi-F သို့ ချိတ်ဆက်သည့်အခါ %d ခုကို အပ်လုဒ်လုပ်ပါမည်</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">ဤအရာများကို ယခုမိတ္တူကူးရန် ဒေတာ %s အသုံးပြုရပါလိမ့်မည်။ ဒေတာအသုံးမပြုစေရန် Wi-Fi ချိတ်ဆက်ပါ။</item>
+        <item quantity="one">ဤအရာကို ယခုမိတ္တူကူးရန် ဒေတာ %s အသုံးပြုရပါလိမ့်မည်။ ဒေတာအသုံးမပြုစေရန် Wi-Fi ချိတ်ဆက်ပါ။</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">ဤအရာများကို မိတ္တူကူးခြင်းက သင်၏အင်တာနက်ဒေတာအချို့ကို အသုံးပြုပါလိမ့်မည်။ ဒေတာအသုံးမပြုစေရန် Wi-Fi ချိတ်ဆက်ပါ။</item>
+        <item quantity="one">ဤအရာကို မိတ္တူကူးခြင်းက သင်၏အင်တာနက်ဒေတာအချို့ကို အသုံးပြုပါလိမ့်မည်။ ဒေတာအသုံးမပြုစေရန် Wi-Fi ချိတ်ဆက်ပါ။</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">အပ်လုဒ်လုပ်နေသည်…%d ဖိုင် ကျန်သေးသည်</item>
+        <item quantity="one">အပ်လုဒ်လုပ်နေသည်…%d ဖိုင် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ဖိုင်</item>
+        <item quantity="one">%d ဖိုင်</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">ဓာတ်ပုံ %s ပုံ</item>
+        <item quantity="one">ဓာတ်ပုံ %s ပုံ</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s ခု ရွေးရန်</item>
+        <item quantity="one">%s ခု ရွေးရန်</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">ဗီဒီယို %s ခု</item>
+        <item quantity="one">ဗီဒီယို %s ခု</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">ဓာတ်ပုံများ ရွေးရန်</item>
+        <item quantity="one">ဓာတ်ပုံတစ်ပုံ ရွေးရန်</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">အရာများ ရွေးရန်</item>
+        <item quantity="one">အရာတစ်ခု ရွေးရန်</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">ဗီဒီယိုများ ရွေးရန်</item>
+        <item quantity="one">ဗီဒီယိုတစ်ကား ရွေးရန်</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">နှင့် အခြား %d ဦး</item>
+        <item quantity="one">နှင့် အခြား %d ဦး</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s။ အဆက်အသွယ်နည်းလမ်း %2$d ခု</item>
+        <item quantity="one">%1$s။ အဆက်အသွယ်နည်းလမ်း %2$d ခု</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">အဖွဲ့ဝင် %d ဦး</item>
+        <item quantity="one">အဖွဲ့ဝင် %d ဦး</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d ခု ရွေးထားသည်</item>
+        <item quantity="one">%d ခု ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">အဖွဲ့ဝင် %2$d ဦး အနက်မှ %1$d ဦးကို ရွေးထားသည်</item>
+        <item quantity="one">အဖွဲ့ဝင် %2$d ဦး အနက်မှ %1$d ဦးကို ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">အဖွဲ့ဝင် %d ဦးကို ရွေးထားသည်</item>
+        <item quantity="one">အဖွဲ့ဝင် %d ဦးကို ရွေးထားသည်</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">သင့်ကိရိယာ၏အမှိုက်ပုံး ပြည့်နေသည်။ သင်ဤဓာတ်ပုံများကိုဖျက်လျှင် သင့်ကိရိယာနှင့် အကောင့်မှ ၎င်းတို့ကို လုံးဝဖယ်ရှားပစ်ပါလိမ့်မည်။</item>
+        <item quantity="one">သင့်ကိရိယာ၏အမှိုက်ပုံး ပြည့်နေသည်။ သင်ဤဓာတ်ပုံကိုဖျက်လျှင် သင့်ကိရိယာနှင့် အကောင့်မှ ၎င်းကို လုံးဝဖယ်ရှားပစ်ပါလိမ့်မည်။</item>
+    </plurals>
+</resources>

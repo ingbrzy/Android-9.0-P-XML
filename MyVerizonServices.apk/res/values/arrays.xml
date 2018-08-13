@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="messages">
+        <item>{Method:\"*\", Id:\"fallback_error\", Message:\"Sorry, we ran into a problem. Please try again or call us at 800-922-0204.\", button1:\"Close\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+        <item>"{Method:\"*\", Id:\"standard_error\", Message:\"Sorry, we're having trouble setting up network access for your device. Please contact Customer Service at (800) 922-0204.\", button1:\"Close\", title:\"Verizon Wireless\", show_code:\"true\"}"</item>
+        <item>{Method:\"*\", Id:\"airplane_error\", Message:\"Sorry, we cannot access your account information. Check that a valid SIM card is present and your device is not in Airplane Mode. If you continue to have problems please contact Customer Service at (800) 922-0204.\", button1:\"Close\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"please_wait\", Message:\"Just a few moments while we prepare this application for use...\", title:\"Verizon Wireless\", show_code:\"false\"}</item>
+        <item>{Method:\"*\", Id:\"permissions_rationale\", Message:\"Verizon Login cannot function because a required permission has been revoked. To restore functionality, please allow the requested permissions when prompted. (5003)\", button1:\"Exit\", button2:\"Continue\", title:\"Verizon Wireless\", show_code:\"false\"}</item>
+        <item>{Method:\"*\", Id:\"permissions_error\", Message:\"Verizon Login cannot function because a required permission has been revoked.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"*\", Message:\"Sorry, we ran into a problem. Please try again or call us at 800-922-0204.\", button1:\"Close\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+    </string-array>
+    <string-array name="country_codes">
+        <item>-</item>
+        <item>AR</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CH</item>
+        <item>CN</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HU</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KR</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>TR</item>
+        <item>TW</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="devicetradein_colorcapacity_array">
+        <item>Black 32GB</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>Micromax</item>
+    </string-array>
+    <string-array name="devicetradein_maker_array">
+        <item>HTC</item>
+        <item>Samsung</item>
+        <item>Sony</item>
+        <item>Micromax</item>
+    </string-array>
+    <string-array name="inputtypeforedittext">
+        <item>Normal Text</item>
+        <item>Number</item>
+        <item>Password</item>
+        <item>Cap Characters</item>
+        <item>Text No Suggestion</item>
+    </string-array>
+    <string-array name="mvdactive_env_array">
+        <item>SIT</item>
+        <item>PREPROD</item>
+        <item>PROD</item>
+    </string-array>
+    <string-array name="mvdactive_nav_items_array">
+        <item>Hardware Test</item>
+        <item>Software Test</item>
+        <item>About Phone</item>
+    </string-array>
+    <string-array name="mvdactive_tradein_url_array">
+        <item>http://mobile-edev.vzw.com/dev03/geofencing/instore/doAction/mvda/</item>
+        <item>http://mobile-edev.vzw.com/dev01/geofencing/instore/doAction/mvda/</item>
+        <item>http://mobile.vzw.com/geofencing/instore/doAction/mvda/</item>
+    </string-array>
+    <string-array name="mvdactive_upload_url_array">
+        <item>http://mobile-esit.vzw.com/sit01/active/api</item>
+        <item>https://rdd-preprod.vzw.com/active/api</item>
+        <item>https://rdd.vzw.com/active/api</item>
+    </string-array>
+    <string-array name="nav_items_array">
+        <item>Hardware Test</item>
+        <item>Software Test</item>
+        <item>About Phone</item>
+    </string-array>
+    <string-array name="notificationcolors">
+        <item>Select Color</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>White</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="preferences_front_light_options">
+        <item>@string/preferences_front_light_on</item>
+        <item>@string/preferences_front_light_auto</item>
+        <item>@string/preferences_front_light_off</item>
+    </string-array>
+    <string-array name="preferences_front_light_values">
+        <item>ON</item>
+        <item>AUTO</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="selection_day_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="selection_group_array">
+        <item>None</item>
+        <item>Select All</item>
+        <item>Duplicates</item>
+    </string-array>
+    <string-array name="testname">
+        <item>Laguna Niguel</item>
+        <item>Irvine Marketplace</item>
+        <item>totowa</item>
+        <item>Bridgewater NJ</item>
+    </string-array>
+</resources>

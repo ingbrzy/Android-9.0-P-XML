@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar a la página principal</string>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+    <string name="abc_activitychooserview_choose_application">Elige una aplicación.</string>
+    <string name="abc_searchview_description_clear">Eliminar la consulta</string>
+    <string name="abc_searchview_description_query">Búsqueda</string>
+    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="account_level_title">Acción necesaria en cta.</string>
+    <string name="account_removed_notification_text">Se quitó %1$s porque no se completó la administración del dispositivo</string>
+    <string name="account_removed_notification_title">Se quitó la cuenta</string>
+    <string name="android_privacy_policy_title">Política de privacidad adicional</string>
+    <string name="app_level_title">Solicitud de acceso</string>
+    <string name="app_level_title_secondary">Solicitud de acceso de %s</string>
+    <string name="auth_account_already_has_gmail">La cuenta ya está asociada a Gmail.</string>
+    <string name="auth_account_content_provider_label">Datos de la cuenta de Google</string>
+    <string name="auth_account_module_display_name">Cuentas de Google</string>
+    <string name="auth_account_removed_default_description">No se completó la administración del dispositivo. %1$s</string>
+    <string name="auth_account_removed_dm_bad_result_description">No se pudo completar la administración del dispositivo. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Tu dominio requiere la administración de dispositivos móviles, pero este dispositivo no la admite. Intenta usar otra cuenta.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Administración no admitida</string>
+    <string name="auth_account_removed_dm_setup_failed_description">No se instaló correctamente la administración del dispositivo. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Error al instalar</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Config. cancelada</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Este dispositivo solo admite una cuenta administrada. Si tienes alguna pregunta, comunícate con el administrador de tu organización.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Ya hay una cuenta administrada</string>
+    <string name="auth_account_start_over_and_signin_again">Vuelve a empezar y accede nuevamente.</string>
+    <string name="auth_app_permission_ok_footnote">Si continúas, permitirás que esta aplicación y Google usen tu información según las condiciones del servicio y las políticas de privacidad correspondientes.</string>
+    <string name="auth_cant_add_work_account_message">Tu organización administra este tipo de cuenta.</string>
+    <string name="auth_captcha_instructions">Escribe el texto que aparece a continuación:</string>
+    <string name="auth_captcha_title">Se debe ingresar CAPTCHA</string>
+    <string name="auth_communicating_message">El dispositivo se está comunicando con Google para guardar información en tu cuenta. Este proceso puede demorar hasta 5 minutos.</string>
+    <string name="auth_d2d_source_alert_title">Tap &amp; Go</string>
+    <string name="auth_d2d_source_copy_notice">¿Quieres copiar las cuentas y los datos al otro dispositivo?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Después de realizar la verificación, se activará el Bluetooth para que se puedan comunicar tus dispositivos.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Después de realizar la verificación, se conectarán tus dispositivos a través de Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Para continuar, tendrás que desbloquear la pantalla a fin de realizar la verificación.</string>
+    <string name="auth_d2d_source_no_accounts_toast">No se puede usar Tap &amp; Go porque no hay cuentas en este dispositivo.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">No se puede usar Tap &amp; Go porque Bluetooth no está disponible en tu dispositivo.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">El Bluetooth se activará para que se puedan comunicar tus dispositivos.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Usa Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Acción Tap &amp; Go finalizada</string>
+    <string name="auth_d2d_source_restricted_user_toast">No se puede usar la función Presionar y restaurar desde un perfil de usuario restringido.</string>
+    <string name="auth_d2d_tap_and_go">Tap &amp; Go</string>
+    <string name="auth_d2d_target_tap_progress_message">Para continuar, presiona Aceptar en tu otro dispositivo</string>
+    <string name="auth_d2d_target_title">Tap &amp; Go</string>
+    <string name="auth_d2d_target_unlock_progress_message">Comprueba el otro dispositivo.</string>
+    <string name="auth_d2d_target_wait_progress_message">Obteniendo cuentas y datos…</string>
+    <string name="auth_device_management_download_app_icon">Ícono de la app de %s</string>
+    <string name="auth_device_management_download_description">Esta cuenta requiere la Administración de dispositivos móviles. Instala la app de ^1 para implementar las políticas de seguridad que precisa la cuenta.</string>
+    <string name="auth_device_management_download_description_kids">Para agregar la cuenta a este dispositivo, instala <b>^1</b>". 
+
+^1 te ayudará a configurar el dispositivo para tu hijo."</string>
+    <string name="auth_device_management_download_failed_message">Puedes continuar la configuración sin la app</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">No se pudo instalar la administración de dispositivos. Se quitará esta cuenta. Vuelve a intentarlo más tarde.</string>
+    <string name="auth_device_management_download_failed_title">No se puede descargar la app</string>
+    <string name="auth_device_management_download_not_updated_message">Puedes usar la versión actual para continuar con la configuración</string>
+    <string name="auth_device_management_download_skip_message">Esta cuenta requiere la administración de dispositivos. ¿Deseas continuar sin esta función?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Para agregar esta cuenta, debes usar la administración de dispositivos. ¿Deseas volver a empezar con otra cuenta?</string>
+    <string name="auth_device_management_screenlock_description">Para acceder a tu cuenta de trabajo desde este dispositivo, necesitarás configurar una pantalla bloqueada. Es la política de dispositivos móviles de tu organización.</string>
+    <string name="auth_device_management_screenlock_skip_message">Esta cuenta requiere un bloqueo de pantalla. ¿Te gustaría volver a empezar con otra cuenta?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Tu organización administra el perfil de trabajo, que mantiene separadas las apps laborales.
+
+Para terminar de configurarlo, necesitas un código que debe brindarte tu administrador de TI. Dicha persona descargará una herramienta que luego usará para administrar tu perfil de trabajo."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Tu organización administra el perfil de trabajo, que mantiene separadas las apps laborales.
+
+Tu administrador de TI descargará una herramienta que luego usará para administrar tu perfil de trabajo."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Configurar tu perfil de trabajo</string>
+    <string name="auth_device_management_start_description">Esta cuenta requiere la Administración de dispositivos móviles. Cuando presiones Siguiente, la app de ^1 te ayudará a implementar las políticas de seguridad que precisa la cuenta.</string>
+    <string name="auth_device_management_start_description_kids">Para agregar la cuenta a este dispositivo, usa <b>^1</b>". 
+
+^1 te ayudará a configurar el dispositivo para tu hijo."</string>
+    <string name="auth_device_management_update_description">Esta cuenta requiere la Administración de dispositivos móviles. Para cumplir con las políticas de seguridad asociadas con la cuenta, debes instalar una versión más reciente de la app de ^1.</string>
+    <string name="auth_device_management_update_description_kids">Para agregar la cuenta a este dispositivo, instala la versión más reciente de <b>^1</b>". 
+
+^1 te ayudará a configurar el dispositivo para tu hijo."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> no usa Gmail.</string>
+    <string name="auth_error_account_disabled">"Se inhabilitó esta cuenta. 
+
+Para obtener más información, visita http://google.com/accounts desde un navegador web."</string>
+    <string name="auth_error_account_not_verified">"Esta cuenta no se ha verificado. Revisa tu correo y sigue el vínculo incluido para verificar esta cuenta. 
+
+(Para recuperar la información de tu cuenta, ingresa a http://www.google.com/accounts/recovery en tu computadora)."</string>
+    <string name="auth_error_bad_password">La contraseña no es lo suficientemente segura o contiene caracteres no válidos. Vuelve a intentarlo.</string>
+    <string name="auth_error_generic_server_error">"Se produjo un problema de comunicación con los servidores de Google. 
+
+Vuelve a intentarlo más tarde."</string>
+    <string name="auth_error_invalid_second_factor">Utiliza una contraseña específica de la aplicación, en lugar de la contraseña habitual de tu cuenta.</string>
+    <string name="auth_error_login_failed">"El nombre de usuario y la contraseña no coinciden. Vuelve a intentarlo.
+
+Para recuperar la información de tu cuenta, ingresa a google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Debes acceder a tu cuenta en la Web. Presiona Siguiente para iniciar el acceso en el navegador.</string>
+    <string name="auth_error_no_network">"No tienes una conexión de red. 
+
+ Esto podría ser un problema temporal. Inténtalo de nuevo o conéctate a otra red Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">El usuario no accedió.</string>
+    <string name="auth_error_username_unavailable">El nombre de usuario no está disponible.</string>
+    <string name="auth_existing_account_error_title">La cuenta ya existe</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">No es posible acceder al dispositivo debido a que se cambió la contraseña recientemente. Intenta volver a acceder en 24 horas.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Si quitas la última cuenta de Google en el dispositivo del perfil personal, se inhabilitarán las funciones de protección contra el robo del dispositivo. Puedes agregar otra cuenta al dispositivo para volver a habilitarlas.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">¿Estás seguro/a?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">¿Quieres mover la cuenta al perfil de trabajo?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">No es posible acceder al dispositivo debido a un error desconocido. Intenta usar otra cuenta o vuelve a acceder en 24 horas.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Accede con una de las cuentas del propietario de este dispositivo.</string>
+    <string name="auth_frp_add_account_prompt">Se verificó la cuenta de Google anterior (^1) de este dispositivo. Puedes volver a agregarla o usar una nueva.</string>
+    <string name="auth_frp_add_account_yes">Usar cuenta anterior</string>
+    <string name="auth_frp_device_managed_label">Se configuró este dispositivo para que tu organización lo administre.</string>
+    <string name="auth_frp_download_management_app_label">Debes descargar una app de administración de dispositivos para continuar con el proceso de configuración.</string>
+    <string name="auth_frp_install_dpc_error">No se pudo instalar la aplicación de administración. Si omites este paso, no se administrará el dispositivo.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">No se pudo instalar la aplicación de administración. Verifica la conexión de la red y vuelve a intentarlo más tarde.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Usar mi cuenta de Google en su lugar</string>
+    <string name="auth_frp_preadd_lkscreen_text">Tu dispositivo se restableció a la configuración de fábrica. Usa tu pregunta de seguridad anterior para desbloquearlo.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Protección para el restablecimiento de la configuración de fábrica</string>
+    <string name="auth_frp_start_reenroll_device_title">Funcionamiento del dispositivo</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">No se pudo acceder a esta cuenta. Asegúrate de que tu dispositivo cumpla con las políticas de seguridad de tu organización. Si sigues viendo este error, comunícate con el administrador de tu organización.</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Tu dominio requiere la administración de dispositivos móviles. Instala la app de \"Google Apps Device Policy\" para implementar las políticas de seguridad que requiere la cuenta  "<b>^1</b> .</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" sólo puede contener letras,
+números y puntos."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> no contiene letras.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> contiene menos de seis o más de treinta caracteres.</string>
+    <string name="auth_gls_is_not_available">El nombre de usuario <b>^1</b> no está disponible.</string>
+    <string name="auth_gls_third_party_activity_download_message">" Se debe agregar la cuenta  "<b>^1</b> a un dispositivo o perfil de trabajo que administre tu organización. Para completar este paso, sigue las instrucciones que te proporcionó tu administrador de TI.</string>
+    <string name="auth_invalid_login_character">El carácter no es válido. Solo se permiten los caracteres 0-9, a-z, A-Z y puntos.</string>
+    <string name="auth_invalid_username">El texto que ingresaste no es un nombre de usuario válido.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Escribiste una contraseña incorrecta o tu cuenta cambió. Vuelve a escribir la contraseña. Si olvidaste la contraseña y quieres recuperar tu cuenta, haz clic <annotation id="help_url">aquí</annotation>.</string>
+    <string name="auth_login_task_title">Accediendo</string>
+    <string name="auth_login_title">Ingresa el correo electrónico y la contraseña</string>
+    <string name="auth_minutemaid_ssl_error">"Se produjo un problema al establecer la conexión con  %s."</string>
+    <string name="auth_network_unreliable_help">Es posible que se trate de un problema temporal o que tu dispositivo Android no admita servicios de datos. Si esto continúa, comunícate con el Servicio de atención al cliente.</string>
+    <string name="auth_no_network">No tienes una conexión de red.</string>
+    <string name="auth_no_network_help">Es posible que se trate de un problema temporal o que tu dispositivo Android no admita servicios de datos. Vuelve a intentarlo cuando estés conectado a una red móvil o conéctate a una red Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Es posible que se trate de un problema temporal. Vuelve a intentarlo o conéctate a otra red Wi-Fi.</string>
+    <string name="auth_otp_error">Se produjo un error al generar el código de seguridad.</string>
+    <string name="auth_otp_explained_paragraph">Si olvidaste tu contraseña o tu acceso cambió, es posible que Google te solicite un código de seguridad para proteger tu cuenta. Úsalo ahora o pide uno nuevo.</string>
+    <string name="auth_otp_header_message">Cuándo usar este código para acceder</string>
+    <string name="auth_otp_progress_dialog_message">Generando un código de seguridad</string>
+    <string name="auth_otp_ten_digit_code_header">Tus códigos de seguridad</string>
+    <string name="auth_otp_ten_digit_explaination">Si olvidas tu contraseña o accedes desde otro dispositivo o ubicación, es posible que debas ingresar uno o ambos códigos para proteger tu cuenta de Google.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Estos códigos vencen en 15 minutos a partir de este momento o después de su uso. Solo debes usarlos en páginas web con URL que comiencen con \"https://accounts.google.com/\".</string>
+    <string name="auth_otp_ten_digit_usage_header">Cuándo usar los códigos</string>
+    <string name="auth_plus_info_fragment_app_name">%s desea lo siguiente:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">La app de %1$s del dispositivo %2$s desea hacer lo siguiente:</string>
+    <string name="auth_relogin_activity_title">Volver a escribir la contraseña</string>
+    <string name="auth_request_accounts_list">Obtener una lista de las cuentas de Google a las que se accedió en el dispositivo</string>
+    <string name="auth_server_error">Ocurrió un problema al establecer comunicación con los servidores de Google.</string>
+    <string name="auth_server_error_help">Vuelve a intentarlo más tarde.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Se agregó la cuenta</string>
+    <string name="auth_setup_wizard_account_added_description">Se agregó tu cuenta. Continúa para seleccionar opciones de servicios de Google</string>
+    <string name="auth_sign_in_agreement">Al acceder, estarás aceptando las Políticas de privacidad de <annotation id="google_privacy">Google</annotation> y las Políticas de privacidad <annotation id="android_privacy">adicionales</annotation>.</string>
+    <string name="auth_sign_in_browser">Acceso en el navegador</string>
+    <string name="auth_sign_in_with_google_account_short">Accede con tu Cuenta de Google:</string>
+    <string name="auth_submission_error_text">Se produjo un error. Vuelve a intentarlo.</string>
+    <string name="auth_ui_activity_title">Acceder a Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Acceder</string>
+    <string name="auth_uncertified_notification_description"><b>Usuarios que compraron este dispositivo:</b>"
+El fabricante del dispositivo precargó las apps y los servicios de Google sin la certificación de Google. Comunícate con el fabricante y pídele un dispositivo certificado. Obtén más información en g.co/AndroidCertifiedDevice.
+
+"<b>Fabricantes sin licencia:</b>"
+Para distribuir apps y servicios de Google, se necesita la licencia correspondiente. Solicítala en g.co/AndroidGMSContact.
+
+"<b>Fabricantes con licencia:</b>"
+Para usar apps y servicios de Google durante el proceso de desarrollo, registra el dispositivo. Para obtener más información, comunícate con tu administrador de Desarrollo Empresarial de Google.
+
+"<b>Usuarios de ROM personalizadas:</b>"
+Para usar apps y servicios de Google con una ROM personalizada, registra este dispositivo. Obtén más información en g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Google no certificó el dispositivo</string>
+    <string name="auth_username">Correo</string>
+    <string name="auth_work_authenticator_label">Cuenta administrada</string>
+    <string name="authorization_dialog">Diálogo de autorización</string>
+    <string name="chrome_privacy_title">Aviso de privacidad de Chrome</string>
+    <string name="chrome_tos_title">Condiciones del servicio de Chrome</string>
+    <string name="common_add">Agregar</string>
+    <string name="common_add_account_label">Agregar una cuenta</string>
+    <string name="common_agree">Aceptar</string>
+    <string name="common_app_name">Google Play Services</string>
+    <string name="common_asm_manage_google_account_title">Administra tu cuenta de Google</string>
+    <string name="common_asm_privacy_settings_title">Datos personales y privacidad</string>
+    <string name="common_asm_security_settings_title">Acceso y seguridad</string>
+    <string name="common_cannot_start_hangouts_security_exception">No se pudo iniciar Hangouts (error de permiso).</string>
+    <string name="common_car_permission_desc">Accede al servicio de auto.</string>
+    <string name="common_car_permission_label">Servicio de autos</string>
+    <string name="common_chips_label_empty_circles">Sin círculos</string>
+    <string name="common_choose_account_label">Elige una cuenta</string>
+    <string name="common_connect">Conectar</string>
+    <string name="common_connected_apps_settings_title">Apps conectadas</string>
+    <string name="common_disagree">Rechazar</string>
+    <string name="common_get_started">Comenzar</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará a menos que habilites los servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_install_title">Obtener servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disp. de los Servicios de Google‌‌‌ Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s no se ejecutará sin los servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="common_google_play_services_update_text">%1$s no se ejecutará a menos que actualices los servicios de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizar servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará sin los servicios de Google Play. La plataforma se está actualizando en este momento.</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de los servicios de Google Play. Se actualizarán automáticamente en breve.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Los servicios de Google Play instalados tienen una arquitectura incorrecta.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Los servicios de Google Play se instalaron con una arquitectura (%1$s) que difiere de la de tu dispositivo (%2$s).</string>
+    <string name="common_google_settings">Config. de Google</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ayuda y comentarios</string>
+    <string name="common_login_activity_task_title">Accediendo…</string>
+    <string name="common_login_error_title">No se pudo acceder</string>
+    <string name="common_magictether_settings_title">Conexión instantánea mediante dispositivo portátil</string>
+    <string name="common_missing_url_viewer">Falta visualizador para mostrar una URL externa.</string>
+    <string name="common_mute_notification">Silenciar notificaciones</string>
+    <string name="common_networking_settings_title">Red</string>
+    <string name="common_no_browser_for_restricted_url">Acceso restringido. No se encontró ningún navegador.</string>
+    <string name="common_no_devices_found">No se encontraron dispositivos</string>
+    <string name="common_offline">No tienes conexión</string>
+    <string name="common_ok">ACEPTAR</string>
+    <string name="common_open_on_phone">Abrir en el teléfono</string>
+    <string name="common_permissions_enable_in_settings">Habilitar en Config.</string>
+    <string name="common_permissions_missing_end">Para continuar, abre Configuración, luego Permisos y permite todos los elementos de la lista.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Para habilitar la opción, ve a
+Configuración >
+Permisos >
+Servicios de Google Play"</string>
+    <string name="common_permissions_missing_start">Esta app no funcionará correctamente, a menos que permitas que los servicios de Google Play accedan a lo siguiente:</string>
+    <string name="common_permissions_open_settings">Abrir Configuración</string>
+    <string name="common_privacy_policy">Política de privacidad</string>
+    <string name="common_privacy_policy_composed_string">Política de privacidad</string>
+    <string name="common_remove">Quitar</string>
+    <string name="common_sending">Enviando…</string>
+    <string name="common_set_up_nearby_device_settings_title">Configurar un dispositivo cercano</string>
+    <string name="common_settings">Configuración</string>
+    <string name="common_sign_in">Acceder</string>
+    <string name="common_signin_button_text">Acceder</string>
+    <string name="common_signin_button_text_long">Acceder con Google</string>
+    <string name="common_skip">Omitir</string>
+    <string name="common_something_went_wrong">Se produjo un error</string>
+    <string name="common_system_info_composed_string">información de la cuenta y el sistema</string>
+    <string name="common_take_photo_label">Tomar una foto</string>
+    <string name="common_terms_of_service">Condiciones del servicio</string>
+    <string name="common_terms_of_service_composed_string">Condiciones del servicio</string>
+    <string name="common_try_again">Volver a intentarlo</string>
+    <string name="common_ui_confirm_deleting_checkbox">Comprendo y quiero borrar</string>
+    <string name="common_url_load_unsuccessful_message">Tu dispositivo Android no está conectado a un servicio de datos. Para ver esta información ahora, ingresa a %s con un navegador web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Tu dispositivo Android no se conectó a una red Wi-Fi. Para ver esta información ahora, visita %s desde un navegador web.</string>
+    <string name="common_usage_and_diagnostics">Uso y diagnóstico</string>
+    <string name="continue_to_login_heading">Accede</string>
+    <string name="continue_to_login_text">Se otorgaron las credenciales. Continúa para acceder con tu primer dispositivo.</string>
+    <string name="description_fingerprint_icon">Ícono de huella digital</string>
+    <string name="download_msg_error_invalid">La descarga no se configuró correctamente.</string>
+    <string name="download_notification_description">%1$s solicitó estos datos.</string>
+    <string name="fido_ble_device_icon_content_description">Se encontró un dispositivo Bluetooth</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Mantén presionado el botón de tu llave durante al menos cinco segundos para asegurarte de que se active el modo de sincronización</string>
+    <string name="fido_ble_dont_see_your_key_hint">¿No ves tu llave?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Tu Llave de seguridad solo funciona cuando el Bluetooth y los Servicios de ubicación de tu dispositivo están activados</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Tu Llave de seguridad solo funciona cuando el Bluetooth de tu dispositivo está activado</string>
+    <string name="fido_ble_enable_body_location_only">Tu Llave de seguridad solo funciona cuando la opción de Servicios de ubicación de tu dispositivo está activada</string>
+    <string name="fido_ble_enable_title_location_only">Activar ubicación</string>
+    <string name="fido_ble_instructions_body">Para usar la mayoría de las llaves, solo debes presionar el botón</string>
+    <string name="fido_ble_locate_pin_body">En general, el PIN de sincronización es un número de cuatro o seis dígitos que aparece en la parte posterior de la llave. Continúa cuando estés listo para ingresarlo.</string>
+    <string name="fido_ble_locate_pin_title">Busca el PIN de sincronización de Bluetooth para tu llave %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Sincronizando tu Llave de seguridad…</string>
+    <string name="fido_ble_pair_instructions_body">Sincroniza tu llave con este dispositivo para poder usarla con tu cuenta</string>
+    <string name="fido_ble_pair_instructions_title">¿Estás listo para sincronizar tu Llave de seguridad?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Vuelve a activar el modo de sincronización de tu llave</string>
+    <string name="fido_ble_pairing_mode_body">Mantén presionado el botón de tu Llave de seguridad durante al menos cinco segundos</string>
+    <string name="fido_ble_pairing_mode_title">Activar el modo de sincronización</string>
+    <string name="fido_ble_select_device_body">Selecciona la Llave de seguridad que quieres sincronizar con tu dispositivo de la lista que se muestra a continuación. Es posible que el nombre aparezca escrito en la parte posterior de la llave.</string>
+    <string name="fido_ble_select_device_title">Selecciona tu Llave de seguridad</string>
+    <string name="fido_instructions_title">¿Permitir el uso de tu Llave de seguridad?</string>
+    <string name="fido_nfc_enable_body">Tu Llave de seguridad solo funciona cuando la NFC de tu dispositivo está activada</string>
+    <string name="fido_nfc_instructions_body">Coloca la parte plana de la llave contra la parte posterior de tu dispositivo hasta que deje de vibrar</string>
+    <string name="fido_paask_body">Un dispositivo cercano está intentando acceder a tu cuenta de Google</string>
+    <string name="fido_paask_footer">Esta es una protección de acceso mejorada que usa una conexión Bluetooth encriptada con un dispositivo cercano.</string>
+    <string name="fido_paask_header">¿Estás intentando acceder en un dispositivo cercano?</string>
+    <string name="fido_pair_another_security_key">Sincronizar otra Llave de seguridad</string>
+    <string name="fido_processing">Verificando tu Llave de seguridad…</string>
+    <string name="fido_transport_selection_bluetooth">Usar la Llave de seguridad con Bluetooth</string>
+    <string name="fido_transport_selection_body">Las Llaves de seguridad funcionan con Bluetooth, NFC y SB. Elige de qué manera quieres usar tu llave.</string>
+    <string name="fido_transport_selection_fingerprint">Usar llave de seguridad con huella digital</string>
+    <string name="fido_transport_selection_nfc">Usar la Llave de seguridad con NFC</string>
+    <string name="fido_transport_selection_title">Elige cómo usar tu Llave de seguridad</string>
+    <string name="fido_transport_selection_usb">Usar Llave de seguridad con USB</string>
+    <string name="fido_usb_instructions_body">Conecta tu Llave de seguridad al puerto USB o con un cable. Si tu llave tiene un botón o disco dorado, presiónalo.</string>
+    <string name="fido_use_ble_instead">Usa tu Llave de seguridad con Bluetooth</string>
+    <string name="fido_use_fp_instead">Usar tu llave de seguridad con huella digital</string>
+    <string name="fido_use_nfc_instead">Usa tu Llave de seguridad con NFC</string>
+    <string name="fido_use_usb_instead">Usar Llave de seguridad con USB</string>
+    <string name="fido_welcome_body">Usa tu Llave de seguridad con %1$s para proteger tus datos privados.</string>
+    <string name="fido_welcome_title">Usa tu Llave de seguridad con %1$s</string>
+    <string name="fingerprint_no_imprints_description">%1$s quiere verificar tu identidad mediante tu huella digital, pero aún no la agregaste a este dispositivo.</string>
+    <string name="fingerprint_not_recognized">No se reconoce la huella digital. Vuelve a internarlo</string>
+    <string name="fingerprint_success">Se reconoció la huella digital</string>
+    <string name="gcm_fallback_notification_channel_label">Varios</string>
+    <string name="google_app_permissions_title">Permisos de apps</string>
+    <string name="google_legal_title">Avisos legales de Google</string>
+    <string name="google_play_tos_title">Condiciones del servicio de Google Play</string>
+    <string name="google_plus_privacy_policy_title">Política de privacidad de Google Plus</string>
+    <string name="google_privacy_policy_title">Política de privacidad de Google</string>
+    <string name="google_terms_of_service_title">Condiciones de uso de Google</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Permite que una app transfiera la credencial Wi-Fi de una red a otro dispositivo.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Transferir credencial de Wi-Fi</string>
+    <string name="no_screen_lock_description">Primero deberás configurar un bloqueo de pantalla en tu dispositivo</string>
+    <string name="no_screen_lock_title">El teléfono no tiene bloqueo de pantalla</string>
+    <string name="open_source_activity_prompt_text">"Abre SourceResponseActivity en tu teléfono para completar el proceso de autenticación. "</string>
+    <string name="permissions_not_granted_text">Para otorgar permisos, vuelve a acceder.</string>
+    <string name="permissions_not_granted_title">No se otorgaron los permisos.</string>
+    <string name="plus_network_unreliable">No se puede establecer una conexión confiable con el servidor.</string>
+    <string name="plus_oob_interstitial_loading_text">Este proceso puede demorar unos minutos.</string>
+    <string name="setupservices_additional_privacy_title">Información de privacidad adicional</string>
+    <string name="setupservices_chrome_tos_title">Condiciones del servicio de Chrome</string>
+    <string name="setupservices_google_app_permissions_title">Permisos de la app</string>
+    <string name="setupservices_google_legal_title">Avisos legales de Google</string>
+    <string name="setupservices_google_play_tos_title">Condiciones del servicio de Google Play</string>
+    <string name="setupservices_google_services_agreement">Si continúas, significa que aceptas que este dispositivo pueda descargar e instalar automáticamente actualizaciones y apps de Google, tu proveedor y el fabricante del dispositivo. Por lo tanto, es posible que se consuman datos móviles. Algunas de estas apps pueden ofrecer compras directas desde la aplicación. Puedes quitarlas en cualquier momento.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Para quitar apps, ve a Configuración > Apps o a Administrador de aplicaciones. Luego, presiona la app que quieras desinstalar (es posible que debas deslizar el dedo hacia la derecha o la izquierda para encontrarla). A continuación, presiona Desinstalar o Inhabilitar.</string>
+    <string name="setupservices_google_services_agreement_korea">Por el presente, das tu consentimiento y otorgas a las apps de Google preinstaladas permiso para acceder a la información y las funciones del dispositivo. Visita <annotation link="app_permissions">esta página</annotation> para obtener más información sobre el uso de estos permisos.</string>
+    <string name="setupservices_google_services_agreement_title">Instala apps y actualizaciones</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Libera espacio cuando el almacenamiento del dispositivo esté casi completo quitando algunos datos, como copias de seguridad de fotos y videos.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Si estás conectado, aún puedes acceder a estos datos. Para controlar esta función y el contenido que quites, ve a Configuración > Almacenamiento > Almacenamiento inteligente.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Libera espacio</string>
+    <string name="setupservices_google_services_backup">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Tu copia de seguridad incluye las apps y sus datos, así como también la configuración del dispositivo (incluidas las contraseñas de Wi‑Fi).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+La copia de seguridad de los datos no incide en tu cuota de almacenamiento de Drive."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Los datos de las apps abarcan cualquier información que una app haya guardado (en función de la configuración del desarrollador), lo que incluye datos que podrían ser confidenciales, como contactos, mensajes y fotos.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Puedes desactivar este servicio en Configuración.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Las fotos y los videos de este dispositivo se sincronizan con tu biblioteca de Google Fotos, por lo que podrás buscar, editar, borrar y compartir contenido desde cualquiera de tus dispositivos. Las fotos y los videos de alta resolución se suben a Google Fotos de manera predeterminada.
+
+Los datos de la copia de seguridad no inciden en tu cuota de almacenamiento de Drive."</string>
+    <string name="setupservices_google_services_backup_title">Crea una copia de seguridad en Drive</string>
+    <string name="setupservices_google_services_backup_v23">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Tu copia de seguridad incluye las apps y sus datos, el historial de llamadas, los contactos y la configuración del dispositivo (incluidos los permisos y las contraseñas de Wi-Fi).</string>
+    <string name="setupservices_google_services_backup_v26">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Tu copia de seguridad incluye las apps y sus datos, el historial de llamadas, los contactos, los SMS y la configuración del dispositivo (incluidos los permisos y las contraseñas de Wi-Fi).</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Tu copia de seguridad incluye las apps y sus datos, el historial de llamadas, los contactos, las fotos, los videos, los SMS y la configuración del dispositivo (incluidos los permisos y las contraseñas de Wi‑Fi). Las fotos y los videos se sincronizan con tu biblioteca de Google Fotos y pueden usarse en otros servicios.</string>
+    <string name="setupservices_google_services_data_policy">Se usarán los datos según la <annotation link="google_privacy">Política de privacidad</annotation> de Google.</string>
+    <string name="setupservices_google_services_data_policy_korea">Se usarán los datos según la <annotation link="google_privacy">Política de privacidad</annotation> de Google (lo que incluye la <annotation link="additional_privacy">recopilación, el almacenamiento y el uso de la información personal</annotation>) y las <annotation link="location_tos">Condiciones del servicio de ubicación</annotation>.</string>
+    <string name="setupservices_google_services_description">Presiona para obtener más información sobre cada servicio (por ejemplo, cómo activarlo o desactivarlo más tarde). ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Podrás encontrar los detalles de las apps, incluidas las compras directas desde la aplicación, en Play Store. La configuración y los datos de la app se sincronizan con los dispositivos que usas para acceder a tu cuenta de Google. 
+
+El uso de las apps instantáneas se rige por las "<a href="https://play.google.com/about/play-terms.html">Condiciones del servicio de Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Obtén más información</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Cuando presionas un vínculo, Google Play verifica si existe una app instantánea que pueda ejecutarse sin instalación. Dichas apps se almacenan en tu dispositivo de forma temporal.</string>
+    <string name="setupservices_google_services_instant_apps_title">Usa apps sin instalarlas</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"El servicio de ubicación de Google usa fuentes como conexiones Wi-Fi, redes móviles y sensores para calcular la ubicación de tu dispositivo.
+
+Para inhabilitar la Ubicación, desactiva la configuración de la ubicación principal de tu dispositivo. También puedes desactivar el uso de redes Wi-Fi, redes móviles y sensores para obtener la ubicación en la configuración de la ubicación."</string>
+    <string name="setupservices_google_services_location_sharing_title">Ayuda a apps a encontrar tu ubicación</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Usar ubicación</string>
+    <string name="setupservices_google_services_location_sharing_v28">Permite que las apps y los servicios habilitados usen la ubicación de este dispositivo. Es posible que Google recopile datos de ubicación anónimos periódicamente y los use para mejorar la precisión de la ubicación y los servicios basados en la ubicación.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Permite que las apps y los servicios busquen redes Wi-Fi, incluso cuando la conexión esté desactivada.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Puedes desactivar este ajuste en la configuración de la ubicación.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Mejora la precisión de la ubicación</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Permite que las apps y los servicios busquen señales de Wi‑Fi y Bluetooth, incluso cuando estas opciones de configuración estén desactivadas.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Permite que las apps y los servicios busquen redes Wi-Fi y dispositivos cercanos en cualquier momento (incluso cuando se desactiva Wi-Fi y Bluetooth).</string>
+    <string name="setupservices_google_services_play">Mantenerme al día con novedades y ofertas de Google Play</string>
+    <string name="setupservices_google_services_tos">Si continúas, significa que también aceptas las <annotation link="tos">Condiciones del servicio de Google</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">Si haces clic en el botón \"Acepto\", significa que aceptas el proceso descrito anteriormente para estos servicios de Google.</string>
+    <string name="setupservices_google_services_tos_germany">Si usas este dispositivo, significa que aceptas cumplir con nuestra <annotation link="google_privacy">Política de privacidad</annotation>. Asimismo, se aplican <annotation link="tos">condiciones adicionales</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">Ayuda a mejorar la experiencia de uso de Android mediante el envío automático a Google de los datos de diagnóstico y uso del dispositivo y las apps. Esta información ayudará a mejorar la duración de la batería, la estabilidad de las apps, la conectividad de red y muchas otras funciones. Si activas la Actividad web y de aplicaciones adicional, se almacenará esta información en tu cuenta para que puedas administrarla en Mi actividad.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Se trata de información general acerca de tu dispositivo y cómo se usa (como el nivel de la batería, el uso de apps y la conectividad de red). Se usarán los datos a fin de mejorar los productos y servicios de Google para todo el mundo. La información agregada ayudará a los socios, como los desarrolladores de Android, a mejorar sus apps y productos.
+
+Si desactivas esta función, no se verá afectada la capacidad del dispositivo de enviar la información que necesita para recibir servicios esenciales, como actualizaciones del sistema y seguridad."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Puedes actualizar la configuración de Mi actividad en myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Puedes controlar esta función desde la Configuración de Google. En el menú, selecciona Uso y diagnóstico.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Puedes controlar esta función en Configuración > Google. En el menú, selecciona Uso y diagnóstico.</string>
+    <string name="setupservices_google_services_wallpaper_permission">Permite que los fondos de pantalla animados de Google accedan a los servicios de ubicación de Google para responder a tu ubicación.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Puedes activar o desactivar el acceso al servicio de ubicación de Google para fondos de pantalla animados en Configuración > Apps y notificaciones > Información de la app. En el menú ampliado, presiona Mostrar sistema > Fondos de pantalla de datos en tiempo real o Fondos de pantalla de la Tierra en tiempo real > Permisos.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Permite que los fondos de pantalla usen tu ubicación</string>
+    <string name="setupservices_google_terms_of_service_title">Condiciones del servicio de Google</string>
+    <string name="setupservices_kids_google_services_agreement">Si continúas, significa que aceptas que este dispositivo pueda descargar y también instalar automáticamente actualizaciones y apps de Google, tu proveedor y el fabricante del dispositivo. Por lo tanto, es posible que se consuman datos móviles. Algunas de estas apps pueden ofrecer compras directas desde la aplicación. Puedes quitarlas en cualquier momento.</string>
+    <string name="setupservices_kids_google_services_backup">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Esta copia de seguridad incluye las apps y sus datos, y la configuración del dispositivo (incluidas las contraseñas de Wi‑Fi).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Los datos de la copia de seguridad no inciden en la cuota de almacenamiento de Drive de tu hijo."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Las fotos y los videos de este dispositivo se sincronizan con la biblioteca de Google Fotos de tu hijo, por lo que podrá buscar, editar, borrar y compartir contenido desde cualquiera de sus dispositivos. Las fotos y los videos de alta resolución se suben a Google Fotos de manera predeterminada.
+
+Los datos de la copia de seguridad no inciden en la cuota de almacenamiento de Drive de tu hijo."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Esta copia de seguridad incluye las apps y sus datos, el historial de llamadas, los contactos y la configuración del dispositivo (incluidos los permisos y las contraseñas de Wi-Fi).</string>
+    <string name="setupservices_kids_google_services_backup_v26">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Esta copia de seguridad incluye las apps y sus datos, el historial de llamadas, los contactos, los SMS y la configuración del dispositivo (incluidos los permisos y las contraseñas de Wi-Fi).</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Cambia de teléfono o restaura tu contenido fácilmente en cualquier momento. Esta copia de seguridad incluye las apps y sus datos, el historial de llamadas, los contactos, las fotos, los videos, los SMS y la configuración del dispositivo (incluidos los permisos y las contraseñas de Wi-Fi). Las fotos y los videos se sincronizan con la biblioteca de Google Fotos de tu hijo y pueden usarse en otros servicios.</string>
+    <string name="setupservices_kids_google_services_description">Como padre, puedes presionar para obtener más información sobre cada servicio (por ejemplo, cómo activarlo o desactivarlo más tarde). ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"El servicio de ubicación de Google usa fuentes como conexiones Wi-Fi, redes móviles y sensores para calcular la ubicación de este dispositivo.
+
+Para inhabilitar la Ubicación, desactiva la configuración de la ubicación principal del dispositivo. También puedes desactivar el uso de redes Wi-Fi, redes móviles y sensores para obtener la ubicación en la configuración de la ubicación."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Permite que las apps y los servicios con permiso de ubicación usen la ubicación de este dispositivo. Es posible que Google recopile datos anónimos periódicamente y los use para mejorar la precisión de la ubicación y los servicios basados en la ubicación.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Envía automáticamente a Google datos de diagnóstico y uso del dispositivo y las apps para ayudar a mejorar Android. No se usará esta información para identificar a tus hijos, sino para mejorar la duración de la batería, la estabilidad de las apps, la conectividad de red y muchas otras funciones. Si habilitaste la Actividad web y de aplicaciones en la cuenta de tu hijo, también se almacenará esta información en esa cuenta.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Se trata de información general sobre este dispositivo y cómo se usa (como el nivel de la batería, el uso de apps y la conectividad de la red). Se usarán los datos a fin de mejorar los productos y servicios de Google para todo el mundo. La información agregada ayudará a los socios, como los desarrolladores de Android, a mejorar sus apps y productos.
+
+Si desactivas esta función, no se verá afectada la capacidad del dispositivo de enviar la información que necesita para recibir servicios esenciales, como actualizaciones del sistema y seguridad."</string>
+    <string name="setupservices_location_tos_title">Condiciones del servicio de ubicación</string>
+    <string name="sid_lsid_grant_detail">Similares a las contraseñas, las cookies del identificador de sesión (SID) y del identificador de sesión local (LSID) asocian la identidad de un usuario con una serie de solicitudes de un navegador y permiten el acceso total a los datos de su cuenta. Solo los navegadores hacen uso legítimo de estas cookies.</string>
+    <string name="sid_lsid_grant_label">Usa las cookies del SID y LSID para obtener acceso a todos los datos de tu cuenta de Google.</string>
+    <string name="smartdevice_action_open_app">Abrir la aplicación</string>
+    <string name="smartdevice_action_try_another_way">Intentar con otro método</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Lamentablemente, no puedes usar esta función porque el administrador del dispositivo administra la cuenta de copia de seguridad.</string>
+    <string name="smartdevice_alert_exit_setup_message">¿Estás seguro de que deseas abandonar la configuración de tu otro dispositivo?</string>
+    <string name="smartdevice_alert_exit_setup_title">¿Deseas abandonar la configuración?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Para configurar tu dispositivo, necesitas al menos una cuenta de Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">No hay cuentas para copiar</string>
+    <string name="smartdevice_alert_quit_button">Abandonar</string>
+    <string name="smartdevice_alert_restart_setup_button">Reiniciar la configuración</string>
+    <string name="smartdevice_alert_setup_incomplete">La configuración no estaba completa</string>
+    <string name="smartdevice_alert_start_over_button">Volver a empezar</string>
+    <string name="smartdevice_alert_work_profile_message">Aún no se pueden copiar las cuentas de Google for Work. Luego de copiar tus otras cuentas de Google y los datos, ve a Configuración en tu dispositivo nuevo y agrega tu cuenta de Google for Work.</string>
+    <string name="smartdevice_alert_work_profile_title">No se puede copiar la cuenta de Google for Work</string>
+    <string name="smartdevice_choose_device">Elige tu dispositivo.</string>
+    <string name="smartdevice_connect_to_wifi">Conecta tu dispositivo.</string>
+    <string name="smartdevice_connection_error">Se produjo un error al establecer conexión con tu otro dispositivo</string>
+    <string name="smartdevice_connection_error_title">No se pudo establecer conexión</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Conectando con tu dispositivo…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Copia tus cuentas de Google y otras, y restablece la copia de Google Drive (si está disponible)</string>
+    <string name="smartdevice_d2d_copy_account_text">Copia tus cuentas de Google y restablece la copia de seguridad de Google Drive (si está disponible)</string>
+    <string name="smartdevice_d2d_copy_account_title">¿Copiar a dispositivo?</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Por razones de seguridad, confirma tu huella digital. Se copiarán tus datos, apps y cuentas de Google a tu %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Desbloquea para continuar configurando el dispositivo.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Por razones de seguridad, debes confirmar tu bloqueo de pantalla para continuar con la configuración</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">No se puede configurar otro dispositivo porque Bluetooth no está disponible en tu dispositivo.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Por seguridad, se inhabilitó esta función. En tu otro dispositivo, toca Omitir y continúa con la configuración.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Configurar un nuevo dispositivo</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Reinicia la configuración y elige tu ^1 para asegurarte de copiar las cuentas de Google, las aplicaciones y los datos en el dispositivo correcto.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">¿No encuentras el código?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">No se puede configurar un nuevo dispositivo desde un perfil de usuario restringido.</string>
+    <string name="smartdevice_d2d_source_setup_success">Falta poco</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Copiar de otro dispositivo Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Sigue los próximos pasos para configurar este dispositivo</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Copiar cuentas de Google, aplicaciones y datos de otro disp.</string>
+    <string name="smartdevice_d2d_target_description">1. Di &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> o escribe \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" y presiona para confirmar&lt;br/>&lt;br/> 2. Toca &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> en la lista y sigue las instrucciones en pantalla</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Intenta de esta forma</string>
+    <string name="smartdevice_d2d_target_google_settings_description">En tu otro dispositivo, haz lo siguiente:&lt;br/>&lt;br/> 1. Abre la app de &lt;b>Configuración de Google&lt;/b>.&lt;br/>&lt;br/> 2. Selecciona &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Configurar un dispositivo cercano>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Toca &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> en la lista y sigue las instrucciones que aparecen en la pantalla.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">No es posible completar estos pasos</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Usa la app de Configuración</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">¿No puedes encontrarlo?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">En tu otro dispositivo, abre Google app</string>
+    <string name="smartdevice_d2d_target_instruction_description">Abre la aplicación Google.</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google app viene preinstalada en todos los dispositivos Android. Accede al menú de apps y busca el ícono de Google que aparece arriba.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Este código debe coincidir con el del otro dispositivo:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">No omitir</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">La configuración no copiará esta cuenta ni los datos o aplicaciones con copia de seguridad en este dispositivo.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Omitir</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">¿Deseas omitir esta cuenta?</string>
+    <string name="smartdevice_d2d_target_title">En la aplicación Google</string>
+    <string name="smartdevice_do_disclosure_generic">No se pueden transferir los datos</string>
+    <string name="smartdevice_install_app_reason">Obtén la aplicación %1$s para controlar y administrar tu nuevo/a %2$s desde este dispositivo.</string>
+    <string name="smartdevice_look_for_other_device">Busca este nombre en el otro dispositivo</string>
+    <string name="smartdevice_magicwand_cancel_signin">No acceder</string>
+    <string name="smartdevice_magicwand_confirm_signin">Acceso iniciado</string>
+    <string name="smartdevice_magicwand_consent_detail">Presiona <b>Acceder</b> para finalizar el acceso en otro dispositivo.</string>
+    <string name="smartdevice_magicwand_consent_title">Completa el acceso</string>
+    <string name="smartdevice_magicwand_error_detail">Se produjo un error y Google no pudo acceder con tu cuenta desde este teléfono.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Escaneaste un código QR para acceder a tu cuenta.
+
+Para tu seguridad, confirma tu huella digital para mostrar que eres tú quien está accediendo a otro dispositivo."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Este paso adicional ayuda a garantizar que es un dispositivo seguro.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Escaneaste un código QR para acceder a tu cuenta.
+
+Por tu seguridad, ingresa el patrón de bloqueo de pantalla para mostrar que eres tú quien está accediendo a otro dispositivo."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">para ir a tu navegador</string>
+    <string name="smartdevice_magicwand_success_detail">Regresa al navegador en tu otro dispositivo.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Busca estas formas en el otro dispositivo</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Verificar formas</string>
+    <string name="smartdevice_problem_copying">Se produjo un error al copiar los datos en tu otro dispositivo</string>
+    <string name="smartdevice_problem_copying_title">No se pudieron copiar los datos</string>
+    <string name="smartdevice_search_again">Volver a buscar</string>
+    <string name="smartdevice_setup_intro_text">Para configurar el otro dispositivo, se usarán los datos de Wi-Fi y el Bluetooth de tu teléfono</string>
+    <string name="smartdevice_setup_intro_text_nfc">Para configurar el otro dispositivo, se usará el Bluetooth de tu teléfono</string>
+    <string name="smartdevice_setup_intro_title">Comenzar</string>
+    <string name="smartdevice_setup_password_hint">Ingresa la contraseña de Wi-Fi.</string>
+    <string name="smartdevice_setup_show_password">Mostrar la contraseña</string>
+    <string name="smartdevice_setup_title_verify_code">Verificar el código</string>
+    <string name="smartdevice_target_hotphrase_instructions">En el otro dispositivo, di &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>\"&lt;/b>&lt;br/>&lt;br/> o escribe &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> en el cuadro de búsqueda.</string>
+    <string name="smartdevice_type_typing_ok_google">Si el comando por voz no funciona, usa el cuadro de búsqueda para escribir \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\"</string>
+    <string name="smartdevice_verify_device">Verificar dispositivo</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Abre únicamente redes y se pueden utilizar las redes WPA/WPA2 para configurar este dispositivo</string>
+    <string name="smartdevice_wifi_cannot_connect_title">No se puede usar la red WiFi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Para buscar redes Wi-Fi, activa Ubicación.
+
+Puedes cambiar esta opción más tarde en Configuración."</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_management_wear_descriptive_text">Las aplicaciones utilizan el almacenamiento del dispositivo para replicar los datos en un elemento portátil.</string>
+    <string name="storage_management_wear_manage_size_label">Administrar almacenam. en elem. portátil</string>
+    <string name="storage_management_wear_size_label">Almacenam. en elem. portátil</string>
+    <string name="storage_managment_all_storage_descriptive_text">Todos los datos que utiliza Google Play Services (incluidos el motor de búsqueda y otros datos)</string>
+    <string name="storage_managment_icing_size_label">Datos de la búsqueda</string>
+    <string name="storage_managment_manage_icing_button">Administrar búsqueda de datos</string>
+    <string name="storage_managment_search_index_descriptive_text">Las búsquedas en tu dispositivo son más rápidas gracias al motor de búsqueda que pueden usar tus apps.</string>
+    <string name="storage_managment_title">Almacenamiento de Google Play Services</string>
+    <string name="uncertified_notification_expired_content">Las apps y los servicios de Google ya no funcionan en este dispositivo. Presiona para obtener más información.</string>
+    <string name="uncertified_notification_expired_title">El registro venció</string>
+    <string name="uncertified_notification_expiring_title">El registro está por vencer</string>
+    <string name="use_nearby_device_text">¿Deseas usar un dispositivo cercano para otorgar credenciales?</string>
+    <string name="waiting_for_account_info_text">Esperando información de la cuenta…</string>
+</resources>

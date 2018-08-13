@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_notification_needs_update_title">Päivitä Google Play Palvelut, jotta sovellus toimii.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s edellyttää Android Wear -sovelluksen päivittämistä.</string>
+    <string name="common_google_play_services_needs_enabling_title">Ota käyttöön Google Play Palvelut, jotta sovellus toimii.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Pyynnön teki %1$s</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_install_text_phone">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat puhelimestasi.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat tabletistasi.</string>
+    <string name="common_google_play_services_install_button">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_button">Ota Google Play -palv. käyttöön</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_android_wear_update_title">Päivitä Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_android_wear_update_text">%1$s ei toimi, ellet päivitä Android Wear -sovellusta.</string>
+    <string name="common_google_play_services_updating_title">Google Play Palveluita päivitetään</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_network_error_title">Verkkovirhe</string>
+    <string name="common_google_play_services_network_error_text">Google Play -palveluiden käyttöön tarvitaan tietoliikenneyhteys.</string>
+    <string name="common_google_play_services_invalid_account_title">Tili ei kelpaa</string>
+    <string name="common_google_play_services_invalid_account_text">Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili.</string>
+    <string name="common_google_play_services_unknown_issue">Tuntematon ongelma käytettäessä Google Play -palveluita.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play Palvelut</string>
+    <string name="common_google_play_services_unsupported_text">%1$s käyttää Google Play Palveluita, joita laitteesi ei tue. Pyydä ohjeita laitteen valmistajalta.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s tarvitsee yhtä tai useampaa Google Play Palvelua, jotka eivät ole saatavilla tällä hetkellä. Voit pyytää lisätietoja kehittäjältä.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Kirjautuminen epäonnistui.</string>
+    <string name="common_google_play_services_sign_in_failed_text">Määritettyyn tiliin kirjauduttaessa tapahtui virhe. Valitse toinen tili.</string>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Trusted Face -palvelu</string>
+    <string name="receiver_app_name">Trusted Face -lähetyksen vastaanotto</string>
+    <string name="intro_screen_title">Tietoja luotettavasta kasvokuvasta</string>
+    <string name="intro_screen_header">Avaa puhelimesi lukitus katsomalla laitetta.</string>
+    <string name="intro_screen_body_start">"Muista:
+"</string>
+    <string name="intro_screen_bullets">"Kasvojen tunnistus ei ole yhtä turvallinen kuin kuvio, PIN-koodi tai salasana.
+
+Sinua muistuttava henkilö voi avata puhelimen lukituksen.
+
+Kasvojen tunnistukseen käytettäviä tietoja säilytetään turvallisesti puhelimessasi."</string>
+    <string name="intro_screen_continue_label">Määritä asetukset</string>
+    <string name="instructions_screen_title">Lisää luotettava kasvokuva</string>
+    <string name="instructions_screen_header">Näin saat parhaat tulokset:</string>
+    <string name="instructions_screen_bullets">"Etsi sisätiloista paikka, jonka valaistus ei ole liian kirkas eikä liian pimeä.
+
+Pidä puhelinta silmiesi tasolla."</string>
+    <string name="instructions_screen_continue_label">Seuraava</string>
+    <string name="enrollment_screen_title">Lisää luotetut kasvot</string>
+    <string name="enrollment_screen_message_initializing">Käynnistyy…</string>
+    <string name="enrollment_screen_message_initialization_error">Kasvojen etsimisen aloitus epäonnistui.</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Kameran käyttöoikeutta ei ole myönnetty.</string>
+    <string name="enrollment_screen_message_camera_error">Kamera ei ole käytettävissä.</string>
+    <string name="enrollment_start_message">Pidä kasvot pisteillä merkityn alueen sisäpuolella</string>
+    <string name="enrollment_screen_message_instructions">Pidä päälakesi ja leukasi alalaita ympyrän sisällä.</string>
+    <string name="enrollment_screen_message_done">Kasvot lisätty.</string>
+    <string name="enrollment_screen_status_no_face">Kasvojen pitää näkyä.</string>
+    <string name="enrollment_screen_status_face_off_center">Osa kasvoistasi ei ole näkyvissä.</string>
+    <string name="enrollment_screen_status_missing_template">Kaikki kasvonpiirteesi eivät ole näkyvissä.</string>
+    <string name="enrollment_screen_continue_label">Seuraava</string>
+    <string name="enrollment_screen_done_label">Valmis</string>
+    <string name="enrollment_screen_talkback_preview_description">Kameran esikatselu</string>
+    <string name="enrollment_screen_talkback_face_added">Kasvot lisätty.</string>
+    <string name="end_screen_title">Valmista tuli!</string>
+    <string name="end_screen_body">Avaa puhelimesi lukitus avaamalla näyttö ja katsomalla kameraan.</string>
+    <string name="end_screen_bullet_one_text">Puhelimen lukitus avataan heti, kun laite tunnistaa sinut.</string>
+    <string name="end_screen_bullet_two_text">Jos laite ei tunnista kasvojasi, voit avata lukituksen kuviolla, PIN-koodilla tai salasanalla.</string>
+    <string name="end_screen_tip_text">Vinkki: paranna kasvojen tunnistusta kuvaamalla kasvosi erilaisissa olosuhteissa.</string>
+    <string name="end_screen_licenses_label">Käyttöoikeudet</string>
+    <string name="end_screen_continue_label">Valmis</string>
+    <string name="add_to_setup_intro_screen_title">Paranna kasvojen tunnistusta</string>
+    <string name="add_to_setup_intro_screen_header">Kuvaa kasvosi eri olosuhteissa</string>
+    <string name="add_to_setup_intro_screen_body_start">"Esimerkiksi:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"erilaisessa valaistuksessa
+
+silmälaseilla tai ilman
+
+parralla tai ilman partaa.
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Pidä puhelinta silmiesi tasolla.</string>
+    <string name="add_to_setup_intro_screen_continue_label">Seuraava</string>
+    <string name="license_screen_title">Käyttöoikeudet</string>
+    <string name="license_screen_header">Avointa lähdekoodia koskevat ilmoitukset</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">Luotetut kasvot -ominaisuus voi käyttää osioita seuraavista avoimen lähdekoodin kirjastoista, joille on myönnetty seuraavat käyttöluvat:</string>
+    <string name="license_screen_notices_header">Ilmoituksia kirjastoille:</string>
+    <string name="shared_cancel_label">Peruuta</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Kasvojen tunnistus on muuttunut. Jos haluat jatkaa sen käyttöä, lisää luotetut kasvot uudelleen.</string>
+</resources>

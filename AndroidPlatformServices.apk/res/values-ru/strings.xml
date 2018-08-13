@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="account_blocked_title">Аккаунт заблокирован</string>
+    <string name="account_level_title">Требуется действие с аккаунтом</string>
+    <string name="account_removed_notification_text">Аккаунт %1$s был удален, поскольку вы не настроили управление устройствами.</string>
+    <string name="account_removed_notification_title">Аккаунт удален</string>
+    <string name="android_privacy_policy_title">Дополнительная политика конфиденциальности</string>
+    <string name="app_level_title">Запрос на вход</string>
+    <string name="app_level_title_secondary">%s: запрос на вход</string>
+    <string name="audience_selection_done">Готово</string>
+    <string name="auth_account_already_has_gmail">В аккаунте уже настроена почта Gmail.</string>
+    <string name="auth_account_content_provider_label">Данные аккаунта Google</string>
+    <string name="auth_account_module_display_name">Аккаунты Google</string>
+    <string name="auth_account_removed_default_description">Управление устройствами не было настроено. %1$s</string>
+    <string name="auth_account_removed_default_title">Настройка отменена</string>
+    <string name="auth_account_removed_dm_bad_result_description">Не удалось настроить управление устройствами. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">В домене требуется система управления мобильными устройствами, но она не поддерживается на этом устройстве. Используйте другой аккаунт.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Управление устройствами не поддерживается</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Не удалось установить приложение для управления устройством. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Ошибка</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Настройка отменена</string>
+    <string name="auth_account_removed_restricted_by_admin_description">На этом устройстве можно использовать только один управляемый аккаунт. По всем вопросам обращайтесь к администратору своей организации.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Управляемый аккаунт уже есть</string>
+    <string name="auth_account_settings_title">Настройки аккаунта</string>
+    <string name="auth_account_setup_title">Аккаунт Google</string>
+    <string name="auth_account_start_over_and_signin_again">Повторите попытку и войдите в аккаунт ещё раз.</string>
+    <string name="auth_account_state_sync_title">Синхронизация аккаунта</string>
+    <string name="auth_allow_external_site_access">Доступ к вашим данным на сайте %s</string>
+    <string name="auth_app_permission_ok_footnote">Переходя к следующему этапу, вы разрешаете Google и этому приложению использовать ваши данные в соответствии с Условиями использования и Политикой конфиденциальности.</string>
+    <string name="auth_cant_add_work_account_message">Аккаунтами этого типа управляет ваша организация.</string>
+    <string name="auth_captcha_instructions">Введите текст, который видите на картинке.</string>
+    <string name="auth_captcha_title">Введите символы captcha</string>
+    <string name="auth_common_downloading">Скачивание…</string>
+    <string name="auth_common_go_back">Назад</string>
+    <string name="auth_common_switch_accounts">Сменить аккаунт</string>
+    <string name="auth_communicating_message">Сохранение информации в аккаунте… Это может занять несколько минут.</string>
+    <string name="auth_confirm_creds_sync_title">Статус учетных данных</string>
+    <string name="auth_d2d_source_alert_title">Перенос в одно касание</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Заблокировать и проверить</string>
+    <string name="auth_d2d_source_copy_notice">Скопировать аккаунты и данные на другое устройство?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">После проверки будет включен Bluetooth для обмена данными между устройствами.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">После проверки ваши устройства будут соединены с помощью Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Устройство будет заблокировано. Разблокируйте его, чтобы пройти проверку.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Перенос данных невозможен, так как на устройстве нет аккаунтов.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Перенос данных невозможен, так как на устройстве не поддерживается Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Чтобы устройства могли обмениваться данными, будет включен Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Используется Bluetooth</string>
+    <string name="auth_d2d_source_notification_title">Перенос данных завершен</string>
+    <string name="auth_d2d_source_restricted_user_toast">Нельзя использовать функцию \"Подключение и восстановление\" с управляемым профилем</string>
+    <string name="auth_d2d_source_title">Восстановление аккаунтов</string>
+    <string name="auth_d2d_source_unknown_device_name">Неизвестное устройство</string>
+    <string name="auth_d2d_tap_and_go">Перенос в одно касание</string>
+    <string name="auth_d2d_target_tap_progress_message">Чтобы продолжить, нажмите \"ОК\" на другом устройстве.</string>
+    <string name="auth_d2d_target_title">Перенос в одно касание</string>
+    <string name="auth_d2d_target_unlock_progress_message">Проверьте другое устройство</string>
+    <string name="auth_d2d_target_wait_progress_message">Копирование аккаунтов и данных...</string>
+    <string name="auth_device_management_download_app_icon">Значок приложения \"%s\"</string>
+    <string name="auth_device_management_download_description">Требуется система управления мобильными устройствами. Установите приложение \"^1\", чтобы применить правила безопасности, необходимые для аккаунта.</string>
+    <string name="auth_device_management_download_description_kids">Чтобы добавить аккаунт на это устройство, сначала установите приложение <b>^1</b>".
+
+^1 поможет настроить это устройство для ребенка."</string>
+    <string name="auth_device_management_download_failed_message">Вы можете продолжить настройку без этого приложения.</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Не удалось установить систему управления устройствами. Аккаунт будет удален. Повторите попытку позже.</string>
+    <string name="auth_device_management_download_failed_title">Не удалось скачать приложение</string>
+    <string name="auth_device_management_download_not_updated_message">Вы можете продолжить настройку с текущей версией.</string>
+    <string name="auth_device_management_download_paused">Приостановлено</string>
+    <string name="auth_device_management_download_progress">Скачивание…</string>
+    <string name="auth_device_management_download_skip_message">Для этого аккаунта требуется система управления устройствами. Продолжить без нее?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Чтобы добавить этот аккаунт, нужно настроить управление устройством. Начать сначала с другим аккаунтом?</string>
+    <string name="auth_device_management_go_back">Назад</string>
+    <string name="auth_device_management_screenlock_description">Согласно правилам вашей организации, для доступа к рабочему аккаунту с этого устройства необходимо установить экран блокировки.</string>
+    <string name="auth_device_management_screenlock_skip_message">Для этого аккаунта необходимо настроить блокировку экрана. Начать сначала с другим аккаунтом?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Рабочий профиль позволяет хранить корпоративные приложения отдельно от личных, его контролирует ваша организация.
+
+Для завершения настройки вам понадобится ввести код, предоставленный IT-администратором. Этот сотрудник сможет управлять вашим рабочим профилем с помощью специального инструмента."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Рабочий профиль позволяет хранить корпоративные приложения отдельно от личных, его контролирует ваша организация.
+
+Для завершения настройки вам понадобится ввести код, предоставленный IT-администратором. Этот сотрудник сможет управлять вашим рабочим профилем с помощью специального инструмента."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Настройте рабочий профиль</string>
+    <string name="auth_device_management_start_description">Требуется система управления мобильными устройствами. Нажимая \"Далее\", вы разрешаете приложению \"^1\" применить правила безопасности, необходимые для аккаунта.</string>
+    <string name="auth_device_management_start_description_kids">Чтобы добавить аккаунт на это устройство, используйте приложение <b>^1</b>".
+
+^1 поможет настроить это устройство для ребенка."</string>
+    <string name="auth_device_management_title">Управление устройствами</string>
+    <string name="auth_device_management_update_description">Требуется система управления мобильными устройствами. Обновите приложение \"^1\", чтобы применить правила безопасности, необходимые для аккаунта.</string>
+    <string name="auth_device_management_update_description_kids">Чтобы добавить аккаунт на это устройство, установите последнюю версию приложения <b>^1</b>".
+
+^1 поможет настроить это устройство для ребенка."</string>
+    <string name="auth_doesnt_use_gmail">" Аккаунт "<b>^1</b> не связан с почтой Gmail</string>
+    <string name="auth_error_account_disabled">"Аккаунт отключен.
+
+Подробную информацию можно найти на странице http://google.com/accounts."</string>
+    <string name="auth_error_account_not_verified">"Не удалось подтвердить подлинность аккаунта. Чтобы выполнить проверку, перейдите по ссылке в сообщении электронной почты.
+
+Чтобы восстановить данные аккаунта, откройте страницу http://google.com/accounts/recovery?hl=ru на компьютере."</string>
+    <string name="auth_error_bad_password">Пароль слишком простой или содержит недопустимые символы. Повторите попытку.</string>
+    <string name="auth_error_bad_username">Неверное имя пользователя</string>
+    <string name="auth_error_generic_server_error">"Не удалось связаться с серверами Google.
+
+Повторите попытку позже."</string>
+    <string name="auth_error_invalid_second_factor">Нужно вводить пароль приложения, а не аккаунта</string>
+    <string name="auth_error_login_failed">"Неверные имя пользователя и пароль. Повторите попытку.
+
+Чтобы восстановить данные аккаунта, перейдите на страницу google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Чтобы получить доступ к аккаунту, необходимо выполнить вход в браузере. Для этого нажмите \"Далее\".</string>
+    <string name="auth_error_no_network">"Нет подключения к сети.
+
+Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">Вход не выполнен.</string>
+    <string name="auth_error_username_unavailable">Пользователь с таким именем уже существует</string>
+    <string name="auth_existing_account_error_text">На этом устройстве уже есть аккаунт ^1.</string>
+    <string name="auth_existing_account_error_title">Аккаунт уже существует</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Не удалось войти в аккаунт, поскольку пароль был недавно изменен. Повторите попытку, когда с момента смены пароля пройдет 24 часа.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Защита устройства будет отключена.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Если удалить из личного профиля последний аккаунт Google, на устройстве отключится функция защиты от кражи. Чтобы снова включить ее, просто добавьте другой аккаунт.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Вы уверены?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Продолжить?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Не удалось войти в аккаунт из-за неизвестной ошибки. Повторите попытку через 24 часа или используйте другой аккаунт.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Войдите в один из аккаунтов владельца этого устройства</string>
+    <string name="auth_field_cant_be_blank">Поле должно быть заполнено.</string>
+    <string name="auth_frp_add_account_no">Использовать новый</string>
+    <string name="auth_frp_add_account_prompt">Предыдущий аккаунт Google на этом устройстве (^1) прошел проверку. Вы можете снова добавить его на устройство или использовать новый аккаунт.</string>
+    <string name="auth_frp_add_account_yes">Добавить предыдущий</string>
+    <string name="auth_frp_device_managed_label">Этим устройством управляет ваша организация.</string>
+    <string name="auth_frp_download_management_app_label">Чтобы продолжить настройку, установите приложение для управления устройством.</string>
+    <string name="auth_frp_enter_device_credentials_label">Перейти в режим администрирования</string>
+    <string name="auth_frp_install_dpc_error">Не удалось установить приложение для управления устройством. Если вы пропустите этот шаг, устройство будет недоступно для администратора вашей организации.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Не удалось установить приложение для управления устройством. Проверьте подключение к Интернету и повторите попытку позже.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Использовать аккаунт Google</string>
+    <string name="auth_frp_preadd_lkscreen_text">Настройки устройства сброшены. Его можно разблокировать с помощью предыдущего секретного ключа.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Защита возврата к заводским настройкам</string>
+    <string name="auth_frp_start_reenroll_device_title">Устройство добавлено в домен</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Аккаунт недоступен. Убедитесь, что устройство соответствует правилам безопасности вашей организации. Если проблема не исчезнет, обратитесь к администратору.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Ошибка аккаунта</string>
+    <string name="auth_gls_dmagent_activity_download_message">" В домене требуется система управления мобильными устройствами. Установите приложение Google Apps Device Policy, чтобы применить правила безопасности, необходимые для аккаунта  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Загрузить</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" может содержать только буквы,
+цифры и точки."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не содержит букв.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> содержит меньше 6 или больше 30 символов.</string>
+    <string name="auth_gls_is_not_available">Имя пользователя <b>^</b> недоступно</string>
+    <string name="auth_gls_name_checking_info_title">Проверка…</string>
+    <string name="auth_gls_sync_item_title">Синхронизировать %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Необходимо добавить аккаунт  "<b>^1</b> на корпоративное устройство или в рабочий профиль. Обратитесь за инструкциями к ИТ-администратору.</string>
+    <string name="auth_google_title_logo">Логотип Google.</string>
+    <string name="auth_invalid_login_character">Недопустимый символ. Можно использовать только цифры 0–9, буквы a–z, A–Z и точки.</string>
+    <string name="auth_invalid_password_character">Пароль содержит недопустимый символ.</string>
+    <string name="auth_invalid_username">Недопустимое имя пользователя</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Неверный пароль. Повторите попытку. Если вы забыли пароль, нажмите <annotation id="help_url">здесь</annotation>, чтобы восстановить доступ к аккаунту.</string>
+    <string name="auth_login_task_title">Выполняется вход</string>
+    <string name="auth_login_title">Введите адрес электронной почты и пароль</string>
+    <string name="auth_minutemaid_ssl_error">"Ошибка при подключении к хосту  %s."</string>
+    <string name="auth_network_unreliable_help">Возможно, это временная неполадка или ваше устройство Android не поддерживает передачу данных. Если проблема не исчезнет, обратитесь в службу поддержки.</string>
+    <string name="auth_no_network">Нет подключения к сети.</string>
+    <string name="auth_no_network_help">Возможно, это временная неполадка или ваше устройство Android не поддерживает передачу данных. Подключитесь к мобильной сети или сети Wi-Fi и повторите попытку.</string>
+    <string name="auth_no_network_help_wifi_only">Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi.</string>
+    <string name="auth_otp_error">Не удалось создать защитный код.</string>
+    <string name="auth_otp_explained_paragraph">Если вы забудете пароль или мы обнаружим необычные действия при входе в ваш аккаунт, мы можем попросить вас указать защитный код. Используйте этот код сейчас или запросите новый позже.</string>
+    <string name="auth_otp_header_message">Для чего нужен код</string>
+    <string name="auth_otp_no_accounts_available_message">На этом устройстве нет аккаунтов.</string>
+    <string name="auth_otp_progress_dialog_message">Создание защитного кода...</string>
+    <string name="auth_otp_ten_digit_code_header">Защитные коды</string>
+    <string name="auth_otp_ten_digit_explaination">Эти коды помогут защитить ваши данные. Возможно, мы попросим указать их, если вы забудете пароль или попытаетесь войти в аккаунт из нового местоположения либо с необычного устройства.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Коды перестают действовать через 15 минут или после того, как вы их используете. Вводите их только на страницах, адрес которых начинается с https://accounts.google.com/.</string>
+    <string name="auth_otp_ten_digit_usage_header">Зачем нужны коды?</string>
+    <string name="auth_otp_ten_digits_code1">Код 1</string>
+    <string name="auth_otp_ten_digits_code2">Код 2</string>
+    <string name="auth_password">Пароль</string>
+    <string name="auth_plus_audience_selection_description_acl">С КЕМ ПОДЕЛИТЬСЯ</string>
+    <string name="auth_plus_info_fragment_app_name">Приложение \"%s\" запрашивает:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">Приложению \"%1$s\" на устройстве %2$s требуется:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Расширенный круг</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Выбранные круги</string>
+    <string name="auth_plus_scope_fragment_public_label">Все в Интернете</string>
+    <string name="auth_pre_factory_reset_title">Запомните данные аккаунта Google</string>
+    <string name="auth_relogin_activity_title">Введите пароль ещё раз</string>
+    <string name="auth_remove_account_start_over">Начать сначала</string>
+    <string name="auth_request_accounts_list">Доступ к списку аккаунтов Google на устройстве</string>
+    <string name="auth_scope_more_details">Подробнее...</string>
+    <string name="auth_server_error">Не удалось связаться с серверами Google.</string>
+    <string name="auth_server_error_help">Повторите попытку позже.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Аккаунт добавлен</string>
+    <string name="auth_setup_wizard_account_added_description">Аккаунт добавлен. Выберите функции сервисов Google.</string>
+    <string name="auth_setup_wizard_services_activity_title">Сервисы Google</string>
+    <string name="auth_setup_wizard_title">Мастер настройки</string>
+    <string name="auth_show_error_title">Ошибка</string>
+    <string name="auth_sign_in_agreement">Выполняя вход, вы принимаете <annotation id="google_privacy">Политику конфиденциальности Google</annotation> и <annotation id="android_privacy">дополнительные политики конфиденциальности</annotation>.</string>
+    <string name="auth_sign_in_browser">Вход в браузере</string>
+    <string name="auth_sign_in_with_google_account_short">Войдите, используя аккаунт Google</string>
+    <string name="auth_submission_error_text">Произошла ошибка. Повторите попытку.</string>
+    <string name="auth_submission_title">Ошибка</string>
+    <string name="auth_ui_activity_authenticating">Аутентификация…</string>
+    <string name="auth_ui_activity_title">Вход в Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Вход</string>
+    <string name="auth_ui_add_account_title">Настройка аккаунта</string>
+    <string name="auth_uncertified_notification_description"><b>Информация для покупателей этого устройства:</b>"
+На устройстве предустановлены приложения Google, но оно не имеет нашей сертификации. Свяжитесь с производителем и попросите предоставить вам устройство, сертифицированное Google. Подробности вы найдете на странице g.co/AndroidCertifiedDevice.
+
+"<b>Информация для производителей без лицензии:</b>"
+Чтобы распространять приложения Google, необходимо получить лицензию. Подайте заявку на странице g.co/AndroidGMSContact.
+
+"<b>Информация для производителей с лицензией:</b>"
+Чтобы использовать приложения Google во время разработки, зарегистрируйте устройство. За подробной информацией обращайтесь к менеджеру Google по развитию бизнеса.
+
+"<b>Для пользователей модифицированной ОС:</b>"
+Чтобы использовать приложения Google на устройстве с модифицированной ОС, зарегистрируйте его. Подробности вы найдете на странице g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Устройство не сертифицировано Google</string>
+    <string name="auth_username">Адрес эл. почты</string>
+    <string name="auth_work_authenticator_label">Управляемый аккаунт</string>
+    <string name="authorization_dialog">Окно авторизации</string>
+    <string name="chrome_privacy_title">Примечание о конфиденциальности Chrome</string>
+    <string name="chrome_tos_title">Условия использования Chrome</string>
+    <string name="close_button_label">Закрыть</string>
+    <string name="common_accept">Принять</string>
+    <string name="common_add">Добавить</string>
+    <string name="common_add_account_label">Добавление аккаунта</string>
+    <string name="common_ads_settings_title">Реклама</string>
+    <string name="common_agree">Разрешить</string>
+    <string name="common_app_name">Сервисы Google Play</string>
+    <string name="common_application_info">Сведения о приложении</string>
+    <string name="common_application_info_composed_string">сведения о приложении</string>
+    <string name="common_asm_google_account_title">Аккаунт Google</string>
+    <string name="common_asm_manage_google_account_title">Управление аккаунтом Google</string>
+    <string name="common_asm_preferences_settings_title">Настройки аккаунта</string>
+    <string name="common_asm_privacy_settings_title">Конфиденциальность</string>
+    <string name="common_asm_security_settings_title">Безопасность и вход</string>
+    <string name="common_back">Назад</string>
+    <string name="common_battery">Батарея</string>
+    <string name="common_block">Заблокировать</string>
+    <string name="common_cancel">Отмена</string>
+    <string name="common_cannot_start_hangouts_security_exception">Для запуска приложения Hangouts требуется разрешение</string>
+    <string name="common_car_permission_desc">Доступ к автосервису.</string>
+    <string name="common_car_permission_label">Автосервис</string>
+    <string name="common_card">Банковская карта</string>
+    <string name="common_chips_label_empty_circles">Кругов нет</string>
+    <string name="common_chips_label_extended_circles">Расширенные круги</string>
+    <string name="common_chips_label_only_you">Только я</string>
+    <string name="common_chips_label_public">Общий доступ</string>
+    <string name="common_chips_label_your_circles">Мои круги</string>
+    <string name="common_choose_account_label">Выберите аккаунт</string>
+    <string name="common_confirm_screen_lock_title">Разблокируйте экран</string>
+    <string name="common_connect">Подключиться</string>
+    <string name="common_connected">Подключено</string>
+    <string name="common_connected_apps_settings_title">Подключенные приложения</string>
+    <string name="common_connecting">Подключение…</string>
+    <string name="common_continue">Продолжить</string>
+    <string name="common_disabled">Отключено</string>
+    <string name="common_disagree">Отклонить</string>
+    <string name="common_disconnect">Отключить</string>
+    <string name="common_dismiss">Закрыть</string>
+    <string name="common_done">Готово</string>
+    <string name="common_edit">Изменить</string>
+    <string name="common_email">Электронная почта</string>
+    <string name="common_fingerprint_hint">Приложите палец к сканеру</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">От:</string>
+    <string name="common_games_settings_title">Play Игры</string>
+    <string name="common_get_started">Начать</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_enable_text">Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Включите сервисы Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Ошибка</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_install_text">Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</string>
+    <string name="common_google_play_services_install_title">Установите сервисы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступность сервисов Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ошибка сервисов Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</string>
+    <string name="common_google_play_services_unsupported_text">Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_google_play_services_update_text">Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</string>
+    <string name="common_google_play_services_update_title">Обновите сервисы Google Play</string>
+    <string name="common_google_play_services_updating_text">Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</string>
+    <string name="common_google_play_services_updating_title">Обновление сервисов Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Несовместимая архитектура установленных сервисов Google Play.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Архитектура установленных сервисов Google Play (%1$s) несовместима с архитектурой ЦП вашего устройства (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Несовместимая архитектура</string>
+    <string name="common_google_settings">Настройки Google</string>
+    <string name="common_google_settings_account">Аккаунт</string>
+    <string name="common_google_settings_credentials_title">Smart Lock для паролей</string>
+    <string name="common_got_it">ОК</string>
+    <string name="common_install">Установить</string>
+    <string name="common_learn_more">Подробнее</string>
+    <string name="common_list_apps_menu_help">Справка</string>
+    <string name="common_list_apps_menu_help_and_feedback">Справка/отзыв</string>
+    <string name="common_loading">Загрузка…</string>
+    <string name="common_location_settings_title">Местоположение</string>
+    <string name="common_login_activity_task_title">Вход…</string>
+    <string name="common_login_error_title">Не удалось войти в аккаунт</string>
+    <string name="common_magictether_settings_title">Мгновенная точка доступа</string>
+    <string name="common_maps_settings_title">Карты и Локатор</string>
+    <string name="common_mdm_feature_name">Найти устройство</string>
+    <string name="common_missing_url_viewer">Отсутствует приложение для просмотра внешнего URL.</string>
+    <string name="common_more">Ещё</string>
+    <string name="common_more_options">Другие настройки</string>
+    <string name="common_mute_notification">Отключить уведомления</string>
+    <string name="common_network_unavailable">Нет подключения к Интернету</string>
+    <string name="common_networking_settings_title">Сети</string>
+    <string name="common_never">Никогда</string>
+    <string name="common_next">Далее</string>
+    <string name="common_no_browser_for_restricted_url">Доступ запрещен. Не найдено ни одного браузера.</string>
+    <string name="common_no_devices_found">Устройства не найдены</string>
+    <string name="common_no_network">Устройство не подключено к серверу</string>
+    <string name="common_no_thanks">Нет, спасибо</string>
+    <string name="common_not_now">Не сейчас</string>
+    <string name="common_off">Отключено</string>
+    <string name="common_offline">Нет подключения к Интернету</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_on">Включено</string>
+    <string name="common_open">Открыть</string>
+    <string name="common_open_on_phone">Открыть на телефоне</string>
+    <string name="common_open_source_licenses">Лицензии ПО с открытым исходным кодом</string>
+    <string name="common_pause">Приостановить</string>
+    <string name="common_people_settings_title">Контакты</string>
+    <string name="common_permissions_enable_in_settings">Включить в настройках</string>
+    <string name="common_permissions_missing_end">Чтобы продолжить, откройте настройки устройства и в соответствующем разделе предоставьте перечисленные разрешения.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Для включения откройте 
+Настройки >
+Разрешения >
+Сервисы Google Play"</string>
+    <string name="common_permissions_missing_start">Для правильной работы приложения предоставьте сервисам Google Play следующие разрешения:</string>
+    <string name="common_permissions_open_settings">Открыть настройки</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_play">Воспроизвести</string>
+    <string name="common_privacy_policy">Политика конфиденциальности</string>
+    <string name="common_privacy_policy_composed_string">Политика конфиденциальности</string>
+    <string name="common_refresh">Обновить</string>
+    <string name="common_remove">Удалить</string>
+    <string name="common_reply">Ответить</string>
+    <string name="common_restore">Восстановить</string>
+    <string name="common_retry">Повторить</string>
+    <string name="common_save">Сохранить</string>
+    <string name="common_saved">Сохранено</string>
+    <string name="common_saving">Сохранение…</string>
+    <string name="common_search_settings_title">Поиск</string>
+    <string name="common_security_ootp_setting_title">Защитный код</string>
+    <string name="common_select">Выбрать</string>
+    <string name="common_send">Отправить</string>
+    <string name="common_sending">Отправка…</string>
+    <string name="common_set_up_nearby_device_settings_title">Настроить устройство поблизости</string>
+    <string name="common_settings">Настройки</string>
+    <string name="common_share">Поделиться</string>
+    <string name="common_sign_in">Войти</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти через аккаунт Google</string>
+    <string name="common_skip">Пропустить</string>
+    <string name="common_skip_fingerprint">Блокировка экрана</string>
+    <string name="common_something_went_wrong">Произошла ошибка</string>
+    <string name="common_system_info">Системная информация</string>
+    <string name="common_system_info_composed_string">информация об аккаунте и системе</string>
+    <string name="common_take_photo_label">Сделать снимок</string>
+    <string name="common_terms_of_service">Условия использования</string>
+    <string name="common_terms_of_service_composed_string">Условия использования</string>
+    <string name="common_today">Сегодня</string>
+    <string name="common_try_again">Повторить попытку</string>
+    <string name="common_turn_on">Включить</string>
+    <string name="common_turn_on_bluetooth">Включить Bluetooth</string>
+    <string name="common_turn_on_nfc">Включить NFC</string>
+    <string name="common_ui_confirm_deleting_button">Удалить</string>
+    <string name="common_ui_confirm_deleting_checkbox">Да, удалить</string>
+    <string name="common_unknown">Неизвестно</string>
+    <string name="common_update">Обновить</string>
+    <string name="common_url_load_unsuccessful_message">Устройство не подключено к сети. Чтобы получить подробную информацию, откройте страницу %s в веб-браузере.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Устройство не подключено к сети Wi-Fi. Чтобы получить подробную информацию, откройте страницу %s в веб-браузере.</string>
+    <string name="common_usage_and_diagnostics">Использование и диагностика</string>
+    <string name="common_view">Открыть</string>
+    <string name="common_yesterday">Вчера</string>
+    <string name="continue_to_login_heading">Выполните вход.</string>
+    <string name="continue_to_login_text">Данные получены. Выполните вход на своем первом устройстве.</string>
+    <string name="description_fingerprint_icon">Значок отпечатка пальца</string>
+    <string name="download_msg_error_invalid">Неправильные настройки скачивания.</string>
+    <string name="download_msg_in_progress">Скачивание…</string>
+    <string name="download_msg_not_allowed_space">Ошибка скачивания: недостаточно места.</string>
+    <string name="download_msg_pending">Ожидается скачивание.</string>
+    <string name="download_notification_description">Данные запрошены приложением \"%1$s\".</string>
+    <string name="download_notification_title">Получение данных</string>
+    <string name="expand_button_title">Дополнительно</string>
+    <string name="fido_ble_device_icon_content_description">Найдено устройство Bluetooth</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Чтобы перейти в режим подключения, нажмите и удерживайте кнопку на ключе не менее пяти секунд.</string>
+    <string name="fido_ble_dont_see_your_key_hint">Не видите токен?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Электронный ключ работает, только если на устройстве включена геолокация и Bluetooth</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Электронный ключ работает, только если на устройстве включен модуль Bluetooth</string>
+    <string name="fido_ble_enable_body_location_only">Электронный ключ работает, только если на устройстве включена геолокация</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Включите Bluetooth и геолокацию</string>
+    <string name="fido_ble_enable_title_location_only">Включите геолокацию</string>
+    <string name="fido_ble_instructions_body">У большинства ключей нужно просто нажать кнопку.</string>
+    <string name="fido_ble_locate_pin_body">PIN-код подключения обычно указан на задней стороне ключа. Он состоит из четырех или шести цифр. Продолжите, когда будете готовы ввести его.</string>
+    <string name="fido_ble_locate_pin_title">Найдите PIN-код для Bluetooth-подключения (токен %1$s)</string>
+    <string name="fido_ble_pair_device_pairing">Подключение…</string>
+    <string name="fido_ble_pair_instructions_body">Свяжите ключ с устройством, чтобы использовать его для входа в аккаунт.</string>
+    <string name="fido_ble_pair_instructions_title">Подключить электронный ключ?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Вернуться в режим подключения</string>
+    <string name="fido_ble_pairing_mode_body">Нажмите и удерживайте кнопку на ключе в течение пяти секунд.</string>
+    <string name="fido_ble_pairing_mode_title">Перейти в режим подключения</string>
+    <string name="fido_ble_select_device_body">Выберите ключ, который хотите связать с устройством. Название ключа может быть указано на его задней стороне.</string>
+    <string name="fido_ble_select_device_title">Выберите Электронный ключ</string>
+    <string name="fido_instructions_title">Разрешить использовать Электронный ключ?</string>
+    <string name="fido_nfc_enable_body">Электронный ключ работает, только если на устройстве включен NFC-модуль</string>
+    <string name="fido_nfc_instructions_body">Приложите ключ к задней панели устройства и подождите, пока оно не прекратит вибрировать.</string>
+    <string name="fido_paask_body">Обнаружена попытка входа в ваш аккаунт с устройства, расположенного поблизости.</string>
+    <string name="fido_paask_footer">Расширенная система защиты аккаунта от несанкционированного доступа использует зашифрованное Bluetooth-соединение для взаимодействия с устройством поблизости.</string>
+    <string name="fido_paask_header">Кто-то пытается войти в ваш аккаунт. Это вы?</string>
+    <string name="fido_paask_no_text">Нет, это не я</string>
+    <string name="fido_paask_yes_text">Да, это я</string>
+    <string name="fido_pair_another_security_key">Подключить другой электронный ключ</string>
+    <string name="fido_processing">Подтверждение…</string>
+    <string name="fido_transport_selection_bluetooth">Через Bluetooth</string>
+    <string name="fido_transport_selection_body">Электронный ключ может работать через Bluetooth, NFC или USB. Выберите подходящий вам способ.</string>
+    <string name="fido_transport_selection_fingerprint">Через Отпечаток пальца</string>
+    <string name="fido_transport_selection_nfc">Через NFC</string>
+    <string name="fido_transport_selection_title">Выберите способ использования ключа</string>
+    <string name="fido_transport_selection_usb">Через USB</string>
+    <string name="fido_usb_instructions_body">Вставьте Электронный ключ в USB-порт или подключите его через USB-кабель. Если на ключе есть кнопка, в том числе в форме золотистого диска, нажмите ее.</string>
+    <string name="fido_use_ble_instead">Через Bluetooth</string>
+    <string name="fido_use_fp_instead">Использовать отпечаток пальца</string>
+    <string name="fido_use_nfc_instead">Через NFC</string>
+    <string name="fido_use_usb_instead">Через USB</string>
+    <string name="fido_welcome_body">Используя электронный ключ с %1$s, вы сможете лучше защитить ваши данные.</string>
+    <string name="fido_welcome_title">Используйте Электронный ключ с %1$s</string>
+    <string name="fingerprint_description">Подтвердите свой отпечаток пальца, и %1$s сможет вас идентифицировать.</string>
+    <string name="fingerprint_no_imprints_description">%1$s может использовать для подтверждения личности отпечаток пальца, однако вы ещё не добавили его на этом устройстве.</string>
+    <string name="fingerprint_not_recognized">Не удалось распознать отпечаток. Повторите попытку.</string>
+    <string name="fingerprint_success">Отпечаток распознан</string>
+    <string name="gcm_fallback_notification_channel_label">Другое</string>
+    <string name="google_app_permissions_title">Разрешения приложений</string>
+    <string name="google_legal_title">Правовая информация Google</string>
+    <string name="google_play_tos_title">Условия использования Google Play</string>
+    <string name="google_plus_privacy_policy_title">Политика конфиденциальности Google+</string>
+    <string name="google_privacy_policy_title">Политика конфиденциальности Google</string>
+    <string name="google_terms_of_service_title">Условия использования</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Разрешить приложению переносить учетные данные сети Wi-Fi на другое устройство.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Перенос учетных данных сети Wi-Fi</string>
+    <string name="no_screen_lock_description">Сначала настройте блокировку экрана на устройстве.</string>
+    <string name="no_screen_lock_title">Блокировка экрана не настроена</string>
+    <string name="notification_ticker">Поступил запрос на доступ</string>
+    <string name="open_source_activity_prompt_heading">Открыть приложение</string>
+    <string name="open_source_activity_prompt_text">"Чтобы завершить аутентификацию, откройте приложение \"SourceResponseActivity\" на телефоне. "</string>
+    <string name="permgrouplab_calendar">Календарь</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контакты</string>
+    <string name="permgrouplab_location">Местоположение</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Нательные датчики</string>
+    <string name="permgrouplab_storage">Хранилище</string>
+    <string name="permissions_not_granted_text">Чтобы открыть доступ, войдите в систему повторно.</string>
+    <string name="permissions_not_granted_title">Доступ не предоставлен.</string>
+    <string name="plus_manage_app_only_you_label">Только я</string>
+    <string name="plus_network_unreliable">Не удается установить надежное соединение с сервером.</string>
+    <string name="plus_oob_interstitial_loading_text">Это может занять несколько минут.</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="set_up">НАСТРОИТЬ</string>
+    <string name="setupservices_additional_privacy_title">Доп. информация о конфиденциальности</string>
+    <string name="setupservices_android_privacy_policy_title">Дополнительные условия Политики конфиденциальности</string>
+    <string name="setupservices_chrome_privacy_title">Примечание о конфиденциальности Chrome</string>
+    <string name="setupservices_chrome_tos_title">Условия использования Chrome</string>
+    <string name="setupservices_google_app_permissions_title">Разрешения для приложений</string>
+    <string name="setupservices_google_legal_title">Правовая информация Google</string>
+    <string name="setupservices_google_play_tos_title">Условия использования Google Play</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Политика конфиденциальности Google+</string>
+    <string name="setupservices_google_privacy_policy_title">Политика конфиденциальности</string>
+    <string name="setupservices_google_services_agreement">Продолжая, вы разрешаете устройству автоматически скачивать, а затем устанавливать обновления и приложения от производителя устройства, вашего оператора связи и компании Google (в том числе по мобильной сети). Некоторые из этих приложений могут предлагать приобрести платный контент, но вы можете их удалить.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Чтобы удалить приложение, откройте настройки и выберите \"Приложения\" или \"Диспетчер приложений\". Найдите нужный пункт в списке (возможно, придется пролистать экран вправо или влево) и нажмите \"Удалить\" или \"Отключить\".</string>
+    <string name="setupservices_google_services_agreement_korea">Тем самым вы также разрешаете предустановленным приложениям Google доступ к данным и функциям на вашем устройстве. Подробнее <annotation link="app_permissions">об использовании этих разрешений</annotation>…</string>
+    <string name="setupservices_google_services_agreement_title">Установка обновлений и приложений</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Освободите место в хранилище телефона, удалив данные, у которых есть резервные копии.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Эти данные будут по-прежнему доступны вам при наличии подключения к Интернету. Чтобы задать параметры функции и выбрать контент для удаления, откройте приложение \"Настройки > Хранилище > Умное хранилище\".</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Освободить место</string>
+    <string name="setupservices_google_services_backup">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения и их данные, а также настройки устройства (включая пароли Wi-Fi).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Резервные копии не занимают места на Google Диске."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Данные приложений – это любая информация, которую приложения сохраняют согласно настройкам разработчиков. Она может включать конфиденциальные данные, например контакты, сообщения и фотографии.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Вы можете отключить эту функцию в настройках.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Снимки и видеоролики с этого устройства синхронизируются с вашей библиотекой Google Фото. По умолчанию они загружаются туда в исходном разрешении. Используя любое свое устройство, вы можете искать, редактировать и удалять эти файлы, а также предоставлять к ним доступ.
+
+Резервные копии не занимают места на Google Диске."</string>
+    <string name="setupservices_google_services_backup_title">Резервное копирование на Google Диск</string>
+    <string name="setupservices_google_services_backup_v23">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения и их данные, контакты, журнал звонков, а также настройки устройства (включая пароли Wi-Fi и разрешения).</string>
+    <string name="setupservices_google_services_backup_v26">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения и их данные, контакты, журнал звонков, SMS, а также настройки устройства (включая пароли Wi-Fi и разрешения).</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения и их данные, контакты, журнал звонков, SMS, фото и видео, а также настройки устройства (включая пароли Wi-Fi и разрешения). Снимки и видеоролики синхронизируются с вашей библиотекой Google Фото и могут быть использованы в различных сервисах.</string>
+    <string name="setupservices_google_services_data_policy">Данные обрабатываются в соответствии с <annotation link="google_privacy">Политикой конфиденциальности</annotation>.</string>
+    <string name="setupservices_google_services_data_policy_korea">Данные обрабатываются в соответствии с <annotation link="google_privacy">Политикой конфиденциальности</annotation> (как и <annotation link="additional_privacy">личная информация</annotation>), а также <annotation link="location_tos">Условиями использования геоданных</annotation>.</string>
+    <string name="setupservices_google_services_description">Нажмите, чтобы узнать больше о каждом сервисе, например о том, как его включить или отключить. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Подробную информацию о приложении, в том числе о покупках в нем, вы найдете в Play Маркете. Данные и настройки приложения будут синхронизироваться с устройствами, на которых вы вошли в свой аккаунт Google.
+
+Работа с приложениями, не требующими установки, регулируется "<a href="https://play.google.com/about/play-terms.html">Условиями использования Google Play</a>".
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Подробнее…</a></string>
+    <string name="setupservices_google_services_instant_apps_summary">Когда вы нажимаете на ссылку, Google Play проверяет наличие приложения с мгновенным запуском и открывает его без установки. Такие приложения временно сохраняются на вашем устройстве.</string>
+    <string name="setupservices_google_services_instant_apps_title">Приложения с мгновенным запуском</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Благодаря геолокации Google местоположение устройства определяется с помощью датчиков, а также сигналов сетей Wi‑Fi и сотовой связи.
+
+При желании эту функцию можно отключить в настройках доступа к геоданным. Там же вы можете запретить использование датчиков, сигналов Wi‑Fi и мобильных сетей для уточнения местоположения."</string>
+    <string name="setupservices_google_services_location_sharing_title">Помогать приложениям определять место</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Использовать местоположение</string>
+    <string name="setupservices_google_services_location_sharing_v28">Предоставить приложениям и сервисам доступ к данным о местоположении устройства. Чтобы повышать точность геолокации и улучшать некоторые сервисы, компания Google может периодически собирать анонимные геоданные пользователей.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Разрешить приложениям и сервисам искать сети Wi‑Fi даже при отключенном Wi-Fi.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Вы можете отключить эту функцию в настройках доступа к данным о местоположении.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Точнее определять местоположение</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Разрешить поиск сети</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Разрешить приложениям и сервисам искать сигналы Wi‑Fi и Bluetooth, даже если эти функции отключены.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Разрешить приложениям и сервисам искать сигналы устройств, расположенных поблизости, а также сетей Wi‑Fi, даже если функции Wi-Fi и Bluetooth отключены.</string>
+    <string name="setupservices_google_services_next_button_label">Принимаю</string>
+    <string name="setupservices_google_services_play">Я хочу получать новостную рассылку из Google Play.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Хранилище и резервное копирование</string>
+    <string name="setupservices_google_services_section_device_maintenance">Поддержка устройства</string>
+    <string name="setupservices_google_services_tos">Выполняя следующий шаг, вы также принимаете <annotation link="tos">Условия использования Google</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">Нажимая кнопку \"Принимаю\", вы соглашаетесь с описанными выше условиями для этих сервисов Google.</string>
+    <string name="setupservices_google_services_tos_germany">Используя это устройство, вы принимаете положения <annotation link="google_privacy">Политики конфиденциальности</annotation> и <annotation link="tos">дополнительные условия</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">Помогите сделать Android ещё лучше, разрешив автоматически отправлять в Google диагностические данные, сведения об использовании приложений и самого устройства. Они нужны нам, чтобы в будущем снизить расход заряда батареи, повысить стабильность приложений и подключения к сети. Если включена История приложений и веб-поиска, эта информация будет сохраняться в вашем аккаунте, и вы сможете управлять ей на странице \"Мои действия\".</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Мы будем получать общие сведения о работе устройства, например об уровне заряда батареи, используемых приложениях и подключении к сети. Они помогут нам развивать сервисы Google, а наши партнеры смогут использовать некоторые из этих сведений, чтобы улучшать собственные приложения и другие продукты.
+
+Отключение данной функции не повлияет на возможность устройства отправлять информацию, необходимую для обновления Android и системы безопасности."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Изменить настройки, связанные со своими действиями, вы можете на странице myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Чтобы отключить эту функцию или включить ее снова, откройте приложение \"Настройки Google\" и выберите в меню пункт \"Использование и диагностика\".</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Чтобы отключить эту функцию или включить ее снова, откройте приложение \"Настройки > Google\", а затем выберите в меню пункт \"Использование и диагностика\".</string>
+    <string name="setupservices_google_services_usage_reporting_title">Отправлять системные данные</string>
+    <string name="setupservices_google_services_wallpaper_permission">Предоставьте живым обоям Google доступ к геоданным, чтобы заставка изменялась в зависимости от вашего местоположения.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Чтобы открыть живым обоям доступ к геоданным, в настройках устройства нажмите \"Приложения и уведомления > О приложении\". Затем в дополнительном меню выберите \"Показать системные процессы > Живые обои: изображения/Живые обои: Земля > Разрешения\".</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Разрешить обоям использовать данные о местоположении</string>
+    <string name="setupservices_google_terms_of_service_title">Условия использования</string>
+    <string name="setupservices_kids_google_services_agreement">Продолжая, вы разрешаете устройству автоматически скачивать, а затем устанавливать обновления и приложения от производителя устройства, вашего оператора связи и компании Google (в том числе по мобильной сети). Некоторые из этих приложений могут предлагать приобрести платный контент, но вы можете их удалить.</string>
+    <string name="setupservices_kids_google_services_backup">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения, их данные, а также настройки устройства (включая пароли Wi-Fi).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Резервные копии не занимают места на Google Диске вашего ребенка."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Снимки и видеоролики с этого устройства синхронизируются с библиотекой Google Фото вашего ребенка. По умолчанию они загружаются туда в исходном разрешении. Используя любое из своих устройств, ребенок может искать, редактировать и удалять эти файлы, а также предоставлять к ним доступ.
+
+Резервные копии не занимают места на Google Диске вашего ребенка."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения, их данные, контакты, журнал звонков, а также настройки устройства (включая пароли Wi-Fi и разрешения).</string>
+    <string name="setupservices_kids_google_services_backup_v26">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения и их данные, контакты, журнал звонков, SMS, а также настройки устройства (включая пароли Wi-Fi и разрешения).</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Вы можете в любой момент восстановить данные с устройства или загрузить их на новый телефон. Резервные копии содержат приложения и их данные, контакты, журнал звонков, SMS, фото и видео, а также настройки устройства (включая пароли Wi-Fi и разрешения). Снимки и видеоролики синхронизируются с библиотекой Google Фото вашего ребенка и могут быть использованы в различных сервисах.</string>
+    <string name="setupservices_kids_google_services_description">Нажмите, чтобы узнать больше о каждом сервисе, например о том, как его включить или отключить. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Благодаря геолокации Google местоположение устройства определяется с помощью датчиков, а также сигналов сетей Wi‑Fi и сотовой связи.
+
+При желании эту функцию можно отключить в настройках доступа к геоданным. Там же вы можете запретить использование датчиков, сигналов Wi‑Fi и мобильных сетей для уточнения местоположения."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Предоставить приложениям и сервисам доступ к данным о местоположении устройства. Чтобы повышать точность геолокации и улучшать некоторые сервисы, компания Google может периодически собирать анонимные геоданные пользователей.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Помогите сделать Android ещё лучше, разрешив автоматически отправлять в Google диагностическую информацию, сведения об использовании приложений и самого устройства. Установить личность ребенка по этим данным нельзя. Они нужны нам, чтобы в будущем снизить расход заряда батареи, повысить стабильность приложений и подключения к сети. Если включена История приложений и веб-поиска, эта информация будет сохраняться в аккаунте ребенка.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Мы будем получать общие сведения о работе устройства, например об уровне заряда батареи, используемых приложениях и подключении к сети. Они помогут нам развивать сервисы Google, а наши партнеры смогут использовать некоторые из этих сведений, чтобы улучшать собственные приложения и другие продукты.
+
+Отключение данной функции не повлияет на возможность устройства отправлять информацию, необходимую для обновления Android и системы безопасности."</string>
+    <string name="setupservices_location_tos_title">Условия использования геоданных</string>
+    <string name="sid_lsid_grant_detail">Подобно паролю, файлы cookie идентификатора сеанса (SID) и локального идентификатора сеанса (LSID) связывают ваш аккаунт с запросами из браузера. Они предоставляют полный доступ ко всем данным вашего аккаунта. Использовать эти файлы могут только браузеры.</string>
+    <string name="sid_lsid_grant_label">Получить доступ ко всем данным своего аккаунта Google можно с помощью файлов cookie SID и LSID</string>
+    <string name="smartdevice_action_copy">Копировать</string>
+    <string name="smartdevice_action_open_app">Запустить приложение</string>
+    <string name="smartdevice_action_try_another_way">Попробовать другой способ</string>
+    <string name="smartdevice_action_turn_on_location">Включить доступ к геоданным</string>
+    <string name="smartdevice_alert_disconnected_title">Нет связи</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Вы не можете воспользоваться этой функцией, так как вашим резервным аккаунтом управляет администратор устройства.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Функция недоступна</string>
+    <string name="smartdevice_alert_exit_setup_message">Настройка другого устройства будет прекращена.</string>
+    <string name="smartdevice_alert_exit_setup_title">Прекратить настройку устройства?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Чтобы настроить устройство, необходим хотя бы один аккаунт Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">Чтобы настроить устройство (%s), необходим хотя бы один аккаунт Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Нет аккаунтов</string>
+    <string name="smartdevice_alert_quit_button">Прекратить</string>
+    <string name="smartdevice_alert_restart_setup_button">Начать настройку заново</string>
+    <string name="smartdevice_alert_setup_incomplete">Настройка не завершена</string>
+    <string name="smartdevice_alert_start_over_button">Начать заново</string>
+    <string name="smartdevice_alert_work_profile_message">Аккаунты Google for Work пока не поддерживаются. После того как вы скопируете другие аккаунты Google и данные, рабочий аккаунт можно будет добавить в настройках нового устройства.</string>
+    <string name="smartdevice_alert_work_profile_title">Нельзя скопировать рабочий аккаунт</string>
+    <string name="smartdevice_application_label">Настройка устройства</string>
+    <string name="smartdevice_choose_device">Выберите устройство</string>
+    <string name="smartdevice_companion_app_ready">Приложение \"%s\" уже установлено на этом устройстве.</string>
+    <string name="smartdevice_connect_to_wifi">Подключите устройство</string>
+    <string name="smartdevice_connection_error">При подключении к другому устройству возникла ошибка.</string>
+    <string name="smartdevice_connection_error_title">Не удалось установить подключение</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Подключение…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Скопировать все аккаунты и восстановить данные из резервной копии, если она есть на Google Диске</string>
+    <string name="smartdevice_d2d_copy_account_text">Скопировать аккаунты Google и восстановить данные из резервной копии, если она есть на Google Диске</string>
+    <string name="smartdevice_d2d_copy_account_title">Копировать?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Отпечаток не опознан</string>
+    <string name="smartdevice_d2d_fingerprint_title">Подтвердите отпечаток пальца</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Чтобы подтвердить личность, отсканируйте свой отпечаток пальца. Ваши аккаунты Google, приложения и другие данные будут скопированы на устройство \"%s\".</string>
+    <string name="smartdevice_d2d_lockscreen_description">Чтобы продолжить настройку устройства, разблокируйте экран.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Чтобы продолжить настройку, разблокируйте экран.</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Нельзя настроить второе устройство, так как на вашем устройстве не поддерживается Bluetooth.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Эта функция отключена в целях безопасности. Нажмите \"Пропустить\" на другом устройстве и выполните настройку.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Настроить новое устройство</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Настройка устройства</string>
+    <string name="smartdevice_d2d_source_notification_title">Настройка устройства ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Начните настройку заново и убедитесь, что копируете аккаунты Google, приложения и данные на нужное устройство (^1).</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Не видите код?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Нельзя настроить новое устройство, используя профиль пользователя с ограниченным доступом.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Продолжите настройку на устройстве %s.</string>
+    <string name="smartdevice_d2d_source_setup_success">Почти готово!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Скопируйте данные со старого устройства Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Настроить это устройство самостоятельно</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Копировать аккаунты, приложения и данные с другого устройства</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Копирование аккаунтов…</string>
+    <string name="smartdevice_d2d_target_description">1. Скажите &lt;b>&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>&lt;/b> или введите \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\", а затем нажмите, чтобы подтвердить.&lt;br/>&lt;br/>2. Выберите &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> из списка и следуйте инструкциям на экране.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Попробуйте другой способ</string>
+    <string name="smartdevice_d2d_target_google_settings_description">На другом устройстве:&lt;br/>&lt;br/>1. Откройте приложение &lt;b>Настройки Google&lt;/b>.&lt;br/>&lt;br/>2. Нажмите &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b>.&lt;br/>&lt;br/>3. Выберите устройство &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> из списка и следуйте инструкциям на экране.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Невозможно выполнить эти действия</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Откройте Настройки Google</string>
+    <string name="smartdevice_d2d_target_help_text">Возникли проблемы?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Не можете найти?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Откройте приложение Google на другом устройстве</string>
+    <string name="smartdevice_d2d_target_instruction_description">Запустите приложение Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">На другом устройстве</string>
+    <string name="smartdevice_d2d_target_other_device_description">Приложение Google предустановлено на всех устройствах Android. Чтобы открыть его, найдите показанный выше значок в разделе \"Все приложения\".</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Введите код, который показан на другом устройстве:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Отмена</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Этот аккаунт, а также связанные с ним приложения и данные не будут скопированы на устройство.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Пропустить</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Пропустить этот аккаунт?</string>
+    <string name="smartdevice_d2d_target_title">В приложении Google</string>
+    <string name="smartdevice_do_disclosure_generic">Не удалось перенести данные</string>
+    <string name="smartdevice_do_unsupported_message">Не удалось перенести данные с управляемых устройств</string>
+    <string name="smartdevice_install_app">Установите приложение</string>
+    <string name="smartdevice_install_app_reason">Приложение \"%1$s\" позволит вам управлять новым устройством (%2$s) с этого</string>
+    <string name="smartdevice_look_for_other_device">Поищите это название на другом устройстве</string>
+    <string name="smartdevice_magicwand_cancel_signin">Отмена</string>
+    <string name="smartdevice_magicwand_confirm_signin">Подтвердите личность</string>
+    <string name="smartdevice_magicwand_consent_detail">Чтобы завершить вход в аккаунт, нажмите <b>Войти</b>.</string>
+    <string name="smartdevice_magicwand_consent_title">Завершите вход в аккаунт</string>
+    <string name="smartdevice_magicwand_error_detail">Не удалось войти в аккаунт Google на этом устройстве.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Вы отсканировали QR-код, чтобы войти в аккаунт.
+
+В целях безопасности подтвердите свою личность с помощью отпечатка пальца."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Это необходимо, чтобы подтвердить надежность данного устройства.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Вы отсканировали QR-код, чтобы войти в аккаунт.
+
+В целях безопасности введите графический ключ."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">для входа в браузер</string>
+    <string name="smartdevice_magicwand_success_detail">Вернитесь в браузер на другом устройстве.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Посмотрите, есть ли эти фигуры на другом устройстве</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Проверьте фигуры</string>
+    <string name="smartdevice_problem_copying">При копировании данных на другое устройство возникла ошибка.</string>
+    <string name="smartdevice_problem_copying_title">Не удалось скопировать данные</string>
+    <string name="smartdevice_search_again">Повторить поиск</string>
+    <string name="smartdevice_searching_for_devices">Поиск устройств</string>
+    <string name="smartdevice_setup_google_app_trigger">Настройки устройства</string>
+    <string name="smartdevice_setup_info_installing_app">Установка приложения…</string>
+    <string name="smartdevice_setup_intro_text">Для настройки устройства будут использоваться Bluetooth и Wi-Fi на вашем телефоне.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Для настройки устройства будет использоваться Bluetooth на вашем телефоне.</string>
+    <string name="smartdevice_setup_intro_title">Начало работы</string>
+    <string name="smartdevice_setup_password_hint">Введите пароль к сети Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Показать пароль</string>
+    <string name="smartdevice_setup_title_verify_code">Проверка кода</string>
+    <string name="smartdevice_target_hotphrase_instructions">На другом устройстве: скажите &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>\".&lt;/b>&lt;br/>&lt;br/>Или введите &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> в окне поиска.</string>
+    <string name="smartdevice_type_typing_ok_google">Если голосовая команда не работает, введите ее в окно поиска. Пример: &lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>.</string>
+    <string name="smartdevice_verify_device">Проверка устройства</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Для настройки этого устройства можно использовать только открытые сети и сети WPA/WPA2.</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Не удается подключиться к сети Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Чтобы искать сети Wi-Fi, включите доступ к геоданным.
+
+Эту настройку всегда можно изменить."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Не удается выполнить поиск сетей Wi-Fi</string>
+    <string name="storage_management_wear_descriptive_text">Приложения используют хранилище для копирования данных на носимое устройство.</string>
+    <string name="storage_management_wear_manage_size_label">Задать объем хранилища</string>
+    <string name="storage_management_wear_size_label">Хранилище носимого устройства</string>
+    <string name="storage_managment_all_storage_descriptive_text">Пространство, использованное для хранения данных сервисов Google Play, в том числе поисковой системы.</string>
+    <string name="storage_managment_clear_all_data">Удалить все данные</string>
+    <string name="storage_managment_computing_size">Вычисление…</string>
+    <string name="storage_managment_icing_size_label">Данные о поиске</string>
+    <string name="storage_managment_manage_icing_button">Управление данными о поиске</string>
+    <string name="storage_managment_search_index_descriptive_text">Чтобы поиск работал быстрее, приложения на устройстве могут использовать поисковую систему.</string>
+    <string name="storage_managment_title">Хранение данных сервисов Google Play</string>
+    <string name="storage_managment_total_size_label">Общий объем хранилища</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Ещё</string>
+    <string name="suw_next_button_label">Далее</string>
+    <string name="uncertified_notification_expired_content">Приложения и сервисы Google не работают на этом устройстве. Подробнее…</string>
+    <string name="uncertified_notification_expired_title">Срок регистрации истек</string>
+    <string name="uncertified_notification_expiring_title">Истекает срок регистрации</string>
+    <string name="use_nearby_device_heading">Использовать устройство поблизости?</string>
+    <string name="use_nearby_device_text">Открыть доступ устройству поблизости?</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="verify_your_identity_description">Ресурсу \"%1$s\" требуется подтвердить вашу личность.</string>
+    <string name="verify_your_identity_title">Подтверждение личности</string>
+    <string name="waiting_for_account_info_text">Ожидание информации об аккаунте…</string>
+</resources>

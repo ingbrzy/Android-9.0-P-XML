@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Грешка Google Play услуга</string>
+    <string name="common_google_play_services_notification_needs_update_title">Апликација захтева ажурирање Google Play услуга.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s захтева ажурирање апликације Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Апликација захтева да Google Play услуге буду омогућене.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Захтева %1$s</string>
+    <string name="common_google_play_services_install_title">Преузимање Google Play услуга</string>
+    <string name="common_google_play_services_install_text_phone">%1$s не може да се покрене без Google Play услуга, које недостају на телефону.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s не може да се покрене без Google Play услуга, које недостају на таблету.</string>
+    <string name="common_google_play_services_install_button">Преузми Google Play услуге</string>
+    <string name="common_google_play_services_enable_title">Омогућавање Google Play услуга</string>
+    <string name="common_google_play_services_enable_text">%1$s неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="common_google_play_services_enable_button">Омогући Google Play услуге</string>
+    <string name="common_google_play_services_update_title">Ажурирање Google Play услуга</string>
+    <string name="common_android_wear_update_title">Ажурирајте Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="common_android_wear_update_text">%1$s не може да се покрене ако не ажурирате апликацију Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Google Play услуге се ажурирају</string>
+    <string name="common_google_play_services_updating_text">%1$s не може да се покрене без Google Play услуга, које се тренутно ажурирају.</string>
+    <string name="common_google_play_services_network_error_title">Грешка на мрежи</string>
+    <string name="common_google_play_services_network_error_text">За повезивање са Google Play услугама потребна је веза за пренос података.</string>
+    <string name="common_google_play_services_invalid_account_title">Неважећи налог</string>
+    <string name="common_google_play_services_invalid_account_text">Наведени налог не постоји на овом уређају. Одаберите други налог.</string>
+    <string name="common_google_play_services_unknown_issue">Непознат проблем са Google Play услугама.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play услуге</string>
+    <string name="common_google_play_services_unsupported_text">%1$s користи Google Play услуге, које уређај не подржава. Контактирајте произвођача да бисте добили помоћ.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_open_on_phone">Отвори на телефону</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s захтева једну Google Play услугу која тренутно није доступна или више њих. Контактирајте програмера да бисте добили помоћ.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Пријављивање није успело</string>
+    <string name="common_google_play_services_sign_in_failed_text">Дошло је до грешке при пријављивању на наведени налог. Изаберите други налог.</string>
+    <string name="app_name">Поуздано лице</string>
+    <string name="trusted_face_service_app_name">Услуга поузданог лица</string>
+    <string name="receiver_app_name">Пријемник за емитовање поузданог лица</string>
+    <string name="intro_screen_title">О поузданом лицу</string>
+    <string name="intro_screen_header">Откључајте телефон тако што ћете га погледати</string>
+    <string name="intro_screen_body_start">"Запамтите:
+"</string>
+    <string name="intro_screen_bullets">"Препознавање лица је мање безбедно од шаблона, PIN-а или лозинке
+
+Неко ко личи на вас би могао да откључа телефон
+
+Подаци који се користе за препознавање лица су заштићени на телефону"</string>
+    <string name="intro_screen_continue_label">Подесите</string>
+    <string name="instructions_screen_title">Додајте поуздано лице</string>
+    <string name="instructions_screen_header">За најбоље резултате:</string>
+    <string name="instructions_screen_bullets">"Пронађите место на затвореном које није ни превише светло ни превише тамно
+
+Држите телефон у нивоу очију"</string>
+    <string name="instructions_screen_continue_label">Даље</string>
+    <string name="enrollment_screen_title">Додајте поуздано лице</string>
+    <string name="enrollment_screen_message_initializing">Покреће се...</string>
+    <string name="enrollment_screen_message_initialization_error">Нисмо успели да започнемо проналажење лица</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Дозвола за камеру није одобрена</string>
+    <string name="enrollment_screen_message_camera_error">Камера није доступна</string>
+    <string name="enrollment_start_message">Нека вам лице буде у простору оивиченом тачкама</string>
+    <string name="enrollment_screen_message_instructions">Нека вам врх главе и дно браде буду у оквиру круга</string>
+    <string name="enrollment_screen_message_done">Лице је додато</string>
+    <string name="enrollment_screen_status_no_face">Покажите лице</string>
+    <string name="enrollment_screen_status_face_off_center">Не види се део лица</string>
+    <string name="enrollment_screen_status_missing_template">Не виде се црте лица</string>
+    <string name="enrollment_screen_continue_label">Даље</string>
+    <string name="enrollment_screen_done_label">Готово</string>
+    <string name="enrollment_screen_talkback_preview_description">Преглед камере</string>
+    <string name="enrollment_screen_talkback_face_added">Лице је додато</string>
+    <string name="end_screen_title">Све је спремно!</string>
+    <string name="end_screen_body">Да бисте откључали телефон, само укључите екран и гледајте у камеру</string>
+    <string name="end_screen_bullet_one_text">Телефон ће се откључати чим вас препозна</string>
+    <string name="end_screen_bullet_two_text">Ако вам уређај не препозна лице, откључајте га помоћу шаблона, PIN-а или лозинке</string>
+    <string name="end_screen_tip_text">Савет: Побољшајте подударање лица тако што ћете показати како изгледате у различитим условима</string>
+    <string name="end_screen_licenses_label">Лиценце</string>
+    <string name="end_screen_continue_label">Готово</string>
+    <string name="add_to_setup_intro_screen_title">Побољшање подударања лица</string>
+    <string name="add_to_setup_intro_screen_header">Покажите како изгледате у различитим условима</string>
+    <string name="add_to_setup_intro_screen_body_start">"Примери:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"При различитом осветљењу
+
+Са наочарима или без њих
+
+Са брадом или свеже обријани
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Држите телефон у нивоу очију</string>
+    <string name="add_to_setup_intro_screen_continue_label">Даље</string>
+    <string name="license_screen_title">Лиценце</string>
+    <string name="license_screen_header">Обавештења о отвореном коду</string>
+    <string name="license_screen_continue_label">Потврди</string>
+    <string name="license_screen_description">Функција „Поуздано лице“ може да користи делове следећих библиотека отвореног кода, који су лиценцирани у складу са лиценцама у наставку:</string>
+    <string name="license_screen_notices_header">Обавештења за библиотеке:</string>
+    <string name="shared_cancel_label">Откажи</string>
+    <string name="reenrollment_notification_title">Паметно закључавање</string>
+    <string name="reenrollment_notification_text">Препознавање лица се променило. Додајте поново поуздано лице да бисте наставили да га користите.</string>
+</resources>

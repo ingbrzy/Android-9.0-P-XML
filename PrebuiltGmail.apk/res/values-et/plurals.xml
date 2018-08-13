@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s saajat</item>
+        <item quantity="one">1 saaja</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 saajat kasutab teenuseid, mis ei toeta krüpteerimist. Krüpteerimiseta võivad teised teie kirja edastamise ajal näha. ^2</item>
+        <item quantity="one">Kasutaja ^1 kasutab teenust, mis ei toeta krüpteerimist. Krüpteerimiseta võivad teised teie kirja edastamise ajal näha. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 ja teised domeenid ei toetanud krüpteerimist, kui see sõnum saadeti. ^2</item>
+        <item quantity="one">^1 ei toetanud krüpteerimist, kui see sõnum saadeti. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Kas arhiivida need %1$d meilivestlust?</item>
+        <item quantity="one">Kas arhiivida see meilivestlus?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Kas kustutada need %1$d meilivestlust?</item>
+        <item quantity="one">Kas kustutada see meilivestlus?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Kas loobuda nendest %1$d meilivestluse mustandist?</item>
+        <item quantity="one">Kas loobuda selle meilivestluse mustanditest?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> arhiiviti</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> arhiiviti</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> kustutati</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> kustutati</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Silte on muudetud.</item>
+        <item quantity="one">Silti on muudetud.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> teisaldati postkasti</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> teisaldati postkasti</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> summutati</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> summutati</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> märgiti ebaoluliseks</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> märgiti ebaoluliseks</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> puhul teatati, et tegemist pole rämpspostiga</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> puhul teatati, et tegemist pole rämpspostiga</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> märgiti loetuks</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> märgiti loetuks</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> on edasi lükatud kuni ajani %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> on edasi lükatud kuni ajani %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> märgiti rämpspostiks</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> märgiti rämpspostiks</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d üksuse puhul teavitati rämpspostist ja tühistati tellimus</item>
+        <item quantity="one">%1$d üksuse puhul teavitati rämpspostist ja tühistati tellimus</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">Tühistatud on &lt;b>%1$d&lt;/b> edasilükkamist</item>
+        <item quantity="one">Tühistatud on &lt;b>%1$d&lt;/b> edasilükkamine</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Tärni eemaldamine %1$d meilivestluselt.</item>
+        <item quantity="one">Tärni eemaldamine %1$d meilivestluselt</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Iga %d päeva järel</item>
+        <item quantity="one">Iga päev</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Need kirjad märgitakse rämpspostiks. Kas te ei soovi enam nendelt &lt;b>%2$d saatjalt&lt;/b> sarnaseid kirju saada?%1$s</item>
+        <item quantity="one">See kiri märgitakse rämpspostiks. Kas te ei soovi enam saatjalt %1$s sarnaseid kirju saada?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Mustandid</item>
+        <item quantity="one">Mustand</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s meilivestlust kustutatakse jäädavalt</item>
+        <item quantity="one">%1$s meilivestlus kustutatakse jäädavalt</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d korda</item>
+        <item quantity="one">; ühe korra</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">"Saajatel ei pruugi olla juurdepääsu Drive'ist sisestatud failidele. Peate võib-olla jagama faile Google Drive'is."</item>
+        <item quantity="one">"Saajatel ei pruugi olla juurdepääsu Drive'ist sisestatud failile. Peate võib-olla jagama faili Google Drive'is."</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">"Märkus. Mõnel saajal ei pruugi ikka olla juurdepääsu nendele failidele. Peate võib-olla jagama faile Google Drive'is."</item>
+        <item quantity="one">"Märkus. Mõnel saajal ei pruugi ikka olla juurdepääsu sellele failile. Peate võib-olla jagama faili Google Drive'is."</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Jagate saajatega:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>, kes ei kuulu Google Appsi organisatsiooni, kellele need failid kuuluvad."</item>
+        <item quantity="one">Jagate saajatega:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>, kes ei kuulu Google Appsi organisatsiooni, kellele see fail kuulub.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 saajat kasutab teenuseid, mis ei toeta krüpteerimist. Ilma krüpteerimiseta saab teie kirja saatmisel lugeda. ^2</item>
+        <item quantity="one">Kasutaja ^1 kasutab teenust, mis ei toeta krüpteerimist. Ilma krüpteerimiseta saab teie kirja saatmisel lugeda. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Iga %1$d kuu järel</item>
+        <item quantity="one">Iga kuu</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d uut kirja</item>
+        <item quantity="one">%1$d uus kiri</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d uut kirja</item>
+        <item quantity="one">%1$d uus kiri</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d manust</item>
+        <item quantity="one">%1$d manus</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d kirja</item>
+        <item quantity="one">%1$d kiri</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Kalendreid ei jagata</item>
+        <item quantity="one">Kalendrit ei jagata</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d sündmuse puhul</item>
+        <item quantity="one">%d sündmuse puhul</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Iga %d päeva järel</item>
+        <item quantity="one">Iga %d päeva järel</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Iga %d kuu järel</item>
+        <item quantity="one">Iga %d kuu järel</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Iga %d nädala järel</item>
+        <item quantity="one">Iga %d nädala järel</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Iga %d aasta järel</item>
+        <item quantity="one">Iga %d aasta järel</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Laaditi %d otsingutulemust</item>
+        <item quantity="one">Laaditi %d otsingutulemus</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Laienda %1$d vanemat kirja</item>
+        <item quantity="one">Laienda vanem kiri</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Edasi lükatud %d päeva tagasi</item>
+        <item quantity="one">Edasi lükatud %d päev tagasi</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Edasi lükatud %d tundi tagasi</item>
+        <item quantity="one">Edasi lükatud %d tund tagasi</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Edasi lükatud %d kuud tagasi</item>
+        <item quantity="one">Edasi lükatud %d kuu tagasi</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Edasi lükatud %d nädalat tagasi</item>
+        <item quantity="one">Edasi lükatud %d nädal tagasi</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Edasi lükatud %d aastat tagasi</item>
+        <item quantity="one">Edasi lükatud %d aasta tagasi</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Laiendati %1$d vanemat kirja</item>
+        <item quantity="one">Laiendati üks vanem kiri</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">Üks päev</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Viimase %1$d päeva kirjad laaditakse ühenduse loomisel alla</item>
+        <item quantity="one">Viimase 1 päeva kirjad laaditakse ühenduse loomisel alla</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Viimased %1$d päeva</item>
+        <item quantity="one">Viimane päev</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Tähtaeg – %1$s – %2$d ülesannet</item>
+        <item quantity="one">Tähtaeg – %1$s – %2$d ülesanne</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Päevad</item>
+        <item quantity="one">Päev</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Iga %1$d nädala järel: %2$s</item>
+        <item quantity="one">Iga nädal: %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Iga %1$d aasta järel</item>
+        <item quantity="one">Iga aasta</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikace vyžaduje aktualizaci služeb Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">Aplikace %1$s vyžaduje aktualizaci aplikace Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikace vyžaduje aktivaci služeb Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Požadováno aplikací %1$s</string>
+    <string name="common_google_play_services_install_title">Instalovat služby Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v telefonu nemáte.</string>
+    <string name="common_google_play_services_install_text_tablet">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tabletu nemáte.</string>
+    <string name="common_google_play_services_install_button">Instalovat služby Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktivovat služby Google Play</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_button">Aktivovat služby Google Play</string>
+    <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_android_wear_update_title">Aktualizujte aplikaci Android Wear</string>
+    <string name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="common_android_wear_update_text">Aplikace %1$s bude fungovat po aktualizaci aplikace Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Probíhá aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_network_error_title">Chyba sítě</string>
+    <string name="common_google_play_services_network_error_text">Připojení ke službám Google Play vyžaduje datové připojení.</string>
+    <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+    <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zařízení neexistuje. Zvolte prosím jiný účet.</string>
+    <string name="common_google_play_services_unknown_issue">Nastal neznámý problém se službami Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Aplikace %1$s vyžaduje služby Google Play, které ve vašem zařízení nejsou podporovány. Kontaktujte výrobce zařízení.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_google_play_services_api_unavailable_text">Aplikace %1$s vyžaduje jednu nebo více služeb Google Play, které aktuálně nejsou k dispozici. S žádostí o pomoc se obraťte na vývojáře.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Přihlášení se nezdařilo</string>
+    <string name="common_google_play_services_sign_in_failed_text">Při přihlašování k uvedenému účtu došlo k chybě. Zvolte prosím jiný účet.</string>
+    <string name="app_name">Důvěryhodný obličej</string>
+    <string name="trusted_face_service_app_name">Služba Důvěryhodný obličej</string>
+    <string name="receiver_app_name">Přijímač vysílání důvěryhodného obličeje</string>
+    <string name="intro_screen_title">O důvěryhodném obličeji</string>
+    <string name="intro_screen_header">Telefon odemknete pohledem.</string>
+    <string name="intro_screen_body_start">"Nezapomeňte:
+"</string>
+    <string name="intro_screen_bullets">"Rozpoznávání obličeje není tak bezpečné jako použití gesta, kódu PIN nebo hesla.
+
+Telefon by mohl odemknout někdo vám podobný.
+
+Data, pomocí kterých je obličej identifikován, jsou v telefonu uchovávána jako soukromá."</string>
+    <string name="intro_screen_continue_label">Nastavit</string>
+    <string name="instructions_screen_title">Přidat důvěryhodný obličej</string>
+    <string name="instructions_screen_header">Jak dosáhnout nejlepších výsledků:</string>
+    <string name="instructions_screen_bullets">"Najděte v interiéru přiměřeně osvětlené místo – ani moc světlé, ani moc tmavé.
+
+Podržte telefon v úrovni očí."</string>
+    <string name="instructions_screen_continue_label">Další</string>
+    <string name="enrollment_screen_title">Přidat důvěryhodný obličej</string>
+    <string name="enrollment_screen_message_initializing">Spouštění…</string>
+    <string name="enrollment_screen_message_initialization_error">Hledání obličeje nelze zahájit</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Použití fotoaparátu není povoleno</string>
+    <string name="enrollment_screen_message_camera_error">Fotoaparát není k dispozici</string>
+    <string name="enrollment_start_message">Obličej držte uvnitř vytečkované oblasti</string>
+    <string name="enrollment_screen_message_instructions">Horní okraj hlavy a spodní okraj brady nesmí zasahovat mimo kruh.</string>
+    <string name="enrollment_screen_message_done">Obličej přidán</string>
+    <string name="enrollment_screen_status_no_face">Ukažte svůj obličej</string>
+    <string name="enrollment_screen_status_face_off_center">Některé části obličeje nejsou vidět</string>
+    <string name="enrollment_screen_status_missing_template">Vaše rysy se nepodařilo určit</string>
+    <string name="enrollment_screen_continue_label">Další</string>
+    <string name="enrollment_screen_done_label">OK</string>
+    <string name="enrollment_screen_talkback_preview_description">Náhled fotoaparátu</string>
+    <string name="enrollment_screen_talkback_face_added">Obličej přidán</string>
+    <string name="end_screen_title">Vše je nastaveno.</string>
+    <string name="end_screen_body">Chcete-li telefon odemknout, stačí zapnout jeho obrazovku a podívat se do fotoaparátu.</string>
+    <string name="end_screen_bullet_one_text">Telefon se odemkne, jakmile vás rozpozná.</string>
+    <string name="end_screen_bullet_two_text">Pokud zařízení váš obličej nerozpozná, odemkněte jej pomocí gesta, kódu PIN nebo hesla.</string>
+    <string name="end_screen_tip_text">Tip: Zlepšete rozpoznávání obličeje tím, že ukážete, jak vypadáte za různých podmínek.</string>
+    <string name="end_screen_licenses_label">Licence</string>
+    <string name="end_screen_continue_label">OK</string>
+    <string name="add_to_setup_intro_screen_title">Zlepšení rozpoznávání obličeje</string>
+    <string name="add_to_setup_intro_screen_header">Ukažte, jak vypadáte za různých podmínek.</string>
+    <string name="add_to_setup_intro_screen_body_start">"Příklady:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Za různého osvětlení
+
+S brýlemi a bez brýlí
+
+S vousy a bez vousů
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Podržte telefon v úrovni očí.</string>
+    <string name="add_to_setup_intro_screen_continue_label">Další</string>
+    <string name="license_screen_title">Licence</string>
+    <string name="license_screen_header">Sdělení k softwaru s otevřeným zdrojovým kódem</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">Funkce Důvěryhodný obličej může používat částí následujících knihoven s otevřeným zdrojovým kódem, licencovaných na základě níže uvedených licencí:</string>
+    <string name="license_screen_notices_header">Sdělení ke knihovnám:</string>
+    <string name="shared_cancel_label">Zrušit</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Funkce rozpoznání obličeje byla změněna. Chcete-li ji nadále využívat, přidejte znovu důvěryhodný obličej.</string>
+</resources>

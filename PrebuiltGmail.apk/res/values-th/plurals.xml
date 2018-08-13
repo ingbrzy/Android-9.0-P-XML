@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">ผู้รับ %s คน</item>
+        <item quantity="one">ผู้รับ 1 คน</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">ผู้รับ ^1 คนใช้บริการที่ไม่รองรับการเข้ารหัส เมื่อไม่มีการเข้ารหัส คนอื่นๆ จะเห็นข้อความของคุณได้ในระหว่างส่ง ^2</item>
+        <item quantity="one">^1 ใช้บริการที่ไม่รองรับการเข้ารหัส เมื่อไม่มีการเข้ารหัส คนอื่นๆ จะเห็นข้อความของคุณได้ในระหว่างส่ง ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 และโดเมนอื่นๆ ไม่รองรับการเข้ารหัสลับเมื่อส่งข้อความนี้ ^2</item>
+        <item quantity="one">^1 ไม่รองรับการเข้ารหัสลับเมื่อส่งข้อความนี้ ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">เก็บการสนทนา %1$d รายการนี้ไหม</item>
+        <item quantity="one">เก็บการสนทนานี้ไหม</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ลบการสนทนา %1$d รายการนี้ไหม</item>
+        <item quantity="one">ลบการสนทนานี้ไหม</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ยกเลิกร่างจดหมายจากการสนทนา %1$d รายการนี้ไหม</item>
+        <item quantity="one">ยกเลิกร่างจดหมายจากการสนทนานี้ไหม</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">เก็บ &lt;b>%1$d&lt;/b> รายการ</item>
+        <item quantity="one">เก็บ &lt;b>%1$d&lt;/b> รายการ</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">ลบ &lt;b>%1$d&lt;/b> รายการ</item>
+        <item quantity="one">ลบ &lt;b>%1$d&lt;/b> รายการ</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">เปลี่ยนป้ายกำกับแล้ว</item>
+        <item quantity="one">เปลี่ยนป้ายกำกับแล้ว</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">ย้าย &lt;b>%1$d&lt;/b> รายการไปยังกล่องจดหมายแล้ว</item>
+        <item quantity="one">ย้าย &lt;b>%1$d&lt;/b> รายการไปยังกล่องจดหมายแล้ว</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">ปิดรับ &lt;b>%1$d&lt;/b> รายการ</item>
+        <item quantity="one">ปิดรับ &lt;b>%1$d&lt;/b> รายการ</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">ทำเครื่องหมาย &lt;b>%1$d&lt;/b> รายการว่าไม่สำคัญ</item>
+        <item quantity="one">ทำเครื่องหมาย &lt;b>%1$d&lt;/b> รายการว่าไม่สำคัญ</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">รายงาน &lt;b>%1$d&lt;/ b> รายการไม่ใช่จดหมายขยะ</item>
+        <item quantity="one">รายงาน &lt;b>%1$d&lt;/b> รายการไม่ใช่จดหมายขยะ</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">ทำเครื่องหมาย &lt;b>%1$d&lt;/b> รายการว่าไม่สำคัญ</item>
+        <item quantity="one">ทำเครื่องหมาย &lt;b>%1$d&lt;/b> รายการว่าไม่สำคัญ</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">ปิดเสียงเตือนชั่วคราวแล้ว &lt;b>%1$d&lt;/b> ครั้งจนกว่า %2$s</item>
+        <item quantity="one">ปิดเสียงเตือนชั่วคราวแล้ว &lt;b>%1$d&lt;/b> ครั้งจนกว่า %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">รายงาน &lt;b>%1$d&lt;/ b> รายการเป็นจดหมายขยะ</item>
+        <item quantity="one">รายงาน &lt;b>%1$d&lt;/b> รายการเป็นจดหมายขยะ</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d รายงานว่าเป็นจดหมายขยะและยกเลิกการรับข่าวสาร</item>
+        <item quantity="one">%1$d รายงานว่าเป็นจดหมายขยะและยกเลิกการรับข่าวสาร</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">ปิดเสียงเตือนชั่วคราว &lt;b>%1$d&lt;/b> ครั้งแล้ว</item>
+        <item quantity="one">ปิดเสียงเตือนชั่วคราว &lt;b>%1$d&lt;/b> ครั้งแล้ว</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">กำลังเลิกติดดาวการสนทนา %1$d รายการ</item>
+        <item quantity="one">กำลังเลิกติดดาวการสนทนา %1$d รายการ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุกวัน</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">ข้อความเหล่านี้จะถูกทำเครื่องหมายว่าเป็นจดหมายขยะ คุณต้องการเลิกรับข้อความที่คล้ายกันจาก&lt;b>ผู้ส่ง %2$d ราย&lt;/b>นี้ไหม%1$s</item>
+        <item quantity="one">ข้อความนี้จะถูกทำเครื่องหมายว่าเป็นจดหมายขยะ คุณต้องการเลิกรับข้อความที่คล้ายกันจาก %1$s ไหม</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ร่างจดหมาย</item>
+        <item quantity="one">ร่างจดหมาย</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">การสนทนา %1$s รายการจะถูกลบอย่างถาวร</item>
+        <item quantity="one">การสนทนา %1$s รายการจะถูกลบอย่างถาวร</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">รวม %d ครั้ง</item>
+        <item quantity="one">รวม 1 ครั้ง</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">ผู้รับของคุณอาจไม่สามารถเข้าถึงไฟล์ที่คุณแทรกจากไดรฟ์ได้ คุณอาจต้องแชร์ไฟล์จากใน Google ไดรฟ์</item>
+        <item quantity="one">ผู้รับของคุณอาจไม่สามารถเข้าถึงไฟล์ที่คุณแทรกจากไดรฟ์ได้ คุณอาจต้องแชร์ไฟล์จากใน Google ไดรฟ์</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">หมายเหตุ: ผู้รับบางคนอาจยังไม่สามารถเข้าถึงไฟล์นี้ได้ คุณอาจต้องแชร์ไฟล์นี้จากใน Google ไดรฟ์</item>
+        <item quantity="one">หมายเหตุ: ผู้รับบางคนอาจยังไม่สามารถเข้าถึงไฟล์นี้ได้ คุณอาจต้องแชร์ไฟล์นี้จากใน Google ไดรฟ์</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"คุณกำลังแชร์กับผู้รับ &lt;br>&lt;b>%1$s
+&lt;/b>&lt;br> ที่ไม่ได้อยู่ในองค์กร Google Apps ที่เป็นเจ้าของไฟล์นี้"</item>
+        <item quantity="one">คุณกำลังแชร์กับผู้รับ &lt;br>&lt;b>%1$s&lt;/b>&lt;br> ที่ไม่ได้อยู่ในองค์กร Google Apps ที่เป็นเจ้าของไฟล์นี้</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 คนใช้บริการที่ไม่รองรับการเข้ารหัส เมื่อไม่มีการเข้ารหัส คนอื่นอาจสามารถอ่านข้อความได้ในระหว่างการนำส่ง ^2</item>
+        <item quantity="one">^1 ใช้บริการที่ไม่รองรับการเข้ารหัส เมื่อไม่มีการเข้ารหัส คนอื่นอาจสามารถอ่านข้อความได้ในระหว่างการนำส่ง ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ทุก %1$d เดือน</item>
+        <item quantity="one">ทุกเดือน</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d ข้อความใหม่</item>
+        <item quantity="one">%1$d ข้อความใหม่</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d ข้อความใหม่</item>
+        <item quantity="one">%1$d ข้อความใหม่</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d ไฟล์แนบ</item>
+        <item quantity="one">%1$d ไฟล์แนบ</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ข้อความ</item>
+        <item quantity="one">%1$d ข้อความ</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">ยังไม่ได้แชร์ปฏิทิน</item>
+        <item quantity="one">ยังไม่ได้แชร์ปฏิทิน</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">รวม %d กิจกรรม</item>
+        <item quantity="one">รวม %d กิจกรรม</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ทุก %d เดือน</item>
+        <item quantity="one">ทุก %d เดือน</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ทุก %d สัปดาห์</item>
+        <item quantity="one">ทุก %d สัปดาห์</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ทุก %d ปี</item>
+        <item quantity="one">ทุก %d ปี</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">โหลดผลการค้นหา %d รายการแล้ว</item>
+        <item quantity="one">โหลดผลการค้นหา %d รายการแล้ว</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">ขยายข้อความเก่ากว่า %1$d ข้อความ</item>
+        <item quantity="one">ขยายข้อความเก่ากว่า</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">ปิดเตือนชั่วคราว %d วันก่อน</item>
+        <item quantity="one">ปิดเตือนชั่วคราว %d วันก่อน</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">ปิดเตือนชั่วคราว %d ชั่วโมงก่อน</item>
+        <item quantity="one">ปิดเตือนชั่วคราว %d ชั่วโมงก่อน</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">ปิดเตือนชั่วคราว %d เดือนก่อน</item>
+        <item quantity="one">ปิดเตือนชั่วคราว %d เดือนก่อน</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">ปิดเตือนชั่วคราว %d สัปดาห์ก่อน</item>
+        <item quantity="one">ปิดเตือนชั่วคราว %d สัปดาห์ก่อน</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">ปิดเตือนชั่วคราว %d ปีก่อน</item>
+        <item quantity="one">ปิดเตือนชั่วคราว %d ปีก่อน</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">ขยายข้อความเก่ากว่า %1$d ข้อความ</item>
+        <item quantity="one">ขยายข้อความเก่ากว่า 1 ข้อความ</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d วัน</item>
+        <item quantity="one">1 วัน</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">เมื่อเชื่อมต่อ จะดาวน์โหลดข้อความของ %1$d วันที่ผ่านมา</item>
+        <item quantity="one">เมื่อเชื่อมต่อ จะดาวน์โหลดข้อความของวันล่าสุด</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">%1$d วันที่ผ่านมา</item>
+        <item quantity="one">วันล่าสุด</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">วันที่ครบกำหนด - %1$s สิ่งที่ต้องทำ - %2$d รายการ</item>
+        <item quantity="one">วันที่ครบกำหนด - %1$s สิ่งที่ต้องทำ - %2$d รายการ</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">วัน</item>
+        <item quantity="one">วัน</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="one">ทุก%2$sของสัปดาห์</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ทุก %1$d ปี</item>
+        <item quantity="one">ทุกปี</item>
+    </plurals>
+</resources>

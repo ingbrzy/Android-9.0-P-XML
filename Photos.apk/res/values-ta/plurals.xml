@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">இவை உங்கள் சாதனத்தின் குப்பைக் கொள்ளளவை விடப் பெரிதாக உள்ளன. நீங்கள் இவற்றை நீக்கினால், இவை உங்கள் சாதனத்திலிருந்தும் கணக்கிலிருந்தும் நிரந்தரமாக அகற்றப்படும்.</item>
+        <item quantity="one">இது உங்கள் சாதனத்தின் குப்பைக் கொள்ளளவை விடப் பெரிதாக உள்ளது. நீங்கள் இதை நீக்கினால், இது உங்கள் சாதனத்திலிருந்தும் கணக்கிலிருந்தும் நிரந்தரமாக அகற்றப்படும்.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d உருப்படிகள் ஸ்கேன் செய்யப்பட்டன</item>
+        <item quantity="one">%1$d உருப்படி ஸ்கேன் செய்யப்பட்டது</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d உருப்படிகள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d உருப்படி தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">புதிய ஆல்பத்தின் அளவு தற்போதைய வரம்பான %1$d கோப்புகளை விட அதிகமாக உள்ளது.</item>
+        <item quantity="one">புதிய ஆல்பத்தின் அளவு தற்போதைய வரம்பான %1$d கோப்பை விட அதிகமாக உள்ளது.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">ஆல்பத்தில் %1$d கோப்புகள் இருக்கலாம்.</item>
+        <item quantity="one">ஆல்பத்தில் %1$d கோப்பு இருக்கலாம்.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d இருப்பிடங்கள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%d இருப்பிடம் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d இருப்பிடங்கள்</item>
+        <item quantity="one">%d இருப்பிடம்</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d வரைபடங்கள்</item>
+        <item quantity="one">%d வரைபடம்</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d வரைபடங்கள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%d வரைபடம் சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">இந்த ஆல்பத்திலிருந்து கோப்புகளை அகற்றுகிறது…</item>
+        <item quantity="one">இந்த ஆல்பத்திலிருந்து கோப்பை அகற்றுகிறது…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d கோப்புகள் அகற்றப்பட்டன</item>
+        <item quantity="one">%d கோப்பு அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">இந்த ஆல்பத்திலிருந்து படங்களை அகற்றுகிறது…</item>
+        <item quantity="one">இந்த ஆல்பத்திலிருந்து படத்தை அகற்றுகிறது…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">இந்த ஆல்பத்திலிருந்து வீடியோக்களை அகற்றுகிறது…</item>
+        <item quantity="one">இந்த ஆல்பத்திலிருந்து வீடியோவை அகற்றுகிறது…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d படங்கள்</item>
+        <item quantity="one">%1$d படம்</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d உருப்படிகள்</item>
+        <item quantity="one">%d உருப்படி</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">சாதனத்திலிருந்து நீக்கு (%d)</item>
+        <item quantity="one">சாதனத்திலிருந்து நீக்கு (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">சாதனத்திலிருந்து அனைத்தையும் நீக்கு (%d)</item>
+        <item quantity="one">சாதனத்திலிருந்து அனைத்தையும் நீக்கு (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">குப்பைக்கு நகர்த்து (%d)</item>
+        <item quantity="one">குப்பைக்கு நகர்த்து (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d படங்கள் காப்பகப்படுத்தப்பட்டன</item>
+        <item quantity="one">%d படம் காப்பகப்படுத்தப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d படங்கள் மீட்டெடுக்கப்பட்டன</item>
+        <item quantity="one">%d படம் மீட்டெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d படங்கள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%d படம் தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d படங்களைப் பதிவேற்றுகிறது</item>
+        <item quantity="one">%d படத்தைப் பதிவேற்றுகிறது</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d படங்கள் மீதமுள்ளன</item>
+        <item quantity="one">%d படம் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">காப்பு பிரதி எடுக்க, %d படங்கள் மீதமுள்ளன</item>
+        <item quantity="one">காப்புப் பிரதி எடுக்க, %d படம் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d படங்கள் • %2$s</item>
+        <item quantity="one">%1$d படம் • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">%1$d உருப்படிகளைக் காப்புப் பிரதி எடுக்கவா?</item>
+        <item quantity="one">%1$d உருப்படியைக் காப்புப் பிரதி எடுக்கவா?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">%1$d உருப்படிகளைப் பதிவேற்றுகிறது</item>
+        <item quantity="one">%1$d உருப்படியைப் பதிவேற்றுகிறது</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d படங்கள் காப்புப் பிரதி எடுக்கப்படவில்லை</item>
+        <item quantity="one">%1$d படம் காப்புப் பிரதி எடுக்கப்படவில்லை</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">%1$d படங்களைப் பாதுகாப்பாக வைத்திருக்கவும்</item>
+        <item quantity="one">%1$d படத்தைப் பாதுகாப்பாக வைத்திருக்கவும்</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">பதிவேற்றும் உருப்படிகள்: %d</item>
+        <item quantity="one">பதிவேற்றும் உருப்படி: %d</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d வீடியோஸை பதிவேற்றுகிறது</item>
+        <item quantity="one">%d வீடியோவை பதிவேற்றுகிறது</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">பதிவேற்ற, %d உருப்படிகள் உள்ளன</item>
+        <item quantity="one">பதிவேற்ற, %d உருப்படி உள்ளது</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">பதிவேற்ற, %d வீடியோஸ் உள்ளன</item>
+        <item quantity="one">பதிவேற்ற, %d வீடியோ உள்ளது</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%d படங்கள் (எல்லாம்)</item>
+        <item quantity="one">%d படம் (எல்லாம்)</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d படங்கள் காப்புப் பிரதி எடுக்கப்படவில்லை</item>
+        <item quantity="one">%d படம் காப்புப் பிரதி எடுக்கப்படவில்லை</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d கோப்புகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%1$d கோப்பு சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">ஒரு ஆல்பத்தில் அதிகபட்சம் %d உருப்படிகளை மட்டுமே சேர்க்கலாம்.</item>
+        <item quantity="one">ஒரு ஆல்பத்தில் அதிகபட்சம் %d உருப்படியை மட்டுமே சேர்க்கலாம்.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">அதிகபட்சம் %d படங்களைத் தேர்ந்தெடுக்கவும்.</item>
+        <item quantity="one">அதிகபட்சம் %d படத்தைத் தேர்ந்தெடுக்கவும்.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">குறைந்தபட்சம் %d படங்களைத் தேர்ந்தெடுக்கவும்.</item>
+        <item quantity="one">குறைந்தபட்சம் %d படத்தைத் தேர்ந்தெடுக்கவும்.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d நாளுக்கு உட்பட்ட படங்களை மட்டும் தேர்ந்தெடுக்கவும்.</item>
+        <item quantity="one">%d நாளுக்கு உட்பட்ட படங்களை மட்டும் தேர்ந்தெடுக்கவும்.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d கோப்புகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%d கோப்பு சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d நாட்களுக்கு முன்பு</item>
+        <item quantity="one">%d நாளுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dமணிநேரம்</item>
+        <item quantity="one">%dமணிநேரம்</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d மணிநேரத்திற்கு முன்பு</item>
+        <item quantity="one">%d மணிநேரத்திற்கு முன்பு</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dவாரங்கள்</item>
+        <item quantity="one">%dவாரம்</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d வாரங்களுக்கு முன்பு</item>
+        <item quantity="one">%d வாரத்திற்கு முன்பு</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dநிமிடங்கள்</item>
+        <item quantity="one">%dநிமிடம்</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d நிமிடங்களுக்கு முன்பு</item>
+        <item quantity="one">%d நிமிடத்திற்கு முன்பு</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dநாட்கள்</item>
+        <item quantity="one">%dநாள்</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d நாட்களுக்கு முன்பு</item>
+        <item quantity="one">%d நாளுக்கு முன்பு</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d உருப்படிகள் உங்கள் சாதனத்தில் இருந்து அகற்றப்படும். கவலை வேண்டாம், அவை Google புகைப்படங்களில் தொடர்ந்து இருக்கும்.</item>
+        <item quantity="one">%1$d உருப்படி உங்கள் சாதனத்தில் இருந்து அகற்றப்படும். கவலை வேண்டாம், அது Google புகைப்படங்களில் தொடர்ந்து இருக்கும்.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">சாதனத்திலிருந்து %1$d உருப்படிகளை அகற்று</item>
+        <item quantity="one">சாதனத்திலிருந்து %1$d உருப்படியை அகற்று</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">சாதனத்தில் %1$d படங்கள் &amp; வீடியோக்களை அகற்றவும்</item>
+        <item quantity="one">சாதனத்தில் %1$d படம் &amp; வீடியோவை அகற்றவும்</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d அசல் படங்களையும் வீடியோக்களையும் அகற்றுகிறது</item>
+        <item quantity="one">%1$d அசல் படத்தை அல்லது வீடியோவை அகற்றுகிறது</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d உருப்படிகள்</item>
+        <item quantity="one">%d உருப்படி</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d புதிய கார்டுகள்</item>
+        <item quantity="one">1 புதிய கார்டு</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d உருப்படிகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%d உருப்படி சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d அறிவிப்புகள்</item>
+        <item quantity="one">%1$d அறிவிப்பு</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d கருத்துகள்</item>
+        <item quantity="one">%1$d கருத்து</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">உருப்படிகளை நூலகத்தில் சேமிக்கிறது…</item>
+        <item quantity="one">உருப்படியை நூலகத்தில் சேமிக்கிறது…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d கோப்புகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%d கோப்பு சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">இன்னும் %d படங்களை மட்டுமே சேர்க்க முடியும்.</item>
+        <item quantity="one">இன்னும் %d படத்தை மட்டுமே சேர்க்க முடியும்.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">கோப்புறையையும் அதிலுள்ள %d கோப்புகளையும் நீக்கு</item>
+        <item quantity="one">கோப்புறையையும் அதிலுள்ள %d கோப்பையும் நீக்கு</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">(%d) சாதனத்திலிருந்து நீக்கு</item>
+        <item quantity="one">(%d) சாதனத்திலிருந்து நீக்கு</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d கோப்புகளை நகலெடுப்பதில் சிக்கல்</item>
+        <item quantity="one">%d கோப்பை நகலெடுப்பதில் சிக்கல்</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d கோப்புகள் நகலெடுக்கப்பட்டன</item>
+        <item quantity="one">%d கோப்பு நகலெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d கோப்புகளை நகர்த்துவதில் சிக்கல்</item>
+        <item quantity="one">%d கோப்பை நகர்த்துவதில் சிக்கல்</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d கோப்புகள் நகர்த்தப்பட்டன</item>
+        <item quantity="one">%d கோப்பு நகர்த்தப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">%1$d பேர் உள்ள பகிர்ந்த ஆல்பத்தில் சேர்க்கவா?</item>
+        <item quantity="one">%1$d நபர் உள்ள பகிர்ந்த ஆல்பத்தில் சேர்க்கவா?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">%1$s மற்றும் %2$d பேர் உள்ள பகிர்ந்த ஆல்பத்தில் சேர்க்கவா?</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபர் உள்ள ஆல்பத்தில் சேர்க்கவா?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">%1$s, %2$s மற்றும் %3$d பேர் உள்ள பகிர்ந்த ஆல்பத்தில் சேர்க்கவா?</item>
+        <item quantity="one">%1$s, %2$s மற்றும் %3$d நபர் உள்ள பகிர்ந்த ஆல்பத்தில் சேர்க்கவா?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">%1$s மற்றும் %2$d பேருக்கு அனுப்பவா?</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபருக்கு அனுப்பவா?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">%1$s, %2$s மற்றும் %3$d பேருக்கு அனுப்பவா?</item>
+        <item quantity="one">%1$s, %2$s மற்றும் %3$d நபருக்கு அனுப்பவா?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d பேரின் படங்கள்</item>
+        <item quantity="one">%d நபரின் படங்கள்</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">தேர்ந்தெடுத்த %d முகங்களின் படங்கள்</item>
+        <item quantity="one">தேர்ந்தெடுத்த %d முகத்தின் படங்கள்</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">தேர்ந்தெடுத்தவை: %d</item>
+        <item quantity="one">தேர்ந்தெடுத்தது: %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d முகங்கள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%d முகம் தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%2$s முதல், தேர்ந்தெடுத்த %1$d முகங்களின் படங்கள்</item>
+        <item quantity="one">%2$s முதல், தேர்ந்தெடுத்த %1$d முகத்தின் படங்கள்</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">தேர்ந்தெடுத்த %d முகங்களின் படங்கள்</item>
+        <item quantity="one">தேர்ந்தெடுத்த %d முகத்தின் படங்கள்</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d படங்கள் அகற்றப்பட்டன</item>
+        <item quantity="one">%1$d படம் அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">%d பேரை மட்டும் தேர்ந்தெடுக்கவும்</item>
+        <item quantity="one">%d நபரை மட்டும் தேர்ந்தெடுக்கவும்</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d கூடுதல் பக்கங்கள்</item>
+        <item quantity="one">%d கூடுதல் பக்கம்</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d பக்கங்கள்</item>
+        <item quantity="one">%d பக்கம்</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">வாங்க, மேலும் %d படங்களைச் சேர்க்கவும்</item>
+        <item quantity="one">வாங்க, மேலும் %d படத்தைச் சேர்க்கவும்</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d படங்கள் சேர்க்கப்பட்டுள்ளன</item>
+        <item quantity="one">%d படம் சேர்க்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">படங்கள் நீக்கப்பட்டிருக்கலாம் அல்லது அவற்றின் பகிர்வு நீக்கப்பட்டிருக்கலாம்</item>
+        <item quantity="one">படம் நீக்கப்பட்டிருக்கலாம் அல்லது அதன் பகிர்வு நீக்கப்பட்டிருக்கலாம்</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d படங்கள் இனி கிடைக்காது</item>
+        <item quantity="one">%d படம் இனி கிடைக்காது</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d படங்கள் அகற்றப்பட்டன</item>
+        <item quantity="one">%d படம் அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d கூடுதல் பக்கங்கள்</item>
+        <item quantity="one">%d கூடுதல் பக்கம்</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d பக்கங்கள்</item>
+        <item quantity="one">%d பக்கம்</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">%d படங்களை மட்டுமே அச்சிட முடியும், </item>
+        <item quantity="one">%d படத்தை மட்டுமே அச்சிட முடியும், </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">உங்களுக்கு %d படங்கள் பரிந்துரைக்கப்பட்டுள்ளன</item>
+        <item quantity="one">உங்களுக்கு %d படம் பரிந்துரைக்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d படங்கள் பரிந்துரைக்கப்பட்டுள்ளன</item>
+        <item quantity="one">%d படம் பரிந்துரைக்கப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">படங்கள் அல்லது வீடியோக்கள்</item>
+        <item quantity="one">படம் அல்லது வீடியோ</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">படங்கள்</item>
+        <item quantity="one">படம்</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">வீடியோக்கள்</item>
+        <item quantity="one">வீடியோ</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">%d செல்லப்பிராணிகள் உள்ளன</item>
+        <item quantity="one">%d செல்லப்பிராணி உள்ளது</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">மேலும் உங்கள் படங்களில் இருப்பது: %1$d இடங்கள்</item>
+        <item quantity="one">மேலும் உங்கள் படங்களில் இருப்பது: %1$d இடம்</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">மேலும் உங்கள் படங்களில் இருப்பது: %1$d பொருட்கள்</item>
+        <item quantity="one">மேலும் உங்கள் படங்களில் இருப்பது: %1$d பொருள்</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">மேலும் உங்கள் படங்களில் %1$d இடங்களும் பொருட்களும் உள்ளன</item>
+        <item quantity="one">மேலும் உங்கள் படங்களில் %1$d இடங்களும் பொருட்களும் உள்ளன</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d பேர் உள்ளனர்</item>
+        <item quantity="one">%1$d நபர் உள்ளார்</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d இடங்கள் உள்ளன</item>
+        <item quantity="one">%1$d இடம் உள்ளது</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d பொருட்கள் உள்ளன</item>
+        <item quantity="one">%1$d பொருள் உள்ளது</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d படங்கள்</item>
+        <item quantity="one">%d படம்</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">கூடுதலாக %1$d இடங்கள்</item>
+        <item quantity="one">கூடுதலாக %1$d இடம்</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">கூடுதலாக %1$d பொருட்கள்</item>
+        <item quantity="one">கூடுதலாக %1$d பொருள்</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">கூடுதலாக %1$d பொருட்களும் இடங்களும்</item>
+        <item quantity="one">கூடுதலாக %1$d பொருட்களும் இடங்களும்</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">உங்கள் படங்களிலிருந்து %1$d பேரைப் பார்க்கவும்</item>
+        <item quantity="one">உங்கள் படங்களிலிருந்து %1$d நபரைப் பார்க்கவும்</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">%1$d பேர் உள்ளனர்</item>
+        <item quantity="one">%1$d நபர் உள்ளார்</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">%1$d இடங்கள் உள்ளன</item>
+        <item quantity="one">%1$d இடம் உள்ளது</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">%1$d பொருட்கள் உள்ளன</item>
+        <item quantity="one">%1$d பொருள் உள்ளது</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">உங்கள் படங்களிலிருந்து %1$d பொருட்களைப் பார்க்கவும்</item>
+        <item quantity="one">உங்கள் படங்களிலிருந்து %1$d பொருளைப் பார்க்கவும்</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d உருப்படிகள் தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d உருப்படி தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">ஆல்பத்தில் %d கோப்புகள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">ஆல்பத்தில் %d கோப்பு சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d உருப்படிகளைப் பதிவேற்றுகிறது</item>
+        <item quantity="one">%d உருப்படியைப் பதிவேற்றுகிறது</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">இணைக்கப்படும் போது, %d படங்கள் பதிவேற்றப்படும்</item>
+        <item quantity="one">இணைக்கப்படும் போது, %d படம் பதிவேற்றப்படும்</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s மற்றும் %2$d பேர்</item>
+        <item quantity="one">%1$s மற்றும் %2$d நபர்</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d கோப்புகள்</item>
+        <item quantity="one">%d கோப்பு</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">தொடர்புடைய %d படங்களைச் சேர்க்கவா?</item>
+        <item quantity="one">தொடர்புடைய %d படத்தைச் சேர்க்கவா?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d புதிய படங்கள்</item>
+        <item quantity="one">%1$d புதிய படம்</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s %2$d புதிய படங்களைச் சேர்த்துள்ளார்</item>
+        <item quantity="one">%1$s %2$d புதிய படத்தைச் சேர்த்துள்ளார்</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">உங்கள் படங்களில் %1$d பேர் கண்டறியப்பட்டனர்</item>
+        <item quantity="one">உங்கள் படங்களில் %1$d நபர் கண்டறியப்பட்டார்</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">உங்கள் படங்களில் %1$d இடங்கள் கண்டறியப்பட்டன</item>
+        <item quantity="one">உங்கள் படங்களில் %1$d இடம் கண்டறியப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">உங்கள் படங்களில் %1$d பொருட்கள் கண்டறியப்பட்டன</item>
+        <item quantity="one">உங்கள் படங்களில் %1$d பொருள் கண்டறியப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">படங்களை நீக்க முடியவில்லை</item>
+        <item quantity="one">படத்தை நீக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d படங்களை நீக்க முடியவில்லை</item>
+        <item quantity="one">%d படத்தை நீக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d படங்களை நிரந்தரமாக நீக்க முடியவில்லை</item>
+        <item quantity="one">%d படத்தை நிரந்தரமாக நீக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">படங்களை நிரந்தரமாக நீக்குகிறது…</item>
+        <item quantity="one">படத்தை நிரந்தரமாக நீக்குகிறது…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d உருப்படிகள் நிரந்தரமாக நீக்கப்பட்டன</item>
+        <item quantity="one">%d உருப்படி நிரந்தரமாக நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">சாதனத்திலிருந்து %d உருப்படிகள் நீக்கப்பட்டன</item>
+        <item quantity="one">சாதனத்திலிருந்து %d உருப்படி நீக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">படங்களை மீட்டெடுக்கிறது…</item>
+        <item quantity="one">படத்தை மீட்டெடுக்கிறது…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d படங்களை மீட்டெடுக்க முடியவில்லை</item>
+        <item quantity="one">%d படத்தை மீட்டெடுக்க முடியவில்லை</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d உருப்படிகள் குப்பையிலிருந்து மீட்டெடுக்கப்பட்டன</item>
+        <item quantity="one">%d உருப்படி குப்பையிலிருந்து மீட்டெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">இவற்றை நிரந்தரமாக நீக்கவா?</item>
+        <item quantity="one">இதை நிரந்தரமாக நீக்கவா?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">%d உருப்படிகளை நீக்கவா?</item>
+        <item quantity="one">%d உருப்படியை நீக்கவா?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d உருப்படிகளை நிரந்தரமாக நீக்கு</item>
+        <item quantity="one">%d உருப்படியை நிரந்தரமாக நீக்கு</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">இந்தப் பதிப்பு காலாவதியாவதற்கு இன்னும் %d நாட்கள் உள்ளன. தொடர்ந்து Google புகைப்படங்களைப் பயன்படுத்த, இப்போது புதுப்பிக்கவும்.</item>
+        <item quantity="one">இந்தப் பதிப்பு காலாவதியாவதற்கு இன்னும் 1 நாள் உள்ளது. தொடர்ந்து Google புகைப்படங்களைப் பயன்படுத்த, இப்போது புதுப்பிக்கவும்.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d உருப்படிகளைப் பதிவேற்றுகிறது</item>
+        <item quantity="one">%d உருப்படியைப் பதிவேற்றுகிறது</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">இணையத்துடன் இணைக்கப்படும் போது %d உருப்படிகள் பதிவேற்றப்படும்</item>
+        <item quantity="one">இணையத்துடன் இணைக்கப்படும் போது %d உருப்படி பதிவேற்றப்படும்</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">வைஃபையுடன் இணைக்கப்படும் போது %d உருப்படிகள் பதிவேற்றப்படும்</item>
+        <item quantity="one">வைஃபையுடன் இணைக்கப்படும் போது %d உருப்படி பதிவேற்றப்படும்</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">இந்த உருப்படிகளைக் காப்புப் பிரதி எடுக்க %s தரவு பயன்படுத்தப்படும். தரவுப் பயன்பாட்டைத் தவிர்க்க, வைஃபையுடன் இணைக்கவும்.</item>
+        <item quantity="one">இந்த உருப்படியைக் காப்புப் பிரதி எடுக்க %s தரவு பயன்படுத்தப்படும். தரவுப் பயன்பாட்டைத் தவிர்க்க, வைஃபையுடன் இணைக்கவும்.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">இவற்றைக் காப்புப் பிரதி எடுப்பதற்கு, உங்கள் தரவு பயன்படுத்தப்படும். தரவுப் பயன்பாட்டைத் தவிர்க்க, வைஃபையுடன் இணைக்கவும்.</item>
+        <item quantity="one">இதைக் காப்புப் பிரதி எடுப்பதற்கு, உங்கள் தரவு பயன்படுத்தப்படும். தரவுப் பயன்பாட்டைத் தவிர்க்க, வைஃபையுடன் இணைக்கவும்.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">பதிவேற்றுகிறது…%d மீதமுள்ளன</item>
+        <item quantity="one">பதிவேற்றுகிறது…%d மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d கோப்புகள்</item>
+        <item quantity="one">%d கோப்பு</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s படங்கள்</item>
+        <item quantity="one">%s படம்</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s உருப்படிகள்</item>
+        <item quantity="one">%s உருப்படி</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s வீடியோக்கள்</item>
+        <item quantity="one">%s வீடியோ</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">படங்கள் தேர்வுசெய்க</item>
+        <item quantity="one">படம் தேர்வுசெய்க</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">கோப்புகளைத் தேர்ந்தெடுக்கவும்</item>
+        <item quantity="one">கோப்பைத் தேர்ந்தெடுக்கவும்</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">வீடியோக்களைத் தேர்ந்தெடுக்கவும்</item>
+        <item quantity="one">வீடியோவைத் தேர்ந்தெடுக்கவும்</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">மேலும் %d பேர்</item>
+        <item quantity="one">மேலும் %d நபர்</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d தொடர்பு முறைகள்</item>
+        <item quantity="one">%1$s. %2$d தொடர்பு முறை</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d உறுப்பினர்கள்</item>
+        <item quantity="one">%d உறுப்பினர்</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%2$d இல் %1$d உறுப்பினர்கள் தேர்ந்தெடுக்கப்பட்டுள்ளனர்</item>
+        <item quantity="one">%2$d இல் %1$d உறுப்பினர் தேர்ந்தெடுக்கப்பட்டுள்ளார்</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d உறுப்பினர்கள் தேர்ந்தெடுக்கப்பட்டுள்ளனர்</item>
+        <item quantity="one">%d உறுப்பினர் தேர்ந்தெடுக்கப்பட்டுள்ளார்</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">உங்கள் சாதனத்தின் நீக்கப்பட்டவை நிரம்பி விட்டது. நீங்கள் இவற்றை நீக்கினால், அவை உங்கள் சாதனத்திலிருந்தும் கணக்கிலிருந்தும் நிரந்தரமாக அகற்றப்படும்.</item>
+        <item quantity="one">உங்கள் சாதனத்தின் நீக்கப்பட்டவை அதிகமாகிவிட்டது. நீங்கள் இதை நீக்கினால், அவை உங்கள் சாதனத்திலிருந்தும் கணக்கிலிருந்தும் நிரந்தரமாக அகற்றப்படும்.</item>
+    </plurals>
+</resources>

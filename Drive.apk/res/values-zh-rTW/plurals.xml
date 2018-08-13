@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s 不是有效的電子郵件地址。</item>
+        <item quantity="one">%s 不是有效的電子郵件地址。</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">一旦新增這些檔案，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+        <item quantity="one">一旦新增這個檔案，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">一旦新增這些檔案和資料夾，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">一旦新增這些資料夾，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+        <item quantity="one">一旦新增這個資料夾，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">是否共用這些檔案？</item>
+        <item quantity="one">是否共用這個檔案？</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">是否共用這些檔案和資料夾？</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">是否共用這些資料夾？</item>
+        <item quantity="one">是否共用這個資料夾？</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">更新了 %1$d 個資料夾，已將顏色設為%2$s。</item>
+        <item quantity="one">更新了 %1$d 個資料夾，已將顏色設為%2$s。</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">%1$d 天後到期</item>
+        <item quantity="one">%1$d 天後到期</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">已刪除多個備份項目。</item>
+        <item quantity="one">已刪除一個備份項目。</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%d 欄。</item>
+        <item quantity="one">%d 欄。</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%d 個凍結欄。</item>
+        <item quantity="one">%d 個凍結欄。</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%d 個凍結列。</item>
+        <item quantity="one">%d 個凍結列。</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%d 列。</item>
+        <item quantity="one">%d 列。</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">無法下載多個項目</item>
+        <item quantity="one">無法下載項目</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">可順利下載其中 %1$d 個項目 (共 %2$d 個)。詳細資料請見通知</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">可順利下載 %1$d 個項目。詳細資料請見通知</item>
+        <item quantity="one">可順利下載 %1$d 個項目。詳細資料請見通知</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">無法下載 %1$s 個項目</item>
+        <item quantity="one">無法下載 %1$s 個項目</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">另有 %1$d 個項目</item>
+        <item quantity="one">另有 %1$d 個項目</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">總共下載 %2$d 個項目，其中 %1$d 個下載失敗</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">你即將從共用資料夾中移出部分項目，共用對象會因此無法存取這些項目。</item>
+        <item quantity="one">你即將從共用資料夾中移出一個項目，共用對象會因此無法存取這個項目。</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">你即將從小組雲端硬碟中移出部分項目，共用對象會因此無法存取這些項目。</item>
+        <item quantity="one">你即將從小組雲端硬碟中移出一個項目，共用對象會因此無法存取這個項目。</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">一旦移動這些檔案，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+        <item quantity="one">一旦移動這個檔案，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">一旦移動這些檔案和資料夾，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">一旦移動這些資料夾，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+        <item quantity="one">一旦移動這個資料夾，就會與所有可存取「%1$s」共用資料夾的使用者共用</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">是否共用這些檔案？</item>
+        <item quantity="one">是否共用這個檔案？</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">是否共用這些檔案和資料夾？</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">是否共用這些資料夾？</item>
+        <item quantity="one">是否共用這個資料夾？</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">您不是部分項目的擁有者，因此無法將這些項目移入小組雲端硬碟。</item>
+        <item quantity="one">您不是這個項目的擁有者，因此無法將這個項目移入小組雲端硬碟。</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">您的權限不足，無法將部分項目從所屬資料夾中移出。</item>
+        <item quantity="one">您的權限不足，無法將這個項目從所屬資料夾中移出。</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s「%2$s」現在擁有存取權了。</item>
+        <item quantity="one">%1$s「%2$s」現在擁有存取權了。</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">已將 %1$d 個項目移至小組雲端硬碟，小組成員現在可以存取了。</item>
+        <item quantity="one">已將 1 個項目移至小組雲端硬碟，小組成員現在可以存取了。</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s 個操作項目</item>
+        <item quantity="one">%1$s 個操作項目</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s 個未回覆的提及</item>
+        <item quantity="one">%1$s 個未回覆的提及</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s 項建議</item>
+        <item quantity="one">%1$s 項建議</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s 則待辦事項</item>
+        <item quantity="one">%1$s 則待辦事項</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d 個檔案現在可供離線使用 (共 %2$s 個檔案)。</item>
+        <item quantity="one">%1$d 個檔案現在可供離線使用 (共 %2$s 個檔案)。</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">全部 %1$d 個檔案現在可供離線使用。</item>
+        <item quantity="one">%1$d 個檔案現在可供離線使用。</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">正在下載 %1$d 個檔案以供離線使用。</item>
+        <item quantity="one">正在下載 %1$d 個檔案以供離線使用。</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d 個檔案</item>
+        <item quantity="one">%1$d 個檔案</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">多項下載作業已暫停，正在等待 Wi-Fi 連線..</item>
+        <item quantity="one">一項下載作業已暫停，正在等待 Wi-Fi 連線..</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d 個檔案暫停下載。</item>
+        <item quantity="one">%1$d 個檔案暫停下載。</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">這會將 %1$d 個項目移至垃圾桶。系統會一併從 Google 相簿中移除這些項目。</item>
+        <item quantity="one">這會將 1 個項目移至垃圾桶。系統會一併從 Google 相簿中移除這個項目。</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s 個追蹤項目</item>
+        <item quantity="one">%1$s 個追蹤項目</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s 個追蹤項目</item>
+        <item quantity="one">%1$s 個追蹤項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">為 %1$d 個檔案加上了註解</item>
+        <item quantity="one">為 1 個檔案加上了註解</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">為 %1$d 個檔案加上了註解</item>
+        <item quantity="one">為 1 個檔案加上了註解</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">為這個檔案加上了註解</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">建立了 %1$d 個項目</item>
+        <item quantity="one">建立了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">建立了 %1$d 個項目</item>
+        <item quantity="one">建立了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">建立了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">建立了這個資料夾</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">編輯了 %1$d 個項目</item>
+        <item quantity="one">編輯了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">編輯了 %1$d 個項目</item>
+        <item quantity="one">編輯了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">編輯了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">永久刪除了 %1$d 個項目</item>
+        <item quantity="one">永久刪除了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">將 %1$d 個項目移到了以下資料夾：</item>
+        <item quantity="one">將 1 個項目移到了以下資料夾：</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">將 %1$d 個項目移到了以下資料夾：</item>
+        <item quantity="one">將 1 個項目移到了以下資料夾：</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">移動了 %1$d 個項目</item>
+        <item quantity="one">移動了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">移動了 %1$d 個項目</item>
+        <item quantity="one">移動了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">移動了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">將這個檔案移到了以下資料夾：</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">移動了這個資料夾</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">將這個資料夾移到了以下資料夾：</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">重新命名了 %1$d 個項目</item>
+        <item quantity="one">重新命名了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">重新命名了 %1$d 個項目</item>
+        <item quantity="one">重新命名了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">重新命名了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">重新命名了這個資料夾</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">共用了 %1$d 個項目</item>
+        <item quantity="one">共用了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">共用了 %1$d 個項目</item>
+        <item quantity="one">共用了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">共用了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">共用了這個資料夾</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">將 %1$d 個項目移到了垃圾桶</item>
+        <item quantity="one">將 1 個項目移到了垃圾桶</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">將 %1$d 個項目移到了垃圾桶</item>
+        <item quantity="one">將 1 個項目移到了垃圾桶</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">移除了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">移除了這個資料夾</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">上傳了 %1$d 個項目</item>
+        <item quantity="one">上傳了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">上傳了 %1$d 個項目</item>
+        <item quantity="one">上傳了 1 個項目</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">上傳了這個檔案</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">上傳了這個資料夾</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s和另外 %2$d 人</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">系統會將 %1$d 個檔案移至「%2$s」垃圾桶，並於 30 天後永久刪除。</item>
+        <item quantity="one">這個檔案將移至「%2$s」垃圾桶並在 30 天後永久刪除。</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">系統會將 %1$d 個資料夾移至「%2$s」垃圾桶，並於 30 天後永久刪除。</item>
+        <item quantity="one">系統會將這個資料夾移至「%2$s」垃圾桶，並於 30 天後永久刪除</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">系統會將 %1$d 個項目移至「%2$s」垃圾桶，並於 30 天後永久刪除。</item>
+        <item quantity="one">系統會將這個項目移至「%2$s」垃圾桶，並於 30 天後永久刪除</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">這 %1$d 個檔案會&lt;b>遭到永久刪除，無法供任何人存取&lt;/b>，而且這項操作無法復原。</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">系統將永久刪除這 %1$d 個檔案 (這個動作無法復原)。</item>
+        <item quantity="one">系統將永久刪除這個檔案 (這個動作無法復原)。</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d 個項目</item>
+        <item quantity="one">%1$d 個項目</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">選取了 %1$d 個項目</item>
+        <item quantity="one">選取了 %1$d 個項目</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">取消選取了 %1$d 個項目</item>
+        <item quantity="one">取消選取了 %1$d 個項目</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">系統會將 %d 個項目設為可離線存取</item>
+        <item quantity="one">系統會將 1 個項目設為可離線存取</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">已將 %1$d 個項目加上星號</item>
+        <item quantity="one">已將 1 個項目加上星號</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">日後無法再離線存取 %1$d 個項目</item>
+        <item quantity="one">日後無法再離線存取 1 個項目</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">已將 %1$d 個項目的星號移除</item>
+        <item quantity="one">已將 1 個項目的星號移除</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">還原了 %1$d 個項目</item>
+        <item quantity="one">還原了 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">已還原 %1$d 個項目</item>
+        <item quantity="one">已還原 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">已將 %1$d 個項目從「%2$s」中移除</item>
+        <item quantity="one">已將 1 個項目從「%2$s」中移除</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">已將 %1$d 個項目從資料夾中移除</item>
+        <item quantity="one">已將 1 個項目從資料夾中移除</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">已移除 %1$d 個項目</item>
+        <item quantity="one">已移除 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">已移回 %1$d 個項目</item>
+        <item quantity="one">已移回 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">已將 %1$d 個項目移回垃圾桶</item>
+        <item quantity="one">已將 1 個項目移回垃圾桶</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">已將 %1$d 個項目重新放入垃圾桶</item>
+        <item quantity="one">已將 1 個項目重新放入垃圾桶</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">已移除 %1$d 個項目</item>
+        <item quantity="one">已移除 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">已將 %1$d 個項目新增至「%2$s」</item>
+        <item quantity="one">已將 1 個項目新增至「%2$s」</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">已新增 %1$d 個項目</item>
+        <item quantity="one">已新增 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">已將 %1$d 個項目還原並新增至「%2$s」</item>
+        <item quantity="one">已將 1 個項目還原並新增至「%2$s」</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">已將 %1$d 個項目移至「%2$s」。</item>
+        <item quantity="one">已將 1 個項目移至「%2$s」。</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">已移動 %1$d 個項目</item>
+        <item quantity="one">已移動 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">已將 %1$d 個項目還原並移至「%2$s」。</item>
+        <item quantity="one">已將 1 個項目還原並移至「%2$s」。</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">已還原 %1$d 個項目。</item>
+        <item quantity="one">已還原 1 個項目</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">已將 %1$d 個項目還原至「%2$s」。</item>
+        <item quantity="one">已將 1 個項目還原至「%2$s」。</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">檔案傳送方式</item>
+        <item quantity="one">檔案傳送方式</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d 位使用者現在可以存取了</item>
+        <item quantity="one">1 位使用者現在可以檢視了</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s和另外 %2$d 位使用者現在可以存取了</item>
+        <item quantity="one">%1$s和另外 1 位使用者現在可以存取了</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d 位使用者現在可以加註了</item>
+        <item quantity="one">1 位使用者現在可以加註了</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s和另外 %2$d 位使用者現在可以加註了</item>
+        <item quantity="one">%1$s和另外 1 位使用者現在可以加註了</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d 位使用者現在可以編輯了</item>
+        <item quantity="one">1 位使用者現在可以編輯了</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s和另外 %2$d 位使用者現在可以編輯了</item>
+        <item quantity="one">%1$s和另外 1 位使用者現在可以編輯了</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d位使用者現在可以檢視了</item>
+        <item quantity="one">1 位使用者現在可以檢視了</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s和另外 %2$d 位使用者現在可以檢視了</item>
+        <item quantity="one">%1$s和另外 1 位使用者現在可以檢視了</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">雲端硬碟儲存空間存取權限將於 %1$d 天後失效</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">已將 %1$d 位使用者加入小組雲端硬碟</item>
+        <item quantity="one">已將 1 位使用者加入小組雲端硬碟</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">已將%2$s和其他 %3$d 位使用者加入「%1$s」</item>
+        <item quantity="one">已將%2$s和另外 1 位使用者加入「%1$s」</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d 位成員</item>
+        <item quantity="zero">沒有成員</item>
+        <item quantity="one">1 位成員</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">全部立即恢復</item>
+        <item quantity="one">立即恢復</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">已取消安排 %1$d 個檔案的上傳時間。</item>
+        <item quantity="one">已取消安排 %1$d 個檔案的上傳時間。</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">無法安排 %1$d 個檔案的上傳時間。</item>
+        <item quantity="one">無法安排 %1$d 個檔案的上傳時間。</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">上傳了 %1$d 個檔案。</item>
+        <item quantity="one">上傳了 %1$d 個檔案。</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">無法上傳 %1$d 個檔案 (共要上傳 %2$d 個檔案)。</item>
+        <item quantity="one">無法上傳 %1$d 個檔案 (共要上傳 %2$d 個檔案)。</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">正在上傳 %1$d 個檔案。</item>
+        <item quantity="one">正在上傳 %1$d 個檔案。</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">多項上傳作業已暫停，正在等待 Wi-Fi 連線..</item>
+        <item quantity="one">一項上傳作業已暫停，正在等待 Wi-Fi 連線..</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d 個檔案已暫停上傳。</item>
+        <item quantity="one">%1$d 個檔案已暫停上傳。</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">正在準備上傳 %1$d 個檔案。</item>
+        <item quantity="one">正在準備要上傳的 %1$d 個檔案。</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">正在將您的 %1$d 個檔案上傳到以下資料夾：%2$s</item>
+        <item quantity="one">正在將您的 %1$d 個檔案上傳到以下資料夾：%2$s</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">個篩選器</item>
+        <item quantity="one">個篩選器</item>
+    </plurals>
+</resources>

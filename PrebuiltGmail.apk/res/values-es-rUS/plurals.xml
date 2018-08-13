@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s destinatarios</item>
+        <item quantity="one">1 destinatario</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 usa un servicio que no admite la encriptación. Por lo tanto, es posible que otras personas vean tu mensaje durante la entrega. ^2</item>
+        <item quantity="one">^1 usa un servicio que no admite la encriptación. Por lo tanto, es posible que otras personas vean tu mensaje durante la entrega. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 y otros no admitían la encriptación cuando se envió este mensaje. ^2</item>
+        <item quantity="one">^1 no admitía la encriptación cuando se envió este mensaje. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">¿Quieres archivar estas %1$d conversaciones?</item>
+        <item quantity="one">¿Quieres archivar esta conversación?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">¿Quieres eliminar estas %1$d conversaciones?</item>
+        <item quantity="one">¿Quieres eliminar esta conversación?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">¿Deseas descartar los borradores de estas %1$d conversaciones?</item>
+        <item quantity="one">¿Deseas descartar los borradores de esta conversación?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> archivadas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> archivada</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> eliminadas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> eliminada</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Etiquetas modificadas</item>
+        <item quantity="one">Etiqueta modificada</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">Se movieron &lt;b>%1$d&lt;/b> a Recibidos</item>
+        <item quantity="one">Se movió &lt;b>%1$d&lt;/b> a Recibidos</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> silenciadas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> silenciada</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> marcadas como no importantes</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> marcada como no importante</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> notificadas como \"no es spam\"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> notificada como \"no es spam\"</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">Se marcaron &lt;b>%1$d&lt;/b> como leídas</item>
+        <item quantity="one">Se marcó &lt;b>%1$d&lt;/b> como leída</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> pospuestos hasta %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> pospuesto hasta %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> notificadas como spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> notificada como spam</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d marcadas como spam y suscripciones anuladas</item>
+        <item quantity="one">%1$d marcada como spam y suscripción anulada</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">Se dejaron de posponer &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Se dejó de posponer &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Dejando de destacar %1$d conversaciones</item>
+        <item quantity="one">Dejando de destacar %1$d conversación</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Todos los días</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Estos mensajes se marcarán como spam. ¿Deseas dejar de recibir mensajes similares de estos &lt;b>%2$d remitentes&lt;/b>?%1$s</item>
+        <item quantity="one">Este mensaje se marcará como spam. ¿Deseas dejar de recibir mensajes similares de %1$s?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Borradores</item>
+        <item quantity="one">Borrador</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Se borrarán %1$s conversaciones de manera definitiva.</item>
+        <item quantity="one">Se borrará %1$s conversación de manera definitiva.</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d veces</item>
+        <item quantity="one">; una sola vez</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Es posible que los destinatarios no tengan acceso a los archivos que insertaste desde Drive. Tal vez debas compartir los archivo en Google Drive.</item>
+        <item quantity="one">Es posible que los destinatarios no tengan acceso al archivo que insertaste desde Drive. Tal vez debas compartir el archivo en Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Nota: es posible que algunos destinatarios no puedan acceder a estos archivos. Tal vez debas compartir los archivos en Google Drive.</item>
+        <item quantity="one">Nota: es posible que algunos destinatarios no puedan acceder a este archivo. Tal vez debas compartir el archivo en Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Compartirán esto con:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>, que no forman parte de la organización de Google Apps a la que pertenecen estos archivos."</item>
+        <item quantity="one">Compartirás esto con:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>, que no forman parte de la organización de Google Apps a la que pertenece este archivo.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 destinatarios usan servicios que no admiten la encriptación. Sin ella, es posible que se lea tu mensaje durante la entrega. ^2</item>
+        <item quantity="one">^1 usa un servicio que no admite la encriptación. Sin ella, es posible que se lea tu mensaje durante la entrega. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Cada %1$d meses</item>
+        <item quantity="one">Todos los meses</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mensajes nuevos</item>
+        <item quantity="one">%1$d mensaje nuevo</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mensajes nuevos</item>
+        <item quantity="one">%1$d mensaje nuevo</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d archivos adjuntos</item>
+        <item quantity="one">%1$d archivo adjunto</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mensajes</item>
+        <item quantity="one">%1$d mensaje</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Los calendarios no son compartidos</item>
+        <item quantity="one">El calendario no es compartido</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d veces</item>
+        <item quantity="one">%d vez</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Cada %d día</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Cada %d meses</item>
+        <item quantity="one">Cada %d mes</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Cada %d semanas</item>
+        <item quantity="one">Cada %d semana</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Cada %d años</item>
+        <item quantity="one">Cada %d año</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Se cargaron %d resultados de búsqueda</item>
+        <item quantity="one">Se cargó %d resultado de búsqueda</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Expandir %1$d mensajes anteriores</item>
+        <item quantity="one">Expandir mensaje anterior</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Pospuesto hace %d días</item>
+        <item quantity="one">Pospuesto hace %d día</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Pospuesto hace %d horas</item>
+        <item quantity="one">Pospuesto hace %d hora</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Pospuesto hace %d meses</item>
+        <item quantity="one">Pospuesto hace %d mes</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Pospuesto hace %d semanas</item>
+        <item quantity="one">Pospuesto hace %d semana</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Pospuesto hace %d años</item>
+        <item quantity="one">Pospuesto hace %d año</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d mensajes anteriores expandidos</item>
+        <item quantity="one">Un mensaje anterior expandido</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d días</item>
+        <item quantity="one">Un día</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Se descargarán los mensajes de los últimos %1$d días cuando haya conexión</item>
+        <item quantity="one">Se descargarán los mensajes del último día cuando haya conexión</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Últimos %1$d días</item>
+        <item quantity="one">Último día</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Fecha de vencimiento: %1$s - %2$d tareas</item>
+        <item quantity="one">Fecha de vencimiento: %1$s - %2$d tarea</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Días</item>
+        <item quantity="one">Día</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Cada %1$d semanas, los %2$s</item>
+        <item quantity="one">Todas las semanas, los %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Cada %1$d años</item>
+        <item quantity="one">Todos los años</item>
+    </plurals>
+</resources>

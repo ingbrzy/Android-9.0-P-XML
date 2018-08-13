@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_notification_needs_update_title">Um app requer a atualização do Google Play Services.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s exige uma atualização para o app Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Um app requer a ativação do Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitado por %1$s</string>
+    <string name="common_google_play_services_install_title">Instale o Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu smartphone.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s não funciona sem o Google Play Services, o qual não está instalado no seu tablet.</string>
+    <string name="common_google_play_services_install_button">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_enable_title">Ative o Google Play Services</string>
+    <string name="common_google_play_services_enable_text">%1$s só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_button">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_update_title">Atualize o Google Play Services</string>
+    <string name="common_android_wear_update_title">Atualizar o Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_android_wear_update_text">%1$s só funciona com uma atualização para o app Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Google Play Services em atualização</string>
+    <string name="common_google_play_services_updating_text">%1$s não funciona sem o Google Play Services, o qual está sendo atualizado no momento.</string>
+    <string name="common_google_play_services_network_error_title">Erro na rede</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="common_google_play_services_unknown_issue">Problema desconhecido com o Google Play Services.</string>
+    <string name="common_google_play_services_unsupported_title">Play Services</string>
+    <string name="common_google_play_services_unsupported_text">%1$s depende do Google Play Services, o qual não é compatível com seu dispositivo. Entre em contato com o fabricante para receber assistência.</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s exige um ou mais Google Play Services que não estão disponíveis no momento. Entre em contato com o desenvolvedor para receber assistência.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Falha de login</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erro ao fazer login na conta especificada. Escolha outra conta.</string>
+    <string name="app_name">Rosto de confiança</string>
+    <string name="trusted_face_service_app_name">Serviço de Rosto de confiança</string>
+    <string name="receiver_app_name">Receptor de transmissão do rosto de confiança</string>
+    <string name="intro_screen_title">Sobre o rosto de confiança</string>
+    <string name="intro_screen_header">Desbloqueie seu smartphone olhando para ele</string>
+    <string name="intro_screen_body_start">"Lembre-se:
+"</string>
+    <string name="intro_screen_bullets">"O reconhecimento facial não é tão seguro quanto um padrão, PIN ou senha.
+
+É possível que uma pessoa parecida com você consiga desbloquear o smartphone.
+
+Os dados usados no reconhecimento facial são mantidos em sigilo no smartphone."</string>
+    <string name="intro_screen_continue_label">Configurar</string>
+    <string name="instructions_screen_title">Adicionar um rosto confiável</string>
+    <string name="instructions_screen_header">Para obter melhores resultados:</string>
+    <string name="instructions_screen_bullets">"Encontre um local fechado que não seja muito claro ou muito escuro
+
+Segure o smartphone no nível dos olhos"</string>
+    <string name="instructions_screen_continue_label">Próxima</string>
+    <string name="enrollment_screen_title">Adicionar um rosto confiável</string>
+    <string name="enrollment_screen_message_initializing">Iniciando...</string>
+    <string name="enrollment_screen_message_initialization_error">Não foi possível iniciar a pesquisa de rosto</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">A permissão de câmera não foi concedida</string>
+    <string name="enrollment_screen_message_camera_error">Câmera indisponível</string>
+    <string name="enrollment_start_message">Manter o rosto dentro da área pontilhada</string>
+    <string name="enrollment_screen_message_instructions">Mantenha a parte superior da sua cabeça e parte inferior do seu queixo dentro do círculo</string>
+    <string name="enrollment_screen_message_done">Rosto adicionado</string>
+    <string name="enrollment_screen_status_no_face">Mostre seu rosto</string>
+    <string name="enrollment_screen_status_face_off_center">Não é possível ver parte do seu rosto</string>
+    <string name="enrollment_screen_status_missing_template">Não é possível ver suas características</string>
+    <string name="enrollment_screen_continue_label">Próxima</string>
+    <string name="enrollment_screen_done_label">Concluída</string>
+    <string name="enrollment_screen_talkback_preview_description">Visualização da câmera</string>
+    <string name="enrollment_screen_talkback_face_added">Rosto adicionado</string>
+    <string name="end_screen_title">Tudo pronto!</string>
+    <string name="end_screen_body">Para desbloquear seu smartphone, basta ligar a tela e olhar para a câmera</string>
+    <string name="end_screen_bullet_one_text">Seu smartphone será desbloqueado assim que reconhecer você</string>
+    <string name="end_screen_bullet_two_text">Se seu rosto não for reconhecido, use seu padrão, PIN ou senha para realizar o desbloqueio</string>
+    <string name="end_screen_tip_text">Dica: melhore o reconhecimento facial mostrando seu rosto em diferentes condições</string>
+    <string name="end_screen_licenses_label">Licenças</string>
+    <string name="end_screen_continue_label">Concluído</string>
+    <string name="add_to_setup_intro_screen_title">Melhorar a correspondência de rosto</string>
+    <string name="add_to_setup_intro_screen_header">Mostrar seu rosto em diferentes condições</string>
+    <string name="add_to_setup_intro_screen_body_start">"Exemplos:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Em condições de iluminação diferentes
+
+Com ou sem óculos
+
+Com ou sem barba
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Segure o smartphone no nível dos olhos</string>
+    <string name="add_to_setup_intro_screen_continue_label">Próxima</string>
+    <string name="license_screen_title">Licenças</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">O recurso \"Rosto de confiança\" pode usar partes das seguintes bibliotecas de código aberto, que possuem as licenças abaixo:</string>
+    <string name="license_screen_notices_header">Avisos para bibliotecas:</string>
+    <string name="shared_cancel_label">Cancelar</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">O reconhecimento facial foi alterado. Adicione seu rosto de confiança novamente para continuar usando-o.</string>
+</resources>

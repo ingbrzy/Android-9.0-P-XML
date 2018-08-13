@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s получатели</item>
+        <item quantity="one">1 получател</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 получатели използват услуги, които не поддържат шифроване. Без шифроване други хора биха могли да видят съобщението ви по време на доставката. ^2</item>
+        <item quantity="one">^1 използва услуга, която не поддържа шифроване. Без шифроване други хора биха могли да видят съобщението ви по време на доставката. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">За ^1 и други не се е поддържало шифроване, когато съобщението е било изпратено. ^2</item>
+        <item quantity="one">За ^1 не се е поддържало шифроване, когато съобщението е било изпратено. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Да се архивират ли тези %1$d кореспонденции?</item>
+        <item quantity="one">Да се архивира ли тази кореспонденция?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Да се изтрият ли тези %1$d кореспонденции?</item>
+        <item quantity="one">Да се изтрие ли тази кореспонденция?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Да се отхвърлят ли черновите от %1$d кореспонденции?</item>
+        <item quantity="one">Да се отхвърлят ли черновите от кореспонденцията?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Архивирахте &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Архивирахте &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Изтрихте &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Изтрихте &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Променихте етикетите.</item>
+        <item quantity="one">Променихте етикета.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> бяха преместени във входящата поща</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> бе преместена във входящата поща</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Спряхте &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Спряхте &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Означихте &lt;b>%1$d&lt;/b> като маловажни.</item>
+        <item quantity="one">Означихте &lt;b>%1$d&lt;/b> като маловажна.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Подадохте сигнал „Не е спам“ за &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Подадохте сигнал „Не е спам“ за &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">Означихте &lt;b>%1$d&lt;/b> като прочетено</item>
+        <item quantity="one">Означихте &lt;b>%1$d&lt;/b> като прочетено</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> бяха отложени до %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> бе отложено до %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Подадохте сигнал за спам за &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Подадохте сигнал за спам за &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">Подадохте сигнал за спам и се отписахте от %1$d кореспонденции</item>
+        <item quantity="one">Подадохте сигнал за спам и се отписахте от %1$d кореспонденция</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> отлагания бяха отменени</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> отлагане бе отменено</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Премахват се звездите от %1$d кореспонденции</item>
+        <item quantity="one">Премахва се звездата от %1$d кореспонденция</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">На всеки %d дни</item>
+        <item quantity="one">Всеки ден</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Тези съобщения ще бъдат означени като спам. Искате ли също така да престанете да получавате подобни съобщения от тези &lt;b>%2$d получатели&lt;/b>?%1$s</item>
+        <item quantity="one">Това съобщение ще бъде означено като спам. Искате ли също така да престанете да получавате подобни съобщения от %1$s?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Чернови</item>
+        <item quantity="one">Чернова</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s кореспонденции ще бъдат изтрити за постоянно</item>
+        <item quantity="one">%1$s кореспонденция ще бъде изтрита за постоянно</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">– общо %d пъти</item>
+        <item quantity="one">– общо един път</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Възможно е получателите ви да нямат достъп до файловете, които сте вмъкнали от Диск. Може да се наложи да ги споделите от Google Диск.</item>
+        <item quantity="one">Възможно е получателите ви да нямат достъп до файла, който сте вмъкнали от Диск. Може да се наложи да го споделите от Google Диск.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Забележка: Възможно е някои получатели все пак да нямат достъп до тези файлове. Може да се наложи да ги споделите от Google Диск.</item>
+        <item quantity="one">Забележка: Възможно е някои получатели все пак да нямат достъп до този файл. Може да се наложи да го споделите от Google Диск.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Споделяте със следните получатели:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>които не са в организацията в Google Apps, притежаваща тези файлове."</item>
+        <item quantity="one">Споделяте със следните получатели:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>които не са в организацията в Google Apps, притежаваща този файл.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 получатели използват услуги, които не поддържат шифроване. Без него съобщението ви може да бъде прочетено по време на доставянето. ^2</item>
+        <item quantity="one">^1 използва услуга, която не поддържа шифроване. Без него съобщението ви може да бъде прочетено по време на доставянето. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">На всеки %1$d месеца</item>
+        <item quantity="one">Всеки месец</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d нови съобщения</item>
+        <item quantity="one">%1$d ново съобщение</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d нови съобщения</item>
+        <item quantity="one">%1$d ново съобщение</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d прикачени файла</item>
+        <item quantity="one">%1$d прикачен файл</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d съобщения</item>
+        <item quantity="one">%1$d съобщение</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Календарите не са споделени</item>
+        <item quantity="one">Календарът не е споделен</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">За %d събития</item>
+        <item quantity="one">За %d събитие</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">На всеки %d дни</item>
+        <item quantity="one">На всеки %d ден</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">На всеки %d месеца</item>
+        <item quantity="one">На всеки %d месец</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">На всеки %d седмици</item>
+        <item quantity="one">На всяка %d седмица</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">На всеки %d години</item>
+        <item quantity="one">На всяка %d година</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Заредени са %d резултата от търсенето</item>
+        <item quantity="one">Зареден е %d резултат от търсенето</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Разгъване на %1$d по-стари съобщения</item>
+        <item quantity="one">Разгъване на по-старото съобщение</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Отложено преди %d дни</item>
+        <item quantity="one">Отложено преди %d ден</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Отложено преди %d часа</item>
+        <item quantity="one">Отложено преди %d час</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Отложено преди %d месеца</item>
+        <item quantity="one">Отложено преди %d месец</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Отложено преди %d седмици</item>
+        <item quantity="one">Отложено преди %d седмица</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Отложено преди %d години</item>
+        <item quantity="one">Отложено преди %d година</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Разгънахте %1$d по-стари съобщения</item>
+        <item quantity="one">Разгънахте едно по-старо съобщение</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">Един ден</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Съобщенията от последните %1$d дни ще бъдат изтеглени при наличие на връзка</item>
+        <item quantity="one">Съобщенията от последния ден ще бъдат изтеглени при наличие на връзка</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Последните %1$d дни</item>
+        <item quantity="one">Последният ден</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Краен срок – %1$s – %2$d задачи</item>
+        <item quantity="one">Краен срок – %1$s – %2$d задача</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Дни</item>
+        <item quantity="one">Ден</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">На всеки %1$d седмици в/ъв %2$s</item>
+        <item quantity="one">Всяка седмица в/ъв %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">На всеки %1$d години</item>
+        <item quantity="one">Всяка година</item>
+    </plurals>
+</resources>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Disse elementene er for store for papirkurven på enheten din. Hvis du sletter dem, fjernes de permanent fra enheten og kontoen din.</item>
+        <item quantity="one">Dette elementet er for stort for papirkurven på enheten din. Hvis du sletter det, fjernes det permanent fra enheten og kontoen din.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d elementer ble skannet</item>
+        <item quantity="one">%1$d element ble skannet</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d elementer er markert</item>
+        <item quantity="one">%1$d element er markert</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Den nye størrelsen på albumet ville vært større enn grensen på %1$d elementer.</item>
+        <item quantity="one">Den nye størrelsen på albumet ville vært større enn grensen på %1$d element.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albumet ville ha inneholdt %1$d elementer.</item>
+        <item quantity="one">Albumet ville ha inneholdt %1$d element.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d steder er lagt til</item>
+        <item quantity="one">%d sted er lagt til</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d steder</item>
+        <item quantity="one">%d sted</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d kart</item>
+        <item quantity="one">%d kart</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d kart er lagt til</item>
+        <item quantity="one">%d kart er lagt til</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Fjerner elementene fra dette albumet …</item>
+        <item quantity="one">Fjerner elementet fra dette albumet …</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d elementer er fjernet</item>
+        <item quantity="one">%d element er fjernet</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Fjerner bildene fra dette albumet …</item>
+        <item quantity="one">Fjerner bildet fra dette albumet …</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Fjerner videoene fra dette albumet …</item>
+        <item quantity="one">Fjerner videoen fra dette albumet …</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d elementer</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Slett fra enheten (%d)</item>
+        <item quantity="one">Slett fra enheten (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Slett alle fra enheten (%d)</item>
+        <item quantity="one">Slett alle fra enheten (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Legg i papirkurven (%d)</item>
+        <item quantity="one">Legg i papirkurven (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d elementer er arkivert</item>
+        <item quantity="one">%d element er arkivert</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d elementer er tatt ut fra arkivet</item>
+        <item quantity="one">%d element er tatt ut fra arkivet</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d er valgt</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Laster opp %d elementer</item>
+        <item quantity="one">Laster opp %d element</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d bilder igjen</item>
+        <item quantity="one">%d bilde igjen</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d bilder igjen å sikkerhetskopiere</item>
+        <item quantity="one">%d bilde igjen å sikkerhetskopiere</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d bilder • %2$s</item>
+        <item quantity="one">%1$d bilde • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Vil du sikkerhetskopiere %1$d elementer?</item>
+        <item quantity="one">Vil du sikkerhetskopiere %1$d element?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Laster opp %1$d elementer</item>
+        <item quantity="one">Laster opp %1$d element</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d bilder er ikke sikkerhetskopiert</item>
+        <item quantity="one">%1$d bilde er ikke sikkerhetskopiert</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Hold %1$d elementer trygge</item>
+        <item quantity="one">Hold %1$d element trygt</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Laster opp %d elementer</item>
+        <item quantity="one">Laster opp %d element</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Laster opp %d videoer</item>
+        <item quantity="one">Laster opp %d video</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d elementer å laste opp</item>
+        <item quantity="one">%d element å laste opp</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d videoer å laste opp</item>
+        <item quantity="one">%d video å laste opp</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Alle %d bilder</item>
+        <item quantity="one">%d bilde</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d bilder er ikke sikkerhetskopiert</item>
+        <item quantity="one">%d bilde er ikke sikkerhetskopiert</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d elementer er lagt til</item>
+        <item quantity="one">%1$d element er lagt til</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Et album kan ikke inneholde mer enn %d elementer.</item>
+        <item quantity="one">Et album kan ikke inneholde mer enn %d element.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Du kan ikke velge mer enn %d elementer.</item>
+        <item quantity="one">Du kan ikke velge mer enn %d element.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Velg minst %d elementer.</item>
+        <item quantity="one">Velg minst %d element.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Velg elementer innenfor en periode på %d dager.</item>
+        <item quantity="one">Velg elementer innenfor en periode på %d dager.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d elementer er lagt til</item>
+        <item quantity="one">%d element er lagt til</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">for %d dager siden</item>
+        <item quantity="one">for %d dag siden</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">For %d timer siden</item>
+        <item quantity="one">For %d time siden</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d u</item>
+        <item quantity="one">%d u</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">For %d uker siden</item>
+        <item quantity="one">For %d uke siden</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">For %d minutter siden</item>
+        <item quantity="one">For %d minutt siden</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">For %d dager siden</item>
+        <item quantity="one">For %d dag siden</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d elementer blir fjernet fra enheten din. Ingen grunn til bekymring – de forblir i Google Foto.</item>
+        <item quantity="one">%1$d element blir fjernet fra enheten din. Ingen grunn til bekymring – det forblir i Google Foto.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Fjern %1$d elementer fra enheten</item>
+        <item quantity="one">Fjern %1$d element fra enheten</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Fjern %1$d bilder og videoer fra enheten</item>
+        <item quantity="one">Fjern %1$d bilde eller video fra enheten</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Fjerner %1$d opprinnelige bilder eller videoer</item>
+        <item quantity="one">Fjerner %1$d opprinnelig bilde eller video</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d nye kort</item>
+        <item quantity="one">1 nytt kort</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d elementer er lagt til</item>
+        <item quantity="one">%d element er lagt til</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d oppdateringer</item>
+        <item quantity="one">%1$d oppdatering</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d kommentarer</item>
+        <item quantity="one">%1$d kommentar</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Lagrer elementene i biblioteket …</item>
+        <item quantity="one">Lagrer elementet i biblioteket …</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d elementer er lagt til</item>
+        <item quantity="one">%d element er lagt til</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Du kan bare legge til %d elementer til.</item>
+        <item quantity="one">Du kan bare legge til %d element til.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Slett mappen og %d elementer i den</item>
+        <item quantity="one">Slett mappen og %d element i den</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Slett fra enheten (%d)</item>
+        <item quantity="one">Slett fra enheten (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Kunne ikke kopiere %d elementer</item>
+        <item quantity="one">Kunne ikke kopiere %d element</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d elementer er kopiert</item>
+        <item quantity="one">%d element er kopiert</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Kunne ikke flytte %d elementer</item>
+        <item quantity="one">Kunne ikke flytte %d element</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d elementer er flyttet</item>
+        <item quantity="one">%d element er flyttet</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Vil du legge til disse i albumet som er delt med %1$d personer?</item>
+        <item quantity="one">Vil du legge til disse i albumet som er delt med %1$d person?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Vil du legge til disse i albumet som er delt med %1$s og %2$d andre?</item>
+        <item quantity="one">Vil du legge til disse i albumet som er delt med %1$s og %2$d annen?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Vil du legge til disse i albumet som er delt med %1$s, %2$s og %3$d andre?</item>
+        <item quantity="one">Vil du legge til disse i albumet som er delt med %1$s, %2$s og %3$d annen?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Vil du sende dette til %1$s og %2$d andre?</item>
+        <item quantity="one">Vil du sende dette til %1$s og %2$d annen?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Vil du sende dette til %1$s, %2$s og %3$d andre?</item>
+        <item quantity="one">Vil du sende dette til %1$s, %2$s og %3$d annen?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Bilder av %d personer</item>
+        <item quantity="one">Bilder av %d person</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Bilder av %d valgte ansikter</item>
+        <item quantity="one">Bilder av %d valgt ansikt</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d er valgt</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d ansikter er valgt</item>
+        <item quantity="one">%d ansikt er valgt</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Bilder av %1$d valgte ansikter, siden %2$s</item>
+        <item quantity="one">Bilder av %1$d valgt ansikt, siden %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Bilder av %d valgte ansikter</item>
+        <item quantity="one">Bilder av %d valgt ansikt</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d bilder er fjernet</item>
+        <item quantity="one">%1$d bilde er fjernet</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Velg bare %d personer</item>
+        <item quantity="one">Velg bare %d person</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d ekstra sider</item>
+        <item quantity="one">%d ekstra side</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d sider</item>
+        <item quantity="one">%d side</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Legg til %d bilder til for å kjøpe</item>
+        <item quantity="one">Legg til %d bilde til for å kjøpe</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d bilder er lagt til</item>
+        <item quantity="one">%d bilde er lagt til</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Det kan hende bildene er slettet eller delingen av dem er opphevet</item>
+        <item quantity="one">Det kan hende bildet er slettet eller delingen av det er opphevet</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d bilder er ikke lenger tilgjengelige</item>
+        <item quantity="one">%d bilde er ikke lenger tilgjengelig</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d bilder er fjernet</item>
+        <item quantity="one">%d bilde er fjernet</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d ekstra sider</item>
+        <item quantity="one">%d ekstra side</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d sider</item>
+        <item quantity="one">%d side</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Bare %d bilder kan trykkes – </item>
+        <item quantity="one">Bare %d bilde kan trykkes – </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">%d bilder er foreslått for deg</item>
+        <item quantity="one">%d bilde er foreslått for deg</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d bilder er foreslått</item>
+        <item quantity="one">%d bilde er foreslått</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">bilder eller videoer</item>
+        <item quantity="one">bilde eller video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">bilder</item>
+        <item quantity="one">bilde</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">videoer</item>
+        <item quantity="one">video</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">Fant %d kjæledyr</item>
+        <item quantity="one">Fant %d kjæledyr</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Pluss %1$d steder på bildene dine</item>
+        <item quantity="one">Pluss %1$d sted på bildene dine</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Pluss %1$d ting på bildene dine</item>
+        <item quantity="one">Pluss %1$d ting på bildene dine</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Pluss %1$d steder og ting på bildene dine</item>
+        <item quantity="one">Pluss %1$d steder og ting på bildene dine</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Fant %1$d personer</item>
+        <item quantity="one">Fant %1$d person</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Fant %1$d steder</item>
+        <item quantity="one">Fant %1$d sted</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Fant %1$d ting</item>
+        <item quantity="one">Fant %1$d ting</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d bilder</item>
+        <item quantity="one">%d bilde</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Pluss %1$d steder</item>
+        <item quantity="one">Pluss %1$d sted</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Pluss %1$d ting</item>
+        <item quantity="one">Pluss %1$d ting</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Pluss %1$d ting og steder</item>
+        <item quantity="one">Pluss %1$d ting og steder</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Se %1$d personer fra bildene dine</item>
+        <item quantity="one">Se %1$d person fra bildene dine</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">Fant %1$d personer</item>
+        <item quantity="one">Fant %1$d person</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">Fant %1$d steder</item>
+        <item quantity="one">Fant %1$d sted</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">Fant %1$d ting</item>
+        <item quantity="one">Fant %1$d ting</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Se %1$d ting fra bildene dine</item>
+        <item quantity="one">Se %1$d ting fra bildene dine</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d elementer er valgt</item>
+        <item quantity="one">%1$d element er valgt</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d er valgt</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d elementer ble lagt til i albumet</item>
+        <item quantity="one">%d element ble lagt til i albumet</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Laster opp %d elementer</item>
+        <item quantity="one">Laster opp %d element</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d elementer blir lastet opp når du er tilkoblet</item>
+        <item quantity="one">%d element blir lastet opp når du er tilkoblet</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s og %2$d andre</item>
+        <item quantity="one">%1$s og %2$d annen</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d elementer</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Vil du legge til %d relaterte bilder?</item>
+        <item quantity="one">Vil du legge til %d relatert bilde?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d nye bilder</item>
+        <item quantity="one">%1$d nytt bilde</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s har lagt til %2$d new nye bilder</item>
+        <item quantity="one">%1$s har lagt til %2$d nytt bilde</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">%1$d personer er funnet i bildene dine</item>
+        <item quantity="one">%1$d person er funnet i bildene dine</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">%1$d steder er funnet i bildene dine</item>
+        <item quantity="one">%1$d sted er funnet i bildene dine</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">%1$d ting er funnet i bildene dine</item>
+        <item quantity="one">%1$d ting er funnet i bildene dine</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Kan ikke slette elementene</item>
+        <item quantity="one">Kan ikke slette elementet</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Kan ikke slette %d elementer</item>
+        <item quantity="one">Kan ikke slette %d element</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Kan ikke slette %d elementer for godt</item>
+        <item quantity="one">Kan ikke slette %d element for godt</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Sletter elementene for godt …</item>
+        <item quantity="one">Sletter elementet for godt …</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d elementer ble slettet for godt</item>
+        <item quantity="one">%d element ble slettet for godt</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d er slettet fra enheten</item>
+        <item quantity="one">%d er slettet fra enheten</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Gjenoppretter elementene …</item>
+        <item quantity="one">Gjenoppretter elementet …</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Kan ikke gjenopprette %d elementer</item>
+        <item quantity="one">Kan ikke gjenopprette %d element</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d elementer ble gjenopprettet fra papirkurven</item>
+        <item quantity="one">%d element ble gjenopprettet fra papirkurven</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Vil du slette elementene permanent?</item>
+        <item quantity="one">Vil du slette elementet permanent?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Vil du slette %d elementer?</item>
+        <item quantity="one">Vil du slette %d element?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Slett %d elementer for godt</item>
+        <item quantity="one">Slett %d element for godt</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">%d dager igjen til denne versjonen utløper. Oppdater nå for å fortsette å bruke Google Foto.</item>
+        <item quantity="one">1 dag igjen til denne versjonen utløper. Oppdater nå for å fortsette å bruke Google Foto.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Laster opp %d elementer</item>
+        <item quantity="one">Laster opp %d element</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d elementer blir lastet opp når du er tilkoblet</item>
+        <item quantity="one">%d element blir lastet opp når du er tilkoblet</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d elementer blir lastet opp når du er tilkoblet Wi-Fi</item>
+        <item quantity="one">%d element blir lastet opp når du er tilkoblet Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Du kommer til å bruke %s med data hvis du sikkerhetskopierer disse elementene nå. Koble til Wi-Fi for å unngå å bruke mobildata.</item>
+        <item quantity="one">Du kommer til å bruke %s med data hvis du sikkerhetskopierer dette elementet nå. Koble til Wi-Fi for å unngå å bruke mobildata.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Hvis du sikkerhetskopierer disse elementene, kommer du til å bruke mobildata. Koble til Wi-Fi for å unngå å bruke mobildata.</item>
+        <item quantity="one">Hvis du sikkerhetskopierer dette elementet, kommer du til å bruke mobildata. Koble til Wi-Fi for å unngå å bruke mobildata.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Laster opp … %d igjen</item>
+        <item quantity="one">Laster opp … %d igjen</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d filer</item>
+        <item quantity="one">%d fil</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s bilder</item>
+        <item quantity="one">%s bilde</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s elementer</item>
+        <item quantity="one">%s element</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s videoer</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Velg bilder</item>
+        <item quantity="one">Velg et bilde</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Velg elementer</item>
+        <item quantity="one">Velg et element</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Velg videoer</item>
+        <item quantity="one">Velg en video</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">og %d andre</item>
+        <item quantity="one">og %d annen</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d kontaktmetoder</item>
+        <item quantity="one">%1$s. %2$d kontaktmetode</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d medlemmer</item>
+        <item quantity="one">%d medlem</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d er valgt</item>
+        <item quantity="one">%d er valgt</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d av %2$d medlemmer er valgt</item>
+        <item quantity="one">%1$d av %2$d medlem er valgt</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d medlemmer er valgt</item>
+        <item quantity="one">%d medlem er valgt</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Papirkurven på enheten din er full. Hvis du sletter disse elementene, fjernes de permanent fra enheten og kontoen din.</item>
+        <item quantity="one">Papirkurven på enheten din er full. Hvis du sletter dette elementet, fjernes det permanent fra enheten og kontoen din.</item>
+    </plurals>
+</resources>

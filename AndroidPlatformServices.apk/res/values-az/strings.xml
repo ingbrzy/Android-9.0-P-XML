@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Evə naviqasiya et</string>
+    <string name="abc_action_bar_up_description">Yuxarı get</string>
+    <string name="abc_action_menu_overflow_description">Digər variantlar</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına baxın</string>
+    <string name="abc_activitychooserview_choose_application">Tətbiq seçin</string>
+    <string name="abc_capital_off">DEAKTİV</string>
+    <string name="abc_capital_on">AKTİV</string>
+    <string name="abc_search_hint">Axtarış...</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtarış</string>
+    <string name="abc_searchview_description_submit">Sorğunu göndərin</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Bununla paylaşın</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaşın</string>
+    <string name="abc_toolbar_collapse_description">Yığışdırın</string>
+    <string name="account_blocked_title">Hesab Bloklandı</string>
+    <string name="account_level_title">Hesab Əməliyyatı Tələb olunur</string>
+    <string name="account_removed_notification_text">Cihaz idarəetməsi tamamlanmadığı üçün %1$s silindi</string>
+    <string name="account_removed_notification_title">Hesab silindi</string>
+    <string name="android_privacy_policy_title">Əlavə Məxfilik Siyasəti</string>
+    <string name="app_level_title">Giriş Sorğusu</string>
+    <string name="app_level_title_secondary">%s tərəfindən Giriş Sorğusu</string>
+    <string name="audience_selection_done">Hazır</string>
+    <string name="auth_account_already_has_gmail">"Hesabın artıq Gmail'i var."</string>
+    <string name="auth_account_content_provider_label">Google Hesab Datası</string>
+    <string name="auth_account_module_display_name">Google Hesabları</string>
+    <string name="auth_account_removed_default_description">Cihaz idarəetməsi tamamlanmayıb. %1$s</string>
+    <string name="auth_account_removed_default_title">Quraşdırma ləğv edildi</string>
+    <string name="auth_account_removed_dm_bad_result_description">Cihaz idarəetməsinin tamamlanması mümkün olmadı. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Domeniniz mobil cihaz idarəetməsi tələb edir, lakin bu, cihazda dəstəklənmir. Fərqli hesab istifadə etməyə çalışın.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Cihaz idarəetməsi dəstəklənmir</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Cihaz idarəetməsi düzgün quraşdırılmadı. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Quraşdırmada çətinlik yarandı</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Quraşdırma ləğv edildi</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Bu cihaz üçün yalnız bir idarə edilən hesaba icazə verilir. Suallarınız varsa, təşkilatın admini ilə əlaqə saxlayın.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">İdarə edilən hesab artıq var</string>
+    <string name="auth_account_settings_title">Hesab ayarları</string>
+    <string name="auth_account_setup_title">Google Hesabı</string>
+    <string name="auth_account_start_over_and_signin_again">Yenidən başlayın və təkrar daxil olun.</string>
+    <string name="auth_account_state_sync_title">Hesab Vəziyyəti Sinxronizasiyası</string>
+    <string name="auth_allow_external_site_access">%s üzərindən datanıza davamlı şəkildə giriş əldə edin</string>
+    <string name="auth_app_permission_ok_footnote">"Davam etməklə bu tətbiqə və Google'a məlumatınızı onların xidmət və məxfilik şərtlərinə uyğun istifadə etməyə icazə verirsiniz."</string>
+    <string name="auth_cant_add_work_account_message">Bu növ hesab təşkilatınız tərəfindən idarə olunur.</string>
+    <string name="auth_captcha_instructions">Burada gördüyünüz mətni daxil edin:</string>
+    <string name="auth_captcha_title">CAPTCHA daxil etməlisiniz</string>
+    <string name="auth_common_downloading">Endirilir...</string>
+    <string name="auth_common_go_back">Geri qayıdın</string>
+    <string name="auth_common_switch_accounts">Hesabları Dəyişdirin</string>
+    <string name="auth_communicating_message">Məlumatları hesabınızda saxlamaq üçün cihazınız Google ilə əlaqə yaradır. Bu, 5 dəqiqə vaxt ala bilər.</string>
+    <string name="auth_confirm_creds_sync_title">Kredensiallar Statusu</string>
+    <string name="auth_d2d_source_alert_title">Tıklayın və Gedin</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Qapat və doğrula</string>
+    <string name="auth_d2d_source_copy_notice">Hesablar və verilənlər digər cihazınıza köçürülsün?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Doğruladıqdan sonra cihazlarınızın əlaqə yaratması üçün Bluetooth aktivləşəcək.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Doğruladıqdan sonra cihazlarınız Bluetooth vasitəsilə əlaqə yaradacaq.</string>
+    <string name="auth_d2d_source_lock_notice">Davam etdikdə ekranınız qapanacaq və doğrulama üçün bunu açmalı olacaqsınız.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Bu cihazda heç bir hesab olmadığı üçün Tıkla və Keç funksiyası etibarsızdır.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Cihazınızda Bluetooth əlçatan olmadığı üçün Tıkla və Keç funksiyası etibarsızdır.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Cihazlarınızın əlaqə yaratması üçün Bluetooth cihazı aktivləşəcək.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Bu, Bluetooth istifadə edir.</string>
+    <string name="auth_d2d_source_notification_title">Toxun və Get tamam</string>
+    <string name="auth_d2d_source_restricted_user_toast">Məhdud istifadəçi profilindən tıklayıb bərpa etmək olmur.</string>
+    <string name="auth_d2d_source_title">Hesabları bərpa edin</string>
+    <string name="auth_d2d_source_unknown_device_name">Naməlum Cihaz</string>
+    <string name="auth_d2d_tap_and_go">Klikləyin və Gedin</string>
+    <string name="auth_d2d_target_tap_progress_message">Davam etmək üçün digər cihazda OK üzərinə tıklayın</string>
+    <string name="auth_d2d_target_title">Tıklayın və Gedin</string>
+    <string name="auth_d2d_target_unlock_progress_message">Digər cihazınızı yoxlayın</string>
+    <string name="auth_d2d_target_wait_progress_message">Hesablar və məlumatlar əldə olunur...</string>
+    <string name="auth_device_management_download_app_icon">%s tətbiq ikonası</string>
+    <string name="auth_device_management_download_description">Bu hesab mobil cihaz idarəetməsi tələb edir. Hesab tərəfindən tələb olunan təhlükəsizlik siyasətlərini tətbiq etmək üçün ^1 tətbiqini quraşdırın.</string>
+    <string name="auth_device_management_download_description_kids">Hesabı bu cihaza əlavə etmək üçün, əvvəlcə <b>^1</b>" tətbiqini quraşdırın. 
+
+^1 bu cihazı uşağınız üçün ayarlamağa kömək edir."</string>
+    <string name="auth_device_management_download_failed_message">Bu tətbiq olmasa belə, quraşdırmağa davam edə bilərsiniz</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Cihaz idarəetməsi yükləmədə uğursuz oldu. Bu hesab silinəcək. Yenidən cəhd edin.</string>
+    <string name="auth_device_management_download_failed_title">Tətbiqi endirmək mümkün deyil</string>
+    <string name="auth_device_management_download_not_updated_message">Cari versiyanı istifadə edərək, quraşdırmağa davam edə bilərsiniz</string>
+    <string name="auth_device_management_download_paused">Pauza edilib</string>
+    <string name="auth_device_management_download_progress">Endirilir...</string>
+    <string name="auth_device_management_download_skip_message">Bu hesab cihaz idarəetməsi tələb edir. Bunsuz davam etmək istəyirsiniz?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Bu hesabı əlavə etmək üçün cihaz idarəetməsi tələb edilir. Başqa bir hesab ilə əvvəldən başlamaq istəyirsiniz?</string>
+    <string name="auth_device_management_go_back">Qayıdın</string>
+    <string name="auth_device_management_screenlock_description">Bu cihazdan iş profilinizə daxil olmaq üçün, ekran kilidi ayarlamalısınız. Bu, təşkilatın mobil cihaz siyasətidir.</string>
+    <string name="auth_device_management_screenlock_skip_message">Bu hesab ekran kilidi təhlükəsizliyi tələb edir. Başqa bir hesab ilə başdan başlamaq istəyirsiniz?</string>
+    <string name="auth_device_management_setup_work_profile_description">"İş profiliniz iş tətbiqlərini ayrı saxlayır və təşkilat tərəfindən idarə olunur.
+
+Quraşdırmanı tamamlamaq üçün IT adminindən kod tələb edin. İdarəetmə aləti endiriləcək və iş profilinin idarəsi üçün admin tərəfindən istifadə ediləcək."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Yeni iş profiliniz iş tətbiqlərini ayrı saxlayır və təşkilat tərəfindən idarə olunur.
+
+İdarəetmə aləti endiriləcək və iş profilinin idarəsi üçün admin tərəfindən istifadə ediləcək."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">İş profilinizi quraşdırın</string>
+    <string name="auth_device_management_start_description">Bu hesab mobil cihaz idarəetməsi tələb edir. Növbəti seçiminə kliklədikdə, ^1 tətbiqi hesab üçün tələb olunan təhlükəsizlik siyasətlərini yerinə yetirməyə kömək edəcək.</string>
+    <string name="auth_device_management_start_description_kids">Hesabı bu cihaza əlavə etmək üçün, <b>^1</b>" istifadə edin. 
+
+^1 bu cihazı uşağınız üçün ayarlamağa kömək edir."</string>
+    <string name="auth_device_management_title">Cihaz idarəetməsi</string>
+    <string name="auth_device_management_update_description">Bu hesab mobil cihaz idarəetməsi tələb edir. Bu hesab ilə əlaqədar təhlükəsizlik siyasətlərini təmin etmək üçün, ^1 tətbiqinin yeni versiyasını quraşdırmalısınız.</string>
+    <string name="auth_device_management_update_description_kids">Hesabı bu cihaza əlavə etmək üçün, əvvəlcə <b>^1</b>" tətbiqinin ən son versiyasını quraşdırın. 
+
+^1 bu cihazı uşağınız üçün ayarlamağa kömək edir."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmail istifadə etmir.</string>
+    <string name="auth_error_account_disabled">"Bu hesab deaktiv edildi. 
+
+(Əlavə məlumat üçün bura müraciət edin: http://google.com/accounts)"</string>
+    <string name="auth_error_account_not_verified">"Bu hesab təsdiqlənməyib. E-poçtunuzu yoxlayın və hesabı təsdiq etmək üçün əlavə edilmiş linkə daxil olun.
+
+(Hesab məlumatınızı bərpa etmək üçün kompüterinizdən bura daxil olun: http://www.google.com/accounts/recovery)"</string>
+    <string name="auth_error_bad_password">Bu parol çox zəifdir və etibarsız simvollar içərir. Yenidən cəhd edin.</string>
+    <string name="auth_error_bad_username">Yanlış istifadəçi adı.</string>
+    <string name="auth_error_generic_server_error">"Google serverləri ilə əlaqədə problem yarandı. 
+
+ Daha sonra yenidən cəhd edin."</string>
+    <string name="auth_error_invalid_second_factor">Daimi hesab parolunuz əvəzinə xüsusi tətbiq parolu istifadə edin.</string>
+    <string name="auth_error_login_failed">"İstifadəçi adınız və parol uyğun gəlmir. Yenidən cəhd edin.
+
+Hesab məlumatınızı bərpa etmək üçün bura daxil olun: google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Hesaba giriş üçün internetdə hesaba daxil olmalısınız. Brauzer vasitəsilə girişə başlamaq üçün Növbəti üzərinə tıklayın.</string>
+    <string name="auth_error_no_network">"Şəbəkə bağlantısı yoxdur. 
+
+ Bu müvəqqəti problem ola bilər. Yenidən cəhd et və ya başqa Wi-Fi şəbəkəsinə qoşul."</string>
+    <string name="auth_error_not_logged_in">İstifadəçi giriş etməyib.</string>
+    <string name="auth_error_username_unavailable">İstifadəçi adı mövcud deyil.</string>
+    <string name="auth_existing_account_error_text">Bu Android cihazında artıq ^1 hesabı var.</string>
+    <string name="auth_existing_account_error_title">Hesab artıq mövcuddur.</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Son parol dəyişikliyi səbəbi ilə cihaza daxil olmaq mümkün olmadı. Parol dəyişikliyi icra edildikdən 24 saat sonra yenidən daxil olmağa çalışın.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Cihaz qoruma funksiyaları artıq işləmir.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Son Google hesabını şəxsi profilinizdən cihaza köçürmək cihazın oğurluğa qarşı qorunması funksiyalarını deaktiv edəcək. Daha sonra onları yenidən aktivləşdirmək üçün cihaza başqa hesab əlavə edə bilərsiniz.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Əminsiniz?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Hesab İş Profilinə köçürülsün?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Naməlum xəta səbəbi ilə cihaza daxil olmaq mümkün olmadı. Digər hesabdan istifadə edin və ya 24 saat sonra yenidən daxil olmağa çalışın.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Lütfən, bu cihaz üçün sahibin hesablarından birini istifadə edərək daxil olun</string>
+    <string name="auth_field_cant_be_blank">Sahə boş ola bilməz</string>
+    <string name="auth_frp_add_account_no">Yeni hesaba keçin</string>
+    <string name="auth_frp_add_account_prompt">Bu cihazdakı əvvəlki Google Hesabı doğrulanıb. ^1 adlı hesabı yenidən bu hesaba əlavə edə və ya yeni hesabdan istifadə edə bilərsiniz.</string>
+    <string name="auth_frp_add_account_yes">Əvvəlki hesabı əlavə edin</string>
+    <string name="auth_frp_device_managed_label">Bu cihaz təşkilat tərəfindən idarə edilmək üçün ayarlanıb.</string>
+    <string name="auth_frp_download_management_app_label">Quraşdırma prosesinə davam etmək üçün cihaz menecment tətbiqini endirməlisiniz.</string>
+    <string name="auth_frp_enter_device_credentials_label">Admin rejiminə keçin</string>
+    <string name="auth_frp_install_dpc_error">Menecment tətbiqinin quraşdırması alınmadı. Bu mərhələni keçmək istəyirsinizsə, cihaz idarə edilməyəcək.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Menecment tətbiqinin quraşdırması alınmadı. Şəbəkə bağlantısını yoxlayın və daha sonra yenidən cəhd edin.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Əvəzinə Google hesabımı istifadə edin</string>
+    <string name="auth_frp_preadd_lkscreen_text">Cihaz fabrika ayarına sıfırlandı, əvvəlki parol ilə cihazı kiliddən çıxara bilərsiniz.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Fabrik Sıfırlama Təhlükəsizliyi</string>
+    <string name="auth_frp_start_reenroll_device_title">Cihazınız işdə</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Bu hesaba daxil olmaq mümkün olmadı. Cihazınızın təşkilatın təhlükəsizlik siyasətlərini izlədiyinə əmin olun. Bu xətanı görməyə davam edirsinizsə, təşkilat admını ilə əlaqə saxlayın.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Hesab xətası</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Sizin domeniniz mobil telefon idarəetməsi tələb edir. \"Google Apps Device Policy\" tətbiqini quraşdıraraq,  "<b>^1</b> hesabı tərəfindən tələb olunan təhlükəsizlik siyasətlərini həyata keçirin.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Endir</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" yalnız hərflərdən,
+ədədlər və periodlardan ibarət ola bilər."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> daxilində hərf yoxdur.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> 6-dan az və ya 30-dan çox simvoldan ibarətdir.</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> istifadəçi adı əlçatımlı deyil.</string>
+    <string name="auth_gls_name_checking_info_title">İnfo yoxlanılır...</string>
+    <string name="auth_gls_sync_item_title">%s sinxronizasiyası</string>
+    <string name="auth_gls_third_party_activity_download_message">"  "<b>^1</b> hesabı təşkilatınız tərəfindən idarə olunan cihaza və ya iş profilinə əlavə olunmalıdır. Bu mərhələləri bitirmək üçün İT Admininiz tərəfindən təmin olunan təlimatları izləyin.</string>
+    <string name="auth_google_title_logo">Google loqosu</string>
+    <string name="auth_invalid_login_character">Yanlış simvol. Yalnız 0-9, a-z, A-Z və periodlara icazə verilir.</string>
+    <string name="auth_invalid_password_character">Yanlış parol simvolu.</string>
+    <string name="auth_invalid_username">Daxil etdiyiniz mətn etibarlı istifadəçi adı deyil.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Siz yanlış parol daxil etmisiniz və ya hesabınız dəyişib. Parolu yenidən daxil edin. Əgər parolu unutmusunuzsa və hesabınızı bərpa etmək istəyirsinizsə, <annotation id="help_url">bura</annotation> klikləyin.</string>
+    <string name="auth_login_task_title">Giriş edilir</string>
+    <string name="auth_login_title">E-poçt və Parol daxil edin</string>
+    <string name="auth_minutemaid_ssl_error">" %s üzrə bağlantıda problem var."</string>
+    <string name="auth_network_unreliable_help">Bu müvəqqəti bir problem ola bilər və ya Android data xidmətləri üçün nəzərdə tutulmaya bilər. Bu davam edərsə, Müştəri Xidmətlərinə zəng edin.</string>
+    <string name="auth_no_network">Şəbəkə bağlantınız yoxdur.</string>
+    <string name="auth_no_network_help">Bu müvəqqəti bir problem ola bilər və ya Android cihazı data xidmətləri üçün nəzərdə tutulmaya bilər. Mobil şəbəkəyə qoşulan zaman yenidən cəhd edin və ya Wi-Fi şəbəkəsinə qoşulun.</string>
+    <string name="auth_no_network_help_wifi_only">Bu müvəqqəti bir problem ola bilər. Yenidən cəhd edin və ya digər Wi-Fi şəbəkəsinə qoşulun.</string>
+    <string name="auth_otp_error">Təhlükəsizlik kodu yaradarkən xəta baş verdi.</string>
+    <string name="auth_otp_explained_paragraph">Əgər parolu unutmusunuzsa və ya girişinizlə əlaqədar yenilik varsa, Google,hesabınızı qorumaq üçün təhlükəsizlik kodu istəyə bilər. İndi istifadə edin və ya yeni biri üçün geri qayıdın.</string>
+    <string name="auth_otp_header_message">Daxil olmaq üçün bu kod nə zaman istifadə edilsin</string>
+    <string name="auth_otp_no_accounts_available_message">Bu cihazda sazlanmış heç bir hesab yoxdur.</string>
+    <string name="auth_otp_progress_dialog_message">Təhlükəsizlik kodu yaradılır.</string>
+    <string name="auth_otp_ten_digit_code_header">Təhlükəzislik kodları</string>
+    <string name="auth_otp_ten_digit_explaination">Parolu unutsanız və ya yeni cihazdan yaxud məkandan cihaza daxil olsanız, Google Hesabını qorumaq üçün Sizdən bu kodlardan biri və ya hər ikisi tələb edilə bilər.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Bu kodların müddəti indi və ya istifadə edildikdən 15 dəqiqə sonra başa çatır. Bu kodları yalnız \"https://accounts.google.com/\" linki ilə başlayan veb səhifələrdə istifadə edə bilərsiniz.</string>
+    <string name="auth_otp_ten_digit_usage_header">Kodları nə zaman istifadə etməli</string>
+    <string name="auth_otp_ten_digits_code1">Kod 1</string>
+    <string name="auth_otp_ten_digits_code2">Kod 2</string>
+    <string name="auth_password">Parol</string>
+    <string name="auth_plus_audience_selection_description_acl">BUNUNLA PAYLAŞIN</string>
+    <string name="auth_plus_info_fragment_app_name">%s istəyir ki:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%2$s cihazındakı %1$s tətbiqi istəyir ki:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Genişləndirilmiş çevrələriniz</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Seçilmiş çevrələr</string>
+    <string name="auth_plus_scope_fragment_public_label">Vebdə olan hər kəs</string>
+    <string name="auth_pre_factory_reset_title">Google Hesabınızı silin</string>
+    <string name="auth_relogin_activity_title">Parolu yenidən yazın</string>
+    <string name="auth_remove_account_start_over">Yenidən Başlayın</string>
+    <string name="auth_request_accounts_list">Cihazdakı Google hesablarının siyahısını əldə edin.</string>
+    <string name="auth_scope_more_details">Ətraflı məlumat</string>
+    <string name="auth_server_error">Google serverləri ilə əlaqə problemi yarandı.</string>
+    <string name="auth_server_error_help">Daha sonra yenidən cəhd edin.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Hesab Əlavə Edildi</string>
+    <string name="auth_setup_wizard_account_added_description">Hesabınız əlavə edildi. Google Xidmətləri seçimlərini edərək davam edin</string>
+    <string name="auth_setup_wizard_services_activity_title">Google xidmətləri</string>
+    <string name="auth_show_error_title">Xəta</string>
+    <string name="auth_sign_in_agreement">Daxil olmaqla, Siz <annotation id="google_privacy">Google</annotation> və <annotation id="android_privacy">Əlavə</annotation> Məxfilik Xidmətləri ilə razılaşırsınız.</string>
+    <string name="auth_sign_in_browser">Brauzer girişi</string>
+    <string name="auth_sign_in_with_google_account_short">Google Hesabınız ilə giriş edin:</string>
+    <string name="auth_submission_error_text">Xəta baş verdi. Yenidən cəhd edin.</string>
+    <string name="auth_submission_title">Üzr istəyirik...</string>
+    <string name="auth_ui_activity_authenticating">Autentifikasiya</string>
+    <string name="auth_ui_activity_title">Google girişi</string>
+    <string name="auth_ui_activity_title_browser_signin">Giriş</string>
+    <string name="auth_ui_add_account_title">Hesab quraşdırma</string>
+    <string name="auth_uncertified_notification_description"><b>Bu cihazı satın alan istifadəçilər:</b>"
+Cihaz istehsalçısı Google sertifikatı olmadan Google tətbiq və xidmətlərini əvvəlcədən yükləyib. İstehsalçı ilə əlaqə saxlayın və sertifikatlı cihaz tələb edin. g.co/AndroidCertifiedDevice ünvanında ətraflı məlumat əldə edin.
+
+"<b>Lisenziyasız istehsalçılar:</b>"
+Google tətbiq və xidmətlərini paylaşmaq üçün Google lisensiyası tələb edilir. g.co/AndroidGMSContact ünvanına daxil olun.
+
+"<b>Lisenziyalı istehsalçılar:</b>"
+İnkişaf ərzində Google tətbiq və xidmətlərindən istifadə etmək üçün cihazı qeydiyyatdan keçirin. Ətraflı məlumat üçün Google Biznes İnkişaf Meneceri ilə əlaqə saxlayın.
+
+"<b>Fərdi ROM istifadəçiləri:</b>"
+Fərdi ROM ilə Google Tətbiq və xidmətlərindən istifadə etmək üçün bu cihazı qeydiyyatdan keçirin. Ətraflı məlumat üçün at g.co/apps-custom ünvanına daxil olun."</string>
+    <string name="auth_uncertified_notification_title">Cihazın Google sertifikatı yoxdur</string>
+    <string name="auth_username">E-poçt</string>
+    <string name="auth_work_authenticator_label">İdarə olunan Hesablar</string>
+    <string name="authorization_dialog">Avtorizasiya dialoqu</string>
+    <string name="chrome_privacy_title">Chrome Məxfilik Qeydi</string>
+    <string name="chrome_tos_title">Chrome Xidmət Şərtləri</string>
+    <string name="close_button_label">Qapadın</string>
+    <string name="common_accept">Qəbul edin</string>
+    <string name="common_add">Əlavə edin</string>
+    <string name="common_add_account_label">Hesab əlavə edin</string>
+    <string name="common_ads_settings_title">Elanlar</string>
+    <string name="common_agree">Razıyam</string>
+    <string name="common_app_name">Google Play xidmətləri</string>
+    <string name="common_application_info">Tətbiq haqqında məlumat</string>
+    <string name="common_application_info_composed_string">tətbiq məlumatı</string>
+    <string name="common_asm_google_account_title">Google Hesabı</string>
+    <string name="common_asm_manage_google_account_title">Google Hesabını idarə edin</string>
+    <string name="common_asm_preferences_settings_title">Hesab quraşdırmaları</string>
+    <string name="common_asm_privacy_settings_title">Şəxsi məlumat və məxfilik</string>
+    <string name="common_asm_security_settings_title">Giriş və təhlükəsizlik</string>
+    <string name="common_back">Geri</string>
+    <string name="common_battery">Batareya</string>
+    <string name="common_block">Blok edin</string>
+    <string name="common_cancel">Ləğv edin</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts başlaya bilməz (icazə xətası).</string>
+    <string name="common_car_permission_desc">Avtomobil xidmətinə giriş.</string>
+    <string name="common_car_permission_label">Avtomobil Xidməti</string>
+    <string name="common_card">Kart</string>
+    <string name="common_chips_label_empty_circles">Çevrə yoxdur</string>
+    <string name="common_chips_label_extended_circles">Genişləndirilmiş çevrələr</string>
+    <string name="common_chips_label_only_you">Yalnız Siz</string>
+    <string name="common_chips_label_public">İctimai</string>
+    <string name="common_chips_label_your_circles">Sizin çevrələriniz</string>
+    <string name="common_choose_account_label">Bir hesab seçin</string>
+    <string name="common_confirm_screen_lock_title">Ekran kilidini təsdiqləyin</string>
+    <string name="common_connect">Qoşulun</string>
+    <string name="common_connected">Qoşuldu</string>
+    <string name="common_connected_apps_settings_title">Qoşulu tətbiqlər</string>
+    <string name="common_connecting">Qoşulur...</string>
+    <string name="common_continue">Davam edin</string>
+    <string name="common_disabled">Deaktiv edildi</string>
+    <string name="common_disagree">Razı deyiləm</string>
+    <string name="common_disconnect">Bağlantını kəsin</string>
+    <string name="common_dismiss">İmtina edin</string>
+    <string name="common_done">Tamam</string>
+    <string name="common_edit">Düzəliş edin</string>
+    <string name="common_email">E-poçt</string>
+    <string name="common_fingerprint_hint">Sensora toxunun</string>
+    <string name="common_from">Kimdən:</string>
+    <string name="common_games_settings_title">Oyun oynayın</string>
+    <string name="common_get_started">Başlayın</string>
+    <string name="common_google_play_services_enable_button">Aktiv edin</string>
+    <string name="common_google_play_services_enable_text">%1$s Google Play xidmətlərini aktiv edənə kimi işləməyəcək.</string>
+    <string name="common_google_play_services_enable_title">Google Play xidmətlərini aktiv edin</string>
+    <string name="common_google_play_services_error_dialog_title">Xəta</string>
+    <string name="common_google_play_services_install_button">Quraşdırın</string>
+    <string name="common_google_play_services_install_text">%1$s cihazınızda mövcud olmayan Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə edin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s tətbiqi ilə Google Play xidmətləri arasında problem var. Daha sonra yenidən cəhd edin.</string>
+    <string name="common_google_play_services_unsupported_text">Cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan %1$s tətbiqi işləməyəcək.</string>
+    <string name="common_google_play_services_update_button">Güncəlləyin</string>
+    <string name="common_google_play_services_update_text">%1$s Google Play xidmətləri yeniləmə halda çalışmaz.</string>
+    <string name="common_google_play_services_update_title">Google Play xidmətlərini güncəlləşdirin</string>
+    <string name="common_google_play_services_updating_text">%1$s hal-hazırda güncəllənən Google Play xidmətləri olmadan çalışmayacaq.</string>
+    <string name="common_google_play_services_updating_title">Google Play xidmətləri yenilənir</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xidmətlərinin yeni versiyası lazımdır. Qısa müddətə özünü yeniləyəcək.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Yüklü Google səhv memarlıq xidmətlərini pulsuz.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play xidmətləri (bir memarlıq ilə yüklü edilmişdir %1$s ) Sizin cihaz memarlıq fərqli olan ( %2$s ).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Yanlış memarlıq</string>
+    <string name="common_google_settings">Google Parametrlər</string>
+    <string name="common_google_settings_account">Hesab</string>
+    <string name="common_google_settings_credentials_title">Parollar üçün Smart Lock</string>
+    <string name="common_got_it">Anladım</string>
+    <string name="common_install">Quraşdırın</string>
+    <string name="common_learn_more">Ətraflı məlumat</string>
+    <string name="common_list_apps_menu_help">Yardım</string>
+    <string name="common_list_apps_menu_help_and_feedback">Yardım və geri əlaqə</string>
+    <string name="common_loading">Yüklənir…</string>
+    <string name="common_location_settings_title">Yer</string>
+    <string name="common_login_activity_task_title">Giriş edilir...</string>
+    <string name="common_login_error_title">Daxil olmaq alınmadı</string>
+    <string name="common_magictether_settings_title">Ani Birləşmə</string>
+    <string name="common_maps_settings_title">Xəritə və Lokator</string>
+    <string name="common_mdm_feature_name">Cihazımı Tapın</string>
+    <string name="common_missing_url_viewer">Xarici url-i göstərmək üçün nümayişetdirici yoxdur.</string>
+    <string name="common_more">Daha çox</string>
+    <string name="common_more_options">Daha çox seçim</string>
+    <string name="common_mute_notification">Bildirişi susdurun</string>
+    <string name="common_network_unavailable">İnternet bağlantısı yoxdur</string>
+    <string name="common_networking_settings_title">Şəbəkə</string>
+    <string name="common_never">Heç vaxt</string>
+    <string name="common_next">Növbəti</string>
+    <string name="common_no_browser_for_restricted_url">Məhdudlaşdırılmış giriş. Heç bir brauzer tapılmadı.</string>
+    <string name="common_no_devices_found">Heç bir cihaz tapılmadı</string>
+    <string name="common_no_network">Cihaz oflayn olduğu üçün mümkün deyil</string>
+    <string name="common_no_thanks">Yox, çox sağ olun</string>
+    <string name="common_not_now">İndi yox</string>
+    <string name="common_off">Deaktiv</string>
+    <string name="common_offline">Oflaynsınız</string>
+    <string name="common_ok">Ok</string>
+    <string name="common_on">Aktiv</string>
+    <string name="common_open">Açın</string>
+    <string name="common_open_on_phone">Telefonda açın</string>
+    <string name="common_open_source_licenses">Açıq mənbə lisenziyaları</string>
+    <string name="common_pause">Fasilə verin</string>
+    <string name="common_people_settings_title">Kontaktlar</string>
+    <string name="common_permissions_enable_in_settings">Parametrlərdə aktivləşdirin</string>
+    <string name="common_permissions_missing_end">Davam etmək üçün Ayarları, sonra İcazələri açın və qeyd edilən bütün elementlərə icazə verin.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Aktiv etmək üçün,
+Ayarlar >
+İcazələr >
+Google Play xidmətlərinə gedin"</string>
+    <string name="common_permissions_missing_start">Google Play xidmətlərinə aşağıdakılara daxil olmaq üçün sorğu göndərməyə icazə verməsəniz, bu tətbiq düzgün işləməyəcək:</string>
+    <string name="common_permissions_open_settings">Ayarları Açın</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_play">Oxudun</string>
+    <string name="common_privacy_policy">Məxfilik siyasəti</string>
+    <string name="common_privacy_policy_composed_string">Məxfilik Siyasəti</string>
+    <string name="common_refresh">Yeniləyin</string>
+    <string name="common_remove">Silin</string>
+    <string name="common_reply">Cavablayın</string>
+    <string name="common_restore">Bərpa edin</string>
+    <string name="common_retry">Yenidən sınayın</string>
+    <string name="common_save">Yadda saxlayın</string>
+    <string name="common_saved">Yadda saxlanıldı</string>
+    <string name="common_saving">Yadda saxlanılır…</string>
+    <string name="common_search_settings_title">Axtarış</string>
+    <string name="common_security_ootp_setting_title">Təhlükəsizlik kodu</string>
+    <string name="common_select">Seçin</string>
+    <string name="common_send">Göndərin</string>
+    <string name="common_sending">Göndərilir ...</string>
+    <string name="common_set_up_nearby_device_settings_title">Yaxın qurun</string>
+    <string name="common_settings">Ayarlar</string>
+    <string name="common_share">Paylaşın</string>
+    <string name="common_sign_in">Daxil olun</string>
+    <string name="common_signin_button_text">Daxil olun</string>
+    <string name="common_signin_button_text_long">Google ilə daxil olun</string>
+    <string name="common_skip">Keçin</string>
+    <string name="common_skip_fingerprint">Ekran kilidi istifadə edin</string>
+    <string name="common_something_went_wrong">Nəsə baş verdi.</string>
+    <string name="common_system_info">Sistem məlumatı</string>
+    <string name="common_system_info_composed_string">hesab və sistem məlumatı</string>
+    <string name="common_take_photo_label">Fotoşəkil çəkin</string>
+    <string name="common_terms_of_service">Xidmət şərtləri</string>
+    <string name="common_terms_of_service_composed_string">Xidmət Şərtləri</string>
+    <string name="common_today">Bugün</string>
+    <string name="common_try_again">Bir daha cəhd edin</string>
+    <string name="common_turn_on">Aktiv edin</string>
+    <string name="common_turn_on_bluetooth">Bluetooth aktivləşdirilsin?</string>
+    <string name="common_turn_on_nfc">NFC aktiv edin</string>
+    <string name="common_ui_confirm_deleting_button">Sil</string>
+    <string name="common_ui_confirm_deleting_checkbox">Mən başa düşürəm və silmək istəyirəm</string>
+    <string name="common_unknown">Naməlum</string>
+    <string name="common_update">Güncəlləyin</string>
+    <string name="common_url_load_unsuccessful_message">Android cihazınız data xidmətinə qoşulu deyil. Bu məlumatı indi görüntüləmək üçün %s linkinə veb brauzer ilə daxil olun.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Androidiniz Wi-Fi şəbəkəyə qoşulmayıb. Bu məlumatı indi görmək üçün %s linkinə veb brauzer ilə daxil olun.</string>
+    <string name="common_usage_and_diagnostics">İstifadə və diaqnostika</string>
+    <string name="common_view">Baxın</string>
+    <string name="common_yesterday">Dünən</string>
+    <string name="continue_to_login_heading">Daxil olun.</string>
+    <string name="continue_to_login_text">Etimadnamələr verildi. İlk cihazınıza daxil olmağa çalışın.</string>
+    <string name="description_fingerprint_icon">Barmaq izi ikonası</string>
+    <string name="download_msg_error_invalid">Endirmə yanlış sazlanmışdı.</string>
+    <string name="download_msg_in_progress">Endirmə davam edir.</string>
+    <string name="download_msg_not_allowed_space">Endirmək üçün yetərli yer yoxdur.</string>
+    <string name="download_msg_pending">Endirmə gözlənilir.</string>
+    <string name="download_notification_description">%1$s bunu tələb etdi.</string>
+    <string name="download_notification_title">Daha çox data əldə edir</string>
+    <string name="expand_button_title">Qabaqcıl</string>
+    <string name="fido_ble_device_icon_content_description">Aşkarlanmış Bluetooth cihazı</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Cütləmə rejimində olduğuna əmin olmaq üçün, açarın üzərindəki düyməni ən az 5 saniyə basıb saxlayın</string>
+    <string name="fido_ble_dont_see_your_key_hint">Açarı görmürsünüz?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Təhlükəsizlik Açarı yalnız cihazın Bluetooth və Məkan xidmətləri aktiv olduqda işləyir</string>
+    <string name="fido_ble_enable_body_bluetooth_only">"Təhlükəsizlik Açarı yalnız cihaz Bluetooth'u aktiv olduqda işləyir"</string>
+    <string name="fido_ble_enable_body_location_only">Təhlükəsizlik Açarı yalnız cihaz Məkanı aktiv olduqda işləyir</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Bluetooth və Məkanı aktiv edin</string>
+    <string name="fido_ble_enable_title_location_only">Məkanı Aktiv Edin</string>
+    <string name="fido_ble_instructions_body">Bir çox açarın istifadəsi üçün sadəcə düyməyə basın</string>
+    <string name="fido_ble_locate_pin_body">Cütləmə PIN kodu adətən 4 və ya 6 rəqəmli nömrə olur və açarın arxasında ola bilər. PIN kodu daxil etməyə hazır olduqda davam edin.</string>
+    <string name="fido_ble_locate_pin_title">%1$s açarı üçün Bluetooth cütləmə PIN kodunu tapın</string>
+    <string name="fido_ble_pair_device_pairing">Təhlükəsizlik Açarı cütlənir...</string>
+    <string name="fido_ble_pair_instructions_body">Açarı bu cihaz ilə cütləsəniz, hesabınızla istifadə edə bilərsiniz</string>
+    <string name="fido_ble_pair_instructions_title">Təhlükəsizlik Açarını cütləməyə hazırsınız?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Cütləmə rejimi daxilində açarınızı geri alın</string>
+    <string name="fido_ble_pairing_mode_body">Təhlükəsizlik Açarının üzərindəki düyməni ən az 5 saniyə basıb saxlayın</string>
+    <string name="fido_ble_pairing_mode_title">Cütləmə rejiminə daxil olun</string>
+    <string name="fido_ble_select_device_body">Aşağıdakı siyahıdan cihaz ilə cütləmək istədiyiniz Təhlükəsizlik Açarını seçin. Ad açarın arxasında print olunmuş ola bilər.</string>
+    <string name="fido_ble_select_device_title">Təhlükəsizlik Açarını seçin</string>
+    <string name="fido_instructions_title">Təhlükəsizlik Açarının istifadəsinə icazə verilsin?</string>
+    <string name="fido_nfc_enable_body">Təhlükəsizlik Açarı, yalnız cihazınızda NFC aktiv olduğu zaman işləyir</string>
+    <string name="fido_nfc_instructions_body">Vibrasiya dayanana kimi açarı cihazın arxasına qarşı sabit saxlayın</string>
+    <string name="fido_paask_body">Yaxınlıqdakı cihaz Google Hesabınızla daxil olmağa çalışır</string>
+    <string name="fido_paask_footer">Bu yaxınlıqdakı cihazla şifrələnmiş bluetooth bağlantısı istifadə edən təkmilləşdirilmiş giriş qorumasıdır.</string>
+    <string name="fido_paask_header">Yaxınlıqdakı cihazda giriş edirsiniz?</string>
+    <string name="fido_paask_no_text">Xeyr, bu mən deyiləm</string>
+    <string name="fido_paask_yes_text">Bəli, mənəm</string>
+    <string name="fido_pair_another_security_key">Digər Təhlükəsizlik Açarını cütləyin</string>
+    <string name="fido_processing">Təhlükəsizlik Açarınız təsdiqlənir...</string>
+    <string name="fido_transport_selection_bluetooth">Təhlükəsizlik Açarını Bluetooth ilə istifadə edin</string>
+    <string name="fido_transport_selection_body">Təhlükəsizlik Açarları Bluetooth, NFC və USB ilə işləyir. Açarınızı necə istifadə edəcəyinizi seçin.</string>
+    <string name="fido_transport_selection_fingerprint">Barmaq izi ilə Təhlükəsizlik Açarından istifadə edin</string>
+    <string name="fido_transport_selection_nfc">Təhlükəsizlik Açarını NFC ilə istifadə edin</string>
+    <string name="fido_transport_selection_title">Təhlükəsizlik Açarını necə istifadə edəcəyinizi seçin</string>
+    <string name="fido_transport_selection_usb">Təhlükəsizlik Açarını USB ilə istifadə edin</string>
+    <string name="fido_usb_instructions_body">Təhlükəsizlik Açarınızı USB portuna və ya USB kabeli vasitəsilə qoşun. Açarınızda düymə və ya qızılı dairə varsa, ona klikləyin.</string>
+    <string name="fido_use_ble_instead">Təhlükəsizlik Açarını Bluetooth ilə istifadə edin</string>
+    <string name="fido_use_fp_instead">Barmaq izi ilə Təhlükəsizlik Açarından istifadə edin</string>
+    <string name="fido_use_nfc_instead">Təhlükəsizlik Açarını NFC ilə istifadə edin</string>
+    <string name="fido_use_usb_instead">Təhlükəsizlik Açarınızı USB ilə istifadə edin</string>
+    <string name="fido_welcome_body">Təhlükəsizlik Açarını %1$s ilə istifadə etmək şəxsi datanızı qorumağa kömək edir.</string>
+    <string name="fido_welcome_title">Təhlükəsizlik Açarını %1$s ilə istifadə edin</string>
+    <string name="fingerprint_description">Barmaq izinizi doğrulayın ki, %1$s sizi təsdiq edə bilsin.</string>
+    <string name="fingerprint_no_imprints_description">%1$s barmaq izinizlə kimliyinizi doğrulamaq istəyir, lakin Siz hələ cihaza barmaq izi əlavə etməmisiniz.</string>
+    <string name="fingerprint_not_recognized">Barmaq izi tanınmadı. Yenidən cəhd edin</string>
+    <string name="fingerprint_success">Barmaq izi tanındı</string>
+    <string name="gcm_fallback_notification_channel_label">Müxtəlif</string>
+    <string name="google_app_permissions_title">Tətbiq İcazələri</string>
+    <string name="google_legal_title">Google hüquqi</string>
+    <string name="google_play_tos_title">Google Play Xidmət Şərtləri</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Məxfilik Siyasəti</string>
+    <string name="google_privacy_policy_title">Google Məxfilik Siyasəti</string>
+    <string name="google_terms_of_service_title">Google Xidmət Şərtləri</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Tətbiqə şəbəkənin Wi-Fi kredensiallarını başqa cihaza köçürmək icazəsi verin.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi kredensiallarını köçürün</string>
+    <string name="no_screen_lock_description">Əvvəlcə cihazda ekran kilidi quraşdırmalısınız</string>
+    <string name="no_screen_lock_title">Telefonda ekran kilidi yoxdur</string>
+    <string name="notification_ticker">Giriş Sorğusu göndərildi</string>
+    <string name="open_source_activity_prompt_heading">Tətbiqi Açın</string>
+    <string name="open_source_activity_prompt_text">"Doğrulama prosesini tamamlamaq üçün telefonunuzda SourceResponseActivity açın. "</string>
+    <string name="permgrouplab_calendar">Təqvim</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktlar</string>
+    <string name="permgrouplab_location">Yer</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Bədən Sensorları</string>
+    <string name="permgrouplab_storage">Yaddaş</string>
+    <string name="permissions_not_granted_text">İcazəni əldə etmək üçün yenidən daxil olun.</string>
+    <string name="permissions_not_granted_title">İcazə verilmədi.</string>
+    <string name="plus_manage_app_only_you_label">Yalnız Siz</string>
+    <string name="plus_network_unreliable">Server ilə güvənli əlaqə yaradıla bilmədi.</string>
+    <string name="plus_oob_interstitial_loading_text">Bu, bir neçə dəqiqə vaxt ala bilər.</string>
+    <string name="search_menu_title">Axtarış</string>
+    <string name="set_up">QURAŞDIRIN</string>
+    <string name="setupservices_additional_privacy_title">Əlavə Məxfilik Məlumatı</string>
+    <string name="setupservices_android_privacy_policy_title">Əlavə Məxfilik Siyasəti</string>
+    <string name="setupservices_chrome_privacy_title">Chrome Məxfilik Bildirişi</string>
+    <string name="setupservices_chrome_tos_title">Chrome Xidmət Şərtləri</string>
+    <string name="setupservices_google_app_permissions_title">Tətbiq İcazələri</string>
+    <string name="setupservices_google_legal_title">Google hüquqi</string>
+    <string name="setupservices_google_play_tos_title">Google Play Xidmət Şərtləri</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus Məxfilik Siyasəti</string>
+    <string name="setupservices_google_privacy_policy_title">Google Məxfilik Siyasəti</string>
+    <string name="setupservices_google_services_agreement">"Davam etməklə, bu cihazın mobil data istifadə edərək Google'dan, operatordan və cihaz istehsalçısından yeniliklər və proqramlar endirə və quraşdıra biləcəyi ilə razılaşırsınız. Bu tətbiqlərdən bəziləri tətbiqdaxili satınalmalar təklif edə bilər. İstədiyiniz zaman tətbiqləri silə bilərsiniz."</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Tətbiqləri silmək üçün, Ayarlar > Tətbiqlər və ya Tətbiq meneceri bölməsinə gedin. Sonra sistemdən silmək istədiyiniz tətbiqin üzərinə klikləyin (tətbiqi tapmaq üçün sağa və ya sola sürüşdürə bilərsiniz). Daha sonra Sistemdən silməyi və ya Deaktiv etməyi seçin.</string>
+    <string name="setupservices_google_services_agreement_korea">Bununla, öncədən yüklənmiş Google tətbiqlərinə cihazdakı məlumat və funksiyalara girişə icazə verirsiniz. Bu icazələrin istifadəsi haqqında ətraflı məlumat üçün <annotation link="app_permissions">bu səhifəyə</annotation> baxın.</string>
+    <string name="setupservices_google_services_agreement_title">Yenilikləri və tətbiqləri quraşdırın</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Telefonun yaddaşı tam dolduqda yedəklənmiş foto və videolar kimi bəzi dataları silməklə yer boşaldın.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Qoşulduğunuz zaman, hələ də bu dataya daxil ola bilərsiniz. Ayarlar > Yaddaş > Ağıllı Yaddaş bölməsinə daxil olmaqla bu funksiyaya və silinənlərə nəzarət edə bilərsiniz.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Yer boşaldın</string>
+    <string name="setupservices_google_services_backup">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası və cihaz ayarları (həmçinin Wi‑Fi parolları) daxildir.</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Yedək data Disk yaddaşı kvotasına təsir etməyəcək."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Tətbiq datası kontakt, mesaj və foto kimi potensial həssas data daxil olmaqla tətbiq tərəfindən yadda saxlanılan (developer ayarlarından asılı olaraq) istənilən data ola bilər.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Bu xidməti Ayarlardan deaktiv edə bilərsiniz.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+İstənilən cihazdan axtarmaq, redaktə etmək, silmək və paylaşmaq üçün bu cihazdakı foto və videolar Google Fotoya sinxronizasiya olunur. Defolt olaraq, yüksək keyfiyyətli foto və videolar Google Fotoya yüklənir.
+
+Yedək data Disk yaddaşı kvotasına təsir etməyəcək."</string>
+    <string name="setupservices_google_services_backup_title">Google Diskə yedəkləyin</string>
+    <string name="setupservices_google_services_backup_v23">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası, zəng tarixçəsi, kontaktlar, cihaz ayarları (həmçinin Wi‑Fi parolları və icazələri) daxildir.</string>
+    <string name="setupservices_google_services_backup_v26">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası, zəng tarixçəsi, kontaktlar, cihaz ayarları (həmçinin Wi‑Fi parolları və icazələri) və SMS daxildir.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası, zəng tarixçəsi, kontaktlar, cihaz ayarları (həmçinin Wi‑Fi parolları və icazələri) daxildir. Foto və videolar Google Foto kitabxanasına sinxronizasiya edilir və xidmətlər üzərindən istifadə edilə bilər.</string>
+    <string name="setupservices_google_services_data_policy">"Data Google'un "<annotation link="google_privacy">Məxfilik Siyasətinə</annotation> uyğun istifadə ediləcək.</string>
+    <string name="setupservices_google_services_data_policy_korea">"Data Google'un "<annotation link="google_privacy">Məxfilik Siyasətinə</annotation> (bura <annotation link="additional_privacy">kolleksiya, yaddaş, şəxsi məlumatdan istifadə</annotation> daxildir) və <annotation link="location_tos">Məkan Xidmət Şərtlərinə</annotation> uyğun istifadə ediləcək.</string>
+    <string name="setupservices_google_services_description">Xidmətin aktiv və deaktiv edilməsi haqqında ətraflı məlumat əldə etmək üçün klikləyin. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Tətbiqdaxili satınalmalar da daxil olmaqla, tətbiq detallarını Play Mağazada tapa bilərsiniz. Tətbiq datası və ayarlar Google Hesabına girişi olan cihazlara sinxronizasiya olunur. 
+
+Ani tətbiqlərin istifadəsi "<a href="https://play.google.com/about/play-terms.html">Google Play Xidmət Şərtləri</a>" tərəfindən idarə olunur. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Ətraflı məlumat</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Linkə kliklədiyiniz zaman, Google Play Ani tətbiqin mövcudluğunu yoxlayır və onu quraşdırmadan idarə edir. Ani tətbiqlər müvəqqəti olaraq cihazda saxlanılır.</string>
+    <string name="setupservices_google_services_instant_apps_title">Tətbiqləri quraşdırmadan istifadə edin</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google'un məkan xidməti Wi‑Fi və mobil şəbəkə kimi mənbələrdən istifadə edərək cihaz məkanını tapmağa kömək edir.
+
+Cihazda əsas Məkan ayarını deaktiv etməklə Məkanı da deaktiv edə bilərsiniz. Məkan ayarlarından Wi‑Fi və Bluetooth Skanı üçün Wi‑Fi və mobil şəbəkələri deaktiv edə bilərsiniz."</string>
+    <string name="setupservices_google_services_location_sharing_title">Məkanı tapmaqda tətbiqlərə kömək edin</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Məkan istifadə edin</string>
+    <string name="setupservices_google_services_location_sharing_v28">Məkan icazəsi olan tətbiq və xidmətlərə cihaz məkanından istifadə icazəsi verin. Google müntəzəm olaraq məkan datasını toplaya və bu datanı məkan dəqiqliyi və məkanla bağlı xidmətləri təkmilləşdirmək üçün istifadə edə bilər.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Wi‑Fi deaktiv olduqda belə, tətbiq və xidmətlərə onu skan etməyə icazə verin.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Bunu məkan ayarlarından deaktiv edə bilərsiniz.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Məkan dəqiqliyini təkmilləşdirin</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Skana icazə verin</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Bu ayarlar deaktiv olduqda belə, tətbiq və xidmətlərə Wi‑Fi və Bluetooth siqnallarını skan etməyə icazə verin.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Tətbiq və xidmətlərin Wi‑Fi şəbəkələrini və yaxınlıqdakı cihazları istənilən zaman (Wi‑Fi və ya Bluetooth deaktiv olduqda belə) skan etməsinə icazə verin.</string>
+    <string name="setupservices_google_services_next_button_label">Razıyam</string>
+    <string name="setupservices_google_services_play">"Google Play'də olan xəbər və təkliflər barədə məni xəbərdar edin."</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Yedəkləmə və yaddaş</string>
+    <string name="setupservices_google_services_section_device_maintenance">Cihaz texniki xidməti</string>
+    <string name="setupservices_google_services_tos">Davam etsəniz, <annotation link="tos">Google Xidmət Şərtləri</annotation> ilə razılaşırsınız.</string>
+    <string name="setupservices_google_services_tos_agree">\"Razıyam\" seçimini etməklə yuxarıda təsvir olunan Google xidmətləri haqqında əməliyyatlarla razılaşırsınız.</string>
+    <string name="setupservices_google_services_tos_germany">Bu cihazı istifadə etdikdə, <annotation link="google_privacy">Məxfilik Siyasətimiz</annotation> və <annotation link="tos">əlavə şərtlər</annotation> ilə nəzarət edirik.</string>
+    <string name="setupservices_google_services_usage_reporting">"Google'a diaqnostika, cihaz və tətbiq istifadə datasını avtomatik göndərməklə Android təcrübənizi inkişaf etdirməyə kömək edin. Bu, enerji sərfiyyatı, tətbiq sabitliyi, şəbəkə bağlantısı kimi məsələləri təkmilləşdirməyə kömək edəcək. Əlavə Veb və Tətbiq fəaliyyətini aktivləşdirsəniz, bu məlumat hesabda saxlanılacaq, beləliklə, siz onu Fəaliyyətim bölməsindən idarə edə biləcəksiniz."</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Bu ümumi məlumat cihaz və onun istifadəsi haqqındadır (enerji səviyyəsi, tətbiq istifadəsi və şəbəkə bağlantısı kimi). Data, Google məhsullarını və xidmətlərini hər kəs üçün təkmilləşdirmək məqsədi ilə istifadə olunacaq. Bəzi ümumiləşdirilmiş məlumatlar Android developerləri kimi partnyorlara tətbiq və məhsullarını daha da yaxşılaşdırmaqda kömək edəcək.
+
+Bu funksiyanı deaktiv etmək, sistem güncəlləməsi və təhlükəsizlik kimi mühüm xidmətlərə lazım olan məlumatı göndərməyə təsir etməyəcək."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Fəaliyyətim ayarlarını myactivity.google.com saytında yeniləyə bilərsiniz.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Bu funksiyanı Google Ayarlarından idarə edə bilərsiniz. Menyudan İstifadə və diaqnostika bölməsini seçin.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Bu funksiyanı Ayarlar > Google bölməsindən idarə edə bilərsiniz. Menyudan İstifadə və diaqnostika bölməsini seçin.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Sistem datasını göndərin</string>
+    <string name="setupservices_google_services_wallpaper_permission">Google məkan xidmətlərinə daxil olaraq Google Canlı divar kağızlarının məkana cavab verməsinə icazə verin.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Ayarlar > Tətbiq və bildirişlər > Tətbiq məlumatı bölməsinə gedərək Canlı divar kağızları üçün Google’un məkan xidmətinə girişi aktiv və ya deaktiv edə bilərsiniz. Açılan menyuda sistemi Göstərin > Canlı data divar kağızları və ya Canlı Dünya Divar Kağızları > İcazələrə klikləyin .</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Divar kağızlarının məkanı istifadə etməsinə icazə verin</string>
+    <string name="setupservices_google_terms_of_service_title">Google Xidmət Şərtləri</string>
+    <string name="setupservices_kids_google_services_agreement">"Davam etməklə, bu cihazın mobil data istifadə edərək Google'dan, operatordan və bu cihazın istehsalçısından avtomatik yeniliklər və proqramlar endirməsi və quraşdırması ilə razılaşırsınız. Bu tətbiqlərdən bəziləri tətbiqdaxili satınalmalar təklif edə bilər. İstədiyiniz zaman bu tətbiqləri silə bilərsiniz."</string>
+    <string name="setupservices_kids_google_services_backup">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası və cihaz ayarları (həmçinin Wi‑Fi parolları) daxildir.</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Yedək data övladınızın Disk yaddaşı kvotasına təsir etməyəcək."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+İstənilən cihazdan axtarmaq, redaktə etmək, silmək və paylaşmaq üçün bu cihazdakı foto və videolar övladınızın Google Foto tətbiqinə sinxronizasiya olunur. Defolt olaraq, yüksək keyfiyyətli foto və videolar Google Fotoya yüklənir.
+
+Yedək data övladınızın Disk yaddaşı kvotasına təsir etməyəcək."</string>
+    <string name="setupservices_kids_google_services_backup_v23">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası, zəng tarixçəsi, kontaktlar, cihaz ayarları (həmçinin Wi‑Fi parolları və icazələri) daxildir.</string>
+    <string name="setupservices_kids_google_services_backup_v26">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası, zəng tarixçəsi, kontaktlar, cihaz ayarları (həmçinin Wi‑Fi parolları və icazələri) və SMS daxildir.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">İstədiyiniz zaman, datanı bərpa edin və ya telefonları dəyişin. Yedəkləməyə tətbiqlər, tətbiq datası, zəng tarixçəsi, kontaktlar, cihaz ayarları (həmçinin Wi‑Fi parolları və icazələri), foto, video və SMS daxildir. Foto və videolar övladınızın Google Foto kitabxanasına sinxronizasiya edilir və xidmətlər üzərindən istifadə edilə bilər.</string>
+    <string name="setupservices_kids_google_services_description">Valideyn olaraq xidməti aktiv və ya deaktiv etmək kimi hər bir xidmət haqqında ətraflı məlumat əldə etmək üçün klikləyə bilərsiniz. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google'un məkan xidməti Wi‑Fi və mobil şəbəkə kimi mənbələrdən istifadə edərək cihaz məkanını tapmağa kömək edir.
+
+Cihazda əsas Məkan ayarını deaktiv etməklə Məkanı da deaktiv edə bilərsiniz. Məkan ayarlarından Wi‑Fi, mobil şəbəkələri və sensorları deaktiv edə bilərsiniz."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Məkan icazəsi olan tətbiq və xidmətlərə cihaz məkanından istifadə icazəsi verin. Google müntəzəm olaraq məkan datasını toplaya və bu datanı məkan dəqiqliyi və məkanla bağlı xidmətləri təkmilləşdirmək üçün istifadə edə bilər.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">"Google'a diaqnostika, cihaz və tətbiq istifadə datasını avtomatik göndərməklə, Android təcrübənizi inkişaf etdirməyə yardım edin. Bu, övladınızın aşkarlanması üçün istifadə edilməyəcək və batareya istifadəsi, tətbiq sabitliyi, şəbəkə bağlantısı kimi məsələləri təkmilləşdirməyə kömək edəcək. Veb və tətbiq Fəaliyyəti övladınız üçün aktivdirsə, bu məlumat övladınızın hesabında saxlanılacaq."</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Bu ümumi məlumat cihaz və onun istifadəsi haqqındadır (enerji sərfiyyatı, tətbiq istifadəsi və şəbəkə bağlantısı kimi). Data, Google məhsullarını və xidmətlərini hər kəs üçün təkmilləşdirmək məqsədi ilə istifadə olunacaq. Bəzi ümumiləşdirilmiş məlumatlar Android developerləri kimi partnyorlara tətbiq və məhsullarını daha da yaxşılaşdırmaqda kömək edəcək.
+
+Bu funksiyanı deaktiv etmək, sistem yenilənməsini və təhlükəsizlik kimi mühüm xidmətlərə lazım olan məlumatı göndərməyə təsir etməyəcək."</string>
+    <string name="setupservices_location_tos_title">Məkan Xidmət Şərtləri</string>
+    <string name="sid_lsid_grant_detail">Eynilə parol kimi, Sessiya İdentifikatoru (SID) və Məkan Sessiya İdentifikatoru (LSID) kukiləri kimliyinizi brauzerdən olan çoxsaylı sorğularla əlaqələndirir. Onlar hesab datanıza tam girişə imkan verir. Yalnız brauzerlər bu kukiləri qanuni istifadə edə bilər.</string>
+    <string name="sid_lsid_grant_label">SID və LSID kukiləri istifadə edərək bütün Google hesab datanıza giriş əldə edin.</string>
+    <string name="smartdevice_action_copy">Kopyalayın</string>
+    <string name="smartdevice_action_open_app">Tətbiqi aç</string>
+    <string name="smartdevice_action_try_another_way">Başqa Yolu Sınayın</string>
+    <string name="smartdevice_action_turn_on_location">Məkanı aktiv edin</string>
+    <string name="smartdevice_alert_disconnected_title">Cihaz qoşulmayıb.</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Yedəklənmə hesabınız cihaz administratoru tərəfindən idarə olunduğu üçün təssüf ki, bu xüsusiyyəti istidafə edə bilməzsiniz.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Xüsusiyyət əlçatan deyil</string>
+    <string name="smartdevice_alert_exit_setup_message">Digər cihazınızdakı quraşdırmadan çıxmaq istədiyinizə əminsiniz?</string>
+    <string name="smartdevice_alert_exit_setup_title">Cihaz quraşdırmasından çıxırsız?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Cihazınızı quraşdırmaq üçün, ən azı bir Google hesabı lazımdır.</string>
+    <string name="smartdevice_alert_no_accounts_text">%s cihazınızı quraşdırmaq üçün, ən azı bir Google hesabı lazımdır.</string>
+    <string name="smartdevice_alert_no_accounts_title">Kopyalanmaq üçün heç bir hesab yoxdur</string>
+    <string name="smartdevice_alert_quit_button">Tərk edin</string>
+    <string name="smartdevice_alert_restart_setup_button">Quraşdırmanı yenidən başladın</string>
+    <string name="smartdevice_alert_setup_incomplete">Quraşdırma tamamlanmadı</string>
+    <string name="smartdevice_alert_start_over_button">Yenidən başlayın</string>
+    <string name="smartdevice_alert_work_profile_message">İş hesabları hələ kopyalana bilmir. Digər Google Hesablarınızı və datanızı kopyaladıqdan sonra, iş hesabınızı əlavə etmək üçün yeni cihazınızda Ayarlar bölməsinə gedin.</string>
+    <string name="smartdevice_alert_work_profile_title">İş hesabı kopyalana bilmir</string>
+    <string name="smartdevice_application_label">Cihaz Ayarları</string>
+    <string name="smartdevice_choose_device">Cihazınızı seçin</string>
+    <string name="smartdevice_companion_app_ready">%s tətbiq artıq bu cihazda quraşdırılıb.</string>
+    <string name="smartdevice_connect_to_wifi">Cihazınızı qoşun</string>
+    <string name="smartdevice_connection_error">Digər cihaza qoşularkən xəta baş verdi</string>
+    <string name="smartdevice_connection_error_title">Qoşulmaq mümkün olmadı</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Cihazınıza qoşulur...</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google Hesabını və digər hesabları kopyalayın və əlçatan olarsa, Google Disk yedəkləmənizi bərpa edin</string>
+    <string name="smartdevice_d2d_copy_account_text">Google Hesabı və digər hesabları kopyalayın və əlçatan olarsa, Google Disk yedəkləmənizi bərpa edin</string>
+    <string name="smartdevice_d2d_copy_account_title">Başqa cihaza kopyalansın?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Tanınmır</string>
+    <string name="smartdevice_d2d_fingerprint_title">Barmaq izini təsdiq edin</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Təhlükəsizlik səbəbi ilə, barmaq izinizi təsdiq edin. Google Hesabı, tətbiq və datanız %s cihazına kopyalanacaq.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Cihazı ayarlamağa davam etmək üçün kiliddən çıxarın</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Ayarlamağa davam etmək üçün təhlükəsizlik məqsədilə ekran kilidinizi təsdiq etməlisiniz.</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Bluetooth sizin cihazınızda mövcud olmadığı üçün digər cihazı quraşdıra bilmir.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Təhlükəsizlik üçün, bu xüsusiyyət deaktiv edildi. Digər cihazınızda, Ötür düyməsinə toxunun və quraşdırma ilə davam edin.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Yeni cihaz ayarlayın</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Cihaz ayarları</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 ayarları</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Google Hesablarınız, tətbiq və datanızı düzgün cihaza kopyaladığınıza əmin olmaq üçün quraşdırmanı yenidən başladın və ^1 cihazınızı seçin.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Kodu görmürsünüz?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Məhdud istifadəçi profilindən yeni bir cihaz quraşdırmaq olmur.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">%s cihazınızda ayarlamağa davam edin</string>
+    <string name="smartdevice_d2d_source_setup_success">Demək olar ki, hazırdır!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Digər Android cihazından kopyalayın</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, bu cihazı ayarlamaq üçün növbəti addımları edin</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Google Hesablarınız, tətbiq və datanızı digər cihazınızdan kopyalansın</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Hesablar kopyalanır...</string>
+    <string name="smartdevice_d2d_target_description">1. &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> deyin və ya \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" yazaraq təsdiq etmək üçün klikləyin&lt;br/>&lt;br/> 2. Siyahıda &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> seçiminə klikləyin və ekrandakı təlimatlara əmə edin</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Əvəzinə bunu istifadə edin</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Digər cihazınızda:&lt;br/>&lt;br/> 1. &lt;b>Google Ayarları&lt;/b> tətbiqini açın&lt;br/>&lt;br/> 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title məsələn=Yaxınlıqdakı cihazı ayarlayın>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> başlığını seçin 3. Siyahıda &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> toxunun və ekran təlimatlarına əməl edin</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Bu addımları tamamlamaq mümkün olmadı</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Gəlin Ayarları istifadə edək</string>
+    <string name="smartdevice_d2d_target_help_text">Problem var?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Onu tapa bilmirsiniz?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Digər cihazınızda Google tətbiqini açın</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google tətbiqini açın</string>
+    <string name="smartdevice_d2d_target_instruction_title">Digər cihazınızda</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google tətbiqi bütün Android cihazlarında əvvəlcədən quraşdırılır. Bütün tətbiqlərə baxın və sonra yuxarıda göstərilən Google işarəsini axtarın.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Bu kod digər cihazınızdakı kod ilə uyğun olmalıdır:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Ötürməyin</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Ayarlama bu hesabı və yedəklənmiş tətbiqləri və datanı bu cihaza kopyalamayacaq.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">İstənilən halda ötürün</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Bu hesab ötürülsün?</string>
+    <string name="smartdevice_d2d_target_title">Google tətbiqində</string>
+    <string name="smartdevice_do_disclosure_generic">Datanı köçürmək mümkün deyil</string>
+    <string name="smartdevice_do_unsupported_message">Data idarə edilən cihazlardan köçürülə bilməz</string>
+    <string name="smartdevice_install_app">Tətbiqi quraşdırın</string>
+    <string name="smartdevice_install_app_reason">Almaq %1$s app nəzarət və yeni idarə etmək üçün %2$s Bu cihaz</string>
+    <string name="smartdevice_look_for_other_device">Digər cihazda bu adı axtarın</string>
+    <string name="smartdevice_magicwand_cancel_signin">Daxil olmayın</string>
+    <string name="smartdevice_magicwand_confirm_signin">Giriş başladı</string>
+    <string name="smartdevice_magicwand_consent_detail">Digər cihazda girişi tamamlamaq üçün <b>Daxil olun</b> əmrinə klikləyin.</string>
+    <string name="smartdevice_magicwand_consent_title">Girişi tamamlayın</string>
+    <string name="smartdevice_magicwand_error_detail">Xəta baş verdi və Google bu telefona daxil ola bilmədi.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Hesaba daxil olmaq üçün QR kodunu skan etdiniz.
+
+Təhülkəsizliyiniz üçün barmaq izini doğrulayın və digər cihazda daxil olanın Siz olduğunu təsdiq edin."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Bu əlavə mərhələlər cihazın təhlükəsiz olduğuna əmin olmağınıza kömək edir.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Hesaba daxil olmaq üçün QR kodunu skan etdiniz.
+
+Təhülkəsizliyiniz üçün barmaq izini doğrulayın və digər cihazda daxil olanın Siz olduğunu təsdiq edin."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">brauzerdə davam etmək üçün</string>
+    <string name="smartdevice_magicwand_success_detail">Digər cihazda brauzerə qayıdın.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Digər cihazda bu formaları axtarın</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Formaları doğrulayın</string>
+    <string name="smartdevice_problem_copying">Datanı digər cihaza kopayalayarkən xəta baş verdi</string>
+    <string name="smartdevice_problem_copying_title">Datanı kopyalamaq mümkün olmadı</string>
+    <string name="smartdevice_search_again">Yenidən axtarın</string>
+    <string name="smartdevice_searching_for_devices">Cihazlar axtarılır</string>
+    <string name="smartdevice_setup_info_installing_app">Tətbiq quraşdırılır...</string>
+    <string name="smartdevice_setup_intro_text">Başqa cihazınızı ayarlamaq üçün telefonun Bluetooth və Wi-Fi datası istifadə olunacaq</string>
+    <string name="smartdevice_setup_intro_text_nfc">"Başqa cihazınızı ayarlamaq üçün telefonun Bluetooth'u istifadə olunacaq"</string>
+    <string name="smartdevice_setup_intro_title">Başlanır</string>
+    <string name="smartdevice_setup_password_hint">WiFi parolunu daxil edin</string>
+    <string name="smartdevice_setup_show_password">Parolu göstərin</string>
+    <string name="smartdevice_setup_title_verify_code">Kodu doğrulayın</string>
+    <string name="smartdevice_target_hotphrase_instructions">Digər cihazda &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> söyləyin və ya axtarış qutusunda &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> yazın.</string>
+    <string name="smartdevice_type_typing_ok_google">Səsli əmrlər işləmirsə, axtarış qutusunda yazın. \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\" yazın</string>
+    <string name="smartdevice_verify_device">Cihazı doğrulayın</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Yalnız açıq şəbəkələri və WPA / WPA2 şəbəkələr quraşdırma bu cihaz üçün istifadə edilə bilər</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WiFi şəbəkədən istifadə etmək olmur</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi axtarmaq üçün, Məkanı aktiv edin.
+
+Bunu daha sonra istədiyiniz zaman Ayarlar bölməsindən dəyişə bilərsiniz."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi şəbəkələrini axtarmaq olmur</string>
+    <string name="storage_management_wear_descriptive_text">Tətbiqlər cihazınızı datanızı danışa bilən etmək məqsədilə replikasiya etmək üçün işlədir.</string>
+    <string name="storage_management_wear_manage_size_label">Daşına bilən yaddaşı idarə edin</string>
+    <string name="storage_management_wear_size_label">Daşına bilən yaddaş</string>
+    <string name="storage_managment_all_storage_descriptive_text">Axtarış mühərriki və digər data daxil olmaqla Google Play xidmətləri tərəfindən istifadə olunan ümumi data.</string>
+    <string name="storage_managment_clear_all_data">Bütün datanı sil</string>
+    <string name="storage_managment_computing_size">Hesablanır...</string>
+    <string name="storage_managment_icing_size_label">Axtarış Datası</string>
+    <string name="storage_managment_manage_icing_button">Axtarış datasını idarə edin</string>
+    <string name="storage_managment_search_index_descriptive_text">Tətbiqlərinizin işlətməsi üçün axtarış mühərriki təchiz edərək cihazınızda axtarışı sürətləndiririk.</string>
+    <string name="storage_managment_title">Google Play xidmət yaddaşı</string>
+    <string name="storage_managment_total_size_label">Ümumi yaddaş</string>
+    <string name="suw_back_button_label">Geri</string>
+    <string name="suw_more_button_label">Daha çox</string>
+    <string name="suw_next_button_label">Növbəti</string>
+    <string name="uncertified_notification_expired_content">Google tətbiq və xidmətləri artıq bu cihazda işləmir. Ətraflı məlumat üçün klikləyin.</string>
+    <string name="uncertified_notification_expired_title">Qeydiyyat vaxtı başa çatdı</string>
+    <string name="uncertified_notification_expiring_title">Qeydiyyat vaxtı başa çatır</string>
+    <string name="use_nearby_device_heading">Yaxınlıqdakı cihaz istifadə edilsin?</string>
+    <string name="use_nearby_device_text">Etibarnamənin verilməsi üçün yaxınlıqdakı cihazı istifadə etmək istəyirsiniz?</string>
+    <string name="v7_preference_off">DEAKTİV</string>
+    <string name="v7_preference_on">AKTİV</string>
+    <string name="verify_your_identity_description">%1$s Sizi doğrulamağı tələb edir.</string>
+    <string name="verify_your_identity_title">Kimliyinizi təsdiqləyin</string>
+    <string name="waiting_for_account_info_text">Hesab məlumatını gözləyir...</string>
+</resources>

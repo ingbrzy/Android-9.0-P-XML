@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">მთავარზე ნავიგაცია</string>
+    <string name="abc_action_bar_up_description">ზემოთ ნავიგაცია</string>
+    <string name="abc_action_menu_overflow_description">მეტი ვარიანტები</string>
+    <string name="abc_action_mode_done">დასრულდა</string>
+    <string name="abc_activity_chooser_view_see_all">ყველას ნახვა</string>
+    <string name="abc_activitychooserview_choose_application">აპის არჩევა</string>
+    <string name="abc_capital_off">გამორთულია</string>
+    <string name="abc_capital_on">ჩართულია</string>
+    <string name="abc_search_hint">ძიება...</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_query">ძიების მოთხოვნა</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_shareactionprovider_share_with">გაზიარება:</string>
+    <string name="abc_shareactionprovider_share_with_application">გაუზიარეთ %s-ს</string>
+    <string name="abc_toolbar_collapse_description">აკეცვა</string>
+    <string name="account_blocked_title">ანგარიში დაიბლოკა</string>
+    <string name="account_level_title">საჭიროა ზომის მიღება ანგარიშში</string>
+    <string name="account_removed_notification_text">%1$s ამოიშალა, რადგან მოწყობილობის მართვა არ დასრულდა</string>
+    <string name="account_removed_notification_title">ანგარიში ამოიშალა</string>
+    <string name="android_privacy_policy_title">დამატებითი კონფიდენციალურობის დებულება</string>
+    <string name="app_level_title">შესვლის მოთხოვნა</string>
+    <string name="app_level_title_secondary">შესვლის მოთხოვნა %s-ის მიერ</string>
+    <string name="audience_selection_done">მზადაა</string>
+    <string name="auth_account_already_has_gmail">ამ ანგარიშს უკვე აქვს Gmail.</string>
+    <string name="auth_account_content_provider_label">Google ანგარიშის მონაცემები</string>
+    <string name="auth_account_module_display_name">Google ანგარიშები</string>
+    <string name="auth_account_removed_default_description">მოწყობილობის მართვა არ დასრულდა. %1$s</string>
+    <string name="auth_account_removed_default_title">დაყენება გაუქმდა</string>
+    <string name="auth_account_removed_dm_bad_result_description">მოწყობილობის მართვის დასრულება ვერ მოხერხდა. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">თქვენი დომენი საჭიროებს მობილური მოწყობილობის მართვას, თუმცა ის ამ მოწყობილობაზე მხარდაუჭერელია. ცადეთ სხვა ანგარიშის გამოყენება.</string>
+    <string name="auth_account_removed_dm_not_supported_title">მოწყობილობის მართვა მხარდაუჭერელია</string>
+    <string name="auth_account_removed_dm_setup_failed_description">მოწყობილობის მართვა სწორად არ დაინსტალირდა. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">ინსტალაციის პრობლემა</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">დაყენება გაუქმდა</string>
+    <string name="auth_account_removed_restricted_by_admin_description">ამ მოწყობილობაზე ნებადართულია მხოლოდ ერთი მართული ანგარიში. შეკითხვების არსებობის შემთხვევაში, დაუკავშირდით თქვენი ორგანიზაციის ადმინისტრატორს.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">მართული ანგარიში უკვე არსებობს</string>
+    <string name="auth_account_settings_title">ანგარიშის პარამეტრები</string>
+    <string name="auth_account_setup_title">Google ანგარიში</string>
+    <string name="auth_account_start_over_and_signin_again">დაიწყეთ თავიდან და ხელახლა შედით სისტემაში.</string>
+    <string name="auth_account_state_sync_title">ანგარიშის მდგომარეობის სინქრონიზაცია</string>
+    <string name="auth_allow_external_site_access">ჰქონდეს მუდმივი წვდომა თქვენს მონაცემებთან საიტზე: %s</string>
+    <string name="auth_app_permission_ok_footnote">გაგრძელებით, თქვენ ნებას რთავთ ამ აპს და Google-ს გამოიყენოს თქვენი მონაცემები თავისი მომსახურების პირობებისა და კონფიდენციალურობის დებულებების შესაბამისად.</string>
+    <string name="auth_cant_add_work_account_message">ამ ტიპის ანგარიშს თქვენი ორგანიზაცია მართავს.</string>
+    <string name="auth_captcha_instructions">შეიყვანეთ ტექსტი, რომელსაც აქ ხედავთ:</string>
+    <string name="auth_captcha_title">საჭიროა CAPTCHA-ს შეყვანა</string>
+    <string name="auth_common_downloading">მიმდინარეობს ჩამოტვირთვა…</string>
+    <string name="auth_common_go_back">უკან დაბრუნება</string>
+    <string name="auth_common_switch_accounts">ანგარიშების გადართვა</string>
+    <string name="auth_communicating_message">თქვენი მოწყობილობა უკავშირდება Google-ს თქვენს ანგარიშში ინფორმაციის შესანახად. ამას შესაძლოა დასჭირდეს 5 წუთამდე.</string>
+    <string name="auth_confirm_creds_sync_title">ავტორიზაციის მონაცემების მდგომარეობა</string>
+    <string name="auth_d2d_source_alert_title">მონაცემების შეხებით გადატანა</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">დაბლოკვა და დადასტურება</string>
+    <string name="auth_d2d_source_copy_notice">გადაირანოს ანგარიშების ასლები და მონაცემები სხვა მოწყობილობაზე?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">თქვენი დასტურის შემდეგ, ჩაირთვება Bluetooth და თქვენი მოწყობილობები შეძლებენ დაკავშირებას.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">თქვენი დასტურის შემდეგ, თქვენი მოწყობილობები დაუკავშირდება Bluetooth-ის მეშვეობით.</string>
+    <string name="auth_d2d_source_lock_notice">გაგრძელდებისათვის,დაიბლოკება თქვენი ეკრანი და დამოწმებისათვის მოგთხოვთ განბლოკვას.</string>
+    <string name="auth_d2d_source_no_accounts_toast">მონაცემების შეხებით გადატანა ვერ ხერხდება, რადგან ამ მოწყობილობაზე ანგარიშები არ არის.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">მონაცემების შეხებით გადატანა ვერ ხერხდება, რადგან თქვენს მოწყობილობაზე Bluetooth ხელმისაწვდომი არ არის.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">ჩაირთვება Bluetooth და თქვენი მოწყობილობები შეიძლებენ დაკავშირებას.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">ეს იყენებს Bluetooth-ს.</string>
+    <string name="auth_d2d_source_notification_title">მონაცემების გადატანა დასრულდა</string>
+    <string name="auth_d2d_source_restricted_user_toast">მომხმარებლის შეზღუდული პროფილიდან შეხება და აღდგენა ვერ განხორციელდება.</string>
+    <string name="auth_d2d_source_title">ანგარიშების აღდგენა</string>
+    <string name="auth_d2d_source_unknown_device_name">უცნობი მოწყობილობა</string>
+    <string name="auth_d2d_tap_and_go">მონაცემების შეხებით გადატანა</string>
+    <string name="auth_d2d_target_tap_progress_message">გასაგრძელებლად, თქვენს სხვა მოწყობილობაზე შეხებით აირჩიეთ „კარგი“</string>
+    <string name="auth_d2d_target_title">მონაცემების შეხებით გადატანა</string>
+    <string name="auth_d2d_target_unlock_progress_message">შეამოწმეთ თქვენი სხვა მოწყობილობა</string>
+    <string name="auth_d2d_target_wait_progress_message">ანგარიშების და მონაცემების მიღება...</string>
+    <string name="auth_default_device_name">მოწყობილობების მწარმოებელი Android</string>
+    <string name="auth_device_management_download_app_icon">%s აპის ხატულა</string>
+    <string name="auth_device_management_download_description">ეს ანგარიში მობილურ მოწყობილობათა მართვას საჭიროებს. ანგარიშისთვის აუცილებელი უსაფრთხოების წესების ასამოქმედებლად, დააინსტალირეთ ^1 აპი.</string>
+    <string name="auth_device_management_download_description_kids">ანგარიშის ამ მოწყობილობაში დასამატებლად, ჯერ დააინსტალირეთ <b>^1</b>". 
+
+^1 ამ მოწყობილობის თქვენი ბავშვისთვის გამართვაში დაგეხმარებათ."</string>
+    <string name="auth_device_management_download_failed_message">დაყენების გაგრძელება ამ აპის გარეშეც შეგიძლიათ</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">მოწყობილობის მართვის ინსტალაცია ვერ მოხერხდა. ეს ანგარიში ამოიშლება. გთხოვთ, ცადოთ მოგვიანებით.</string>
+    <string name="auth_device_management_download_failed_title">აპი ვერ ჩამოიტვირთა</string>
+    <string name="auth_device_management_download_not_updated_message">დაყენების გაგრძელება მიმდინარე ვერსიის მეშვეობითაც შეგიძლიათ</string>
+    <string name="auth_device_management_download_paused">დაპაუზებულია</string>
+    <string name="auth_device_management_download_progress">მიმდინარეობს ჩამოტვირთვა…</string>
+    <string name="auth_device_management_download_skip_message">ეს ანგარიში საჭიროებს მოწყობილობის მართვას. გსურთ მის გარეშე გაგრძელება?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">ამ ანგარიშის დამატება საჭიროებს მოწყობილობის მართვას. გსურთ თავიდან დაწყება სხვა ანგარიშით?</string>
+    <string name="auth_device_management_go_back">უკან დაბრუნება</string>
+    <string name="auth_device_management_screenlock_description">ამ მოწყობილობაზე თქვენს სამსახურის ანგარიშზე წვდომისთვის, ეკრანის დაბლოკვის მეთოდის დაყენება დაგჭირდებათ. ამას თქვენი ორგანიზაციის მობილურ მოწყობილობებთან დაკავშირებული წესები მოითხოვს.</string>
+    <string name="auth_device_management_screenlock_skip_message">ეს ანგარიში ეკრანის დაბლოკვით დაცვას მოითხოვს. გსურთ ხელახლა დაწყება სხვა ანგარიშით?</string>
+    <string name="auth_device_management_setup_work_profile_description">"სამსახურის პროფილი განცალკევებულად ინახავს თქვენს სამუშაოსთან დაკავშირებულ აპებს, რომლებიც თქვენი ორგანიზაციის მიერ იმართება.
+
+დაყენების პროცესის დასასრულებლად, თქვენი IT ადმინისტრატორისგან შესაბამისი კოდი დაგჭირდებათ. ამის შემდგომ, IT ადმინისტრატორი ჩამოტვირთავს მართვის ხელსაწყოს, რათა თქვენი სამსახურის პროფილის მართვა შეძლოს."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"სამსახურის პროფილი განცალკევებულად ინახავს თქვენს სამუშაოსთან დაკავშირებულ აპებს, რომლებიც თქვენი ორგანიზაციის მიერ იმართება.
+
+თქვენი IT ადმინისტრატორი ჩამოტვირთავს მართვის ხელსაწყოს, რათა თქვენი სამსახურის პროფილის მართვა შეძლოს."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">თქვენი Google სამუშაო პროფილის დაყენება</string>
+    <string name="auth_device_management_start_description">ეს ანგარიში მობილურ მოწყობილობათა მართვას საჭიროებს. „შემდეგი“-ზე შეხებისას, ^1 აპი ანგარიშისთვის აუცილებელ უსაფრთხოების წესებს აამოქმედებს.</string>
+    <string name="auth_device_management_start_description_kids">ანგარიშის ამ მოწყობილობაში დასამატებლად, გამოიყენეთ <b>^1</b>". 
+
+^1 ამ მოწყობილობის თქვენი ბავშვისთვის გამართვაში დაგეხმარებათ."</string>
+    <string name="auth_device_management_title">მოწყობილობის მართვა</string>
+    <string name="auth_device_management_update_description">ეს ანგარიში მობილურ მოწყობილობათა მართვას საჭიროებს. ანგარიშთან დაკავშირებული უსაფრთხოების წესების მოთხოვნების დასაკმაყოფილებლად, თქვენ უნდა დააინსტალიროთ ^1 აპის განახლებული ვერსია.</string>
+    <string name="auth_device_management_update_description_kids">ამ მოწყობილობაში დასამატებლად, ჯერ დააინსტალირეთ <b>^1</b>"-ის უახლესი ვერსია. 
+
+^1 ამ მოწყობილობის თქვენი ბავშვისთვის გამართვაში დაგეხმარებათ."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> არ იყენებს Gmail-ს.</string>
+    <string name="auth_error_account_disabled">"ეს ანგარიში გამორთულია. 
+
+(დეტალებისთვის ეწვიეთ http://google.com/accounts ნებისმიერი ვებ-ბრაუზერით.)"</string>
+    <string name="auth_error_account_not_verified">"ეს ანგარიში დაუდასტურებელია. შეამოწმეთ ელფოსტა და ანგარიშის დასადასტურებლად მიჰყევით ბმულს 
+
+(ანგარიშის ინფორმაციის აღსადგენად, თქვენი კომპიუტერიდან გახსენით ბმული http://www.google.com/accounts/recovery)."</string>
+    <string name="auth_error_bad_password">პაროლი ძალიან სუსტია ან შეიცავს არასწორ სიმბოლოებს. სცადეთ ხელახლა.</string>
+    <string name="auth_error_bad_username">მომხმარებლის არასწორი სახელი</string>
+    <string name="auth_error_generic_server_error">"წარმოიქმნა Google სერვერებთან კომუნიკაციის პრობლემა. 
+
+ სცადეთ მოგვიანებით."</string>
+    <string name="auth_error_invalid_second_factor">თქვენი აპის პაროლის გამოყენება ჩვეულებრივი ანგარიშის პაროლის ნაცვლად.</string>
+    <string name="auth_error_login_failed">"თქვენი მომხმარებლის სახელი და პაროლი ერთმანეთს არ ემთხვევა. სცადეთ ხელახლა.
+
+თქვენი ანგარიშის მონაცემების აღსადგენად გადადით google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">თქვენს ანგარიშზე წვდომისთვის, სისტემაში ვებიდან უნდა შეხვიდეთ. ბრაუზერიდან შესვლის დასაწყებად, შეხებით აირჩიეთ „შემდეგი“.</string>
+    <string name="auth_error_no_network">"თქვენ არ გაქვთ ქსელის კავშირი. 
+
+ ეს შეიძლება დროებითი პრობლემა იყოს. სცადეთ კიდევ ერთხელ ან დაუკავშირდით სხვა Wi-Fi ქსელს."</string>
+    <string name="auth_error_not_logged_in">მომხმარებელი სისტემაში შესული არ არის.</string>
+    <string name="auth_error_username_unavailable">მომხმარებლის სახელი მიუწვდომელია.</string>
+    <string name="auth_existing_account_error_text">ამ Android მოწყობილობაზე უკვე არის ^1 ანგარიში.</string>
+    <string name="auth_existing_account_error_title">ანგარიში უკვე არსებობს</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">მოწყობილობაში შესვლა შეუძლებელია, რადგან პაროლი ახლახან შეიცვალა. გთხოვთ, ხელახლა ცადოთ სისტემაში შესვლა პაროლის შეცვლიდან 24 საათის შემდეგ.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">მოწყობილობის დაცვის ფუნქციები აღარ იმუშავებს.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">მოწყობილობაზე არსებული ბოლო Google ანგარიშის გადაადგილება თქვენი პირადი პროფილის ფარგლებს გარეთ გამოიწვევს იმ ფუნქციების გამორთვას, რომლებიც მოწყობილობას ქურდობისგან იცავს. ამ ფუნქციების ხელახლა გასააქტიურებლად შეგიძლიათ, მოწყობილობაზე სხვა ანგარიში დაამატოთ.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">დარწმუნებული ხართ?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">გსურთ ანგარიშის სამსახურის პროფილში გადაადგილება?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">მოწყობილობაში შესვლა შეუძლებელია უცნობი შეცდომის გამო. გთხოვთ, ისარგებლოთ სხვა ანგარიშით ან ხელახლა ცადოთ შესვლა 24 საათის შემდეგ.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">გთხოვთ შეხვიდეთ მფლობელის ამ მოწყობილობაზე არსებული ერთ-ერთი ანგარიშის გამოყენებით</string>
+    <string name="auth_field_cant_be_blank">ველი არ შეიძლება იყოს ცარიელი.</string>
+    <string name="auth_frp_add_account_no">ახალი ანგარიშის გამოყენება</string>
+    <string name="auth_frp_add_account_prompt">ამ მოწყობილობაზე არსებული წინა Google ანგარიში დადასტურებული იყო. შეგიძლიათ ^1 ისევ დაამატოთ ამ მოწყობილობას ან გამოიყენოთ ახალი ანგარიში.</string>
+    <string name="auth_frp_add_account_yes">წინა ანგარიშის დამატება</string>
+    <string name="auth_frp_device_managed_label">ეს მოწყობილობა დაყენებულია იმგვარად, რომ თქვენი ორგანიზაციის მიერ იმართოს.</string>
+    <string name="auth_frp_download_management_app_label">დაყენების პროცესის გასაგრძელებლად, საჭიროა მოწყობილობის მართვის აპის ჩამოტვირთვა.</string>
+    <string name="auth_frp_enter_device_credentials_label">ადმინისტრატორის რეჟიმზე გადართვა</string>
+    <string name="auth_frp_install_dpc_error">მართვის აპლიკაციის ინსტალაცია ვერ განხორციელდა. ამ ეტაპის გამოტოვების შემთხვევაში, მოწყობილობა არ იქნება მართული.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">მართვის აპლიკაციის ინსტალაცია ვერ განხორციელდა. გთხოვთ, გადაამოწმოთ ინტერნეტ-კავშირი და ხელახლა ცადოთ.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">სანაცვლოდ, ჩემი Google ანგარიშის გამოყენება მსურს</string>
+    <string name="auth_frp_preadd_lkscreen_text">თქვენი მოწყობილობა დაბრუნდა ქარხნული პარამეტრებზე. მისი განბლოკვა შეგიძლიათ წინა საიდუმლო პაროლის მეშვეობით.</string>
+    <string name="auth_frp_preadd_lkscreen_title">ქარხნული პარამეტრების დაცვა</string>
+    <string name="auth_frp_start_reenroll_device_title">თქვენი სამსახურის მოწყობილობა</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">ამ ანგარიშზე წვდომა ვერ მოხერხდა. დარწმუნდით, რომ მოწყობილობა თქვენი ორგანიზაციის უსაფრთხოების წესებს აკმაყოფილებს. თუ ეს შეცდომა კვლავ შეგხვდებათ, დაუკავშირდით თქვენი ორგანიზაციის ადმინისტრატორს.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">ანგარიშის შეცდომა</string>
+    <string name="auth_gls_dmagent_activity_download_message">" თქვენი დომენი მობილური მოწყობილობების მართვას საჭიროებს. დააინსტალირეთ „Google Apps Device Policy“ აპი  "<b>^1</b> -ისთვის აუცილებელი უსაფრთხოების წესების გამოსაყენებლად.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ჩამოტვირთვა</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" შეიძლება შეიცავდეს მხოლოდ ასოებს,
+რიცხვებსა და წერტილებს."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> არ შეიცავს არცერთ ასოს.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> შეიცავს 6-ზე ნაკლებ, ან 30-ზე მეტ სიმბოლოს.</string>
+    <string name="auth_gls_is_not_available">მომხმარებლის სახელი <b>^1</b> მიუწვდომელია.</string>
+    <string name="auth_gls_name_checking_info_title">მიმდინარეობს ინფორმაციის შემოწმება…</string>
+    <string name="auth_gls_sync_item_title">%s-ის სინქტონიზაცია</string>
+    <string name="auth_gls_third_party_activity_download_message">" მოწყობილობაზე ან თქვენი ორგანიზაციის მიერ ადმინისტრირებულ სამსახურის პროფილში  "<b>^1</b> ანგარიშის დამატება არის საჭირო. ამის შესასრულებლად, გთხოვთ, მიჰყვეთ თქვენი IT ადმინისტრატორის მიერ მოწოდებულ ინსტრუქციას.</string>
+    <string name="auth_google_title_logo">Google-ის ლოგო</string>
+    <string name="auth_invalid_login_character">არასწორი სიმბოლო. დასაშვებია მხოლოდ 0-9, a-z, A-Z და წერტილები.</string>
+    <string name="auth_invalid_password_character">პაროლი შეიცავს დაუშვებელ სიმბოლოს.</string>
+    <string name="auth_invalid_username">შეყვანილი ტექსტი არ არის სწორი მომხმარებლის სახელი.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">არასწორი პაროლი შეიყვანეთ, ან თქვენი ანგარიში შეცვლილია. ხელახლა შეიყვანეთ პაროლი. თუ პაროლი დაგავიწყდათ და თქვენი ანგარიშის აღდგენა გსურთ, <annotation id="help_url">დააწკაპუნეთ აქ</annotation>.</string>
+    <string name="auth_login_task_title">მიმდინარეობს შესვლა</string>
+    <string name="auth_login_title">აკრიფეთ ელფოსტის მისამართი და პაროლი</string>
+    <string name="auth_minutemaid_ssl_error">" %s-თან დაკავშირებისას წარმოიქმნა პრობლემა."</string>
+    <string name="auth_network_unreliable_help">შეიძლება ეს პრობლემა დროებითია ან თქვენს Android-ის მოწყობილობაში არ არის უზრუნველყოფილი მონაცემთა გაცვლის სერვისები. პრობლემის მოუგვარებლობის შემთხვევაში დარეკეთ კლიენტების მხარდაჭერის ცენტრში.</string>
+    <string name="auth_no_network">თქვენ არ ხართ ჩართული ქსელში.</string>
+    <string name="auth_no_network_help">შეიძლება ეს დროებითი შეფერხება იყოს ან თქვენს Android მოწყობილობას არ ჰქონდეს მონაცემთა გადაცემის მხარდაჭერა. სცადეთ ხელახლა მობილურ ქსელზე მიერთებისას ან დაუკევშირდით Wi-Fi ქსელს.</string>
+    <string name="auth_no_network_help_wifi_only">ეს შეიძლება იყოს დროებითი პრობლემა. სცადეთ ხელახლა ან დაუკავშირდით Wi-Fi ქსელს.</string>
+    <string name="auth_otp_error">პრობლემა იყო უსაფრთხოების კოდის გენერირებისას.</string>
+    <string name="auth_otp_explained_paragraph">პაროლის დავიწყების ან სისტემაში შესვლის უჩვეულო მცდელობის შემთხვევაში, თქვენი ანგარიშის დაცვის მიზნით, Google-მა შეიძლება უსაფრთხოების კოდის შეყვანა მოგთხოვოთ. გამოიყენეთ ის ახლავე, ან დაბრუნდით მოგვიანებით ახლის მისაღებად.</string>
+    <string name="auth_otp_header_message">სისტემაში შესასვლელად ამ კოდის გამოყენების დრო</string>
+    <string name="auth_otp_no_accounts_available_message">ამ მოწყობილობაზე კონფიგურირებული ანგარიში არ არის.</string>
+    <string name="auth_otp_progress_dialog_message">უსაფრთხოების კოდის გენერირება.</string>
+    <string name="auth_otp_ten_digit_code_header">თქვენი უსაფრთხოების კოდები</string>
+    <string name="auth_otp_ten_digit_explaination">პაროლის დავიწყების ან სისტემაში ახალი მოწყობილობიდან თუ მდებარეობიდან შესვლის შემთხვევაში, თქვენი ანგარიშის დაცვის მიზნით, Google-მა შეიძლება ერთ-ერთი ან ორივე კოდის შეყვანა გთხოვოთ.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">ამ კოდებს ვადა გაუვა 15 წუთში, ან მას შემდეგ, რაც გამოიყენებთ. გაითვალისწინეთ, რომ კოდები მხოლოდ იმ URL-ების მქონე ვებგვერდებზე უნდა გამოიყენოთ, რომელიც იწყება შემდეგით: „https://accounts.google.com/“.</string>
+    <string name="auth_otp_ten_digit_usage_header">კოდების გამოყენების წესი</string>
+    <string name="auth_otp_ten_digits_code1">კოდი 1</string>
+    <string name="auth_otp_ten_digits_code2">კოდი 2</string>
+    <string name="auth_password">პაროლი</string>
+    <string name="auth_plus_audience_selection_description_acl">გაზიარება შემდეგთან:</string>
+    <string name="auth_plus_info_fragment_app_name">%s-ს ესაჭიროება:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%1$s-ს მოწყობილობაზე %2$s სურს:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">თქვენი გაფართოებული წრეები</string>
+    <string name="auth_plus_scope_fragment_mixed_label">არჩეული წრეები</string>
+    <string name="auth_plus_scope_fragment_public_label">ნებისმიერი ადამიანი ვებში</string>
+    <string name="auth_pre_factory_reset_title">თქვენი Google ანგარიშის დამახსოვრება</string>
+    <string name="auth_relogin_activity_title">ხელახლა აკრიფეთ პაროლი</string>
+    <string name="auth_remove_account_start_over">თავიდან დაწყება</string>
+    <string name="auth_request_accounts_list">ამ მოწყობილობაზე Google ანგარიშების სიის მიიღება.</string>
+    <string name="auth_scope_more_details">დამატებითი ინფორმაცია</string>
+    <string name="auth_server_error">Google-ის სერვერებთან დაკავშირებისას წარმოიშვა პრობლემა.</string>
+    <string name="auth_server_error_help">სცადეთ მოგვიანებით.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">ანგარიში დამატებულია</string>
+    <string name="auth_setup_wizard_account_added_description">თქვენი ანგარიში დამატებულია. Google-ის სერვისების ვარიანტების ასარჩევად, გთხოვთ, გადახვიდეთ შემდეგ ეტაპზე</string>
+    <string name="auth_setup_wizard_services_activity_title">Google სერვისები</string>
+    <string name="auth_setup_wizard_title">პარამეტრების დაყენების ოსტატი</string>
+    <string name="auth_show_error_title">შეცდომა</string>
+    <string name="auth_sign_in_agreement">შესვლით ეთანხმებით <annotation id="google_privacy">Google</annotation>-ის კონფიდენციალურობის დებულებას და კონფიდენციალურობის <annotation id="android_privacy">დამატებით პირობებს</annotation>.</string>
+    <string name="auth_sign_in_browser">ბრაუზერში შესვლა</string>
+    <string name="auth_sign_in_with_google_account_short">შესვლა თქვენი Google-ის ანგარიშით:</string>
+    <string name="auth_submission_error_text">წარმოიშვა შეცდომა. სცადეთ ხელახლა.</string>
+    <string name="auth_submission_title">უკაცრავად…</string>
+    <string name="auth_ui_activity_authenticating">მიმდინარეობს ავთენტიფიკაცია…</string>
+    <string name="auth_ui_activity_title">Google-ში შესვლა</string>
+    <string name="auth_ui_activity_title_browser_signin">შესვლა</string>
+    <string name="auth_ui_add_account_title">ანგარიშის დაყენება</string>
+    <string name="auth_uncertified_notification_description"><b>იმ მომხმარებელთა საყურადღებოდ, ვინც ეს მოწყობილობა იყიდა:</b>"
+მოწყობილობის მწარმოებელმა მასში Google აპები წინასწარ ჩატვირთა, Google-ისგან სერტიფიცირების გარეშე. დაუკავშირდით მწარმოებელს და მოითხოვეთ სერტიფიცირებული მოწყობილობა. შეიტყვეთ მეტი აქ: g.co/AndroidCertifiedDevice.
+
+"<b>ინფორმაცია არალიცენზირებული მწარმოებლებისთვის:</b>"
+Google აპებისა და სერვისების გასავრცელებლად, თქვენ Google-ისგან შესაბამისი ლიცენზია გჭირდებათ. განაცხადის შეტანა შეგიძლიათ მისამართზე: g.co/AndroidGMSContact.
+
+"<b>ინფორმაცია ლიცენზირებული მწარმოებლებისთვის:</b>"
+შემუშავების დროს Google აპებისა და სერვისების გამოსაყენებლად საჭიროა მოწყობილობის რეგისტრაცია. დამატებითი ინფორმაციისთვის დაუკავშირდით თქვენს Google ბიზნეს-დეველოპმენტის მენეჯერს.
+
+"<b>მოდიფიცირებული ROM-ის მომხმარებელთა საყურადღებოდ:</b>"
+მოდიფიცირებულ ROM-ში Google აპებისა და სერვისების გამოსაყენებლად საჭიროა ამ მოწყობილობის რეგისტრაცია. შეიტყვეთ მეტი ბმულზე: g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">მოწყობილობა არ არის Google-ის მიერ სერტიფიცირებული</string>
+    <string name="auth_username">ელფოსტა</string>
+    <string name="auth_work_authenticator_label">მართული ანგარიში</string>
+    <string name="authorization_dialog">ავტორიზაციის დიალოგი</string>
+    <string name="chrome_privacy_title">შენიშვნა Chrome-ის კონფიდენციალურობის შესახებ</string>
+    <string name="chrome_tos_title">Chrome მომსახურების პირობები</string>
+    <string name="close_button_label">დახურვა</string>
+    <string name="common_accept">მიღება</string>
+    <string name="common_add">დამატება</string>
+    <string name="common_add_account_label">ანგარიშის დამატება</string>
+    <string name="common_ads_settings_title">რეკლამები</string>
+    <string name="common_agree">ვეთანხმები</string>
+    <string name="common_app_name">Google Play სერვისები</string>
+    <string name="common_application_info">აპლიკაციის შესახებ</string>
+    <string name="common_application_info_composed_string">აპლიკაციის შესახებ</string>
+    <string name="common_asm_google_account_title">Google ანგარიში</string>
+    <string name="common_asm_manage_google_account_title">თქვენი Google ანგარიშის მართვა</string>
+    <string name="common_asm_preferences_settings_title">ანგარიშის პარამეტრები</string>
+    <string name="common_asm_privacy_settings_title">კონფიდენციალურობის პარამეტრები</string>
+    <string name="common_asm_security_settings_title">შესვლა და უსაფრთხოება</string>
+    <string name="common_back">უკან</string>
+    <string name="common_battery">ბატარეა</string>
+    <string name="common_block">დაბლოკვა</string>
+    <string name="common_cancel">გაუქმება</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ვერ ეშვება (ნებართვის შეცდომა).</string>
+    <string name="common_car_permission_desc">მანქანის სერვისზე წვდომა.</string>
+    <string name="common_car_permission_label">მანქანის სერვისი</string>
+    <string name="common_card">ბარათი</string>
+    <string name="common_chips_label_empty_circles">წრეებია არ არის</string>
+    <string name="common_chips_label_extended_circles">გაფართოებული წრეები</string>
+    <string name="common_chips_label_only_you">მხოლოდ თქვენ</string>
+    <string name="common_chips_label_public">საჯარო</string>
+    <string name="common_chips_label_your_circles">თქვენი წრეები</string>
+    <string name="common_choose_account_label">ანგარიშის არჩევა</string>
+    <string name="common_confirm_screen_lock_title">დაადასტურეთ თქვენი ეკრანის დაბლოკვის მეთოდი</string>
+    <string name="common_connect">დაკავშირება</string>
+    <string name="common_connected">დაკავშირებულია</string>
+    <string name="common_connected_apps_settings_title">დაკავშირებული აპები</string>
+    <string name="common_connecting">დაკავშირება…</string>
+    <string name="common_continue">გაგრძელება</string>
+    <string name="common_disabled">გათიშულია</string>
+    <string name="common_disagree">არ ვეთანხმები</string>
+    <string name="common_disconnect">გათიშვა</string>
+    <string name="common_dismiss">დახურვა</string>
+    <string name="common_done">მზადაა</string>
+    <string name="common_edit">რედაქტირება</string>
+    <string name="common_email">ელფოსტა</string>
+    <string name="common_fingerprint_hint">შეეხეთ სენსორს</string>
+    <string name="common_from">გამგზავნი:</string>
+    <string name="common_games_settings_title">თამაშები</string>
+    <string name="common_get_started">დაწყება</string>
+    <string name="common_google_play_services_enable_button">ჩართვა</string>
+    <string name="common_google_play_services_enable_text">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="common_google_play_services_enable_title">Google Play Services-ის ჩართვა</string>
+    <string name="common_google_play_services_error_dialog_title">შეცდომა</string>
+    <string name="common_google_play_services_install_button">ინსტალაცია</string>
+    <string name="common_google_play_services_install_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="common_google_play_services_install_title">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services-ის ხელმისაწვდომობა</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_google_play_services_update_text">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_google_play_services_update_title">განაახლეთ Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="common_google_play_services_updating_title">Google Play Services ახლდება</string>
+    <string name="common_google_play_services_wear_update_text">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play სერვისები არასწორი არქიტექტურით დაყენდა.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play სერვისები დაყენდა ისეთი არქიტექტურით (%1$s), რომელიც განსხვავდება თქვენი მოწყობილობის არქიტექტურისგან (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">არასწორი არქიტექტურა</string>
+    <string name="common_google_settings">Google პარამეტრები</string>
+    <string name="common_google_settings_account">ანგარიში</string>
+    <string name="common_google_settings_credentials_title">Smart Lock პაროლებისთვის</string>
+    <string name="common_got_it">გასაგებია</string>
+    <string name="common_install">ინსტალაცია</string>
+    <string name="common_learn_more">შეიტყვეთ მეტი</string>
+    <string name="common_list_apps_menu_help">დახმარება</string>
+    <string name="common_list_apps_menu_help_and_feedback">დახმარება და გამოხმაურება</string>
+    <string name="common_loading">იტვირთება…</string>
+    <string name="common_location_settings_title">მდებარეობა</string>
+    <string name="common_login_activity_task_title">მიმდინარეობს შესვლა…</string>
+    <string name="common_login_error_title">შესვლა ვერ მოხერხდა</string>
+    <string name="common_magictether_settings_title">მყისიერი ტეტერინგი</string>
+    <string name="common_maps_settings_title">Maps და Latitude</string>
+    <string name="common_mdm_feature_name">ჩემი მოწყობილობის პოვნა</string>
+    <string name="common_missing_url_viewer">არ არსებობს მაჩვენებელი გარე URL-ის საჩვენებლად.</string>
+    <string name="common_more">მეტი</string>
+    <string name="common_more_options">სხვა ვარიანტები</string>
+    <string name="common_mute_notification">შეტყობინების დადუმება</string>
+    <string name="common_network_unavailable">ინტერნეტთან კავშირი არ არის</string>
+    <string name="common_networking_settings_title">მუშაობა ქსელში</string>
+    <string name="common_never">არასოდეს</string>
+    <string name="common_next">შემდეგი</string>
+    <string name="common_no_browser_for_restricted_url">წვდომა შეზღუდულია. ბრაუზერი ვერ მოიძებნა.</string>
+    <string name="common_no_devices_found">მოწყობილობები ვერ მოიძებნა</string>
+    <string name="common_no_network">მიუწვდომელია, რადგან მოწყობილობა ხაზგარე რეჟიმშია</string>
+    <string name="common_no_thanks">არა, გმადლობთ</string>
+    <string name="common_not_now">ახლა არა</string>
+    <string name="common_off">გამორთული</string>
+    <string name="common_offline">თქვენ ხაზგარეშე რეჟიმში ხართ</string>
+    <string name="common_ok">კარგი</string>
+    <string name="common_on">ჩართული</string>
+    <string name="common_open">გახსნა</string>
+    <string name="common_open_on_phone">ტელეფონში გახსნა</string>
+    <string name="common_open_source_licenses">ღია კოდის ლიცენზიები</string>
+    <string name="common_pause">პაუზა</string>
+    <string name="common_people_settings_title">კონტაქტები</string>
+    <string name="common_permissions_enable_in_settings">პარამეტრებში ჩართვა</string>
+    <string name="common_permissions_missing_end">გასაგრძელებლად, გახსენით პარამეტრები, შემდეგ — ნებართვები და დაუშვით ყველა მითითებული ერთეული.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ჩასართავად, გადადით აქ:
+პარამეტრები >
+ნებართვები >
+Google Play სერვისები"</string>
+    <string name="common_permissions_missing_start">ეს აპი არ იმუშავებს გამართულად, სანამ Google Play სერვისებისთვის შემდეგ ნებართვებზე წვდომას არ დაუშვებთ:</string>
+    <string name="common_permissions_open_settings">პარამეტრების გახსნა</string>
+    <string name="common_phone">ტელეფონი</string>
+    <string name="common_play">დაკვრა</string>
+    <string name="common_privacy_policy">კონფიდენციალურობის დებულება</string>
+    <string name="common_privacy_policy_composed_string">კონფიდენციალურობის დებულება</string>
+    <string name="common_refresh">განახლება</string>
+    <string name="common_remove">ამოშლა</string>
+    <string name="common_reply">პასუხი</string>
+    <string name="common_restore">აღდგენა</string>
+    <string name="common_retry">ხელახლა ცდა</string>
+    <string name="common_save">შენახვა</string>
+    <string name="common_saved">შენახულია</string>
+    <string name="common_saving">მიმდინარეობს შენახვა…</string>
+    <string name="common_security_ootp_setting_title">უსაფრთხოების კოდი</string>
+    <string name="common_select">არჩევა</string>
+    <string name="common_send">გაგზავნა</string>
+    <string name="common_sending">იგზავნება…</string>
+    <string name="common_set_up_nearby_device_settings_title">ახლოს მდებარე მოწყობილობის დაყენება</string>
+    <string name="common_settings">პარამეტრები</string>
+    <string name="common_share">გაზიარება</string>
+    <string name="common_sign_in">შესვლა</string>
+    <string name="common_signin_button_text">შესვლა</string>
+    <string name="common_signin_button_text_long">Google-ით შესვლა</string>
+    <string name="common_skip">გამოტოვება</string>
+    <string name="common_skip_fingerprint">ეკრანის დაბლოკვის მეთოდის გამოყენება</string>
+    <string name="common_something_went_wrong">წარმოიქმნა შეფერხება</string>
+    <string name="common_system_info">სისტემის ინფორმაცია</string>
+    <string name="common_system_info_composed_string">ანგარიში და სისტემის ინფორმაცია</string>
+    <string name="common_take_photo_label">ფოტოს გადაღება</string>
+    <string name="common_terms_of_service">მომსახურების პირობები</string>
+    <string name="common_terms_of_service_composed_string">მომსახურების პირობები</string>
+    <string name="common_today">დღეს</string>
+    <string name="common_try_again">ხელახლა ცდა</string>
+    <string name="common_turn_on">ჩართვა</string>
+    <string name="common_turn_on_bluetooth">Bluetooth-ის ჩართვა</string>
+    <string name="common_turn_on_nfc">NFC-ის ჩართვა</string>
+    <string name="common_ui_confirm_deleting_button">წაშლა</string>
+    <string name="common_ui_confirm_deleting_checkbox">მესმის და მსურს წაშლა</string>
+    <string name="common_unknown">უცნობი</string>
+    <string name="common_update">განახლება</string>
+    <string name="common_url_load_unsuccessful_message">თქვენი Android მოწყობილობა არ არის დაკავშირებული მობილური ინტერნეტის სერვისთან. ამ ინფორმაციის ახლა სანახავად, მოინახულეთ %s ვებ-ბრაუზერის მეშვეობით.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">თქვენი Android მოწყობილობა არ არის დაკავშირებული Wi-Fi ქსელთან. ამ ინფორმაციის ახლავე სანახავად, მოინახულეთ %s ვებ-ბრაუზერის მეშვეობით.</string>
+    <string name="common_usage_and_diagnostics">გამოყენება და დიაგნოსტიკა</string>
+    <string name="common_view">ნახვა</string>
+    <string name="common_yesterday">გუშინ</string>
+    <string name="continue_to_login_heading">გთხოვთ, შეხვიდეთ სისტემაში.</string>
+    <string name="continue_to_login_text">ავტორიზაციის მონაცემები გაცემულია. შედით სისტემაში თქვენს პირველ მოწყობილობაზე.</string>
+    <string name="description_fingerprint_icon">თითის ანაბეჭდის ხატულა</string>
+    <string name="download_msg_error_invalid">ჩამოტვირთვა არასწორად იქნა კონფიგურირებული.</string>
+    <string name="download_msg_in_progress">მიმდინარეობს ჩამოტვირთვა.</string>
+    <string name="download_msg_not_allowed_space">ჩამოტვირთვისათვის საკმარისი სივრცე არ არის.</string>
+    <string name="download_msg_pending">ჩამოტვირთვა რიგშია.</string>
+    <string name="download_notification_description">%1$s-ის მოთხოვნით.</string>
+    <string name="download_notification_title">დამატებით მონაცემების მოძიება</string>
+    <string name="expand_button_title">დამატებით</string>
+    <string name="fido_ble_device_icon_content_description">აღმოჩენილია Bluetooth მოწყობილობა</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">დააჭირეთ თქვენს უსაფრთხოების გასაღებზე არსებულ ღილაკს და არ აუშვათ მინიმუმ 5 წამი, რათა დარწმუნდეთ, რომ ის დაწყვილების რეჟიმშია</string>
+    <string name="fido_ble_dont_see_your_key_hint">ვერ ხედავთ თქვენს გასაღებს?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">თქვენი უსაფრთხოების გასაღები იმუშავებს მხოლოდ მაშინ, როცა თქვენს მოწყობილობაზე ჩართულია Bluetooth-ისა და მდებარეობის სერვისები</string>
+    <string name="fido_ble_enable_body_bluetooth_only">თქვენი უსაფრთხოების გასაღები იმუშავებს მხოლოდ მაშინ, როცა თქვენს მოწყობილობაზე ჩართულია Bluetooth</string>
+    <string name="fido_ble_enable_body_location_only">თქვენი უსაფრთხოების გასაღები იმუშავებს მხოლოდ მაშინ, როცა თქვენს მოწყობილობაზე ჩართულია მდებარეობის სერვისი</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Bluetooth-ისა და მდებარეობის ჩართვა</string>
+    <string name="fido_ble_enable_title_location_only">მდებარეობის ჩართვა</string>
+    <string name="fido_ble_instructions_body">გასაღებების უმეტესობის გამოყენება შესაძლებელია ღილაკზე მარტივი შეხებით</string>
+    <string name="fido_ble_locate_pin_body">როგორც წესი, დაწყვილების PIN-კოდი 4- ან 6-ციფრიანი ნომერია და ის შეიძლება თქვენი გასაღების უკანა მხარეს იყოს მითითებული. გააგრძელეთ, როცა PIN-კოდის შესაყვანად მზად იქნებით.</string>
+    <string name="fido_ble_locate_pin_title">იპოვეთ თქვენი გასაღების Bluetooth-დაწყვილების PIN-კოდი %1$s</string>
+    <string name="fido_ble_pair_device_pairing">მიმდინარეობს თქვენი უსაფრთხოების გასაღების დაწყვილება…</string>
+    <string name="fido_ble_pair_instructions_body">დააწყვილეთ თქვენი გასაღები ამ მოწყობილობასთან, რათა მისი თქვენი ანგარიშისთვის გამოყენება შეძლოთ</string>
+    <string name="fido_ble_pair_instructions_title">მზად ხართ თქვენი უსაფრთხოების გასაღების დასაწყვილებლად?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">დააბრუნეთ თქვენი გასაღები დაწყვილების რეჟიმზე</string>
+    <string name="fido_ble_pairing_mode_body">დააჭირეთ თქვენს უსაფრთხოების გასაღებზე არსებულ ღილაკს და არ აუშვათ მინიმუმ 5 წამი</string>
+    <string name="fido_ble_pairing_mode_title">დაწყვილების რეჟიმზე გადასვლა</string>
+    <string name="fido_ble_select_device_body">ქვემოთ მოცემული სიიდან აირჩიეთ უსაფრთხოების გასაღები, რომლის დაწყვილებაც გსურთ თქვენს მოწყობილობასთან. მისი სახელი შეიძლება გასაღების უკანა მხარეს იყოს მითითებული.</string>
+    <string name="fido_ble_select_device_title">აირჩიეთ თქვენი უსაფრთხოების გასაღები</string>
+    <string name="fido_instructions_title">გსურთ თქვენი უსაფრთხოების გასაღების გამოყენების დაშვება?</string>
+    <string name="fido_nfc_enable_body">თქვენი უსაფრთხოების გასაღები იმუშავებს მხოლოდ მაშინ, როცა თქვენს მოწყობილობაზე ჩართულია NFC</string>
+    <string name="fido_nfc_instructions_body">დაიჭირეთ გასაღები თქვენი მოწყობილობის უკანა ნაწილზე მიდებულ მდგომარეობაში, სანამ ის ვიბრირებას არ შეწყვეტს</string>
+    <string name="fido_paask_body">ახლომდებარე მოწყობილობა ცდილობს სისტემაში შესვლას თქვენი Google ანგარიშით</string>
+    <string name="fido_paask_footer">ახლომდებარე მოწყობილობასთან ურთიერთქმედებისთვის ანგარიშზე არასანქცირებული წვდომისგან დაცვის გაძლიერებული სისტემა იყენებს დაშიფრულ Bluetooth-კავშირს.</string>
+    <string name="fido_paask_header">ახლომდებარე მოწყობილობაზე შესვლას თქვენ ცდილობთ?</string>
+    <string name="fido_paask_no_text">არა, მე არ ვარ</string>
+    <string name="fido_paask_yes_text">დიახ, მე ვარ</string>
+    <string name="fido_pair_another_security_key">სხვა უსაფრთხოების გასაღების დაწყვილება</string>
+    <string name="fido_processing">მიმდინარეობს თქვენი უსაფრთხოების გასაღების დადასტურება…</string>
+    <string name="fido_transport_selection_bluetooth">უსაფრთხოების გასაღების Bluetooth-ით გამოყენება</string>
+    <string name="fido_transport_selection_body">უსაფრთხოების გასაღებები მუშაობს შემდეგებთან: Bluetooth, NFC, და USB. აირჩიეთ, თუ როგორ გსურთ თქვენი გასაღების გამოყენება.</string>
+    <string name="fido_transport_selection_fingerprint">გამოიყენეთ უსაფრთხოების გასაღები თითის ანაბეჭდით</string>
+    <string name="fido_transport_selection_nfc">უსაფრთხოების გასაღების NFC-ით გამოყენება</string>
+    <string name="fido_transport_selection_title">აირჩიეთ, რა გზით გსურთ თქვენი უსაფრთხოების გასაღების გამოყენება</string>
+    <string name="fido_transport_selection_usb">უსაფრთხოების გასაღების USB-თი გამოყენება</string>
+    <string name="fido_usb_instructions_body">დაუკავშირეთ თქვენი უსაფრთხოების გასაღები USB პორტს ან USB კაბელს. თუ თქვენს გასაღებს გააჩნია ღილაკი ან ოქროსფერი დისკი, შეეხეთ მას ახლავე.</string>
+    <string name="fido_use_ble_instead">თქვენი უსაფრთხოების გასაღების Bluetooth-ით გამოყენება</string>
+    <string name="fido_use_fp_instead">გამოიყენეთ თქვენი უსაფრთხოების გასაღები თითის ანაბეჭდით</string>
+    <string name="fido_use_nfc_instead">თქვენი უსაფრთხოების გასაღების NFC-ით გამოყენება</string>
+    <string name="fido_use_usb_instead">თქვენი უსაფრთხოების გასაღების USB-თი გამოყენება</string>
+    <string name="fido_welcome_body">უსაფრთხოების გასაღების %1$s-ით გამოყენება თქვენი პირადი მონაცემების დაცვაში დაგეხმარებათ.</string>
+    <string name="fido_welcome_title">თქვენი უსაფრთხოების გასაღების %1$s-ით გამოყენება</string>
+    <string name="fingerprint_description">თქვენი ვინაობის გადასამოწმებლად, %1$s თქვენი თითის ანაბეჭდის დადასტურებას საჭიროებს.</string>
+    <string name="fingerprint_no_imprints_description">%1$s საჭიროებს თქვენი ვინაობის დადასტურებას თითის ანაბეჭდის მეშვეობით, თუმცა ის ჯერ არ დაგიყენებიათ ამ მოწყობილობაზე.</string>
+    <string name="fingerprint_not_recognized">თითის ანაბეჭდის ამოცნობა ვერ მოხერხდა. ცადეთ მოგვიანებით</string>
+    <string name="fingerprint_success">თითის ანაბეჭდი ამოცნობილია</string>
+    <string name="gcm_fallback_notification_channel_label">სხვადასხვა</string>
+    <string name="google_app_permissions_title">აპის ნებართვები</string>
+    <string name="google_legal_title">Google-ის სამართლებრივი ინფორმაცია</string>
+    <string name="google_play_tos_title">Google Play-ს მომსახურების პირობები</string>
+    <string name="google_plus_privacy_policy_title">Google Plus-ის კონფიდენციალურობის დებულება</string>
+    <string name="google_privacy_policy_title">Google-ის კონფიდენციალურობის დებულება</string>
+    <string name="google_terms_of_service_title">Google-ის მომსახურების პირობები</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">აპისთვის ნებართვის მინიჭება, გადასცეს ქსელის Wi-Fi-ს ავტორიზაციის მონაცემები სხვა მოწყობილობას.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi-ს ავტორიზაციის მონაცემთა გადაცემა</string>
+    <string name="no_screen_lock_description">ჯერ თქვენს მოწყობილობაზე ეკრანის დაბლოკვის დაყენება მოგიწევთ</string>
+    <string name="no_screen_lock_title">თქვენს ტელეფონზე ეკრანის დაბლოკვა არაა დაყენებული</string>
+    <string name="notification_ticker">წვდომა მოთხოვნილია</string>
+    <string name="open_source_activity_prompt_heading">აპლიკაციის გახსნა</string>
+    <string name="open_source_activity_prompt_text">"ავტორიზაციის პროცესის დასასრულებლად, თქვენს ტელეფონზე გახსენით SourceResponseActivity. "</string>
+    <string name="permgrouplab_calendar">კალენდარი</string>
+    <string name="permgrouplab_camera">კამერა</string>
+    <string name="permgrouplab_contacts">კონტაქტები</string>
+    <string name="permgrouplab_location">მდებარეობა</string>
+    <string name="permgrouplab_microphone">მიკროფონი</string>
+    <string name="permgrouplab_phone">ტელეფონი</string>
+    <string name="permgrouplab_sensors">სხეულის სენსორები</string>
+    <string name="permgrouplab_storage">მეხსიერება</string>
+    <string name="permissions_not_granted_text">ნებართვების გასაცემად, ხელახლა შედით სისტემაში.</string>
+    <string name="permissions_not_granted_title">ნებართვა გაცემული არ არის.</string>
+    <string name="plus_manage_app_only_you_label">მხოლოდ თქვენ</string>
+    <string name="plus_network_unreliable">სერვერთან საიმედო კავშირის დამყარება ვერ მოხერხდა.</string>
+    <string name="plus_oob_interstitial_loading_text">ამას შეიძლება რამდენიმე წუთი დასჭირდეს.</string>
+    <string name="search_menu_title">ძიება</string>
+    <string name="set_up">დაყენება</string>
+    <string name="setupservices_additional_privacy_title">კონფიდენციალურობის დამატებითი ინფორმაცია</string>
+    <string name="setupservices_android_privacy_policy_title">დამატებითი კონფიდენციალურობის დებულება</string>
+    <string name="setupservices_chrome_privacy_title">Chrome-ის კონფიდენციალურობის დებულება</string>
+    <string name="setupservices_chrome_tos_title">Chrome მომსახურების პირობები</string>
+    <string name="setupservices_google_app_permissions_title">აპის ნებართვები</string>
+    <string name="setupservices_google_legal_title">Google-ის სამართლებრივი ინფორმაცია</string>
+    <string name="setupservices_google_play_tos_title">Google Play-ს მომსახურების პირობები</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus-ის კონფიდენციალურობის დებულება</string>
+    <string name="setupservices_google_privacy_policy_title">Google-ის კონფიდ. დებულება</string>
+    <string name="setupservices_google_services_agreement">გაგრძელებით, თქვენ ეთანხმებით, რომ ამ მოწყობილობამ შეიძლება ავტომატურად ჩამოტვირთოს და დააინსტალიროს განახლებები ან აპები, რომლებსაც Google, თქვენი ოპერატორი და თქვენი მოწყობილობის მწარმოებელი გთავაზობთ, მათ შორის, მობილური ინტერნეტის მეშვეობით. ზოგიერთი აპი შეიძლება აპს-შიდა შენაძენების განხორციელების საშუალებას იძლეოდეს. ამ აპების ამოშლა ნებისმიერ დროს შეგიძლიათ.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">აპების ამოსაშლელად, გადადით პარამეტრებზე და აირჩიეთ „აპები“ ან „აპლიკაციების მენეჯერი“. შემდეგ შეეხეთ აპს, რომლის დეინსტალაციაც გსურთ (აპის საპოვნელად, შეიძლება მარჯვნივ ან მარცხნივ გადაფურცვლა დაგჭირდეთ). ბოლოს კი, შეეხეთ დეინსტალაციას ან გათიშვას.</string>
+    <string name="setupservices_google_services_agreement_korea">შედეგად, თქვენ ეთანხმებით და Google-ის წინასწარ ჩატვირთულ აპებს აძლევთ ნებართვას, ჰქონდეს წვდომა თქვენს მოწყობილობაზე არსებულ ინფორმაციასა და მის ფუნქციებზე. იხილეთ <annotation link="app_permissions">ეს გვერდი</annotation>, ამ ნებართვების გამოყენებაზე მეტი ინფორმაციის შესატყობად.</string>
+    <string name="setupservices_google_services_agreement_title">განახლებებისა და აპების ინსტალაცია</string>
+    <string name="setupservices_google_services_automatic_storage_manager">გამოათავისუფლეთ სივრცე, როცა თქვენი ტელეფონის მეხსიერება თითქმის სავსეა, ისეთი მონაცემების ამოშლით, როგორიცაა ფოტოებისა და ვიდეოების სარეზერვო ასლები.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">თქვენ მაინც შეძლებთ ამ მონაცემებზე წვდომას, როცა ინტერნეტთან იქნებით დაკავშირებული. ამ ფუნქციისა და ამოსაშლელი კონტენტის სამართავად, გადადით აქ: პარამეტრები > მეხსიერება > გონიერი მეხსიერება.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">სივრცის გათავისუფლება</string>
+    <string name="setupservices_google_services_backup">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებსა და მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებს).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+სარეზერვო მონაცემები Google Drive-ზე თქვენთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">აპების მონაცემებად შეიძლება ჩაითვალოს რომელიმე აპის მიერ შენახული ნებისმიერი სახის მონაცემი (დეველოპერის პარამეტრების მიხედვით), მათ შორის, პოტენციურად სენსიტიური მონაცემები, როგორიცაა კონტაქტები, შეტყობინებები და ფოტოები.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">ამ სერვისის გამორთვა პარამეტრებში შეგიძლიათ.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+ამ მოწყობილობაზე არსებული ფოტოები და ვიდეოები სინქრონიზდება თქვენს Google Photos ბიბლიოთეკასთან, რათა მათი მოძიება, რედაქტირება, წაშლა და გაზიარება თქვენი ნებისმიერი მოწყობილობიდან შეძლოთ. ნაგულისხმევად, Google Photos-ზე ფოტოები და ვიდეოები სრული გარჩევადობით აიტვირთება.
+
+სარეზერვო მონაცემები Google Drive-ზე თქვენთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს."</string>
+    <string name="setupservices_google_services_backup_title">სარეზერვო კოპირება Google Drive-ზე</string>
+    <string name="setupservices_google_services_backup_v23">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებს, საუბრის ისტორიას, კონტაქტებსა და მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებსა და ნებართვებს).</string>
+    <string name="setupservices_google_services_backup_v26">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებს, საუბრის ისტორიას, კონტაქტებს, მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებსა და ნებართვებს) და SMS-შეტყობინებებს.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებს, საუბრის ისტორიას, კონტაქტებს, მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებსა და ნებართვებს) ფოტოებს, ვიდეოებსა და SMS-შეტყობინებებს. ფოტოები და ვიდეოები სინქრონიზდება თქვენს Google ანგარიშთან და მათი გამოყენება სხვადასხვა სერვისში არის შესაძლებელი.</string>
+    <string name="setupservices_google_services_data_policy">მონაცემთა გამოყენება მოხდება Google-ის <annotation link="google_privacy">კონფიდენციალურობის დებულების</annotation> შესაბამისად.</string>
+    <string name="setupservices_google_services_data_policy_korea">მონაცემთა გამოყენება მოხდება Google-ის <annotation link="google_privacy">კონფიდენციალურობის დებულების</annotation> (მათ შორის, <annotation link="additional_privacy">პერსონალური ინფორმაციის შეგროვების, შენახვისა და გამოყენების წესების</annotation>) და <annotation link="location_tos">მდებარეობის სერვისის პირობების</annotation> შესაბამისად.</string>
+    <string name="setupservices_google_services_description">შეეხეთ, რათა შეიტყოთ მეტი თითოეული სერვისის შესახებ, მათ შორის, მათი მოგვიანებით ჩართვისა და გამორთვის წესები. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"აპის დეტალების, მათ შორის, აპს-შიდა შენაძენების ნახვას Play Store-ში შეძლებთ. აპის მონაცემები და პარამეტრები სინქრონიზებული იქნება თქვენს Google ანგარიშით სისტემაში შესულ მოწყობილობებზე. 
+
+მყისიერი აპების გამოყენება ექვემდებარება "<a href="https://play.google.com/about/play-terms.html">Google Play-ს მომსახურების პირობებს</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">შეიტყვეთ მეტი</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">ბმულებზე შეხებისას, Google Play შეამოწმებს მყისიერი აპის ხელმისაწვდომობას და მას ინსტალაციის გარეშე გაუშვებს. მყისიერი აპები თქვენს მოწყობილობაზე მხოლოდ დროებით შეინახება.</string>
+    <string name="setupservices_google_services_instant_apps_title">გამოიყენეთ აპები მათი ინსტალაციის გარეშე</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google-ის მდებარეობის სერვისები იყენებს ისეთ წყაროებს, როგორიცაა Wi‑Fi, მობილური ქსელები და სენსორები, რათა თქვენი მოწყობილობის დაახლოებითი მდებარეობა დაადგინოს.
+
+მდებარეობის გამორთვა შესაძლებელია ამ მოწყობილობაზე მდებარეობის მთავარი პარამეტრის გამორთვით. თქვენ აგრეთვე შეგიძლიათ გამორთოთ Wi‑Fi-ს, მობილური ქსელებისა და სენსორების გამოყენება მდებარეობის დასადგენად, მდებარეობის პარამეტრებში."</string>
+    <string name="setupservices_google_services_location_sharing_title">აპების მდებარეობის პოვნაში ხელშეწყობა</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">მდებარეობის გამოყენება</string>
+    <string name="setupservices_google_services_location_sharing_v28">დაუშვით თქვენი მოწყობილობის მდებარეობის გამოყენება იმ აპებისა და სერვისების მიერ, რომლებსაც უკვე მიანიჭეთ მდებარეობაზე წვდომის ნებართვა. Google-მა შესაძლოა პერიოდულად შეაგროვოს მდებარეობის მონაცემები ანონიმურად, რათა ამ მონაცემთა გამოყენებით გააუმჯობესოს მდებარეობის სიზუსტე, ისევე როგორც მდებარეობაზე დაფუძნებული სერვისები.</string>
+    <string name="setupservices_google_services_location_wireless_scan">აპებისა და სერვისებისთვის Wi‑Fi ქსელების შესამოწმებლად სკანირების ნებართვის მინიჭება, მაშინაც კი, როცა Wi‑Fi გამორთულია.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">ამის გამორთვა მდებარეობის პარამეტრებში შეგიძლიათ.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">მდებარეობის სიზუსტის გაუმჯობესება</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">სკანირების დაშვება</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">აპებისა და სერვისებისთვის Wi‑Fi-სა და Bluetooth-ის შესამოწმებლად სკანირების ნებართვის მინიჭება, მაშინაც კი, როცა ეს პარამეტრები გამორთულია.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">აპებისა და სერვისებისთვის სკანირების ნებართვის მინიჭება Wi‑Fi-სა და ახლომდებარე მოწყობილობების აღმოსაჩენად (მაშინაც კი, როცა Wi‑Fi ან Bluetooth გამორთულია).</string>
+    <string name="setupservices_google_services_next_button_label">ვეთანხმები</string>
+    <string name="setupservices_google_services_play">შემატყობინე Google Play-ს სიახლეებისა და შემოთავაზებების შესახებ.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">სარეზერვო ასლები და მეხსიერება</string>
+    <string name="setupservices_google_services_section_device_maintenance">მოწყობილობის ტექნიკური მომსახურება</string>
+    <string name="setupservices_google_services_tos">გარდა ამისა, თქვენ ასევე ეთანხმებით <annotation link="tos">Google-ის მომსახურების პირობებს</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">ღილაკზე „ვეთანხმები“ დაწკაპუნებით, თქვენ ეთანხმებით დამუშავების პროცედურას ამ Google სერვისებისთვის, როგორც აღწერილია ზემოთ.</string>
+    <string name="setupservices_google_services_tos_germany">თქვენ მიერ ამ მოწყობილობის გამოყენებისას, ჩვენ <annotation link="google_privacy">კონფიდენციალურობის დებულებით</annotation> ვხელმძღვანელობთ. გარდა ამისა, მოქმედებს <annotation link="tos">დამატებითი პირობები</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">ხელი შეუწყვეთ Android-თან თქვენი მუშაობის გაუმჯობესებას დიაგნოსტიკური და მოწყობილობის/აპების გამოყენების შესახებ მონაცემების Google-ისთვის ავტომატურად გაგზავნით. ამის შედეგად, გაუმჯობესდება ბატარეის ხანგრძლივობა, აპების მუშაობის სტაბილურობა, ქსელთან კავშირი და სხვა ფუნქციები. იმ შემთხვევაში, თუ ვებისა და აპის აქტივობის დამატებითი ფუნქცია ჩართულია, ეს ინფორმაცია შეინახება თქვენს ანგარიშში, მის მართვას კი შეძლებთ სექციაში „ჩემი აქტივობა“.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"ეს არის ზოგადი ინფორმაცია თქვენი მოწყობილობის და თქვენ მიერ მისი გამოყენების შესახებ (მაგ. ბატარეის დონის, აპების მოხმარებისა და ქსელთან კავშირის მონაცემები). ეს მონაცემები Google-ის პროდუქტებისა და სერვისების ყველასთვის გაუმჯობესებას შეუწყობს ხელს. შეგროვებული ინფორმაციის ნაწილი თავიანთი აპებისა და პროდუქტების გაუმჯობესებაში ჩვენს პარტნიორებსაც დაეხმარება, მაგალითად, Android-ის დეველოპერებს.
+
+ამ ფუნქციის გამორთვა არ შეუშლის ხელს თქვენს მოწყობილობას, გააგზავნოს ის საჭირო ინფორმაცია, რომელიც ისეთი არსებითი სერვისებისთვის არის აუცილებელი, როგორიცაა სისტემის განახლებები და უსაფრთხოება."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">„ჩემი აქტივობის“ პარამეტრების განახლება შესაძლებელია ბმულზე: myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">ამ ფუნქციის მართვა Google პარამეტრების მენიუდან გამოყენებისა და დიაგნოსტიკის არჩევით არის შესაძლებელი.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">ამ ფუნქციის მართვა შესაძლებელია აქ: პარამეტრები > Google. აირჩიეთ გამოყენება და დიაგნოსტიკა მენიუში.</string>
+    <string name="setupservices_google_services_usage_reporting_title">სისტემის მონაცემების გაგზავნა</string>
+    <string name="setupservices_google_services_wallpaper_permission">Google-ის მდებარეობის სერვისზე წვდომის მეშვეობით, Google-ის ცოცხალი ფონებისთვის თქვენს მდებარეობაზე რეაგირების დაშვება.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">ცოცხალი ფონებისთვის Google-ის მდებარეობის სერვისზე წვდომის ჩასართავად ან გამოსართავად, გადადით აქ: პარამეტრები > აპები და შეტყობინებები > აპების ინფორმაცია. გადავსების მენიუში, შეხებით აირჩიეთ „სისტემის ჩვენება“ > პირდაპირი მონაცემების ფონები ან მოძრავი დედამიწის ფონები > ნებართვები.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">ფონებისთვის მდებარეობის გამოყენების დაშვება</string>
+    <string name="setupservices_google_terms_of_service_title">Google-ის მომსახურების პირობები</string>
+    <string name="setupservices_kids_google_services_agreement">გაგრძელებით, თქვენ ეთანხმებით, რომ ამ მოწყობილობამ შეიძლება ავტომატურად ჩამოტვირთოს და დააინსტალიროს განახლებები ან აპები, რომლებსაც Google, თქვენი ოპერატორი და ამ მოწყობილობის მწარმოებელი გთავაზობთ, მათ შორის, მობილური ინტერნეტის მეშვეობით. ზოგიერთი აპი შეიძლება აპს-შიდა შენაძენების განხორციელების საშუალებას იძლეოდეს. ამ აპების ამოშლა ნებისმიერ დროს შეგიძლიათ.</string>
+    <string name="setupservices_kids_google_services_backup">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებსა და მოწყობილობის პარამეტრებს (მათ შორის Wi‑Fi-ს პაროლებს).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+სარეზერვო მონაცემები Google Drive-ზე თქვენი შვილისთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+ამ მოწყობილობაზე არსებული ფოტოები და ვიდეოები სინქრონიზდება თქვენს Google Photos ბიბლიოთეკასთან, რათა მათი მოძიება, რედაქტირება, წაშლა და გაზიარება თქვენი ნებისმიერი მოწყობილობიდან შეძლოთ. ნაგულისხმევად, Google Photos-ზე ფოტოები და ვიდეოები სრული გარჩევადობით აიტვირთება.
+
+სარეზერვო მონაცემები Google Drive-ზე თქვენი შვილისთვის გამოყოფილ მეხსიერების კვოტაზე გავლენას არ იქონიებს."</string>
+    <string name="setupservices_kids_google_services_backup_v23">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებს, საუბრის ისტორიას, კონტაქტებსა და მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებსა და ნებართვებს).</string>
+    <string name="setupservices_kids_google_services_backup_v26">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებს, საუბრის ისტორიას, კონტაქტებს, მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებსა და ნებართვებს) და SMS-შეტყობინებებს.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">მარტივად აღადგინეთ მონაცემები ან გამოცვალეთ ტელეფონები ნებისმიერ დროს. სარეზერვო ასლი მოიცავს აპებს, აპების მონაცემებს, საუბრის ისტორიას, კონტაქტებს, მოწყობილობის პარამეტრებს (მათ შორის, Wi‑Fi-ს პაროლებსა და ნებართვებს) ფოტოებს, ვიდეოებსა და SMS-შეტყობინებებს. ფოტოები და ვიდეოები სინქრონიზდება თქვენი შვილის Google Photos ბიბლიოთეკასთან და მათი გამოყენება სხვადასხვა სერვისში არის შესაძლებელი.</string>
+    <string name="setupservices_kids_google_services_description">როგორც მშობელს, თქვენ შეგიძლიათ შეეხოთ თითოეული სერვისის, ისევე როგორც მათი მოგვიანებით ჩართვისა და გამორთვის წესების შესახებ მეტის გასაგებად. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google-ის მდებარეობის სერვისები იყენებს ისეთ წყაროებს, როგორიცაა Wi‑Fi, მობილური ქსელები და სენსორები, რათა ამ მოწყობილობის დაახლოებითი მდებარეობა დაადგინოს.
+
+მდებარეობის გამორთვა შესაძლებელია ამ მოწყობილობაზე მდებარეობის მთავარი პარამეტრის გამორთვით. თქვენ აგრეთვე შეგიძლიათ გამორთოთ Wi‑Fi-ს, მობილური ქსელებისა და სენსორების გამოყენება მდებარეობის დასადგენად, მდებარეობის პარამეტრებში."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">დაუშვით ამ მოწყობილობის მდებარეობის გამოყენება იმ აპებისა და სერვისების მიერ, რომლებსაც უკვე მიანიჭეთ მდებარეობაზე წვდომის ნებართვა. Google-მა შესაძლოა პერიოდულად შეაგროვოს მდებარეობის მონაცემები ანონიმურად, რათა ამ მონაცემთა გამოყენებით გააუმჯობესოს მდებარეობის სიზუსტე, ისევე როგორც მდებარეობაზე დაფუძნებული სერვისები.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">ხელი შეუწყვეთ Android-ის გაუმჯობესებას დიაგნოსტიკური და მოწყობილობის/აპების გამოყენების შესახებ მონაცემების Google-ისთვის ავტომატურად გაგზავნით. ამ ინფორმაციის გამოყენება არ მოხდება თქვენი შვილის ვინაობის დასადგენად და ის ბატარეის ხანგრძლივობის, აპების მუშაობის სტაბილურობის, ქსელთან კავშირისა და სხვა ფუნქციების გაუმჯობესებაში დაგვეხმარება. თუ დამატებითი ვებსა და აპებში აქტივობა ჩართულია თქვენი შვილისთვის, ეს ინფორმაცია მის ანგარიშში შეინახება.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"ეს არის ზოგადი ინფორმაცია ამ მოწყობილობისა და მისი გამოყენების შესახებ (მაგ. ბატარეის დონის, აპების მოხმარებისა და ქსელთან კავშირის მონაცემები). ეს მონაცემები Google-ის პროდუქტებისა და სერვისების ყველასთვის გაუმჯობესებას შეუწყობს ხელს. შეგროვებული ინფორმაციის ნაწილი თავიანთი აპებისა და პროდუქტების გაუმჯობესებაში ჩვენს პარტნიორებსაც დაეხმარება, მაგალითად, Android-ის დეველოპერებს.
+
+ამ ფუნქციის გამორთვა არ შეუშლის ხელს მოწყობილობას, გააგზავნოს ის საჭირო ინფორმაცია, რომელიც ისეთი არსებითი სერვისებისთვის არის აუცილებელი, როგორიცაა სისტემის განახლებები და უსაფრთხოება."</string>
+    <string name="setupservices_location_tos_title">მდებარეობის სერვისის პირობები</string>
+    <string name="sid_lsid_grant_detail">როგორც პაროლი, Session Identification (SID) და Local Session Identification (LSID) ქუქი-ჩანაწერები თქვენს იდენტობის ასოცირებას ბრაუზერის მოთხოვნათა სერიასთან ახდენს. ამით ხდება თქვენს ანგარიშზე სრული წვდომის უზრუნველყოფა. ამ ქუქი-ჩანაწერების ლეგიტიმური გამოყენება მხოლოდ ბრაუზერებს შეუძლია.</string>
+    <string name="sid_lsid_grant_label">თქვენი Google ანგარიშის ყველა მონაცემზე წვდომისთვის, SID და LSID ქუქი-ჩანაწერების გამოყენება.</string>
+    <string name="smartdevice_action_copy">კოპირება</string>
+    <string name="smartdevice_action_open_app">აპის გახსნა</string>
+    <string name="smartdevice_action_try_another_way">სხვა გზა სცადეთ</string>
+    <string name="smartdevice_action_turn_on_location">მდებარეობის ჩართვა</string>
+    <string name="smartdevice_alert_disconnected_title">მოწყობილობის კავშირი გათიშულია</string>
+    <string name="smartdevice_alert_dm_backup_account_message">სამწუხაროდ, ამ ფუნქციით ვერ ისარგებლებთ, რადგან თქვენს სარეზერვო ანგარიშს თქვენი მოწყობილობის ადმინისტრატორი მართავს.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">ფუნქცია მიუწვდომელია</string>
+    <string name="smartdevice_alert_exit_setup_message">დარწმუნებული ხართ, რომ გსურთ შეწყვიტოთ თქვენი სხვა მოწყობილობის დაყენება?</string>
+    <string name="smartdevice_alert_exit_setup_title">გსურთ მოწყობილობის დაყენების შეწყვეტა?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">თქვენი მოწყობილობის დასაყენებლად მინიმუმ ერთი Google ანგარიში გჭირდებათ.</string>
+    <string name="smartdevice_alert_no_accounts_text">თქვენი %s-ის დასაყენებლად მინიმუმ ერთი Google ანგარიში გჭირდებათ.</string>
+    <string name="smartdevice_alert_no_accounts_title">არ არის დასაკოპირებელი ანგარიშები</string>
+    <string name="smartdevice_alert_quit_button">შეწყვეტა</string>
+    <string name="smartdevice_alert_restart_setup_button">დაყენების ხელახლა დაწყება</string>
+    <string name="smartdevice_alert_setup_incomplete">დაყენება არ იყო დასრულებული</string>
+    <string name="smartdevice_alert_start_over_button">ხელახლა დაწყება</string>
+    <string name="smartdevice_alert_work_profile_message">სამსახურის ანგარიშები ჯერ ვერ დაკოპირდება. პირველ რიგში, დააკოპირეთ სხვა Google ანგარიშები და მონაცემები, შემდეგ კი, გადადით თქვენი ახალი მოწყობილობის პარამეტრებზე და დაამატეთ სამსახურის ანგარიში.</string>
+    <string name="smartdevice_alert_work_profile_title">სამსახურის ანგარიში ვერ დაკოპირდა</string>
+    <string name="smartdevice_application_label">მოწყობილობის გამართვა</string>
+    <string name="smartdevice_choose_device">აირჩიეთ თქვენი მოწყობილობა</string>
+    <string name="smartdevice_companion_app_ready">%s აპი უკვე დაინსტალირებულია ამ მოწყობილობაზე.</string>
+    <string name="smartdevice_connect_to_wifi">თქვენი მოწყობილობის დაკავშირება</string>
+    <string name="smartdevice_connection_error">სხვა მოწყობილობასთან დაკავშირებისას წარმოიქმნა პრობლემა</string>
+    <string name="smartdevice_connection_error_title">დაკავშირება ვერ მოხერხდა</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">მიმდინარეობს თქვენს მოწყობილობასთან დაკავშირება…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">თქვენი Google ანგარიშების და სხვა ანგარიშების დაკოპირება და Google Drive-ის სარეზერვო ასლით აღდგენა, თუ ხელმისაწვდომია</string>
+    <string name="smartdevice_d2d_copy_account_text">თქვენი Google ანგარიშების დაკოპირება და Google Drive-ის სარეზერვო ასლით აღდგენა, თუ ხელმისაწვდომია</string>
+    <string name="smartdevice_d2d_copy_account_title">კოპირ.სხვა მოწყობილობაზე?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">ამოცნობა ვერ მოხერხდა</string>
+    <string name="smartdevice_d2d_fingerprint_title">დაადასტურეთ თქვენი თითის ანაბეჭდი</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">უსაფრთხოების მიზნით, საჭიროა თქვენი თითის ანაბეჭდის დადასტურება. თქვენი Google ანგარიშები, აპები და მონაცემები თქვენს %s-ზე დაკოპირდება.</string>
+    <string name="smartdevice_d2d_lockscreen_description">განბლოკეთ თქვენი მოწყობილობის დაყენების გასაგრძელებლად</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">დაყენების გასაგრძელებლად, ეკრანის დაბლოკვის მეთოდი უნდა დაადასტუროთ</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">სხვა მოწყობილობის დაყენება ვერ ხერხდება, რადგანაც Bluetooth არ არის ხელმისაწვდომი თქვენს მოწყობილობზე.</string>
+    <string name="smartdevice_d2d_source_disabled_text">უსაფრთხოების მიზნით, ეს ფუნქცია გათიშულია. თქვენს სხვა მოწყობილობაზე შეეხეთ გამოტოვებას და განაგრძეთ დაყენება.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">ახალი მოწყობილობის დაყენება</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">მოწყობილობის დაყენება</string>
+    <string name="smartdevice_d2d_source_notification_title">^1-ის დაყენება</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">ხელახლა დაიწყეთ დაყენება და აირჩიეთ თქვენი ^1, რათა დარწმუნდეთ, რომ თქვენს Google ანგარიშებს, აპებსა და მონაცემებს სწორ მოწყობილობაზე აკოპირებთ.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">კოდი არ ჩანს?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">მომხმარებლის შეზღუდული პროფილიდან ახალი მოწყობილობის დაყენება ვერ ხერხდება.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">გააგრძელეთ დაყენება თქვენს %s-ზე</string>
+    <string name="smartdevice_d2d_source_setup_success">თითქმის მზად არის!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">სხვა Android მოწყობილობიდან კოპირება</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">კარგი, მიჰყევით მომდევნო ნაბიჯებს ამ მოწყობილობის დასაყენებლად</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">თქვენი Google ანგარიშების, აპებისა და მონაცემების თქვენი სხვა მოწყობილობიდან კოპირება</string>
+    <string name="smartdevice_d2d_target_copying_accounts">მიმდინარეობს ანგარიშების კოპირება...</string>
+    <string name="smartdevice_d2d_target_description">1. თქვით &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=მოწყობილობის დაყენება1>^2&lt;/xliff:g>\"&lt;/b> ან აკრიფეთ „&lt;xliff:g id=ჩემი მოწყობილობის დაყენება2>^2&lt;/xliff:g>“ და შეეხეთ დასადასტურებლად&lt;br/>&lt;br/> 2. შეეხეთ &lt;b>&lt;xliff:g id=მოწყობილობის სახელს>^3&lt;/xliff:g>&lt;/b> სიაში და მიჰყევით ეკრანზე გამოსახულ ინსტრუქციას</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">სანაცვლოდ, ცადეთ ეს</string>
+    <string name="smartdevice_d2d_target_google_settings_description">თქვენს სხვა მოწყობილობაზე:&lt;br/>&lt;br/> 1. გახსენით &lt;b>Google პარამეტრების&lt;/b> აპი&lt;br/>&lt;br/> 2. აირჩიეთ &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=ახლომახლო მოწყობილობის დაყენება>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. სიაში შეხებით აირჩიეთ &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> და მიჰყევით ეკრანზე მოცემულ ინსტრუქციას</string>
+    <string name="smartdevice_d2d_target_google_settings_link">ამ ნაბიჯებს ვერ ვასრულებ</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">გამოვიყენოთ პარამეტრები</string>
+    <string name="smartdevice_d2d_target_help_text">პრობლემა გაქვთ?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">ვერ პოულობთ?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">თქვენს სხვა მოწყობილობაზე გახსენით Google აპი</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google აპის გახსნა</string>
+    <string name="smartdevice_d2d_target_instruction_title">თქვენს სხვა მოწყობილობაზე</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google აპი წინასწარ არის დაყენებული ყველა Android მოწყობილობაზე. იხილეთ თქვენი ყველა აპი, შემდეგ კი მოიძიეთ Google-ის ხატულა, როგორც ზემოთ არის ნაჩვენები.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">ეს კოდი უნდა შეესაბამებოდეს კოდს თქვენს სხვა მოწყობილობაზე:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">არ გამოტოვო</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">დაყენებისას ამ ანგარიშის ან დამარქაფებული აპებისა და მონაცემების ამ მოწყობილობაზე კოპირება არ მოხდება.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">მაინც გამოტოვ.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">გსურთ, ამ ანგარიშის გამოტოვება?</string>
+    <string name="smartdevice_d2d_target_title">Google აპში</string>
+    <string name="smartdevice_do_disclosure_generic">გადატანა ვერ მოხერხდა</string>
+    <string name="smartdevice_do_unsupported_message">მართული მოწყობილობებიდან მონაცემთა გადატანა ვერ მოხერხდება</string>
+    <string name="smartdevice_install_app">აპის ინსტალაცია</string>
+    <string name="smartdevice_install_app_reason">დააყენეთ %1$s აპი, რათა აკონტროლოთ და მართოთ თქვენი ახალი %2$s ამ მოწყობილობიდან</string>
+    <string name="smartdevice_look_for_other_device">მოიძიეთ ეს სახელი თქვენს სხვა მოწყობილობაზე</string>
+    <string name="smartdevice_magicwand_cancel_signin">სისტემაში შესვლის გაუქმება</string>
+    <string name="smartdevice_magicwand_confirm_signin">სისტემაში შესვლა დაწყებულია</string>
+    <string name="smartdevice_magicwand_consent_detail">შეეხეთ შემდეგს: <b>შესვლა</b>, რათა დაასრულოთ სისტემაში სხვა მოწყობილობით შესვლის პროცესი.</string>
+    <string name="smartdevice_magicwand_consent_title">დაასრულეთ სისტემაში შესვლა</string>
+    <string name="smartdevice_magicwand_error_detail">შეფერხების გამო, Google-მა ვერ მოახერხა თქვენი სისტემაში შეყვანა ამ ტელეფონიდან.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"თქვენს ანგარიშში შესასვლელად, თქვენ QR კოდი დაასკანირეთ.
+
+თქვენივე უსაფრთხოებისთვის, დაადასტურეთ თითის ანაბეჭდი, რათა დაამოწმოთ, რომ ნამდვილად თქვენ შედიხართ სისტემაში სხვა მოწყობილობიდან."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">ამ დამატებითი საფეხურით დასტურდება, რომ ეს უსაფრთხო მოწყობილობაა.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"თქვენს ანგარიშში შესასვლელად, თქვენ QR კოდი დაასკანირეთ.
+
+თქვენივე უსაფრთხოებისთვის, შეიყვანეთ თქვენი ეკრანის განმბლოკავი ნიმუში, რათა დაადასტუროთ, რომ ნამდვილად თქვენ შედიხართ სისტემაში სხვა მოწყობილობიდან."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">თქვენს ბრაუზერზე გადასასვლელად</string>
+    <string name="smartdevice_magicwand_success_detail">დაუბრუნდით ბრაუზერს თქვენს სხვა მოწყობილობაზე.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">მოიძიეთ ეს ფორმები თქვენს სხვა მოწყობილობაზე</string>
+    <string name="smartdevice_pairing_verify_shapes_title">ფორმების დადასტურება</string>
+    <string name="smartdevice_problem_copying">სხვა მოწყობილობაზე მონაცემთა კოპირებისას დაფიქსირდა პრობლემა</string>
+    <string name="smartdevice_problem_copying_title">მონაცემთა კოპირება ვერ მოხერხდა</string>
+    <string name="smartdevice_search_again">ხელახლა ძიება</string>
+    <string name="smartdevice_searching_for_devices">მიმდინარეობს მოწყობილობების ძიება</string>
+    <string name="smartdevice_setup_info_installing_app">მიმდინარეობს აპის ინსტალაცია...</string>
+    <string name="smartdevice_setup_intro_text">თქვენი სხვა მოწყობილობის დასაყენებლად გამოყენებული იქნება თქვენი ტელეფონის Bluetooth და Wi-Fi მონაცემები</string>
+    <string name="smartdevice_setup_intro_text_nfc">თქვენი სხვა მოწყობილობის დასაყენებლად გამოყენებული იქნება თქვენი ტელეფონის Bluetooth</string>
+    <string name="smartdevice_setup_intro_title">დაწყება</string>
+    <string name="smartdevice_setup_password_hint">შეიყვანეთ WiFi-ს პაროლი</string>
+    <string name="smartdevice_setup_show_password">პაროლის გამოჩენა</string>
+    <string name="smartdevice_setup_title_verify_code">კოდის გადამოწმება</string>
+    <string name="smartdevice_target_hotphrase_instructions">თქვენს სხვა მოწყობილობასთან ინტერაქციისას, თქვით &lt;b>\"&lt;xliff:g id=„ok_google“>^1&lt;/xliff:g>, &lt;xliff:g id=ჩემი მოწყობილობის დაყენება>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> ან აკრიფეთ &lt;b>\"&lt;xliff:g id=ჩემი მოწყობილობის დაყენება>^2&lt;/xliff:g>\"&lt;/b> საძიებო ველში.</string>
+    <string name="smartdevice_type_typing_ok_google">თუ ხმოვანი ბრძანება არ მოქმედებს, ამის ნაცვლად, ცადეთ საძიებო ველში აკრეფა. აკრიფეთ „&lt;b>&lt;xliff:g id=ჩემი მოწყობილობის დაყენება>^1&lt;/xliff:g>&lt;/b>“</string>
+    <string name="smartdevice_verify_device">მოწყობილობის დადასტურება</string>
+    <string name="smartdevice_wifi_cannot_connect_description">მხოლოდ ღია ქსელებისა და WPA/WPA2 ქსელების გამოყენება შეიძლება ამ მოწყობილობის გასამართავად</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WiFi ქსელის გამოყენება ვერ ხერხდება</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi ქსელების მოსაძიებლად, ჩართეთ მდებარეობა.
+
+ამის ნებისმიერ დროს შეცვლა პარამეტრებიდან შეგიძლიათ."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi ქსელების მოძიება ვერ ხერხდება</string>
+    <string name="storage_management_wear_descriptive_text">მონაცემთა ტარებად მოწყობილობაზე რეპლიკაციისათვის, აპები თქვენი მოწყობილობის საცავს იყენებს.</string>
+    <string name="storage_management_wear_manage_size_label">ტარებადი მოწყობილობის საცავის მართვა</string>
+    <string name="storage_management_wear_size_label">ტარებადი მოწყობილობის საცავი</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play Services-ის მიერ გამოყენებული მონაცემები, საძიებო სისტემისა და სხვა მონაცემების ჩათვლით.</string>
+    <string name="storage_managment_clear_all_data">ყველა მონაცემის გასუფთავება</string>
+    <string name="storage_managment_computing_size">გამოთვლა…</string>
+    <string name="storage_managment_icing_size_label">ძების მონაცემები</string>
+    <string name="storage_managment_manage_icing_button">ძების მონაცემების მართვა</string>
+    <string name="storage_managment_search_index_descriptive_text">მოწყობილობაზე ძიების ასაჩქარებლად თქვენი აპებისთვის საძიებო სისტემას გაწვდით.</string>
+    <string name="storage_managment_title">Google Play services საცავი</string>
+    <string name="storage_managment_total_size_label">მეხსიერების საერთო მოცულობა</string>
+    <string name="suw_back_button_label">უკან</string>
+    <string name="suw_more_button_label">დამატებით</string>
+    <string name="suw_next_button_label">შემდეგი</string>
+    <string name="uncertified_notification_expired_content">Google აპები და სერვისები ამ მოწყობილობაზე აღარ მუშაობს. შეეხეთ, რათა შეიტყოთ მეტი.</string>
+    <string name="uncertified_notification_expired_title">რეგისტრაცია ამოიწურა</string>
+    <string name="uncertified_notification_expiring_title">რეგისტრაცია იწურება</string>
+    <string name="use_nearby_device_heading">გსურთ ახლომდებარე მოწყობილობის გამოყენება?</string>
+    <string name="use_nearby_device_text">გსურთ ავტორიზაციის მონაცემების მისანიჭებლად ახლომდებარე მოწყობილობის გამოყენება?</string>
+    <string name="v7_preference_off">გამორთული</string>
+    <string name="v7_preference_on">ჩართული</string>
+    <string name="verify_your_identity_description">%1$s საჭიროებს თქვენი ვინაობის დადასტურებას.</string>
+    <string name="verify_your_identity_title">თქვენი ვინაობის დადასტურება</string>
+    <string name="waiting_for_account_info_text">ანგარიშის ინფორმაციის მოლოდინში...</string>
+</resources>

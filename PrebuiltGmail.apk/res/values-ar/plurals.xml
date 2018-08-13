@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s مستلِم</item>
+        <item quantity="zero">%s مستلم</item>
+        <item quantity="one">مستلِم واحد</item>
+        <item quantity="two">مستلِمان (%s)</item>
+        <item quantity="few">%s مستلِمين</item>
+        <item quantity="many">%s مستلمًا</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">يستخدم ^1 مستلم خدمات لا تدعم التشفير. وبدون وجود تشفير، يمكن للآخرين مشاهدة رسالتك أثناء التسليم. ^2</item>
+        <item quantity="zero">يستخدم ^1 مستلم خدمات لا تدعم التشفير. وبدون وجود تشفير، يمكن للآخرين مشاهدة رسالتك أثناء التسليم. ^2</item>
+        <item quantity="one">يستخدم ^1 خدمة لا تدعم التشفير. وبدون وجود تشفير، يمكن للآخرين مشاهدة رسالتك أثناء التسليم. ^2</item>
+        <item quantity="two">يستخدم مستلمان (^1) خدمات لا تدعم التشفير. وبدون وجود تشفير، يمكن للآخرين مشاهدة رسالتكما أثناء التسليم. ^2</item>
+        <item quantity="few">يستخدم ^1 مستلمي خدمات لا تدعم التشفير. وبدون وجود تشفير، يمكن للآخرين مشاهدة رسالتكم أثناء التسليم. ^2</item>
+        <item quantity="many">يستخدم ^1 مستلمَ خدمات لا تدعم التشفير. وبدون وجود تشفير، يمكن للآخرين مشاهدة رسالتكم أثناء التسليم. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">لم يدعم النطاق ^1 ونطاقات أخرى التشفير عندما تم إرسال هذه الرسالة. ^2</item>
+        <item quantity="zero">لم يدعم النطاق ^1 ونطاقات أخرى التشفير عندما تم إرسال هذه الرسالة. ^2</item>
+        <item quantity="one">لم يدعم النطاق ^1 التشفير عندما تم إرسال هذه الرسالة. ^2</item>
+        <item quantity="two">لم يدعم النطاق ^1 ونطاقان آخران التشفير عندما تم إرسال هذه الرسالة. ^2</item>
+        <item quantity="few">لم يدعم النطاق ^1 ونطاقات أخرى التشفير عندما تم إرسال هذه الرسالة. ^2</item>
+        <item quantity="many">لم يدعم النطاق ^1 ونطاقات أخرى التشفير عندما تم إرسال هذه الرسالة. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">هل تريد وضع %1$d من هذه المحادثات في الأرشيف؟</item>
+        <item quantity="zero">هل تريد وضع %1$d من هذه المحادثات في أرشيف؟</item>
+        <item quantity="one">هل تريد وضع هذه المحادثة في الأرشيف؟</item>
+        <item quantity="two">هل تريد وضع هاتين المحادثتين (%1$d) في الأرشيف؟</item>
+        <item quantity="few">هل تريد وضع %1$d محادثات في الأرشيف؟</item>
+        <item quantity="many">هل تريد وضع %1$d محادثة في الأرشيف؟</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">هل تريد حذف %1$d من المحادثات؟</item>
+        <item quantity="zero">هل تريد حذف %1$d من المحادثات؟</item>
+        <item quantity="one">هل تريد حذف هذه المحادثة؟</item>
+        <item quantity="two">هل تريد حذف هاتين المحادثتين (%1$d)؟</item>
+        <item quantity="few">هل تريد حذف %1$d محادثات؟</item>
+        <item quantity="many">هل تريد حذف %1$d محادثة؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">هل تريد تجاهل المسودات من %1$d من هذه المحادثات؟</item>
+        <item quantity="zero">هل تريد تجاهل المسودات من %1$d من هذه المحادثات؟</item>
+        <item quantity="one">هل تريد تجاهل المسودة من هذه المحادثة؟</item>
+        <item quantity="two">هل تريد تجاهل المسودات من (%1$d) من هاتين المحادثتين؟</item>
+        <item quantity="few">هل تريد تجاهل المسودات من %1$d محادثات؟</item>
+        <item quantity="many">هل تريد تجاهل المسودات من %1$d محادثة؟</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">‏تم وضع &lt;b>%1$d&lt;/b> في الأرشيف</item>
+        <item quantity="zero">‏تم وضع &lt;b>%1$d&lt;/b> في الأرشيف</item>
+        <item quantity="one">‏تم وضع &lt;b>%1$d&lt;/b> في الأرشيف</item>
+        <item quantity="two">‏تم وضع &lt;b>%1$d&lt;/b> في الأرشيف</item>
+        <item quantity="few">‏تم وضع &lt;b>%1$d&lt;/b> في الأرشيف</item>
+        <item quantity="many">‏تم وضع &lt;b>%1$d&lt;/b> في الأرشيف</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> تم حذفها</item>
+        <item quantity="zero">‏&lt;b>%1$d&lt;/b> تم حذفه</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> تم حذفه</item>
+        <item quantity="two">‏&lt;b>(%1$d)&lt;/b> تم حذفهماتم حذف</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b></item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> تم حذفها</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">تم تغيير تصنيفات.</item>
+        <item quantity="zero">لم يتم تغيير أي من التصنيفات.</item>
+        <item quantity="one">تم تغيير تصنيف.</item>
+        <item quantity="two">تم تغيير تصنيفين.</item>
+        <item quantity="few">تم تغيير تصنيفات.</item>
+        <item quantity="many">تم تغيير تصنيفات.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">‏تم نقل &lt;b>%1$d&lt;/b> إلى البريد الوارد</item>
+        <item quantity="zero">‏تم نقل &lt;b>%1$d&lt;/b> إلى البريد الوارد</item>
+        <item quantity="one">‏تم نقل &lt;b>%1$d&lt;/b> إلى البريد الوارد</item>
+        <item quantity="two">‏تم نقل &lt;b>%1$d&lt;/b> إلى البريد الوارد</item>
+        <item quantity="few">‏تم نقل &lt;b>%1$d&lt;/b> إلى البريد الوارد</item>
+        <item quantity="many">‏تم نقل &lt;b>%1$d&lt;/b> إلى البريد الوارد</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">‏تم تجاهل &lt;b>%1$d&lt;/b></item>
+        <item quantity="zero">‏تم تجاهل &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">‏تم تجاهل &lt;b>%1$d&lt;/b></item>
+        <item quantity="two">‏تم تجاهل &lt;b>%1$d&lt;/b></item>
+        <item quantity="few">‏تم تجاهل &lt;b>%1$d&lt;/b></item>
+        <item quantity="many">‏تم تجاهل &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">‏تم وضع علامة على &lt;b>%1$d&lt;/b> كغير مهمة</item>
+        <item quantity="zero">‏تم وضع علامة على &lt;b>%1$d&lt;/b> كغير مهمة</item>
+        <item quantity="one">‏تم وضع علامة على &lt;b>%1$d&lt;/b> كغير مهمة</item>
+        <item quantity="two">‏تم وضع علامة على &lt;b>%1$d&lt;/b> كغير مهمة</item>
+        <item quantity="few">‏تم وضع علامة على &lt;b>%1$d&lt;/b> كغير مهمة</item>
+        <item quantity="many">‏تم وضع علامة على &lt;b>%1$d&lt;/b> كغير مهمة</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">‏تم الإبلاغ أن &lt;b>%1$d&lt;/b> ليست رسائل غير مرغوب فيها</item>
+        <item quantity="zero">‏تم الإبلاغ أن &lt;b>%1$d&lt;/b> ليست رسائل غير مرغوب فيها</item>
+        <item quantity="one">‏تم الإبلاغ أن &lt;b>%1$d&lt;/b> ليست رسالة غير مرغوب فيها</item>
+        <item quantity="two">‏تم الإبلاغ أن &lt;b>%1$d&lt;/b> ليست رسالتين غير مرغوب فيهما</item>
+        <item quantity="few">‏تم الإبلاغ أن &lt;b>%1$d&lt;/b> ليست رسائل غير مرغوب فيها</item>
+        <item quantity="many">‏تم الإبلاغ أن &lt;b>%1$d&lt;/b> ليست رسالة غير مرغوب فيها</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">‏تم وضع علامة على &lt;b>%1$d&lt;/b> رسالة كمقروءة</item>
+        <item quantity="zero">‏تم وضع علامة على &lt;b>%1$d&lt;/b> رسالة كمقروءة</item>
+        <item quantity="one">‏تم وضع علامة على رسالة واحدة (&lt;/b>%1$d&lt;b>) كمقروءة</item>
+        <item quantity="two">‏تم وضع علامة على رسالتين (&lt;b>%1$d&lt;/b>) كمقروءة</item>
+        <item quantity="few">‏تم وضع علامة على &lt;b>%1$d&lt;/b> رسائل كمقروءة</item>
+        <item quantity="many">‏تم وضع علامة على &lt;b>%1$d&lt;/b> رسالةً كمقروءة</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> تم تأجيله حتى %2$s</item>
+        <item quantity="zero">‏&lt;b>%1$d&lt;/b> تم تأجيله حتى %2$s</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> تم تأجيله حتى %2$s</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> تم تأجيلهما حتى %2$s</item>
+        <item quantity="few">‏&lt;b>%1$d&lt;/b> تم تأجيلها حتى %2$s</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> تم تأجيله حتى %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">‏تم الإبلاغ عن &lt;b>%1$d&lt;/b> كرسائل غير مرغوب فيها</item>
+        <item quantity="zero">‏تم الإبلاغ عن &lt;b>%1$d&lt;/b> كرسائل غير مرغوب فيها</item>
+        <item quantity="one">‏تم الإبلاغ عن &lt;b>%1$d&lt;/b> كرسالة غير مرغوب فيها</item>
+        <item quantity="two">‏تم الإبلاغ عن &lt;b>%1$d&lt;/b> كرسالتين غير مرغوب فيهما</item>
+        <item quantity="few">‏تم الإبلاغ عن &lt;b>%1$d&lt;/b> كرسائل غير مرغوب فيها</item>
+        <item quantity="many">‏تم الإبلاغ عن &lt;b>%1$d&lt;/b> كرسالة غير مرغوب فيها</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">تم الإبلاغ عن %1$d رسالة غير مرغوب فيها وتم إلغاء الاشتراك</item>
+        <item quantity="zero">تم الإبلاغ عن %1$d رسالة غير مرغوب فيها وتم إلغاء الاشتراك</item>
+        <item quantity="one">تم الإبلاغ عن رسالة واحدة (%1$d) غير مرغوب فيها وتم إلغاء الاشتراك</item>
+        <item quantity="two">تم الإبلاغ عن رسالتين (%1$d) غير مرغوب فيهما وتم إلغاء الاشتراك</item>
+        <item quantity="few">تم الإبلاغ عن %1$d رسائل غير مرغوب فيها وتم إلغاء الاشتراك</item>
+        <item quantity="many">تم الإبلاغ عن %1$d رسالة غير مرغوب فيها وتم إلغاء الاشتراك</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> لم يتم تأجيله</item>
+        <item quantity="zero">‏&lt;b>%1$d&lt;/b> لم يتم تأجيله</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> لم يتم تأجيله</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> لم يتم تأجيلهما</item>
+        <item quantity="few">‏&lt;b>%1$d&lt;/b> لم يتم تأجيلها</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> لم يتم تأجيله</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">إزالة التمييز بنجمة عن %1$d من المحادثات</item>
+        <item quantity="zero">إزالة التمييز بنجمة عن %1$d من المحادثات</item>
+        <item quantity="one">إزالة التمييز بنجمة عن محادثة %1$d</item>
+        <item quantity="two">إزالة التمييز بنجمة عن محادثتين (%1$d)</item>
+        <item quantity="few">إزالة التمييز بنجمة عن %1$d محادثات</item>
+        <item quantity="many">إزالة التمييز بنجمة عن %1$d محادثة</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">كل %d يوم</item>
+        <item quantity="zero">كل %d يوم</item>
+        <item quantity="one">يوميًا</item>
+        <item quantity="two">كل يومين %d</item>
+        <item quantity="few">كل %d أيام</item>
+        <item quantity="many">كل %d يومًا</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">‏سيتم وضع علامة على هذه الرسائل كرسائل غير مرغوب فيها. هل ترغب أيضًا في إيقاف تلقي رسائل مشابهة من هؤلاء المرسلين الذين يبلغ عددهم &lt;b>%2$d مرسل&lt;/b>؟%1$s</item>
+        <item quantity="zero">‏سيتم وضع علامة على هذه الرسائل كرسائل غير مرغوب فيها. هل ترغب أيضًا في إيقاف تلقي رسائل مشابهة من هؤلاء المرسلين الذين يبلغ عددهم &lt;b>%2$d مرسل&lt;/b>؟%1$s</item>
+        <item quantity="one">سيتم وضع علامة على هذه الرسالة كرسالة غير مرغوب فيها. هل ترغب أيضًا في إيقاف تلقي رسائل مشابهة من %1$s؟</item>
+        <item quantity="two">‏سيتم وضع علامة على هذه الرسائل كرسائل غير مرغوب فيها. هل ترغب أيضًا في إيقاف تلقي رسائل مشابهة من هذين &lt;b>المُرسلَيْن (%2$d)&lt;/b>؟%1$s</item>
+        <item quantity="few">‏سيتم وضع علامة على هذه الرسائل كرسائل غير مرغوب فيها. هل ترغب أيضًا في إيقاف تلقي رسائل مشابهة من هؤلاء المرسلين الذين يبلغ عددهم &lt;b>%2$d مرسلين&lt;/b>؟%1$s</item>
+        <item quantity="many">‏سيتم وضع علامة على هذه الرسائل كرسائل غير مرغوب فيها. هل ترغب أيضًا في إيقاف تلقي رسائل مشابهة من هؤلاء المرسلين الذين يبلغ عددهم &lt;b>%2$d مرسلاً&lt;/b>؟%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">من المسودات</item>
+        <item quantity="zero">من المسودات</item>
+        <item quantity="one">مسودة</item>
+        <item quantity="two">مسودتان</item>
+        <item quantity="few">مسودات</item>
+        <item quantity="many">مسودة</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">سيتم حذف %1$s محادثة نهائيًا</item>
+        <item quantity="zero">سيتم حذف %1$s محادثة نهائيًا</item>
+        <item quantity="one">سيتم حذف محادثة (%1$s) نهائيًا</item>
+        <item quantity="two">سيتم حذف محادثتين (%1$s) نهائيًا</item>
+        <item quantity="few">سيتم حذف %1$s محادثات نهائيًا</item>
+        <item quantity="many">سيتم حذف %1$s محادثةً نهائيًا</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">؛ لـ %d مرة</item>
+        <item quantity="zero">؛ لـ %d مرة</item>
+        <item quantity="one">؛ لمرة واحدة</item>
+        <item quantity="two">؛ لمرتين %d</item>
+        <item quantity="few">؛ لـ %d مرات</item>
+        <item quantity="many">؛ لـ %d مرة</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">‏قد لا يتمكن مستلمين من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="zero">‏قد لا يتمكن أي من المستلمين من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="one">‏قد لا يتمكن مستلم من الوصول إلى الملف الذي أدرجته من Drive. قد تحتاج إلى مشاركة الملف من داخل Google Drive.</item>
+        <item quantity="two">‏قد لا يتمكن مستلمان من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="few">‏قد لا يتمكن مستلمين من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+        <item quantity="many">‏قد لا يتمكن مستلمين من الوصول إلى الملفات التي أدرجتها من Drive. قد تحتاج إلى مشاركة الملفات من داخل Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">‏ملاحظة: قد لا يزال بعض المستلمين غير قادرين على الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="zero">‏ملاحظة: قد لا يزال بعض المستلمين غير قادرين على الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="one">‏ملاحظة: قد لا يزال بعض المستلمين غير قادرين على الوصول إلى هذا الملف. قد تحتاج إلى مشاركة هذا الملف من داخل Google Drive.</item>
+        <item quantity="two">‏ملاحظة: قد لا يزال بعض المستلمين غير قادرين على الوصول إلى هذين الملفين. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="few">‏ملاحظة: قد لا يزال بعض المستلمين غير قادرين على الوصول إلى هذه الملفات. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+        <item quantity="many">‏ملاحظة: قد لا يزال بعض المستلمين غير قادرين على الوصول إلى هذا الملف. قد تحتاج إلى مشاركة هذه الملفات من داخل Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"‏أنت تشارك مع مستلمين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>الذين لا يندرجون ضمن مؤسسة Google Apps التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="zero">"‏أنت لا تشارك مع أي من المستلمين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>الذين لا يندرجون ضمن مؤسسة Google Apps التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="one">‏أنت تشارك مع المستلم:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>الذي لا يندرج ضمن مؤسسة Google Apps التي ينتمي إليها هذا الملف.</item>
+        <item quantity="two">"‏أنت تشارك مع مستلمين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>اللذين لا يندرجا ضمن مؤسسة Google Apps التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="few">"‏أنت تشارك مع مستلمين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>الذين لا يندرجون ضمن مؤسسة Google Apps التي تنتمي إليها هذه الملفات."</item>
+        <item quantity="many">"‏أنت تشارك مع مستلمين:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br> الذين لا يندرجون ضمن مؤسسة Google Apps التي ينتمي إليها هذا الملف."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">يستخدم ^1 مستلم خدمات لا تدعم التشفير. وبدون استخدام التشفير، يمكن الاطلاع على رسالتك أثناء التسليم. ^2</item>
+        <item quantity="zero">يستخدم ^1 مستلم خدمات لا تدعم التشفير. وبدون استخدام التشفير، يمكن الاطلاع على رسالتك أثناء التسليم. ^2</item>
+        <item quantity="one">يستخدم ^1 خدمة لا تدعم التشفير. وبدون استخدام التشفير، يمكن الاطلاع على رسالتك أثناء التسليم. ^2</item>
+        <item quantity="two">يستخدم مستلمان (^1) خدمات لا تدعم التشفير. وبدون استخدام التشفير، يمكن الاطلاع على رسالتك أثناء التسليم. ^2</item>
+        <item quantity="few">يستخدم ^1 مستلمين خدمات لا تدعم التشفير. وبدون استخدام التشفير، يمكن الاطلاع على رسالتك أثناء التسليم. ^2</item>
+        <item quantity="many">يستخدم ^1 مستلمًا خدمات لا تدعم التشفير. وبدون استخدام التشفير، يمكن الاطلاع على رسالتك أثناء التسليم. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">كل %1$d شهر</item>
+        <item quantity="zero">كل %1$d شهر</item>
+        <item quantity="one">شهريًا</item>
+        <item quantity="two">كل شهرين %1$d</item>
+        <item quantity="few">كل %1$d أشهر</item>
+        <item quantity="many">كل %1$d شهرًا</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d من الرسائل الجديدة</item>
+        <item quantity="zero">%1$d من الرسائل الجديدة</item>
+        <item quantity="one">%1$d رسالة جديدة</item>
+        <item quantity="two">%1$d رسالتان جديدتان</item>
+        <item quantity="few">%1$d رسائل جديدة</item>
+        <item quantity="many">%1$d رسالة جديدة</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d من الرسائل الجديدة</item>
+        <item quantity="zero">%1$d من الرسائل الجديدة</item>
+        <item quantity="one">%1$d رسالة جديدة</item>
+        <item quantity="two">رسالتان جديدتان (%1$d)</item>
+        <item quantity="few">%1$d رسائل جديدة</item>
+        <item quantity="many">%1$d رسالة جديدة</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d من المرفقات</item>
+        <item quantity="zero">%1$d من المرفقات</item>
+        <item quantity="one">%1$d مرفق</item>
+        <item quantity="two">مرفقان (%1$d)</item>
+        <item quantity="few">%1$d مرفقات</item>
+        <item quantity="many">%1$d مرفقًا</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d من الرسائل</item>
+        <item quantity="zero">%1$d من الرسائل</item>
+        <item quantity="one">%1$d رسالة</item>
+        <item quantity="two">رسالتان (%1$d)</item>
+        <item quantity="few">%1$d رسائل</item>
+        <item quantity="many">%1$d رسالة</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">لم تتم مشاركة تقاويم</item>
+        <item quantity="zero">لم تتم مشاركة أي تقويم</item>
+        <item quantity="one">لم تتم مشاركة تقويم واحد</item>
+        <item quantity="two">لم تتم مشاركة تقويمين</item>
+        <item quantity="few">لم تتم مشاركة تقاويم</item>
+        <item quantity="many">لم تتم مشاركة تقاويم</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">لـ %d حدث</item>
+        <item quantity="zero">لـ %d حدث</item>
+        <item quantity="one">لحدث واحد %d</item>
+        <item quantity="two">لحدثين %d</item>
+        <item quantity="few">لـ %d أحداث</item>
+        <item quantity="many">لـ %d حدثًا</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">كل %d يوم</item>
+        <item quantity="zero">كل %d يوم</item>
+        <item quantity="one">كل يوم واحد %d</item>
+        <item quantity="two">كل يومين %d</item>
+        <item quantity="few">كل %d أيام</item>
+        <item quantity="many">كل %d يومًا</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">كل %d شهر</item>
+        <item quantity="zero">كل %d شهر</item>
+        <item quantity="one">كل شهر واحد %d</item>
+        <item quantity="two">كل شهرين %d</item>
+        <item quantity="few">كل %d أشهر</item>
+        <item quantity="many">كل %d شهرًا</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">كل %d أسبوع</item>
+        <item quantity="zero">كل %d أسبوع</item>
+        <item quantity="one">كل أسبوع واحد %d</item>
+        <item quantity="two">كل أسبوعين %d</item>
+        <item quantity="few">كل %d أسابيع</item>
+        <item quantity="many">كل %d أسبوعًا</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">كل %d سنة</item>
+        <item quantity="zero">كل %d سنة</item>
+        <item quantity="one">كل سنة واحدة %d</item>
+        <item quantity="two">كل سنتين %d</item>
+        <item quantity="few">كل %d سنوات</item>
+        <item quantity="many">كل %d سنة</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">تم تحميل %d نتيجة بحث</item>
+        <item quantity="zero">تم تحميل %d نتيجة بحث</item>
+        <item quantity="one">تم تحميل %d نتيجة بحث</item>
+        <item quantity="two">تم تحميل نتيجتي بحث (%d)</item>
+        <item quantity="few">تم تحميل %d نتائج بحث</item>
+        <item quantity="many">تم تحميل %d نتيجة بحث</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">توسيع %1$d من الرسائل الأقدم</item>
+        <item quantity="zero">توسيع %1$d من الرسائل الأقدم</item>
+        <item quantity="one">توسيع رسالة أقدم</item>
+        <item quantity="two">توسيع رسالتين قديمتين (%1$d)</item>
+        <item quantity="few">توسيع %1$d رسائل أقدم</item>
+        <item quantity="many">توسيع %1$d رسالة أقدم</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">تم التأجيل قبل %d يوم.</item>
+        <item quantity="zero">تم التأجيل قبل %d يوم.</item>
+        <item quantity="one">تم التأجيل قبل يوم %d.</item>
+        <item quantity="two">تم التأجيل قبل يوميْن (%d).</item>
+        <item quantity="few">تم التأجيل قبل %d أيام.</item>
+        <item quantity="many">تم التأجيل قبل %d يومًا.</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">تم التأجيل قبل %d ساعة.</item>
+        <item quantity="zero">تم التأجيل قبل %d ساعة.</item>
+        <item quantity="one">تم التأجيل قبل ساعة %d.</item>
+        <item quantity="two">تم التأجيل قبل ساعتيْن (%d).</item>
+        <item quantity="few">تم التأجيل قبل %d ساعات.</item>
+        <item quantity="many">تم التأجيل قبل %d ساعةً.</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">تم التأجيل قبل %d شهر.</item>
+        <item quantity="zero">تم التأجيل قبل %d شهر.</item>
+        <item quantity="one">تم التأجيل قبل شهر %d.</item>
+        <item quantity="two">تم التأجيل قبل شهريْن (%d).</item>
+        <item quantity="few">تم التأجيل قبل %d أشهر.</item>
+        <item quantity="many">تم التأجيل قبل %d شهرًا.</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">تم التأجيل قبل %d أسبوع.</item>
+        <item quantity="zero">تم التأجيل قبل %d أسبوع.</item>
+        <item quantity="one">تم التأجيل قبل أسبوع %d.</item>
+        <item quantity="two">تم التأجيل قبل أسبوعيْن (%d).</item>
+        <item quantity="few">تم التأجيل قبل %d أسابيع.</item>
+        <item quantity="many">تم التأجيل قبل %d أسبوعًا.</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">تم التأجيل قبل %d عام.</item>
+        <item quantity="zero">تم التأجيل قبل %d عام.</item>
+        <item quantity="one">تم التأجيل قبل عام %d.</item>
+        <item quantity="two">تم التأجيل قبل عاميْن (%d).</item>
+        <item quantity="few">تم التأجيل قبل %d أعوام.</item>
+        <item quantity="many">تم التأجيل قبل %d عامًا.</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">تم توسيع %1$d من الرسائل الأقدم</item>
+        <item quantity="zero">تم توسيع %1$d من الرسائل الأقدم</item>
+        <item quantity="one">تم توسيع رسالة أقدم واحدة</item>
+        <item quantity="two">تم توسيع رسالتين قديمتين (%1$d)</item>
+        <item quantity="few">تم توسيع %1$d رسائل أقدم</item>
+        <item quantity="many">تم توسيع %1$d رسالة أقدم</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d من الأيام</item>
+        <item quantity="zero">%d من الأيام</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان (%d)</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يومًا</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">سيتم تنزيل رسائل آخر %1$d يوم عند الاتصال</item>
+        <item quantity="zero">سيتم تنزيل رسائل آخر %1$d يوم عند الاتصال</item>
+        <item quantity="one">سيتم تنزيل رسائل اليوم الأخير عند الاتصال</item>
+        <item quantity="two">سيتم تنزيل رسائل آخر يومين (%1$d) عند الاتصال</item>
+        <item quantity="few">سيتم تنزيل رسائل آخر %1$d أيام عند الاتصال</item>
+        <item quantity="many">سيتم تنزيل رسائل آخر %1$d يومًا عند الاتصال</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">آخر %1$d يوم</item>
+        <item quantity="zero">آخر %1$d يوم</item>
+        <item quantity="one">اليوم الماضي</item>
+        <item quantity="two">آخر يومين (%1$d)</item>
+        <item quantity="few">آخر %1$d أيام</item>
+        <item quantity="many">آخر %1$d يومًا</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">تاريخ الاستحقاق - %1$s - %2$d مهمة</item>
+        <item quantity="zero">تاريخ الاستحقاق - %1$s - %2$d مهمة</item>
+        <item quantity="one">تاريخ الاستحقاق - %1$s - مهمة واحدة (%2$d)</item>
+        <item quantity="two">تاريخ الاستحقاق - %1$s - مهمتان (%2$d)</item>
+        <item quantity="few">تاريخ الاستحقاق - %1$s - %2$d مهام</item>
+        <item quantity="many">تاريخ الاستحقاق - %1$s - %2$d مهمةً</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">من الأيام</item>
+        <item quantity="zero">من الأيام</item>
+        <item quantity="one">يوم</item>
+        <item quantity="two">)</item>
+        <item quantity="few">أيام</item>
+        <item quantity="many">يومًا</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">كل %1$d أسبوع، يوم %2$s</item>
+        <item quantity="zero">كل %1$d أسبوع، يوم %2$s</item>
+        <item quantity="one">يوم %2$s من كل أسبوع</item>
+        <item quantity="two">كل أسبوعين %1$d يوم %2$s</item>
+        <item quantity="few">كل %1$d أسابيع، يوم %2$s</item>
+        <item quantity="many">كل %1$d أسبوعًا، يوم %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">كل %1$d سنة</item>
+        <item quantity="zero">كل %1$d سنة</item>
+        <item quantity="one">سنويًا</item>
+        <item quantity="two">كل سنتين %1$d</item>
+        <item quantity="few">كل %1$d سنوات</item>
+        <item quantity="many">كل %1$d سنة</item>
+    </plurals>
+</resources>

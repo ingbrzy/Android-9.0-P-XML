@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>এনিমেশ্বন অফ অৱস্থাত আছে</item>
+        <item>এনিমেশ্বন স্কেল .৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১.৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ২গুণ</item>
+        <item>এনিমেশ্বন স্কেল ৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১০গুণ</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>নাই</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP বা CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>আভ্যন্তৰীণ ডিভাইচ সঞ্চয়াগাৰ</item>
+        <item>গুচাব পৰা SD কাৰ্ড</item>
+        <item>ছিষ্টেমটোক সিদ্ধান্ত ল’বলৈ দিয়ক</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>অৱস্থান</item>
+        <item>ব্যক্তিগত</item>
+        <item>মেছেজিং</item>
+        <item>মিডিয়া</item>
+        <item>ডিভাইচ</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>অৱস্থান</item>
+        <item>অৱস্থান</item>
+        <item>অৱস্থান</item>
+        <item>কম্পন</item>
+        <item>সম্পৰ্কসূচী পঢ়ক</item>
+        <item>সম্পৰ্কসূচী সংশোধন</item>
+        <item>কল লগ পঢ়ক</item>
+        <item>কল লগ সলনি কৰক</item>
+        <item>কেলেণ্ডাৰ পঢ়ক</item>
+        <item>কেলেণ্ডাৰ সংশোধন কৰক</item>
+        <item>অৱস্থান</item>
+        <item>"প'ষ্ট জাননী"</item>
+        <item>অৱস্থান</item>
+        <item>"ফ'ন নম্বৰত কল কৰক"</item>
+        <item>এছএমএছ/এমএমএছ পঢ়ক</item>
+        <item>এছএমএছ/এমএমএছ লিখক</item>
+        <item>SMS/MMS পাওক</item>
+        <item>এছএমএছ/এমএমএছ পাওক</item>
+        <item>এছএমএছ/এমএমএছ পাওক</item>
+        <item>SMS/MMS পাওক</item>
+        <item>এছএমএছ/এমএমএছ পঠিয়াওক</item>
+        <item>এছএমএছ/এমএমএছ পঢ়ক</item>
+        <item>SMS/MMS লিখক</item>
+        <item>ছেটিংসমূহ সংশোধন কৰক</item>
+        <item>ওপৰত আঁকক</item>
+        <item>প্ৰৱেশৰ জাননীসমূহ</item>
+        <item>কেমেৰা</item>
+        <item>ধ্বনি ৰেকৰ্ড কৰক</item>
+        <item>"অডিঅ' প্লে কৰক"</item>
+        <item>"ক্লিপব'ৰ্ড পঢ়ক"</item>
+        <item>"ক্লিপব'ৰ্ড সংশোধন কৰক"</item>
+        <item>মিডিয়া বুটাম</item>
+        <item>"অডিঅ' ফ'কাছ"</item>
+        <item>মাষ্টাৰ ভলিউম</item>
+        <item>কণ্ঠস্বৰৰ ভলিউম</item>
+        <item>ৰিংৰ ভলিউম</item>
+        <item>মধ্যমীয়া ভলিউম</item>
+        <item>এলাৰ্মৰ ভলিউম</item>
+        <item>জাননীৰ ভলিউম</item>
+        <item>ব্লুটুথ ভলিউম</item>
+        <item>জাগ্ৰত কৰি ৰাখক</item>
+        <item>অৱস্থান</item>
+        <item>অৱস্থান</item>
+        <item>ব্যৱহাৰ পৰিসংখ্যা লাভ কৰক</item>
+        <item>"মাইক্ৰ'ফ'ন মিউট/আনমিউট কৰক"</item>
+        <item>"ট'ষ্ট দেখুৱাওক"</item>
+        <item>মিডিয়া প্ৰ’জেক্ট কৰক</item>
+        <item>ভিপিএন সক্ৰিয় কৰক</item>
+        <item>ৱালপেপাৰ যোৰ দিয়ক</item>
+        <item>সহায়ৰ গাঁথনি</item>
+        <item>সহায় স্ক্ৰীণশ্বট</item>
+        <item>"ফ'নৰ স্থিতি পঢ়ক"</item>
+        <item>ভইচমেইল যোগ কৰক</item>
+        <item>ছিপ ব্যৱহাৰ কৰক</item>
+        <item>বৰ্হিগামী কল সম্পাদন কৰক</item>
+        <item>ফিংগাৰপ্ৰিণ্ট</item>
+        <item>শৰীৰৰ ছেন্সৰসমূহ</item>
+        <item>চেল সম্প্ৰচাৰবোৰ পঢ়ক</item>
+        <item>নকল অৱস্থান</item>
+        <item>সঞ্চয়াগাৰ পঢ়ক</item>
+        <item>সঞ্চয়াগাৰত লিখক</item>
+        <item>স্ক্ৰীণ অন কৰক</item>
+        <item>একাউণ্টবোৰ বিচাৰক</item>
+        <item>নেপথ্যত চলাওক</item>
+        <item>দিব্যাংসকলৰ বাবে থকা সুবিধাসমূহৰ ভলিউম</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>আনুমানিক অৱস্থান</item>
+        <item>সঠিক অৱস্থান</item>
+        <item>জিপিএছ</item>
+        <item>কম্পন</item>
+        <item>সম্পৰ্কসমূহ পঢ়ক</item>
+        <item>সম্পৰ্কসমূহ সংশোধন কৰক</item>
+        <item>কলৰ লগ পঢ়ক</item>
+        <item>কলৰ লগ সংশোধন কৰক</item>
+        <item>কেলেণ্ডাৰ পঢ়ক</item>
+        <item>কেলেণ্ডাৰ সাল-সলনি কৰক</item>
+        <item>ৱাই-ফাই স্কেন</item>
+        <item>জাননী</item>
+        <item>চেল স্কেন</item>
+        <item>"ফ'ন ক'ল কৰক"</item>
+        <item>এছএমএছ পঢ়ক</item>
+        <item>এছএমএছ লিখক</item>
+        <item>SMS পাওক</item>
+        <item>জৰূৰীকালীন এছএমএছ পাওক</item>
+        <item>এমএমএছ পাওক</item>
+        <item>WAP পুশ্ব পাওক</item>
+        <item>এছএমএছ পঠিয়াওক</item>
+        <item>আইচিচি এছএমএছ পঢ়ক</item>
+        <item>আইচিচি এছএমএছ লিখক</item>
+        <item>ছেটিংবোৰ সংশোধন কৰক</item>
+        <item>ওপৰত আঁকক</item>
+        <item>জাননীত প্ৰৱেশ কৰক</item>
+        <item>কেমেৰা</item>
+        <item>ধ্বনি ৰেকৰ্ড কৰক</item>
+        <item>অডিঅ’ প্লে কৰক</item>
+        <item>"ক্লিপব'ৰ্ড পঢ়ক"</item>
+        <item>"ক্লিপব'ৰ্ড সংশোধন কৰক"</item>
+        <item>মিডিয়া বুটামসমূহ</item>
+        <item>"অডিঅ' ফ'কাছ"</item>
+        <item>মাষ্টাৰ ভলিউম</item>
+        <item>ধ্বনিৰ ভলিউম</item>
+        <item>ৰিংৰ ভলিউম</item>
+        <item>মিডিয়াৰ ভলিউম</item>
+        <item>এলাৰ্মৰ ভলিউম</item>
+        <item>জাননীৰ ভলিউম</item>
+        <item>ব্লুটুথ ভলিউম</item>
+        <item>সক্ৰিয় কৰি ৰাখক</item>
+        <item>অৱস্থান নিৰীক্ষণ কৰক</item>
+        <item>উচ্চ ক্ষমতাসম্পন্ন অৱস্থান নিৰীক্ষণ কৰক</item>
+        <item>ব্যৱহাৰ পৰিসংখ্যা লাভ কৰক</item>
+        <item>"মাইক্ৰ'ফ'ন মিউট/আনমিউট কৰক"</item>
+        <item>ট’ষ্ট দেখুৱাওক</item>
+        <item>মিডিয়া প্ৰ’জেক্ট কৰক</item>
+        <item>VPN সক্ৰিয় কৰক</item>
+        <item>ৱালপেপাৰ লিখক</item>
+        <item>সহায়ৰ গাঁঠনি</item>
+        <item>সহায়ক স্ক্ৰীণশ্বট</item>
+        <item>"ফ'নৰ স্থিতি পঢ়ক"</item>
+        <item>ভইচমেইল যোগ কৰক</item>
+        <item>ছিপ ব্যৱহাৰ কৰক</item>
+        <item>বৰ্হিগামী কল সম্পাদন কৰক</item>
+        <item>ফিংগাৰপ্ৰিণ্ট</item>
+        <item>শৰীৰৰ ছেন্সৰসমূহ</item>
+        <item>চেল সম্প্ৰচাৰসমূহ পঢ়ক</item>
+        <item>নকল অৱস্থান</item>
+        <item>সঞ্চয়াগাৰত পঢ়ক</item>
+        <item>সঞ্চয়াগাৰত লিখক</item>
+        <item>স্ক্ৰীণ অন কৰক</item>
+        <item>একাউণ্টবোৰ বিচাৰক</item>
+        <item>নেপথ্যত চলাওক</item>
+        <item>দিব্যাংসকলৰ বাবে থকা সুবিধাসমূহৰ ভলিউম</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>মান্য সীমা</item>
+        <item>নেপথ্যত কোনো প্ৰক্ৰিয়া চলি থকা নাই</item>
+        <item>সৰ্বাধিক ১টা প্ৰক্ৰিয়া</item>
+        <item>সৰ্বাধিক ২টা প্ৰক্ৰিয়া</item>
+        <item>সৰ্বাধিক ৩টা প্ৰক্ৰিয়া</item>
+        <item>সৰ্বাধিক ৪টা প্ৰক্ৰিয়া</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>৩০দিনতকৈ অধিক পুৰণি</item>
+        <item>৬০ দিনতকৈ অধিক পুৰণি</item>
+        <item>৯০ দিনতকৈ অধিক পুৰণি</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>০%</item>
+        <item>৫০%</item>
+        <item>১০০%</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>অনিৰ্দিষ্ট</item>
+        <item>এলটিই</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>জিপিআৰএছ</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ’ল্ট)</item>
+        <item>১৬ বিট/নমুনা</item>
+        <item>২৪ বিট/নমুনা</item>
+        <item>৩২ বিট/নমুনা</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>"ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ'ল্ট)"</item>
+        <item>১৬ বিট/নমুনা</item>
+        <item>২৪ বিট/নমুনা</item>
+        <item>৩২ বিট/নমুনা</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>"ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ'ল্ট)"</item>
+        <item>"ম'ন'"</item>
+        <item>"ষ্টেৰিঅ'"</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>"ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ'ল্ট)"</item>
+        <item>"ম'ন'"</item>
+        <item>"ষ্টেৰিঅ'"</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>"অডিঅ' গুণমানৰ বাবে অপ্টিমাইজ কৰা হৈছে"</item>
+        <item>ধ্বনি আৰু সংযোগৰ সন্তুলিত গুণগত মান</item>
+        <item>সংযোগৰ ক্ষমতা অনুযায়ী সৰ্বোত্তম</item>
+        <item>উত্তম প্ৰচেষ্টা (অভিযোজিত বিট ৰেইট)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>ধ্বনিৰ মানৰ বাবে অপ্টিমাইজ কৰা হৈছে (৯৯০কি.বা.প্ৰ.ছে./৯০৯কি.বা.প্ৰ.ছে.)</item>
+        <item>ধ্বনি আৰু সংযোগৰ সন্তুলিত গুণগত মান (৬৬০কে.বি.প্ৰ.ছে./৬০৬কে.বি.প্ৰ.ছে.</item>
+        <item>সংযোগৰ ক্ষমতা অনুযায়ী সৰ্বোত্তম (৩৩০কে.বি.প্ৰ.ছে/৩০৩কে.বি.প্ৰ.ছে)</item>
+        <item>উত্তম প্ৰচেষ্টা (অভিযোজিত বিট ৰেইট)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ’ল্ট)</item>
+        <item>৪৪.১ কিল’হাৰ্টজ</item>
+        <item>৪৮.০ কিল’হাৰ্টজ</item>
+        <item>"৮৮.২ কিল'হাৰ্টজ"</item>
+        <item>৯৬.০ কিল’হাৰ্টজ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>"ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ'ল্ট)"</item>
+        <item>"৪৪.১ কিল'হাৰ্টজ"</item>
+        <item>৪৮.০ কিল’হাৰ্টজ</item>
+        <item>"৮৮.২ কিল'হাৰ্টজ"</item>
+        <item>৯৬.০ কিল’হাৰ্টজ</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>"ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ'ল্ট)"</item>
+        <item>এছবিচি</item>
+        <item>এএচি</item>
+        <item>Qualcomm® aptX™ অডিঅ’</item>
+        <item>Qualcomm® aptX™ HD অডিঅ’</item>
+        <item>LDAC</item>
+        <item>"বিকল্প ক'ডেকসমূহ সক্ষম কৰক"</item>
+        <item>ঐচ্ছিক ক’ডেকসমূহ অক্ষম কৰক</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>"ছিষ্টেমৰ বাছনি ব্যৱহাৰ কৰক (ডিফ'ল্ট)"</item>
+        <item>এছবিচি</item>
+        <item>এএচি</item>
+        <item>"Qualcomm® aptX™ অডিঅ'"</item>
+        <item>Qualcomm® aptX™ HD অডিঅ’</item>
+        <item>LDAC</item>
+        <item>"বিকল্প ক'ডেকসমূহ সক্ষম কৰক"</item>
+        <item>"বিকল্প ক'ডেকসমূহ অসক্ষম কৰক"</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, সক্ৰিয়</item>
+        <item>, সক্ৰিয় (মিডিয়া)</item>
+        <item>", সক্ৰিয় (ফ'ন)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp১৩</item>
+        <item>avrcp১৫</item>
+        <item>avrcp১৬</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP ১.৪ (ডিফ’ল্ট)</item>
+        <item>AVRCP ১.৩</item>
+        <item>AVRCP ১.৫</item>
+        <item>AVRCP ১.৬</item>
+    </string-array>
+    <string-array name="bluetooth_max_connected_audio_devices">
+        <item>"ছিষ্টেম ডিফ'ল্ট ব্যৱহাৰ কৰক: %1$d"</item>
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>২ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১ ঘণ্টা</item>
+        <item>কেতিয়াও সময় উকলি নাযায়</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>"ডিফ'ল্ট"</item>
+        <item>নাই</item>
+        <item>ৰূপৰেখা</item>
+        <item>ছাঁযুক্ত আখৰ</item>
+        <item>উঠঙা</item>
+        <item>পোটোকা পৰা</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>নিচেই সৰু</item>
+        <item>সৰু</item>
+        <item>সাধাৰণ</item>
+        <item>ডাঙৰ</item>
+        <item>অতি ডাঙৰ</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>২৫%</item>
+        <item>৫০%</item>
+        <item>৭৫%</item>
+        <item>১০০%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>"এপৰ ডিফ'ল্টসমূহ ব্যৱহাৰ কৰক"</item>
+        <item>"ক'লাৰ ওপৰত বগা"</item>
+        <item>বগা ওপৰত ক’লা</item>
+        <item>"ক'লাৰ ওপৰত হালধীয়া"</item>
+        <item>নীলাৰ ওপৰত হালধীয়া</item>
+        <item>নিজৰ উপযোগিতা অনুযায়ী তৈয়াৰ কৰা</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>"ডিফ'ল্ট"</item>
+        <item>ছানছ-ছেৰিফ</item>
+        <item>ছানছ-ছেৰিফ ঘনীকৃত</item>
+        <item>"ছান-ছেৰিফ ম'ন'স্পেচ"</item>
+        <item>ছেৰিফ</item>
+        <item>"ছেৰিফ ম'ন'স্পেচ"</item>
+        <item>অনানুষ্ঠানিক</item>
+        <item>পকোৱা আখৰ</item>
+        <item>সৰু বৰফলাৰ আখৰ</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>বৰ্ধিত ৰং</item>
+        <item>চকুৱে দেখা পোৱা ধৰণৰ প্ৰাকৃতিক ৰং</item>
+        <item>ডিজিটেল সমলৰ বাবে ৰং অপ্টিমাইজ কৰা হৈছে</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>"জীৱন্ত (ডিফ'ল্ট)"</item>
+        <item>প্ৰাকৃতিক</item>
+        <item>মানক</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>গাঢ় সেউজ-নীলা</item>
+        <item>নীলা</item>
+        <item>"ইণ্ডিগ'"</item>
+        <item>বেঙুনীয়া</item>
+        <item>গুলপীয়া</item>
+        <item>ৰঙা</item>
+    </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>স্বয়ংক্ৰিয় (দিনৰ সময়ৰ ওপৰত আধাৰিত)</item>
+        <item>সদায় অন</item>
+        <item>সদায় অফ</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>যোৱা ৩০ দিন</item>
+        <item>ডেটা ব্যৱহাৰ চক্ৰ...</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>অফ কৰক</item>
+        <item>পিক্সেল একাধিকবাৰ ব্যৱহৃত অংশসমূহ দেখুৱাওক</item>
+        <item>"ডিউটাৰএন'মেলীৰ অংশসমূহ দেখুৱাওক"</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>কেতিয়াও নকৰিব</item>
+        <item>১৫ ছেকেণ্ড</item>
+        <item>৩০ ছেকেণ্ড</item>
+        <item>১ মিনিট</item>
+        <item>২ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>৩০ মিনিট</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>নাই</item>
+        <item>লগকেট</item>
+        <item>ছিছট্ৰেইচ (গ্ৰাফিক্স)</item>
+        <item>glGetErrorত কলৰ খাপ</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>সৰু</item>
+        <item>"ডিফ'ল্ট"</item>
+        <item>ডাঙৰ</item>
+        <item>সকলোতকৈ ডাঙৰ</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>কেতিয়াও HDCP পৰীক্ষণ ব্যৱহাৰ নকৰিব</item>
+        <item>কেৱল DRM সমলৰ বাবে HDCP পৰীক্ষণ ব্যৱহাৰ কৰক</item>
+        <item>সদায় HDCP পৰীক্ষণ ব্যৱহাৰ কৰক</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>কেতিয়াও পৰীক্ষা নকৰিব</item>
+        <item>কেৱল DRM সমলৰ বাবে পৰীক্ষা কৰক</item>
+        <item>সদায় পৰীক্ষা কৰক</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>তৎক্ষণাৎ</item>
+        <item>৫ ছেকেণ্ড</item>
+        <item>১৫ ছেকেণ্ড</item>
+        <item>৩০ ছেকেণ্ড</item>
+        <item>১ মিনিট</item>
+        <item>২ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>৩০ মিনিট</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>চুটি</item>
+        <item>মধ্যমীয়া</item>
+        <item>দীঘল</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>নাই</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>নাই</item>
+        <item>৪৮০পি.</item>
+        <item>৪৮০পি. (সুৰক্ষিত)</item>
+        <item>৭২০পি.</item>
+        <item>৭২০পি. (সুৰক্ষিত)</item>
+        <item>১০৮০পি.</item>
+        <item>১০৮০পি. (সুৰক্ষিত)</item>
+        <item>4K</item>
+        <item>৪কে. (সুৰক্ষিত)</item>
+        <item>৪কে. (বৰ্ধিত)</item>
+        <item>৪কে. (বৰ্ধিত, সুৰক্ষিত)</item>
+        <item>৭২০পি., ১০৮০পি. (দ্বৈত স্ক্ৰীণ)</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>সাধাৰণ</item>
+        <item>মজলীয়া</item>
+        <item>নিম্ন</item>
+        <item>জটিল</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>নেৰানেপেৰা</item>
+        <item>শীৰ্ষ কাৰ্যকলাপ</item>
+        <item>গুৰুত্বপূৰ্ণ (নেপথ্য)</item>
+        <item>গুৰুত্বপূৰ্ণ (নেপথ্য)</item>
+        <item>বেকআপ</item>
+        <item>অত্য়ধিক</item>
+        <item>সেৱা (চলিত)</item>
+        <item>সেৱা (ৰিষ্টাৰ্ট কৰা হৈছে)</item>
+        <item>ৰিচিভাৰ</item>
+        <item>"হ'ম"</item>
+        <item>অন্তিম কাৰ্যকলাপ</item>
+        <item>কেশ্ব কৰা হোৱা (কাৰ্যকলাপ)</item>
+        <item>কেশ্ব কৰা হোৱা (কাৰ্যকলাপ গ্ৰাহক)</item>
+        <item>কেশ্ব কৰা হোৱা (খালী)</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>সাধাৰণ</item>
+        <item>মজলীয়া</item>
+        <item>নিম্ন</item>
+        <item>সংকটপূৰ্ণ</item>
+        <item>\?</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>১৫ ছেকেণ্ড</item>
+        <item>৩০ ছেকেণ্ড</item>
+        <item>১ মিনিট</item>
+        <item>২ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১০ মিনিট</item>
+        <item>৩০ মিনিট</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>সোধক</item>
+        <item>কেতিয়াও অনুমতি নিদিব</item>
+        <item>চিৰদিনৰ বাবে অনুমোদন</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>অফ কৰক</item>
+        <item>৬৪কে.</item>
+        <item>২৫৬কে.</item>
+        <item>১মি.</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>অফ কৰক</item>
+        <item>প্ৰতিটো লগ বাফাৰত ৬৪কে.</item>
+        <item>প্ৰতি লগ বাফাৰত 256K</item>
+        <item>প্ৰতিটো লগ বাফাৰত ১মি.</item>
+        <item>প্ৰতিটো লগ বাফাৰত ৪মি.</item>
+        <item>প্ৰতিটো লগ বাফাৰত ১৬মি.</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>অফ কৰক</item>
+        <item>৬৪কে.</item>
+        <item>২৫৬কে.</item>
+        <item>১মি.</item>
+        <item>4M</item>
+        <item>১৬মি.</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>অফ কৰক</item>
+        <item>সকলো লগ বাফাৰ</item>
+        <item>"ৰেডিঅ' লগ বাফাৰৰ বাহিৰে সকলো"</item>
+        <item>কেৱল কাৰ্ণেল লগ বাফাৰ</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>অফ অৱস্থাত আছে</item>
+        <item>সকলো</item>
+        <item>"ৰেডিঅ'ৰ বাহিৰে সকলো"</item>
+        <item>কেৱল কাৰ্ণেল</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>অফ কৰক</item>
+        <item>আয়তাকাৰ নোহোৱা ক্লিপ অঞ্চল নীলাৰে আঁকক</item>
+        <item>পৰীক্ষণ কৰা চিত্ৰাংকণ কমাণ্ডবোৰ সেউজীয়া ৰঙত হাইলাইট কৰক</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>আমেৰিকা</item>
+        <item>ইউৰোপ</item>
+        <item>আফ্ৰিকা</item>
+        <item>এছিয়া</item>
+        <item>অষ্ট্ৰেলিয়া</item>
+        <item>প্ৰশান্ত মহাসাগৰীয়</item>
+        <item>সকলো</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>অফ হৈ আছে</item>
+        <item>স্ক্ৰীণত দণ্ড হিচাপে</item>
+        <item>adb shell dumpsys gfxinfoত</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>এনিমেশ্বন অফ</item>
+        <item>এনিমেশ্বন স্কেল .৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল 1গু</item>
+        <item>এনিমেশ্বন স্কেল .৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ২গুণ</item>
+        <item>এনিমেশ্বন স্কেল ৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১০গুণ</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>অতি লেহেম</item>
+        <item>লেহেমীয়া</item>
+        <item>সাধাৰণ</item>
+        <item>দ্ৰুত</item>
+        <item>দ্ৰুত</item>
+        <item>অতি দ্ৰুত</item>
+        <item>দ্ৰুত</item>
+        <item>অতি দ্ৰুত</item>
+        <item>দ্ৰুততম</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>ব্যৱহাৰৰ সময়</item>
+        <item>অন্তিমবাৰ ব্যৱহাৰ কৰা হৈছিল</item>
+        <item>এপৰ নাম</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>চ্চাৰ্জ কৰি থকা হৈছে</item>
+        <item>এমটিপি (মিডিয়া ট্ৰান্সফাৰ প্ৰ’ট’কল)</item>
+        <item>পিটিপি (পিকচাৰ ট্ৰান্সফাৰ প্ৰ’ট’কল)</item>
+        <item>RNDIS (USB ইথাৰনেট)</item>
+        <item>ধ্বনিৰ উৎস</item>
+        <item>এমআইডিআই</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>সংযোগ বিচ্ছিন্ন</item>
+        <item>আৰম্ভ কৰা হৈছে…</item>
+        <item>সংযোগ কৰি থকা হৈছে…</item>
+        <item>সংযোজিত হৈ আছে</item>
+        <item>সময় উকলিছে</item>
+        <item>বিফল হৈছে</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>পিপিটিপি ভিপিএন</item>
+        <item>পূৰ্বে ভাগ-বতৰা কৰা কীসমূহৰ সৈতে L2TP/IPSec ভিপিএন</item>
+        <item>প্ৰমাণপত্ৰসহ L2TP/IPSec ভিপিএন</item>
+        <item>পূৰ্বতে শ্বেয়াৰ কৰা কী আৰু Xauth সত্যাপনসহ IPSec ভিপিএন</item>
+        <item>প্ৰমাণপত্ৰ আৰু Xauth বিশ্ৱাসযোগ্যতা প্ৰামাণিকৰণৰ সৈতে IPSec ভিপিএন</item>
+        <item>প্ৰমাণপত্ৰ আৰু হাইব্ৰিড সত্যাপনসহ IPSec ভিপিএন</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>ৱাই-ফাইক অগ্ৰাধিকাৰ দিয়া হৈছে</item>
+        <item>"ম'বাইলক অগ্ৰাধিকাৰ দিয়া হৈছে"</item>
+        <item>ৱাই-ফাই মাত্ৰ</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>ৱাই-ফাই</item>
+        <item>"ম'বাইল"</item>
+        <item>ৱাই-ফাই মাত্ৰ</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>ৱাই-ফাই</item>
+        <item>ম’বাইল</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>ৱাই-ফাইৰ অগ্ৰাধিকাৰ</item>
+        <item>"ম'বাইলক অগ্ৰাধিকাৰ দিয়া হৈছে"</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>২</item>
+        <item>১</item>
+        <item>০</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>২</item>
+        <item>১</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>পিইএপি</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>পিইএপি</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>ছিম</item>
+        <item>AKA</item>
+        <item>"একে'এ'"</item>
+    </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>নহয়</item>
+        <item>হয়</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>নিশ্চল</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>স্ৱয়ংক্ৰিয়ভাৱে চিনাক্ত কৰক</item>
+        <item>মিটাৰ কৰা হিছাপে আচৰণ কৰক</item>
+        <item>নিৰিখ অনিৰ্দিষ্ট বুলি গণ্য কৰক</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>সংযোগ কৰা হ’ল</item>
+        <item>নিমন্ত্ৰিত</item>
+        <item>অসফল</item>
+        <item>উপলব্ধ</item>
+        <item>সীমাৰ বাহিৰত</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>পুশ্ব বুটাম</item>
+        <item>সংযুক্ত ডিভাইচৰ পৰা পিন</item>
+        <item>এই ডিভাইচৰ পিন</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>নাই</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>নাই</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>ছিম</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>নাই</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>নাই</item>
+        <item>হস্তকৃত</item>
+        <item>প্ৰক্সি স্বয়ং-কনফিগাৰেশ্বন</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>দুৰ্বল</item>
+        <item>দুৰ্বল</item>
+        <item>গ্ৰহণযোগ্য</item>
+        <item>উচ্চ</item>
+        <item>উত্তম</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>স্কেন কৰি থকা হৈছে…</item>
+        <item>সংযোগ কৰি থকা হৈছে…</item>
+        <item>বিস্বাশযোগ্যতা প্ৰমাণ কৰি থকা হৈছে …</item>
+        <item>আইপি ঠিকনা সংগ্ৰহ কৰি থকা হৈছে…</item>
+        <item>সংযোগ কৰা হ’ল</item>
+        <item>স্থগিত</item>
+        <item>সংযোগ বিচ্ছিন্ন কৰি থকা হৈছে</item>
+        <item>সংযোগ বিচ্ছিন্ন</item>
+        <item>অসফল</item>
+        <item>অৱৰোধিত</item>
+        <item>কিছুসময়ৰ বাবে দুৰ্বল সংযোগ দেখুওৱা হোৱা নাই</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>স্কেন কৰি থকা হৈছে…</item>
+        <item>%1$sৰ সৈতে সংযোগ কৰি থকা হৈছে…</item>
+        <item>%1$sৰ জৰিয়তে সত্যাপন কৰি থকা হৈছে…</item>
+        <item>%1$sৰ আইপি ঠিকনা পৰা সংগ্ৰহ কৰি থকা হৈছে…</item>
+        <item>"%1$sৰ সৈতে সংযোগ কৰা হ'ল"</item>
+        <item>স্থগিত</item>
+        <item>%1$sৰ পৰা সংযোগ বিচ্ছিন্ন কৰি থকা হৈছে…</item>
+        <item>সংযোগ বিচ্ছিন্ন</item>
+        <item>বিফল হৈছে</item>
+        <item>অৱৰোধিত</item>
+        <item>কিছুসময়ৰ বাবে দুৰ্বল সংযোগ দেখুওৱা হোৱা নাই</item>
+    </string-array>
+    <string-array name="wifi_tether_security_values">
+        <item>4</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>এনিমেশ্বন অফ</item>
+        <item>এনিমেশ্বন স্কেল .৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১.৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ২গুণ</item>
+        <item>এনিমেশ্বন স্কেল ৫গুণ</item>
+        <item>এনিমেশ্বন স্কেল ১০গু</item>
+    </string-array>
+</resources>

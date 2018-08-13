@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s атрымальніка</item>
+        <item quantity="one">%s атрымальнік</item>
+        <item quantity="few">%s атрымальнікі</item>
+        <item quantity="many">%s атрымальнікаў</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 атрымальніка выкарыстоўваюць службы, якія не падтрымліваюць кадаванне. Без шыфравання іншыя карыстальнікі могуць праглядаць ваша паведамленне падчас дастаўкі. ^2</item>
+        <item quantity="one">^1 карыстаецца сэрвісам, які не падтрымлівае шыфраванне. Без шыфравання іншыя карыстальнікі могуць праглядаць ваша паведамленне падчас дастаўкі. ^2</item>
+        <item quantity="few">^1 атрымальнікі карыстаюцца сэрвісам, які не падтрымлівае шыфраванне. Без шыфравання іншыя карыстальнікі могуць праглядаць ваша паведамленне падчас дастаўкі. ^2</item>
+        <item quantity="many">^1 атрымальнікаў карыстаюцца сэрвісам, які не падтрымлівае шыфраванне. Без шыфравання іншыя карыстальнікі могуць праглядаць ваша паведамленне падчас дастаўкі. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 і іншыя не падтрымлівалі шыфраванне падчас адпраўкі гэтага паведамлення. ^2</item>
+        <item quantity="one">^1 і іншыя не падтрымлівалі шыфраванне падчас адпраўкі гэтага паведамлення. ^2</item>
+        <item quantity="few">^1 і іншыя не падтрымлівалі шыфраванне падчас адпраўкі гэтага паведамлення. ^2</item>
+        <item quantity="many">^1 і іншыя не падтрымлівалі шыфраванне падчас адпраўкі гэтага паведамлення. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Заархіваваць гэтыя %1$d размовы?</item>
+        <item quantity="one">Заархіваваць гэту %1$d размову?</item>
+        <item quantity="few">Заархіваваць гэтыя %1$d размовы?</item>
+        <item quantity="many">Заархіваваць гэтыя %1$d размоў?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Выдаліць гэтых %1$d размовы?</item>
+        <item quantity="one">Выдаліць гэту %1$d размову?</item>
+        <item quantity="few">Выдаліць гэтыя %1$d размовы?</item>
+        <item quantity="many">Выдаліць гэтыя %1$d размоў?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Выдалiць чарнавiкi з гэтых %1$d размовы?</item>
+        <item quantity="one">Выдалiць чарнавiкi з гэтай %1$d размовы?</item>
+        <item quantity="few">Выдалiць чарнавiкi з гэтых %1$d размоў?</item>
+        <item quantity="many">Выдалiць чарнавiкi з гэтых %1$d размоў?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> заархівавана</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> заархівавана</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> заархіваваны</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> заархіваваны</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> выдалена</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> выдалена</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> выдалены</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> выдалены</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Змененай меткі.</item>
+        <item quantity="one">Змененая метка.</item>
+        <item quantity="few">Змененыя меткі.</item>
+        <item quantity="many">Змененых метак.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> перамешчана ў папку Уваходныя</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> перамешчана ў папку Уваходныя</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> перамешчаны ў папку Уваходныя</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> перамешчаны ў папку Уваходныя</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> схавана</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> схавана</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> схаваны</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> схаваны</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> пазначаны як няважныя</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> пазначана як няважнае</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> пазначаны як няважныя</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> пазначаны як няважныя</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> заяўлена як не спам</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>: заяўлена як не спам</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> заяўлены як не спам</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> заяўлены як не спам</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> размовы пазначана як прачытаныя</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> размова пазначана як прачытаная</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> размовы пазначаны як прачытаныя</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> размоў пазначана як прачытаныя</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> адкладзена да: %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> адкладзена да: %2$s</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> адкладзены да: %2$s</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> адкладзена да: %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> заяўлена як спам</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> заяўлена як спам</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> заяўлены як спам</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> заяўлены як спам</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d заяўлена як спам, падпіска скасавана</item>
+        <item quantity="one">%1$d заяўлена як спам, падпіска скасавана</item>
+        <item quantity="few">%1$d заяўлены як спам, падпіска скасавана</item>
+        <item quantity="many">%1$d заяўлены як спам, падпіска скасавана</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> размовы ўключана</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> размова ўключана</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> размовы ўключаны</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> размоў уключана</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Здыманне зорачкі з %1$d размовы</item>
+        <item quantity="one">Здыманне зорачкі з %1$d размовы</item>
+        <item quantity="few">Здыманне зорачкі з %1$d размоў</item>
+        <item quantity="many">Здыманне зорачкі з %1$d размоў</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Кожныя %d дня</item>
+        <item quantity="one">Кожны %d дзень</item>
+        <item quantity="few">Кожныя %d дні</item>
+        <item quantity="many">Кожныя %d дзён</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Гэтыя паведамленні будуць пазначаны як спам. Мо, варта да таго ж спыніць атрыманне такіх паведамленняў ад гэтага &lt;b>%2$d адпраўніка&lt;/b>?%1$s</item>
+        <item quantity="one">Гэтыя паведамленні будуць пазначаны як спам. Мо, варта да таго ж спыніць атрыманне такіх паведамленняў ад гэтага &lt;b>%2$d адпраўніка&lt;/b>?%1$s</item>
+        <item quantity="few">Гэтыя паведамленні будуць пазначаны як спам. Мо, варта да таго ж спыніць атрыманне такіх паведамленняў ад гэтых &lt;b>%2$d адпраўнікаў&lt;/b>?%1$s</item>
+        <item quantity="many">Гэтыя паведамленні будуць пазначаны як спам. Мо, варта да таго ж спыніць атрыманне такіх паведамленняў ад гэтых &lt;b>%2$d адпраўнікаў&lt;/b>?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Чарнавіка</item>
+        <item quantity="one">Чарнавік</item>
+        <item quantity="few">Чарнавікі</item>
+        <item quantity="many">Чарнавікоў</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s размовы будзе выдалена назаўсёды</item>
+        <item quantity="one">%1$s размова будзе выдалена назаўсёды</item>
+        <item quantity="few">%1$s размовы будуць выдалены назаўсёды</item>
+        <item quantity="many">%1$s размоў будуць выдалены назаўсёды</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d разу</item>
+        <item quantity="one">; %d раз</item>
+        <item quantity="few">; %d разы</item>
+        <item quantity="many">; %d разоў</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Вашы атрымальнікі могуць не мець доступу да файлаў, якія вы ўставілі з Дыска. Вам можа спатрэбіцца абагуліць гэтыя файлы праз Дыск Google.</item>
+        <item quantity="one">Вашы атрымальнікі могуць не мець доступу да файлаў, якія вы ўставілі з Дыска. Вам можа спатрэбіцца абагуліць гэтыя файлы праз Дыск Google.</item>
+        <item quantity="few">Вашы атрымальнікі могуць не мець доступу да файлаў, якія вы ўставілі з Дыска. Вам можа спатрэбіцца абагуліць гэтыя файлы праз Дыск Google.</item>
+        <item quantity="many">Вашы атрымальнікі могуць не мець доступу да файлаў, якія вы ўставілі з Дыска. Вам можа спатрэбіцца абагуліць гэтыя файлы праз Дыск Google.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Заўвага: некаторыя атрымальнікі ўсё яшчэ могуць не мець доступу да гэтых файлаў. Вам можа спатрэбіцца абагуліць гэтыя файлы з Дыска Google.</item>
+        <item quantity="one">Заўвага: некаторыя атрымальнікі ўсё яшчэ могуць не мець доступу да гэтых файлаў. Вам можа спатрэбіцца абагуліць гэтыя файлы з Дыска Google.</item>
+        <item quantity="few">Заўвага: некаторыя атрымальнікі ўсё яшчэ могуць не мець доступу да гэтых файлаў. Вам можа спатрэбіцца абагуліць гэтыя файлы з Дыска Google.</item>
+        <item quantity="many">Заўвага: некаторыя атрымальнікі ўсё яшчэ могуць не мець доступу да гэтых файлаў. Вам можа спатрэбіцца абагуліць гэтыя файлы з Дыска Google.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Вы абагульваеце з атрымальнікамі:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>, якія не ўваходзяць арганізацыю з Праграмамі Google, да якой належыць гэты файл."</item>
+        <item quantity="one">"Вы абагульваеце з атрымальнікамі:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>, якія не ўваходзяць арганізацыю з Праграмамі Google, да якой належыць гэты файл."</item>
+        <item quantity="few">"Вы абагульваеце з атрымальнікамі:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>, якія не ўваходзяць арганізацыю з Праграмамі Google, да якой належыць гэты файл."</item>
+        <item quantity="many">"Вы абагульваеце з атрымальнікамі:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>, якія не ўваходзяць арганізацыю з Праграмамі Google, да якой належыць гэты файл."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 атрымальніка карыстаюцца сэрвісамі, якія не падтрымліваюць шыфраванне. Незашыфраванае паведамленне можна прачытаць у працэсе дастаўкі. ^2</item>
+        <item quantity="one">^1 атрымальнік карыстаецца сэрвісамі, якія не падтрымліваюць шыфраванне. Незашыфраванае паведамленне можна прачытаць у працэсе дастаўкі. ^2</item>
+        <item quantity="few">^1 атрымальнікі карыстаюцца сэрвісамі, якія не падтрымліваюць шыфраванне. Незашыфраванае паведамленне можна прачытаць у працэсе дастаўкі. ^2</item>
+        <item quantity="many">^1 атрымальнікаў карыстаюцца сэрвісамі, якія не падтрымліваюць шыфраванне. Незашыфраванае паведамленне можна прачытаць у працэсе дастаўкі. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Кожныя %1$d месяца</item>
+        <item quantity="one">Кожны %1$d месяц</item>
+        <item quantity="few">Кожныя %1$d месяцы</item>
+        <item quantity="many">Кожныя %1$d месяцаў</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d новага паведамлення</item>
+        <item quantity="one">%1$d новае паведамленне</item>
+        <item quantity="few">%1$d новыя паведамленні</item>
+        <item quantity="many">%1$d новых паведамленняў</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d новага паведамлення</item>
+        <item quantity="one">%1$d новае паведамленне</item>
+        <item quantity="few">%1$d новыя паведамленні</item>
+        <item quantity="many">%1$d новых паведамленняў</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d далучэння</item>
+        <item quantity="one">%1$d далучэнне</item>
+        <item quantity="few">%1$d далучэнні</item>
+        <item quantity="many">%1$d далучэнняў</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d паведамлення</item>
+        <item quantity="one">%1$d паведамленне</item>
+        <item quantity="few">%1$d паведамленні</item>
+        <item quantity="many">%1$d паведамленняў</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Календары не абагулены</item>
+        <item quantity="one">Календары не абагулены</item>
+        <item quantity="few">Календары не абагулены</item>
+        <item quantity="many">Календары не абагулены</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">На %d падзеі</item>
+        <item quantity="one">На %d падзею</item>
+        <item quantity="few">На %d падзеі</item>
+        <item quantity="many">На %d падзей</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Кожныя %d дня</item>
+        <item quantity="one">Кожны %d дзень</item>
+        <item quantity="few">Кожныя %d дні</item>
+        <item quantity="many">Кожныя %d дзён</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Кожныя %d месяца</item>
+        <item quantity="one">Кожны %d месяц</item>
+        <item quantity="few">Кожныя %d месяцы</item>
+        <item quantity="many">Кожныя %d месяцаў</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Кожныя %d тыдня</item>
+        <item quantity="one">Кожны %d тыдзень</item>
+        <item quantity="few">Кожныя %d тыдні</item>
+        <item quantity="many">Кожныя %d тыдняў</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Кожныя %d года</item>
+        <item quantity="one">Кожны %d год</item>
+        <item quantity="few">Кожныя %d гады</item>
+        <item quantity="many">Кожныя %d гадоў</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Загружана %d выніку пошуку</item>
+        <item quantity="one">Загружаны %d вынік пошуку</item>
+        <item quantity="few">Загружана %d вынікі пошуку</item>
+        <item quantity="many">Загружана %d вынікаў пошуку</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Разгарнуць %1$d старога паведамлення</item>
+        <item quantity="one">Разгарнуць %1$d старое паведамленне</item>
+        <item quantity="few">Разгарнуць %1$d старыя паведамленні</item>
+        <item quantity="many">Разгарнуць %1$d старых паведамленняў</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Адкладзена %d дня таму</item>
+        <item quantity="one">Адкладзена %d дзень таму</item>
+        <item quantity="few">Адкладзена %d дні таму</item>
+        <item quantity="many">Адкладзена %d дзён таму</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Адкладзена %d гадзіны таму</item>
+        <item quantity="one">Адкладзена %d гадзіну таму</item>
+        <item quantity="few">Адкладзена %d гадзіны таму</item>
+        <item quantity="many">Адкладзена %d гадзін таму</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Адкладзена %d месяца таму</item>
+        <item quantity="one">Адкладзена %d месяц таму</item>
+        <item quantity="few">Адкладзена %d месяцы таму</item>
+        <item quantity="many">Адкладзена %d месяцаў таму</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Адкладзена %d тыдня таму</item>
+        <item quantity="one">Адкладзена %d тыдзень таму</item>
+        <item quantity="few">Адкладзена %d тыдні таму</item>
+        <item quantity="many">Адкладзена %d тыдняў таму</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Адкладзена %d года таму</item>
+        <item quantity="one">Адкладзена %d год таму</item>
+        <item quantity="few">Адкладзена %d гады таму</item>
+        <item quantity="many">Адкладзена %d гадоў таму</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d старэйшага паведамлення разгорнута</item>
+        <item quantity="one">%1$d старэйшае паведамленне разгорнута</item>
+        <item quantity="few">%1$d старэйшыя паведамленні разгорнуты</item>
+        <item quantity="many">%1$d старэйшых паведамленняў разгорнута</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d дня</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Паведамленні за %1$d апошняга дня будуць спампоўвацца пры падключэнні</item>
+        <item quantity="one">Паведамленні за %1$d апошні дзень будуць спампоўвацца пры падключэнні</item>
+        <item quantity="few">Паведамленні за %1$d апошнія дні будуць спампоўвацца пры падключэнні</item>
+        <item quantity="many">Паведамленні за %1$d апошніх дзён будуць спампоўвацца пры падключэнні</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">%1$d апошняга дня</item>
+        <item quantity="one">%1$d апошні дзень</item>
+        <item quantity="few">%1$d апошнія дні</item>
+        <item quantity="many">%1$d апошніх дзён</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Тэрмін выканання - %1$s - %2$d задачы</item>
+        <item quantity="one">Тэрмін выканання - %1$s - %2$d задача</item>
+        <item quantity="few">Тэрмін выканання - %1$s - %2$d задачы</item>
+        <item quantity="many">Тэрмін выканання - %1$s - %2$d задач</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Дня</item>
+        <item quantity="one">Дзень</item>
+        <item quantity="few">Дні</item>
+        <item quantity="many">Дзён</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Кожныя %1$d тыдня (%2$s)</item>
+        <item quantity="one">Кожны %1$d тыдзень (%2$s)</item>
+        <item quantity="few">Кожныя %1$d тыдні (%2$s)</item>
+        <item quantity="many">Кожныя %1$d тыдняў (%2$s)</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Кожныя %1$d года</item>
+        <item quantity="one">Кожны %1$d год</item>
+        <item quantity="few">Кожныя %1$d гады</item>
+        <item quantity="many">Кожныя %1$d гадоў</item>
+    </plurals>
+</resources>

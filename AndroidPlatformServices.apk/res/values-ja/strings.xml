@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="account_blocked_title">ブロックされたアカウント</string>
+    <string name="account_level_title">アカウントの操作が必要</string>
+    <string name="account_removed_notification_text">端末管理が完了していないため「%1$s」は削除されました</string>
+    <string name="account_removed_notification_title">アカウントの削除</string>
+    <string name="android_privacy_policy_title">プライバシーポリシーの続き</string>
+    <string name="app_level_title">ログインリクエスト</string>
+    <string name="app_level_title_secondary">%sからのログインリクエスト</string>
+    <string name="audience_selection_done">完了</string>
+    <string name="auth_account_already_has_gmail">このアカウントでは既に Gmail を使用しています。</string>
+    <string name="auth_account_content_provider_label">Google アカウントのデータ</string>
+    <string name="auth_account_module_display_name">Google アカウント</string>
+    <string name="auth_account_removed_default_description">端末管理を完了できませんでした。%1$s</string>
+    <string name="auth_account_removed_default_title">設定のキャンセル</string>
+    <string name="auth_account_removed_dm_bad_result_description">端末管理を完了できませんでした。%1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">このドメインではモバイル端末管理が必要ですが、この端末ではご利用になれません。別のアカウントでお試しください。</string>
+    <string name="auth_account_removed_dm_not_supported_title">端末の管理には対応していません</string>
+    <string name="auth_account_removed_dm_setup_failed_description">端末管理を正しくインストールできませんでした。%1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">インストールエラー</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">設定のキャンセル</string>
+    <string name="auth_account_removed_restricted_by_admin_description">この端末で使用できるのは 1 つの管理対象アカウントのみです。不明な点がある場合は、組織の管理者にお問い合わせください。</string>
+    <string name="auth_account_removed_restricted_by_admin_title">管理対象アカウントがすでに存在します</string>
+    <string name="auth_account_settings_title">アカウントの設定</string>
+    <string name="auth_account_setup_title">Google アカウント</string>
+    <string name="auth_account_start_over_and_signin_again">最初からやり直してもう一度ログインしてください。</string>
+    <string name="auth_account_state_sync_title">アカウントの状態の同期</string>
+    <string name="auth_allow_external_site_access">%sのデータに継続的にアクセスする</string>
+    <string name="auth_app_permission_ok_footnote">続行すると、このアプリとGoogleがそれぞれの利用規約とプライバシーポリシーに従ってあなたの情報を使用することを許可することになります。</string>
+    <string name="auth_cant_add_work_account_message">このアカウントタイプは組織によって管理されています。</string>
+    <string name="auth_captcha_instructions">表示されている文字をここに入力してください:</string>
+    <string name="auth_captcha_title">キャプチャの入力が必要</string>
+    <string name="auth_common_downloading">ダウンロード中…</string>
+    <string name="auth_common_go_back">戻る</string>
+    <string name="auth_common_switch_accounts">アカウントの切り替え</string>
+    <string name="auth_communicating_message">端末からGoogleに接続してアカウントに情報を保存しています。この処理には5分ほどかかることがあります。</string>
+    <string name="auth_confirm_creds_sync_title">認証情報の状態</string>
+    <string name="auth_d2d_source_alert_title">タップ＆ゴー</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">ロックと確認</string>
+    <string name="auth_d2d_source_copy_notice">アカウントとデータを他の端末にコピーしますか？</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">確認後、端末が通信できるようにBluetoothがオンになります。</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">確認後、端末がBluetooth経由で通信します。</string>
+    <string name="auth_d2d_source_lock_notice">画面がロックされるので、確認のためにロックを解除して続行してください。</string>
+    <string name="auth_d2d_source_no_accounts_toast">この端末にアカウントがないため、[タップ＆ゴー] を使用できません。</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">端末で Bluetooth を使用できないため、[タップ＆ゴー] を使用できません。</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">端末が通信できるようにBluetoothがオンになります。</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Bluetoothを使用します。</string>
+    <string name="auth_d2d_source_notification_title">タップ＆ゴー完了</string>
+    <string name="auth_d2d_source_restricted_user_toast">制限付きユーザープロファイルからタップして復元することはできません。</string>
+    <string name="auth_d2d_source_title">アカウントの復元</string>
+    <string name="auth_d2d_source_unknown_device_name">不明な端末</string>
+    <string name="auth_d2d_tap_and_go">タップ＆ゴー</string>
+    <string name="auth_d2d_target_tap_progress_message">続行するには、他の端末で [OK] をタップします</string>
+    <string name="auth_d2d_target_title">タップ＆ゴー</string>
+    <string name="auth_d2d_target_unlock_progress_message">他の端末をご確認ください</string>
+    <string name="auth_d2d_target_wait_progress_message">アカウントとデータを取得しています...</string>
+    <string name="auth_device_management_download_app_icon">%s アプリのアイコン</string>
+    <string name="auth_device_management_download_description">このアカウントにはモバイル端末管理が必要です。^1 アプリをインストールして、アカウントに必要なセキュリティ ポリシーを適用してください。</string>
+    <string name="auth_device_management_download_description_kids">この端末にアカウントを追加するには、まず <b>^1</b>"をインストールします。
+
+^1を使用すると、この端末をお子様向けにセットアップできます。"</string>
+    <string name="auth_device_management_download_failed_message">このアプリがなくてもセットアップを続けることはできます</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">端末管理をインストールできませんでした。このアカウントは削除されます。しばらくしてからもう一度お試しください。</string>
+    <string name="auth_device_management_download_failed_title">アプリをダウンロードできません</string>
+    <string name="auth_device_management_download_not_updated_message">現在のバージョンを使用してセットアップを続けることはできます</string>
+    <string name="auth_device_management_download_paused">一時停止しました</string>
+    <string name="auth_device_management_download_progress">ダウンロードしています…</string>
+    <string name="auth_device_management_download_skip_message">このアカウントには端末管理が必要です。端末管理をセットアップせずに続行しますか？</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">このアカウントを追加するには端末管理が必要です。別のアカウントでやり直しますか？</string>
+    <string name="auth_device_management_go_back">戻る</string>
+    <string name="auth_device_management_screenlock_description">この端末の仕事用アカウントにアクセスするには、ロック画面を設定する必要があります。これは組織のモバイル端末ポリシーです。</string>
+    <string name="auth_device_management_screenlock_skip_message">このアカウントでは画面ロック セキュリティが必要です。別のアカウントでやり直しますか？</string>
+    <string name="auth_device_management_setup_work_profile_description">"仕事用プロファイルは、組織によって管理され、仕事用アプリと個人用アプリを区別します。
+
+設定を完了するには、IT 管理者から入手したコードが必要です。管理ツールがダウンロードされ、IT 管理者が仕事用プロファイルを管理する際に使用されます。"</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"仕事用プロファイルは、組織によって管理され、仕事用アプリと個人用アプリを区別します。
+
+管理ツールがダウンロードされ、IT 管理者が仕事用プロファイルを管理する際に使用されます。"</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">仕事用プロファイルの設定</string>
+    <string name="auth_device_management_start_description">このアカウントにはモバイル端末管理が必要です。[次へ] をタップすると、^1 アプリを使ってアカウントに必要なセキュリティ ポリシーを適用できます。</string>
+    <string name="auth_device_management_start_description_kids">この端末にアカウントを追加するには、<b>^1</b>"を使用します。
+
+^1を使用すると、この端末をお子様向けにセットアップできます。"</string>
+    <string name="auth_device_management_title">端末管理</string>
+    <string name="auth_device_management_update_description">このアカウントにはモバイル端末管理が必要です。アカウントに関連付けられているセキュリティ ポリシーを満たすには、^1 アプリの最新バージョンをインストールする必要があります。</string>
+    <string name="auth_device_management_update_description_kids">この端末にアカウントを追加するには、まず <b>^1</b>"の最新バージョンをインストールします。
+
+^1を使用すると、この端末をお子様向けにセットアップできます。"</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> では Gmail を使用していません。</string>
+    <string name="auth_error_account_disabled">"このアカウントは無効になっています。
+
+（詳しくはウェブブラウザで http://google.com/accounts にアクセスしてください）"</string>
+    <string name="auth_error_account_not_verified">"このアカウントは確認されていません。メールを確認し、メールに記載されているリンク先にアクセスしてこのアカウントの確認を行ってください。
+
+（アカウント情報を忘れた場合は、パソコンで http://www.google.com/accounts/recovery にアクセスしてください）"</string>
+    <string name="auth_error_bad_password">パスワードの安全性が低いか無効な文字が含まれています。別のパスワードをお試しください。</string>
+    <string name="auth_error_bad_username">ユーザー名が無効です。</string>
+    <string name="auth_error_generic_server_error">"Googleサーバーとの通信中に問題が発生しました。
+
+しばらくしてからもう一度お試しください。"</string>
+    <string name="auth_error_invalid_second_factor">アカウントの通常のパスワードではなく、アプリ固有のパスワードを使用してください。</string>
+    <string name="auth_error_login_failed">"ユーザー名とパスワードが一致しません。もう一度お試しください。
+
+アカウント情報を忘れた場合は google.com/accounts/recovery/ にアクセスしてください。"</string>
+    <string name="auth_error_needs_browser">アカウントにアクセスするには、ウェブでログインする必要があります。[次へ] をタップしてブラウザ ログインを開始してください。</string>
+    <string name="auth_error_no_network">"ネットワークに接続していません。
+
+一時的な問題の可能性があります。もう一度お試しになるか、別のWi-Fiネットワークに接続してください。"</string>
+    <string name="auth_error_not_logged_in">ユーザーがログインしていません。</string>
+    <string name="auth_error_username_unavailable">ユーザー名は使用できません。</string>
+    <string name="auth_existing_account_error_text">アカウント「^1」は既にこのAndroid搭載端末に追加されています。</string>
+    <string name="auth_existing_account_error_title">アカウントが既に存在します</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">最近パスワードが変更されたため、端末にログインすることはできません。パスワードの変更後 24 時間経過してからもう一度ログインをお試しください。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">端末保護機能は利用できなくなります。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">端末で個人用プロファイルから最後のGoogleアカウントを移動すると、盗難防止機能が無効になります。端末に別のアカウントを追加し、盗難防止機能をもう一度有効にすることができます。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">よろしいですか？</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">仕事用プロファイルにアカウントを移動しますか？</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">不明なエラーが発生したため、端末にログインすることはできません。別のアカウントでお試しいただくか、24 時間経過してからもう一度ログインをお試しください。</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">この端末の所有者のアカウントを使用してログインしてください</string>
+    <string name="auth_field_cant_be_blank">フィールドは空にできません。</string>
+    <string name="auth_frp_add_account_no">新規アカウントを使用</string>
+    <string name="auth_frp_add_account_prompt">この端末の以前の Google アカウントを確認しました。この端末に ^1 を追加できます。また、新しいアカウントを使用することもできます。</string>
+    <string name="auth_frp_add_account_yes">前のアカウントを追加</string>
+    <string name="auth_frp_device_managed_label">この端末は組織による管理対象としてセットアップされていました。</string>
+    <string name="auth_frp_download_management_app_label">セットアップ処理を続行するには、端末管理アプリをダウンロードする必要があります。</string>
+    <string name="auth_frp_enter_device_credentials_label">管理者モードに切り替える</string>
+    <string name="auth_frp_install_dpc_error">管理アプリをインストールできませんでした。この手順をスキップした場合、この端末は管理対象になりません。</string>
+    <string name="auth_frp_install_dpc_recoverable_error">管理アプリをインストールできませんでした。ネットワーク接続を確認してから、もう一度お試しください。</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">代わりに Google アカウントを使用</string>
+    <string name="auth_frp_preadd_lkscreen_text">お使いの端末は出荷時設定にリセットされています。以前の秘密の質問に回答してロックを解除できます。</string>
+    <string name="auth_frp_preadd_lkscreen_title">出荷時設定へのリセット保護機能</string>
+    <string name="auth_frp_start_reenroll_device_title">仕事用の端末</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">このアカウントにアクセスできませんでした。お使いの端末が組織のセキュリティ ポリシーに準拠しているかを確認してください。引き続きエラーが発生する場合は、組織の管理者にお問い合わせください。</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">アカウント エラー</string>
+    <string name="auth_gls_dmagent_activity_download_message">" このドメインではモバイル端末管理が必要です。「Google Apps Device Policy」アプリをインストールして、アカウント  "<b>^1</b> に必要なセキュリティ ポリシーを適用してください。</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ダウンロード</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"に使用できるのは、文字、数字、ピリオド
+のみです。"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> に文字が含まれていません。</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> が 6 文字未満か 30 文字を超えています。</string>
+    <string name="auth_gls_is_not_available">ユーザー名<b>^1</b>は使用できません。</string>
+    <string name="auth_gls_name_checking_info_title">情報を確認しています…</string>
+    <string name="auth_gls_sync_item_title">%sを同期</string>
+    <string name="auth_gls_third_party_activity_download_message">" アカウント（ "<b>^1</b> ）を組織で管理する端末または仕事用プロファイルに追加する必要があります。組織の IT 管理者の指示に沿って追加してください。</string>
+    <string name="auth_google_title_logo">Googleロゴ</string>
+    <string name="auth_invalid_login_character">無効な文字です。使用できるのは0～9、a～z、A～Z、ピリオドのみです。</string>
+    <string name="auth_invalid_password_character">パスワードの文字が無効です。</string>
+    <string name="auth_invalid_username">入力したユーザー名は無効です。</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">間違ったパスワードを入力したか、アカウントが変更されています。パスワードを入力し直してください。パスワードをお忘れでアカウントの再設定が必要な場合は、<annotation id="help_url">こちら</annotation>をタップしてください。</string>
+    <string name="auth_login_task_title">ログイン中</string>
+    <string name="auth_login_title">メールとパスワードの入力</string>
+    <string name="auth_minutemaid_ssl_error">" %s への接続中に問題が発生しました。"</string>
+    <string name="auth_network_unreliable_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。引き続き問題が発生する場合は、お客様サポートにお問い合わせください。</string>
+    <string name="auth_no_network">ネットワークに接続していません。</string>
+    <string name="auth_no_network_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。モバイルネットワークに接続された状態でもう一度お試しになるか、Wi-Fiネットワークに接続してください。</string>
+    <string name="auth_no_network_help_wifi_only">一時的な問題の可能性があります。もう一度お試しになるか、別のWi-Fiネットワークに接続してください。</string>
+    <string name="auth_otp_error">セキュリティコードの生成中に問題が発生しました。</string>
+    <string name="auth_otp_explained_paragraph">パスワードを忘れた場合や、通常と異なる方法でログインが行われた場合、アカウントを保護するためにセキュリティ コードの入力をお願いすることがあります。このコードを使用するか、後で戻って新しいコードを取得してください。</string>
+    <string name="auth_otp_header_message">このコードを使用してログインする場合</string>
+    <string name="auth_otp_no_accounts_available_message">この端末に設定済みのアカウントはありません。</string>
+    <string name="auth_otp_progress_dialog_message">セキュリティコードを生成しています。</string>
+    <string name="auth_otp_ten_digit_code_header">セキュリティ コード</string>
+    <string name="auth_otp_ten_digit_explaination">パスワードを忘れた場合や、新しい端末または場所でログインしている場合、お使いの Google アカウントを保護するために、このコードの 1 つまたは両方の入力を求められることがあります。</string>
+    <string name="auth_otp_ten_digit_phishing_warning">このコードは 15 分後、または使用すると効力を失います。このコードは、URL が「https://accounts.google.com/」で始まるウェブページのみで使用してください。</string>
+    <string name="auth_otp_ten_digit_usage_header">コードの使用方法</string>
+    <string name="auth_otp_ten_digits_code1">コード 1</string>
+    <string name="auth_otp_ten_digits_code2">コード 2</string>
+    <string name="auth_password">パスワード</string>
+    <string name="auth_plus_audience_selection_description_acl">共有</string>
+    <string name="auth_plus_info_fragment_app_name">%s によるリクエスト:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">端末「%2$s」の「%1$s」には次の権限が必要です:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">友だちの友だちサークル</string>
+    <string name="auth_plus_scope_fragment_mixed_label">選択したサークル</string>
+    <string name="auth_plus_scope_fragment_public_label">ウェブ上の全員</string>
+    <string name="auth_pre_factory_reset_title">Google アカウントの保存</string>
+    <string name="auth_relogin_activity_title">パスワードの再入力</string>
+    <string name="auth_remove_account_start_over">やり直す</string>
+    <string name="auth_request_accounts_list">この端末上の Google アカウントのリストを取得します。</string>
+    <string name="auth_scope_more_details">詳細</string>
+    <string name="auth_server_error">Googleサーバーとの通信で問題が発生しました。</string>
+    <string name="auth_server_error_help">しばらくしてからもう一度お試しください。</string>
+    <string name="auth_setup_wizard_account_added_activity_title">アカウントの追加</string>
+    <string name="auth_setup_wizard_account_added_description">アカウントを追加しました。Google サービス オプションの選択に進んでください。</string>
+    <string name="auth_setup_wizard_services_activity_title">Google サービス</string>
+    <string name="auth_setup_wizard_title">セットアップウィザード</string>
+    <string name="auth_show_error_title">エラー</string>
+    <string name="auth_sign_in_agreement">ログインすると、<annotation id="google_privacy">Googleプライバシーポリシー</annotation>と<annotation id="android_privacy">追加プライバシーポリシー</annotation>に同意したことになります。</string>
+    <string name="auth_sign_in_browser">ブラウザにログイン</string>
+    <string name="auth_sign_in_with_google_account_short">Googleアカウントでログイン:</string>
+    <string name="auth_submission_error_text">エラーが発生しました。もう一度お試しください。</string>
+    <string name="auth_submission_title">申し訳ありません…</string>
+    <string name="auth_ui_activity_authenticating">認証しています…</string>
+    <string name="auth_ui_activity_title">Googleにログイン</string>
+    <string name="auth_ui_activity_title_browser_signin">ログイン</string>
+    <string name="auth_ui_add_account_title">アカウント設定</string>
+    <string name="auth_uncertified_notification_description"><b>この端末を購入されたユーザー様:</b>"
+端末メーカーが Google に認定されていない Google のアプリとサービスをプリロードしています。メーカーにお問い合わせの上、認定済みの端末をお求めください。詳しくは g.co/AndroidCertifiedDevice をご覧ください。
+
+"<b>ライセンス未取得のメーカー様:</b>"
+Google のアプリとサービスを配布するには Google からのライセンスが必要です。g.co/AndroidGMSContact でライセンスを申請してください。
+
+"<b>ライセンス取得済みのメーカー様:</b>"
+開発段階で Google のアプリとサービスを使用するには、端末を登録してください。詳しくは、Google ビジネス デベロップメント マネージャーにお問い合わせください。
+
+"<b>カスタム ROM のユーザー様:</b>"
+カスタム ROM で Google のアプリとサービスを使用するには、この端末を登録してください。詳しくは g.co/apps-custom をご覧ください。"</string>
+    <string name="auth_uncertified_notification_title">端末が Google の認定を受けていません</string>
+    <string name="auth_username">メール</string>
+    <string name="auth_work_authenticator_label">管理アカウント</string>
+    <string name="authorization_dialog">認証ダイアログ</string>
+    <string name="chrome_privacy_title">Chromeのプライバシーに関するお知らせ</string>
+    <string name="chrome_tos_title">Chrome利用規約</string>
+    <string name="close_button_label">閉じる</string>
+    <string name="common_accept">同意する</string>
+    <string name="common_add">追加</string>
+    <string name="common_add_account_label">アカウントの追加</string>
+    <string name="common_ads_settings_title">広告</string>
+    <string name="common_agree">同意する</string>
+    <string name="common_app_name">Google Play開発者サービス</string>
+    <string name="common_application_info">アプリ情報</string>
+    <string name="common_application_info_composed_string">アプリ情報</string>
+    <string name="common_asm_google_account_title">Google アカウント</string>
+    <string name="common_asm_manage_google_account_title">Google アカウントの管理</string>
+    <string name="common_asm_preferences_settings_title">アカウント設定</string>
+    <string name="common_asm_privacy_settings_title">個人情報とプライバシー</string>
+    <string name="common_asm_security_settings_title">ログインとセキュリティ</string>
+    <string name="common_back">戻る</string>
+    <string name="common_battery">電池</string>
+    <string name="common_block">ブロック</string>
+    <string name="common_cancel">キャンセル</string>
+    <string name="common_cannot_start_hangouts_security_exception">ハングアウトを開始できません（権限エラー）。</string>
+    <string name="common_car_permission_desc">カーサービスにアクセスします。</string>
+    <string name="common_car_permission_label">カーサービス</string>
+    <string name="common_card">カード</string>
+    <string name="common_chips_label_empty_circles">サークルなし</string>
+    <string name="common_chips_label_extended_circles">友だちの友だちサークル</string>
+    <string name="common_chips_label_only_you">自分だけ</string>
+    <string name="common_chips_label_public">公開</string>
+    <string name="common_chips_label_your_circles">あなたのサークル</string>
+    <string name="common_choose_account_label">アカウントの選択</string>
+    <string name="common_confirm_screen_lock_title">画面ロックの確認</string>
+    <string name="common_connect">接続</string>
+    <string name="common_connected">接続</string>
+    <string name="common_connected_apps_settings_title">接続済みのアプリ</string>
+    <string name="common_connecting">接続しています…</string>
+    <string name="common_continue">続行</string>
+    <string name="common_disabled">無効になっています</string>
+    <string name="common_disagree">同意しない</string>
+    <string name="common_disconnect">切断</string>
+    <string name="common_dismiss">閉じる</string>
+    <string name="common_done">完了</string>
+    <string name="common_edit">編集</string>
+    <string name="common_email">メール</string>
+    <string name="common_fingerprint_hint">センサーをタップします</string>
+    <string name="common_from">差出人:</string>
+    <string name="common_games_settings_title">Playゲーム</string>
+    <string name="common_get_started">開始</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_error_dialog_title">エラー</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_updating_title">Google Play 開発者サービスの更新中</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">インストールしたGoogle Play開発者サービスのアーキテクチャが正しくありません。</string>
+    <string name="common_google_play_services_wrong_architecture_text">インストールしたGoogle Play開発者サービスのアーキテクチャ（%1$s）が端末のアーキテクチャ（%2$s）と異なっています。</string>
+    <string name="common_google_play_services_wrong_architecture_title">アーキテクチャが正しくありません</string>
+    <string name="common_google_settings">Google設定</string>
+    <string name="common_google_settings_account">アカウント</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">インストール</string>
+    <string name="common_learn_more">詳細</string>
+    <string name="common_list_apps_menu_help">ヘルプ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ヘルプとフィードバック</string>
+    <string name="common_loading">読み込んでいます…</string>
+    <string name="common_location_settings_title">位置情報</string>
+    <string name="common_login_activity_task_title">ログイン中…</string>
+    <string name="common_login_error_title">ログインできませんでした</string>
+    <string name="common_magictether_settings_title">インスタント テザリング</string>
+    <string name="common_maps_settings_title">Google マップと Latitude</string>
+    <string name="common_mdm_feature_name">端末を探す</string>
+    <string name="common_missing_url_viewer">外部URLを表示するためのビューアがありません。</string>
+    <string name="common_more">その他</string>
+    <string name="common_more_options">その他のオプション</string>
+    <string name="common_mute_notification">通知をミュート</string>
+    <string name="common_network_unavailable">インターネットに接続されていません</string>
+    <string name="common_networking_settings_title">ネットワーク</string>
+    <string name="common_never">なし</string>
+    <string name="common_next">次へ</string>
+    <string name="common_no_browser_for_restricted_url">アクセスが制限されています。ブラウザが見つかりませんでした。</string>
+    <string name="common_no_devices_found">端末は見つかりませんでした</string>
+    <string name="common_no_network">端末がオフラインのため利用できません</string>
+    <string name="common_no_thanks">使用しない</string>
+    <string name="common_not_now">後で行う</string>
+    <string name="common_off">OFF</string>
+    <string name="common_offline">オフラインです</string>
+    <string name="common_on">ON</string>
+    <string name="common_open">開く</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_open_source_licenses">オープンソースライセンス</string>
+    <string name="common_pause">一時停止</string>
+    <string name="common_people_settings_title">連絡先</string>
+    <string name="common_permissions_enable_in_settings">[設定] で有効にする</string>
+    <string name="common_permissions_missing_end">続行するには、[設定] で [権限] を開き、リストにあるすべての項目を許可してください。</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+有効にするには、
+[設定] > 
+[権限] >
+[Google Play 開発者サービス] に移動します。"</string>
+    <string name="common_permissions_missing_start">このアプリを使用するには、以下にアクセスすることを求める Google Play 開発者サービス リクエストを許可する必要があります。</string>
+    <string name="common_permissions_open_settings">設定を開く</string>
+    <string name="common_phone">電話</string>
+    <string name="common_play">再生</string>
+    <string name="common_privacy_policy">プライバシー ポリシー</string>
+    <string name="common_privacy_policy_composed_string">プライバシー ポリシー</string>
+    <string name="common_refresh">更新</string>
+    <string name="common_remove">削除</string>
+    <string name="common_reply">返信</string>
+    <string name="common_restore">復元</string>
+    <string name="common_retry">再試行</string>
+    <string name="common_save">保存</string>
+    <string name="common_saved">保存済み</string>
+    <string name="common_saving">保存しています…</string>
+    <string name="common_search_settings_title">検索</string>
+    <string name="common_security_ootp_setting_title">セキュリティ コード</string>
+    <string name="common_select">選択</string>
+    <string name="common_send">送信</string>
+    <string name="common_sending">送信しています…</string>
+    <string name="common_set_up_nearby_device_settings_title">付近の端末の設定</string>
+    <string name="common_settings">設定</string>
+    <string name="common_share">共有</string>
+    <string name="common_sign_in">ログイン</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
+    <string name="common_skip">スキップ</string>
+    <string name="common_skip_fingerprint">画面ロックを使用</string>
+    <string name="common_something_went_wrong">エラーが発生しました</string>
+    <string name="common_system_info">システム情報</string>
+    <string name="common_system_info_composed_string">アカウントとシステムに関する情報</string>
+    <string name="common_take_photo_label">写真を撮影</string>
+    <string name="common_terms_of_service">利用規約</string>
+    <string name="common_terms_of_service_composed_string">利用規約</string>
+    <string name="common_today">今日</string>
+    <string name="common_try_again">再試行</string>
+    <string name="common_turn_on">ON にする</string>
+    <string name="common_turn_on_bluetooth">Bluetooth を ON にする</string>
+    <string name="common_turn_on_nfc">NFC をオンにする</string>
+    <string name="common_ui_confirm_deleting_button">削除</string>
+    <string name="common_ui_confirm_deleting_checkbox">理解したうえで削除する</string>
+    <string name="common_unknown">不明</string>
+    <string name="common_update">更新</string>
+    <string name="common_url_load_unsuccessful_message">Android搭載端末がデータサービスに接続されていません。この情報を表示するにはウェブブラウザで %s にアクセスしてください。</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android 搭載端末が Wi-Fi ネットワークに接続されていません。この情報を表示するにはウェブブラウザで %s にアクセスしてください。</string>
+    <string name="common_usage_and_diagnostics">使用状況と診断情報</string>
+    <string name="common_view">表示</string>
+    <string name="common_yesterday">昨日</string>
+    <string name="continue_to_login_heading">ログインしてください。</string>
+    <string name="continue_to_login_text">認証情報が付与されました。1 台目の端末でログインしてください。</string>
+    <string name="description_fingerprint_icon">指紋アイコン</string>
+    <string name="download_msg_error_invalid">ダウンロードが正しく設定されませんでした。</string>
+    <string name="download_msg_in_progress">ダウンロードが進行中です。</string>
+    <string name="download_msg_not_allowed_space">空き容量が不足しているため、ダウンロードできません。</string>
+    <string name="download_msg_pending">ダウンロードを待機しています。</string>
+    <string name="download_notification_description">%1$sがこのデータをリクエストしました。</string>
+    <string name="download_notification_title">他のデータを取得中</string>
+    <string name="expand_button_title">詳細設定</string>
+    <string name="fido_ble_device_icon_content_description">検出された Bluetooth デバイス</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">キーのボタンを 5 秒以上押し続けて、キーをペア設定モードにしてください</string>
+    <string name="fido_ble_dont_see_your_key_hint">キーが表示されない場合</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">端末の Bluetooth と位置情報サービスが ON のときのみ、セキュリティ キーは機能します</string>
+    <string name="fido_ble_enable_body_bluetooth_only">端末の Bluetooth が ON のときのみ、セキュリティ キーは機能します</string>
+    <string name="fido_ble_enable_body_location_only">端末の位置情報サービスが ON のときのみ、セキュリティ キーは機能します</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Bluetooth と位置情報を ON にする</string>
+    <string name="fido_ble_enable_title_location_only">位置情報を ON にする</string>
+    <string name="fido_ble_instructions_body">通常はキーのボタンをタップします</string>
+    <string name="fido_ble_locate_pin_body">ペア設定用 PIN は 4 桁または 6 桁の番号で、通常はセキュリティ キーの背面に記載されています。PIN を入力できる準備ができたら、続行してください。</string>
+    <string name="fido_ble_locate_pin_title">セキュリティ キー（%1$s）の Bluetooth ペア設定用 PIN の確認</string>
+    <string name="fido_ble_pair_device_pairing">セキュリティ キーをペア設定しています…</string>
+    <string name="fido_ble_pair_instructions_body">アカウントで使用できるよう、セキュリティ キーをこの端末とペア設定してください</string>
+    <string name="fido_ble_pair_instructions_title">セキュリティ キーをペア設定する準備はできましたか？</string>
+    <string name="fido_ble_pairing_failure_dialog_message">キーをペア設定モードにしてください</string>
+    <string name="fido_ble_pairing_mode_body">セキュリティ キーのボタンを 5 秒以上押し続けてください</string>
+    <string name="fido_ble_pairing_mode_title">ペア設定モードにしてください</string>
+    <string name="fido_ble_select_device_body">お使いの端末とペア設定するセキュリティ キーを下のリストから選択してください。セキュリティ キーの名前はキーの背面に記載されています。</string>
+    <string name="fido_ble_select_device_title">セキュリティ キーの選択</string>
+    <string name="fido_instructions_title">セキュリティ キーの使用の許可</string>
+    <string name="fido_nfc_enable_body">端末の NFC が ON のときのみ、セキュリティ キーは機能します</string>
+    <string name="fido_nfc_instructions_body">振動が止まるまで、端末の背面に対してセキュリティ キーを平らに維持してください</string>
+    <string name="fido_paask_body">付近の端末であなたの Google アカウントによるログインが行われようとしています</string>
+    <string name="fido_paask_footer">これはログインを保護するための強化策であり、付近の端末との暗号化 Bluetooth 接続を利用しています。</string>
+    <string name="fido_paask_header">付近の端末でログインしようとしていますか？</string>
+    <string name="fido_paask_no_text">いいえ、違います</string>
+    <string name="fido_paask_yes_text">はい、私です</string>
+    <string name="fido_pair_another_security_key">別のセキュリティ キーをペア設定する</string>
+    <string name="fido_processing">セキュリティ キー を確認しています…</string>
+    <string name="fido_transport_selection_bluetooth">Bluetooth でセキュリティ キーを使用する</string>
+    <string name="fido_transport_selection_body">セキュリティ キーは Bluetooth、NFC、USB と連携して機能します。どのようにセキュリティ キーを使用するか選択してください。</string>
+    <string name="fido_transport_selection_fingerprint">指紋認証でセキュリティ キーを使用する</string>
+    <string name="fido_transport_selection_nfc">NFC でセキュリティ キーを使用する</string>
+    <string name="fido_transport_selection_title">セキュリティ キーの使用方法の選択</string>
+    <string name="fido_transport_selection_usb">USB でセキュリティ キーを使用する</string>
+    <string name="fido_usb_instructions_body">セキュリティ キーを、USB ポートに接続するか、USB ケーブルを使って接続します。キーにボタンまたはゴールド ディスクがある場合は、ここでタップします。</string>
+    <string name="fido_use_ble_instead">Bluetooth でセキュリティ キーを使用する</string>
+    <string name="fido_use_fp_instead">指紋認証でセキュリティ キーを使用する</string>
+    <string name="fido_use_nfc_instead">NFC でセキュリティ キーを使用する</string>
+    <string name="fido_use_usb_instead">USB でセキュリティ キーを使用する</string>
+    <string name="fido_welcome_body">%1$s でセキュリティ キーを使用すると、個人データを保護できます。</string>
+    <string name="fido_welcome_title">%1$s でセキュリティ キーを使用する</string>
+    <string name="fingerprint_description">%1$s で本人確認を行えるよう、指紋認証を行ってください。</string>
+    <string name="fingerprint_no_imprints_description">%1$s では、指紋認証による本人確認が必要ですが、この端末にはまだ指紋が登録されていません。</string>
+    <string name="fingerprint_not_recognized">指紋が認識されません。再試行してください</string>
+    <string name="fingerprint_success">指紋を認識しました</string>
+    <string name="gcm_fallback_notification_channel_label">その他</string>
+    <string name="google_app_permissions_title">アプリの権限</string>
+    <string name="google_legal_title">Google利用規約</string>
+    <string name="google_play_tos_title">Google Play利用規約</string>
+    <string name="google_plus_privacy_policy_title">Google+プライバシーポリシー</string>
+    <string name="google_privacy_policy_title">Googleプライバシーポリシー</string>
+    <string name="google_terms_of_service_title">Google利用規約</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">アプリがネットワークの Wi-Fi 認証情報を別のデバイスに転送することを許可します。</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi 認証情報を転送</string>
+    <string name="no_screen_lock_description">まず、端末に画面ロックを設定してください</string>
+    <string name="no_screen_lock_title">スマートフォンに画面ロックが設定されていません</string>
+    <string name="notification_ticker">アクセスが必要</string>
+    <string name="open_source_activity_prompt_heading">アプリを開く</string>
+    <string name="open_source_activity_prompt_text">"認証手続きを完了するには、スマートフォンで Open SourceResponseActivity を起動します。 "</string>
+    <string name="permgrouplab_calendar">カレンダー</string>
+    <string name="permgrouplab_camera">カメラ</string>
+    <string name="permgrouplab_contacts">連絡先</string>
+    <string name="permgrouplab_location">位置情報</string>
+    <string name="permgrouplab_microphone">マイク</string>
+    <string name="permgrouplab_phone">電話</string>
+    <string name="permgrouplab_sensors">ボディセンサー</string>
+    <string name="permgrouplab_storage">ストレージ</string>
+    <string name="permissions_not_granted_text">権限を付与するには、もう一度ログインしてください。</string>
+    <string name="permissions_not_granted_title">権限が付与されていません</string>
+    <string name="plus_manage_app_only_you_label">自分だけ</string>
+    <string name="plus_network_unreliable">サーバーとの安定した接続を確立できません。</string>
+    <string name="plus_oob_interstitial_loading_text">この処理には数分かかることがあります。</string>
+    <string name="search_menu_title">検索</string>
+    <string name="set_up">設定</string>
+    <string name="setupservices_additional_privacy_title">その他のプライバシー情報</string>
+    <string name="setupservices_android_privacy_policy_title">プライバシー ポリシーの続き</string>
+    <string name="setupservices_chrome_privacy_title">Chrome のプライバシーに関するお知らせ</string>
+    <string name="setupservices_chrome_tos_title">Chrome 利用規約</string>
+    <string name="setupservices_google_app_permissions_title">アプリの権限</string>
+    <string name="setupservices_google_legal_title">Google 利用規約</string>
+    <string name="setupservices_google_play_tos_title">Google Play 利用規約</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google+ プライバシー ポリシー</string>
+    <string name="setupservices_google_privacy_policy_title">Google プライバシー ポリシー</string>
+    <string name="setupservices_google_services_agreement">続行すると、Google、ご利用の携帯通信会社、端末メーカーからアップデートやアプリをこの端末が自動的に（場合によってはモバイルデータ接続を使用して）ダウンロードし、インストールする場合があることに同意したことになります。一部のアプリでは、アプリ内購入を提供する場合があります。こうしたアプリはいつでも削除できます。</string>
+    <string name="setupservices_google_services_agreement_dialog_text">アプリを削除するには、[設定] > [アプリ] または [アプリケーション管理] に移動します。アンインストールするアプリをタップします（場合によっては、右または左にスワイプしてアプリを見つけてください）。[アンインストール] または [無効にする] をタップします。</string>
+    <string name="setupservices_google_services_agreement_korea">また、これにより、プリロードされた Google のアプリに対し、端末上の情報や機能にアクセスすることを許可し、その権限を付与するものとします。この権限の使用について詳しくは、<annotation link="app_permissions">こちらのページ</annotation>をご覧ください。</string>
+    <string name="setupservices_google_services_agreement_title">アップデートやアプリのインストール</string>
+    <string name="setupservices_google_services_automatic_storage_manager">スマートフォンのストレージの空き容量が少なくなった場合、バックアップした写真や動画など一部のデータを削除すると、空き容量を増やすことができます。</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">接続すれば、引き続きこのデータにアクセスできます。この機能や削除する対象を設定するには、[設定] > [ストレージ] > [スマート ストレージ] に移動します。</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">空き容量を増やす</string>
+    <string name="setupservices_google_services_backup">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、端末の設定（Wi-Fi のパスワードなど）が含まれます。</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+バックアップ データは、ドライブ ストレージの容量にはカウントされません。"</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">アプリのデータとは、（デベロッパーの設定に基づいて）アプリが保存したデータのことで、連絡先、メッセージ、写真など機密情報になり得るデータも含まれます。</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">このサービスは [設定] で無効にできます。</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+この端末の写真と動画は Google フォト ライブラリと同期され、お使いのどの端末からでも検索、編集、削除、共有できます。デフォルトでは最大解像度の写真と動画が Google フォトにアップロードされます。
+
+バックアップ データは、ドライブ ストレージの容量にはカウントされません。"</string>
+    <string name="setupservices_google_services_backup_title">Google ドライブへのバックアップ</string>
+    <string name="setupservices_google_services_backup_v23">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、通話履歴、連絡先、端末の設定（Wi-Fi のパスワードや権限など）が含まれます。</string>
+    <string name="setupservices_google_services_backup_v26">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、通話履歴、連絡先、端末の設定（Wi-Fi のパスワードや権限など）、SMS が含まれます。</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、通話履歴、連絡先、端末の設定（Wi-Fi のパスワードや権限など）、写真、動画、SMS が含まれます。写真と動画は Google フォト ライブラリに同期して、複数のサービスで利用することもできます。</string>
+    <string name="setupservices_google_services_data_policy">データは Google の<annotation link="google_privacy">プライバシー ポリシー</annotation>に従って使用されます。</string>
+    <string name="setupservices_google_services_data_policy_korea">データは、Google の<annotation link="google_privacy">プライバシー ポリシー</annotation>（<annotation link="additional_privacy">個人情報の収集、保存、使用</annotation>など）と<annotation link="location_tos">現在地情報の利用規約</annotation>に従って使用されます。</string>
+    <string name="setupservices_google_services_description">後で有効または無効にする方法など、各サービスの詳細を確認するにはタップします。^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"アプリ内購入などアプリの詳細情報は、Play ストアで確認できます。アプリのデータと設定は、Google アカウントでログインしている端末と同期されます。
+
+Instant Apps の使用には、"<a href="https://play.google.com/about/play-terms.html">Google Play の利用規約</a>"が適用されます。
+"<a href="https://support.google.com/googleplay/?p=instant_apps">詳細</a></string>
+    <string name="setupservices_google_services_instant_apps_summary">リンクをタップすると、Google Play が Instant App の有無をチェックし、インストールせずにアプリを実行します。Instant App は一時的に端末に保存されます。</string>
+    <string name="setupservices_google_services_instant_apps_title">インストールせずにアプリを使用</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google の位置情報サービスは Wi‑Fi やモバイル ネットワークなどのソースから、お使いの端末の現在地を推定します。
+
+位置情報の設定を無効にするには、お使いの端末でメインの位置情報の設定を無効にします。また、位置情報の設定で、位置情報での Wi‑Fi、モバイル ネットワーク、センサーの使用を無効にすることもできます。"</string>
+    <string name="setupservices_google_services_location_sharing_title">アプリに現在地の特定を許可</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">位置情報の使用</string>
+    <string name="setupservices_google_services_location_sharing_v28">位置情報の利用許可が設定されているアプリやサービスがお使いの端末の位置情報を使用することを許可します。Google は位置情報を定期的に収集し、このデータを匿名の方法で活用して位置情報の精度や位置情報を利用したサービスを改善します。</string>
+    <string name="setupservices_google_services_location_wireless_scan">アプリやサービスに対し、Wi-Fi が無効になっている場合でも Wi-Fi のスキャンを許可します。</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">この項目は位置情報の設定で無効にできます。</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">位置情報の精度の改善</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">スキャンの許可</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">アプリやサービスに対し、Wi-Fi や Bluetooth の設定が無効になっている場合でも Wi-Fi や Bluetooth の信号のスキャンを許可します。</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">アプリやサービスに対し、Wi-Fi ネットワークや付近の端末のスキャンを常に許可します（Wi-Fi や Bluetooth が OFF になっている場合を含む）。</string>
+    <string name="setupservices_google_services_next_button_label">同意する</string>
+    <string name="setupservices_google_services_play">Google Play から最新のニュースやクーポンを受信します。</string>
+    <string name="setupservices_google_services_section_backup_and_storage">バックアップとストレージ</string>
+    <string name="setupservices_google_services_section_device_maintenance">端末のメンテナンス</string>
+    <string name="setupservices_google_services_tos">続行すると、<annotation link="tos">Google の利用規約</annotation>にも同意したことになります。</string>
+    <string name="setupservices_google_services_tos_agree">[同意する] をクリックすると、これらの Google サービスについて上記に記載された処理に同意したことになります。</string>
+    <string name="setupservices_google_services_tos_germany">ユーザーがこの端末を使用する際に、Google は<annotation link="google_privacy">プライバシー ポリシー</annotation>を遵守し、<annotation link="tos">追加の規約</annotation>が適用されます。</string>
+    <string name="setupservices_google_services_usage_reporting">Android の機能向上のため、診断データと端末やアプリの使用状況データを Google に自動的に送信します。こうしたデータは、電池寿命、アプリの安定性、ネットワーク接続などの改善に役立ちます。[その他のウェブとアプリのアクティビティ] を有効にすると、この情報はアカウントに保存されるので、[マイ アクティビティ] で管理できます。</string>
+    <string name="setupservices_google_services_usage_reporting_details">"これは、お使いの端末と使用状況に関する一般的な情報（電池残量、アプリの使用状況、ネットワーク接続など）です。このデータは、すべてのユーザーのために Google のサービスを改善する目的で使用されます。統計情報の一部は、Android デベロッパーなどのパートナーが開発するアプリやサービスの品質改善にも役立てられます。
+
+この機能を無効にしても、システム アップデートやセキュリティなどの基本的なサービスに必要な情報は送信できます。"</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">myactivity.google.com で [マイ アクティビティ] の設定を変更できます。</string>
+    <string name="setupservices_google_services_usage_reporting_settings">この機能は [Google 設定] で管理できます。メニューから [使用状況と診断情報] を選択してください。</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">この機能は [設定] > [Google] で管理できます。メニューから [使用状況と診断情報] を選択してください。</string>
+    <string name="setupservices_google_services_usage_reporting_title">システムデータの送信</string>
+    <string name="setupservices_google_services_wallpaper_permission">Google のライブ壁紙に対し、現在地に応じた壁紙を表示できるよう Google の位置情報サービスへのアクセスを許可します。</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">ライブ壁紙に対して Google の位置情報サービスへのアクセスを許可するかどうかを切り替えるには、[設定] > [アプリと通知] > [アプリ情報] に移動します。オーバーフロー メニューで、[システムを表示] > [ライブデータ壁紙] または [ライブアース壁紙] > [権限] をタップします。</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">壁紙に位置情報の使用を許可</string>
+    <string name="setupservices_google_terms_of_service_title">Google 利用規約</string>
+    <string name="setupservices_kids_google_services_agreement">続行すると、Google、ご利用の携帯通信会社、端末メーカーからアップデートやアプリをこの端末が自動的に（場合によってはモバイルデータ接続を使用して）ダウンロードし、インストールする場合があることに同意したことになります。一部のアプリでは、アプリ内購入を提供する場合があります。こうしたアプリはいつでも削除できます。</string>
+    <string name="setupservices_kids_google_services_backup">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、端末の設定（Wi-Fi のパスワードなど）が含まれます。</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+バックアップ データは、お子様のドライブ ストレージの容量にはカウントされません。"</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+この端末の写真と動画はお子様の Google フォト ライブラリと同期され、お子様はお使いのどの端末からでも検索、編集、削除、共有できます。デフォルトでは最大解像度の写真と動画が Google フォトにアップロードされます。
+
+バックアップ データは、お子様のドライブ ストレージの容量にはカウントされません。"</string>
+    <string name="setupservices_kids_google_services_backup_v23">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、通話履歴、連絡先、端末の設定（Wi-Fi のパスワードや権限など）が含まれます。</string>
+    <string name="setupservices_kids_google_services_backup_v26">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、通話履歴、連絡先、端末の設定（Wi-Fi のパスワードや権限など）、SMS が含まれます。</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">データの復元やスマートフォンの切り替えがいつでも簡単にできます。バックアップ対象には、アプリ、アプリのデータ、通話履歴、連絡先、端末の設定（Wi-Fi のパスワードや権限など）、写真、動画、SMS が含まれます。写真と動画はお子様の Google フォト ライブラリに同期して、複数のサービスで利用することもできます。</string>
+    <string name="setupservices_kids_google_services_description">保護者は、各サービスをタップすると、後で有効または無効にする方法などの詳細を確認できます。^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google の位置情報サービスは Wi‑Fi やモバイル ネットワークなどのソースから、この端末の現在地を推定します。
+
+位置情報の設定を無効にするには、この端末でメインの位置情報の設定を無効にします。また、位置情報の設定で、位置情報での Wi‑Fi、モバイル ネットワーク、センサーの使用を無効にすることもできます。"</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">位置情報の利用許可が設定されているアプリやサービスがこの端末の位置情報を使用することを許可します。Google は位置情報を定期的に収集し、このデータを匿名の方法で活用して位置情報の精度や位置情報を利用したサービスを改善します。</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Android の機能向上のため、診断データと端末やアプリの使用状況データを Google に自動的に送信します。この情報がお子様を特定するために使用されることはありません。電池消費量、アプリの安定性、ネットワーク接続などの改善に利用されます。ウェブとアプリのアクティビティの他の設定をお子様に対して有効にしている場合、この情報はお子様のアカウントに保存されます。</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"これは、この端末と使用状況に関する一般的な情報（電池残量、アプリの使用状況、ネットワーク接続など）です。このデータは、すべてのユーザーのために Google のサービスを向上させる目的で使用されます。統計情報の一部は、Android デベロッパーなどのパートナーが開発するアプリやサービスの品質改善にも役立てられます。
+
+この機能を無効にしても、システム アップデートやセキュリティなどの基本的なサービスに必要な情報は送信できます。"</string>
+    <string name="setupservices_location_tos_title">現在地情報の利用規約</string>
+    <string name="sid_lsid_grant_detail">パスワードと同様、SID（セッションID）とLSID（ローカルセッションID）のCookieではあなたのIDとブラウザからのリクエストを関連付けます。これらのCookieはあなたのアカウントデータすべてにアクセスすることができます。これらのCookieを正規に使用できるのはブラウザのみです。</string>
+    <string name="sid_lsid_grant_label">SID と LSID の Cookie を使用して、すべての Google アカウント データにアクセスします。</string>
+    <string name="smartdevice_action_copy">コピー</string>
+    <string name="smartdevice_action_open_app">アプリを開く</string>
+    <string name="smartdevice_action_try_another_way">別の方法を試す</string>
+    <string name="smartdevice_action_turn_on_location">位置情報を ON にする</string>
+    <string name="smartdevice_alert_disconnected_title">端末の接続が解除されました</string>
+    <string name="smartdevice_alert_dm_backup_account_message">お使いのバックアップ アカウントは端末の管理者によって管理されているため、この機能はご利用いただけません。</string>
+    <string name="smartdevice_alert_dm_backup_account_title">利用できない機能です</string>
+    <string name="smartdevice_alert_exit_setup_message">他の端末のセットアップを終了してもよろしいですか？</string>
+    <string name="smartdevice_alert_exit_setup_title">端末のセットアップの終了</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">端末をセットアップするには、Googleアカウントが必要です。</string>
+    <string name="smartdevice_alert_no_accounts_text">%sをセットアップするには、Googleアカウントが必要です。</string>
+    <string name="smartdevice_alert_no_accounts_title">コピーするアカウントがありません</string>
+    <string name="smartdevice_alert_quit_button">終了</string>
+    <string name="smartdevice_alert_restart_setup_button">セットアップをやり直す</string>
+    <string name="smartdevice_alert_setup_incomplete">セットアップを中断しました</string>
+    <string name="smartdevice_alert_start_over_button">最初からやり直す</string>
+    <string name="smartdevice_alert_work_profile_message">Work アカウントのコピーはまだ行えません。他の Google アカウントとデータをコピーしてから、新しい端末の [設定] で Work アカウントを追加してください。</string>
+    <string name="smartdevice_alert_work_profile_title">Work アカウントをコピーできません</string>
+    <string name="smartdevice_application_label">端末のセットアップ</string>
+    <string name="smartdevice_choose_device">端末を選択してください</string>
+    <string name="smartdevice_companion_app_ready">アプリ「%s」は既にこの端末にインストールされています。</string>
+    <string name="smartdevice_connect_to_wifi">端末を接続してください</string>
+    <string name="smartdevice_connection_error">他の端末との接続中に問題が発生しました</string>
+    <string name="smartdevice_connection_error_title">接続できませんでした</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">端末に接続しています…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google アカウントなどをコピーし、Google ドライブのバックアップを復元します（利用可能な場合）</string>
+    <string name="smartdevice_d2d_copy_account_text">Google アカウントをコピーし、Google ドライブのバックアップを復元する（利用可能な場合）</string>
+    <string name="smartdevice_d2d_copy_account_title">他の端末へのコピー</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">認識されませんでした</string>
+    <string name="smartdevice_d2d_fingerprint_title">指紋の確認</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">セキュリティ上の理由により、指紋認証を行ってください。Google アカウント、アプリ、データが %s にコピーされます。</string>
+    <string name="smartdevice_d2d_lockscreen_description">端末の設定を続行するにはロック解除してください</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">セキュリティ上の理由により、設定を続けるには画面ロックを確認してください</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">お使いの端末ではBluetoothを利用できないため、他の端末を設定することはできません。</string>
+    <string name="smartdevice_d2d_source_disabled_text">セキュリティ上の理由により、この機能は無効になっています。別の端末で[スキップ]をタップして設定を続行してください。</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">新しい端末のセットアップ</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">端末のセットアップ</string>
+    <string name="smartdevice_d2d_source_notification_title">^1のセットアップ</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Googleアカウント、アプリ、データを正しい端末にコピーするには、セットアップをやり直して^1を選択してください。</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">同じコードが表示されない場合</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">制限付きのユーザープロファイルから新しい端末を設定することはできません。</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">%s でセットアップを続行してください</string>
+    <string name="smartdevice_d2d_source_setup_success">あと少しで完了です。</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">別の Android 搭載端末からのコピー</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">次の手順を行ってこの端末をセットアップする</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">別の端末からGoogleアカウント、アプリ、データをコピーする</string>
+    <string name="smartdevice_d2d_target_copying_accounts">アカウントのコピー…</string>
+    <string name="smartdevice_d2d_target_description">1. &lt;b>「&lt;xliff:g id=ok_google>^1&lt;/xliff:g>、&lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>」&lt;/b>と言うか、「&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>」と入力し、タップして確定します&lt;br/>&lt;br/> 2. リストで [&lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b>] をタップし、画面の手順に従って操作します</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">別の方法</string>
+    <string name="smartdevice_d2d_target_google_settings_description">もう一方の端末で次の操作を行います。&lt;br/>&lt;br/> 1. &lt;b>Google 設定&lt;/b>アプリを開きます。&lt;br/>&lt;br/> 2. [&lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=付近の端末の設定>%1$s&lt;/xliff:g>&lt;/b>] を選択します。&lt;br/>&lt;br/> 3. リストの [&lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>] をタップして画面上の手順に沿って進みます。</string>
+    <string name="smartdevice_d2d_target_google_settings_link">これらの手順を完了できません</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">[設定] を使う</string>
+    <string name="smartdevice_d2d_target_help_text">お困りの場合</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">見つからない場合</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">もう一方の端末で Google アプリを開く</string>
+    <string name="smartdevice_d2d_target_instruction_description">Googleアプリを開きます</string>
+    <string name="smartdevice_d2d_target_instruction_title">他の端末での操作</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google アプリは、すべての Android 搭載端末にプリインストールされています。すべてのアプリを表示し、上記の Google アイコンを探してください。</string>
+    <string name="smartdevice_d2d_target_pin_code_description">このコードは他の端末上のコードと一致する必要があります:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">スキップしない</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">このアカウント、バックアップされたアプリ、データはこの端末にコピーされません。</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">スキップ</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">このアカウントをスキップしますか？</string>
+    <string name="smartdevice_d2d_target_title">Googleアプリでの操作</string>
+    <string name="smartdevice_do_disclosure_generic">データを転送できません</string>
+    <string name="smartdevice_do_unsupported_message">管理対象端末のデータを転送することはできません</string>
+    <string name="smartdevice_install_app">アプリのインストール</string>
+    <string name="smartdevice_install_app_reason">%1$sアプリをインストールすると、この端末から新しい%2$sを制御、管理できます</string>
+    <string name="smartdevice_look_for_other_device">他の端末でこの名前を見つけてください</string>
+    <string name="smartdevice_magicwand_cancel_signin">ログインしない</string>
+    <string name="smartdevice_magicwand_confirm_signin">ログインを開始しました</string>
+    <string name="smartdevice_magicwand_consent_detail">別の端末へのログインを完了するには、[<b>ログイン</b>] をタップします。</string>
+    <string name="smartdevice_magicwand_consent_title">ログインの完了</string>
+    <string name="smartdevice_magicwand_error_detail">エラーが発生したため、このスマートフォンからログインできませんでした。</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"アカウントにログインするために、QR コードをスキャンしました。
+
+セキュリティ保護のため、指紋認証を行って、別の端末でログインしていることを確認してください。"</string>
+    <string name="smartdevice_magicwand_lockscreen_description">この追加の手順を行うことにより、この端末がセキュリティで保護されていることを確認できます。</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"アカウントにログインするために、QR コードをスキャンしました。
+
+セキュリティ保護のため、画面ロックのパターンを入力して、別の端末でログインしていることを確認してください。"</string>
+    <string name="smartdevice_magicwand_selectaccount_description">ブラウザに移動します</string>
+    <string name="smartdevice_magicwand_success_detail">他の端末のお使いのブラウザでご確認ください。</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">他のデバイスで同じ形を見つけてください</string>
+    <string name="smartdevice_pairing_verify_shapes_title">形の確認</string>
+    <string name="smartdevice_problem_copying">他の端末へのデータのコピー中に問題が発生しました</string>
+    <string name="smartdevice_problem_copying_title">データをコピーできませんでした</string>
+    <string name="smartdevice_search_again">再検索</string>
+    <string name="smartdevice_searching_for_devices">端末の検索</string>
+    <string name="smartdevice_setup_google_app_trigger">デバイスのセットアップ</string>
+    <string name="smartdevice_setup_info_installing_app">アプリをインストールしています…</string>
+    <string name="smartdevice_setup_intro_text">他の端末をセットアップするため、お使いのスマートフォンの Bluetooth と Wi-Fi データを使用します</string>
+    <string name="smartdevice_setup_intro_text_nfc">他の端末をセットアップするため、お使いのスマートフォンの Bluetooth を使用します</string>
+    <string name="smartdevice_setup_intro_title">スタートガイド</string>
+    <string name="smartdevice_setup_password_hint">Wi-Fiパスワードを入力</string>
+    <string name="smartdevice_setup_show_password">パスワードを表示</string>
+    <string name="smartdevice_setup_title_verify_code">コードの確認</string>
+    <string name="smartdevice_target_hotphrase_instructions">他の端末で、&lt;b>「&lt;xliff:g id=ok_google>^1&lt;/xliff:g>、&lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>」と話しかけてください。&lt;/b>&lt;br/>&lt;br/>または、検索ボックスに&lt;b>「&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>」&lt;/b>と入力してください。</string>
+    <string name="smartdevice_type_typing_ok_google">音声コマンドが機能しない場合は、検索ボックスに「&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>」と入力してみてください</string>
+    <string name="smartdevice_verify_device">デバイスの確認</string>
+    <string name="smartdevice_wifi_cannot_connect_description">この端末のセットアップに使用できるのは、オープンネットワークとWPA/WPA2ネットワークのみです</string>
+    <string name="smartdevice_wifi_cannot_connect_title">このWi-Fiネットワークは使用できません</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi を探すには、位置情報を ON にします。
+
+これは後から [設定] でいつでも変更できます。"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi ネットワークを検索できません</string>
+    <string name="storage_management_wear_descriptive_text">アプリは端末のストレージを使用してデータをウェアラブルに複製しています。</string>
+    <string name="storage_management_wear_manage_size_label">ウェアラブルストレージを管理</string>
+    <string name="storage_management_wear_size_label">ウェアラブルストレージ</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play開発者サービスによって使用されているデータ（例: 検索エンジンなどのデータ）の合計です。</string>
+    <string name="storage_managment_clear_all_data">データをすべて消去</string>
+    <string name="storage_managment_computing_size">計算しています…</string>
+    <string name="storage_managment_icing_size_label">検索データ</string>
+    <string name="storage_managment_manage_icing_button">検索データを管理</string>
+    <string name="storage_managment_search_index_descriptive_text">Google ではアプリが使用する検索エンジンを提供することで端末での検索を高速化しています。</string>
+    <string name="storage_managment_title">Google Play開発者サービスの容量</string>
+    <string name="storage_managment_total_size_label">合計容量</string>
+    <string name="summary_collapsed_preference_list">%1$s、%2$s</string>
+    <string name="suw_back_button_label">戻る</string>
+    <string name="suw_more_button_label">もっと見る</string>
+    <string name="suw_next_button_label">次へ</string>
+    <string name="uncertified_notification_expired_content">この端末では Google のアプリとサービスをご利用いただけなくなりました。タップして詳細をご確認ください。</string>
+    <string name="uncertified_notification_expired_title">登録の有効期限が切れました</string>
+    <string name="uncertified_notification_expiring_title">登録の有効期限がまもなく切れます</string>
+    <string name="use_nearby_device_heading">付近の端末を使用しますか？</string>
+    <string name="use_nearby_device_text">認証に付近の端末を使用しますか？</string>
+    <string name="verify_your_identity_description">%1$s を使用するには、本人確認が必要です。</string>
+    <string name="verify_your_identity_title">本人確認</string>
+    <string name="waiting_for_account_info_text">アカウント情報を待機しています…</string>
+</resources>

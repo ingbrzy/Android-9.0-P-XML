@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="camcorder_profile_names">
+        <item>@string/pref_video_quality_entry_low</item>
+        <item>@string/pref_video_quality_entry_high</item>
+        <item>@string/pref_video_quality_entry_qcif_notrans</item>
+        <item>@string/pref_video_quality_entry_cif_notrans</item>
+        <item>@string/pref_video_quality_entry_480p_notrans</item>
+        <item>@string/pref_video_quality_entry_720p_notrans</item>
+        <item>@string/pref_video_quality_entry_1080p_notrans</item>
+        <item>@string/pref_video_quality_entry_qvga_notrans</item>
+        <item>@string/pref_video_quality_entry_2160p_notrans</item>
+    </string-array>
+    <string-array name="camera_id_entries">
+        <item>@string/pref_camera_id_entry_back</item>
+        <item>@string/pref_camera_id_entry_front</item>
+    </string-array>
+    <string-array name="camera_id_entryvalues">
+        <item>@string/pref_camera_id_entry_back_value</item>
+        <item>@string/pref_camera_id_entry_front_value</item>
+    </string-array>
+    <string-array name="camera_id_labels">
+        <item>@string/pref_camera_id_label_back</item>
+        <item>@string/pref_camera_id_label_front</item>
+    </string-array>
+    <string-array name="gallery_item_actions_stitched">
+        <item>View panorama</item>
+        <item>Share panorama</item>
+        <item>Share with Maps</item>
+        <item>Create little planet</item>
+        <item>Delete</item>
+        <item>Send to team for debugging</item>
+        <item>Stitch panorama</item>
+    </string-array>
+    <string-array name="gallery_item_actions_unstitched">
+        <item>Stitch panorama</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_default_array">
+        <item>continuous-picture</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_supportmode_entryvalues">
+        <item>@string/pref_camera_hdr_supportmode_none</item>
+        <item>@string/pref_camera_hdr_supportmode_hdr</item>
+        <item>@string/pref_camera_hdr_supportmode_hdr_plus</item>
+    </string-array>
+    <string-array name="pref_camera_hdrplus_entryvalues">
+        <item>off</item>
+        <item>on</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="pref_camera_jpeg_quality_entryvalues">
+        <item>@string/pref_camera_jpeg_quality_normal</item>
+        <item>@string/pref_camera_jpeg_quality_fine</item>
+        <item>@string/pref_camera_jpeg_quality_superfine</item>
+    </string-array>
+    <string-array name="pref_camera_pano_orientation_entryvalues">
+        <item>@string/pano_orientation_horizontal</item>
+        <item>@string/pano_orientation_vertical</item>
+        <item>@string/pano_orientation_wide</item>
+        <item>@string/pano_orientation_fisheye</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues">
+        <item>@string/pref_camera_picturesize_default</item>
+        <item>medium</item>
+        <item>small</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>auto</item>
+        <item>hdr</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>@string/pref_camera_video_flashmode_torch</item>
+        <item>@string/pref_camera_video_flashmode_off</item>
+    </string-array>
+    <integer-array name="pref_countdown_duration">
+        <item>0</item>
+        <item>3</item>
+        <item>10</item>
+    </integer-array>
+    <string-array name="pref_double_tap_action_entries">
+        <item>@string/double_tap_zoom</item>
+        <item>@string/double_tap_switch_camera</item>
+        <item>@string/setting_off</item>
+    </string-array>
+    <string-array name="pref_double_tap_entryvalues">
+        <item>@string/preference_double_tap_zoom</item>
+        <item>@string/preference_double_tap_switch_camera</item>
+        <item>@string/preference_double_tap_none</item>
+    </string-array>
+    <string-array name="pref_grid_mode_entries">
+        <item>@string/grid_mode_off</item>
+        <item>@string/grid_mode_three_by_three</item>
+        <item>@string/grid_mode_four_by_four</item>
+        <item>@string/grid_mode_golden_ratio</item>
+    </string-array>
+    <string-array name="pref_grid_mode_entryvalues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_lightcycle_quality_entries">
+        <item>@string/pref_camera_quality_max</item>
+        <item>@string/pref_camera_quality_hq</item>
+        <item>@string/pref_camera_quality_lq</item>
+    </string-array>
+    <string-array name="pref_lightcycle_quality_entryvalues">
+        <item>@string/camera_quality_max</item>
+        <item>@string/camera_quality_high</item>
+        <item>@string/camera_quality_low</item>
+    </string-array>
+    <string-array name="pref_photosphere_picturesize_entries">
+        <item>@string/pref_photosphere_picturesize_entry_16mp</item>
+        <item>@string/pref_photosphere_picturesize_entry_12mp</item>
+        <item>@string/pref_photosphere_picturesize_entry_8mp</item>
+    </string-array>
+    <string-array name="pref_photosphere_picturesize_entryvalues">
+        <item>16mp</item>
+        <item>12mp</item>
+        <item>@string/pref_photosphere_picturesize_default</item>
+    </string-array>
+    <string-array name="pref_video_effect_entryvalues">
+        <item>@string/pref_video_effect_default</item>
+        <item>goofy_face/squeeze</item>
+        <item>goofy_face/big_eyes</item>
+        <item>goofy_face/big_mouth</item>
+        <item>goofy_face/small_mouth</item>
+        <item>goofy_face/big_nose</item>
+        <item>goofy_face/small_eyes</item>
+        <item>backdropper/file:///system/media/video/AndroidInSpace.480p.mp4</item>
+        <item>backdropper/file:///system/media/video/Sunset.480p.mp4</item>
+        <item>backdropper/gallery</item>
+    </string-array>
+    <string-array name="pref_video_encoding_entryvalues">
+        <item>@string/pref_video_encoding_h264</item>
+        <item>@string/pref_video_encoding_h265</item>
+    </string-array>
+    <string-array name="pref_video_quality_entries">
+        <item>@string/pref_camera_picturesize_entry_large</item>
+        <item>@string/pref_camera_picturesize_entry_medium</item>
+        <item>@string/pref_camera_picturesize_entry_small</item>
+    </string-array>
+    <string-array name="pref_video_quality_entryvalues">
+        <item>@string/pref_video_quality_large</item>
+        <item>@string/pref_video_quality_medium</item>
+        <item>@string/pref_video_quality_small</item>
+    </string-array>
+    <string-array name="pref_volume_action_entries">
+        <item>@string/volume_key_shutter</item>
+        <item>@string/volume_key_zoom</item>
+        <item>@string/volume_key_do_nothing</item>
+    </string-array>
+    <string-array name="pref_volume_action_entryvalues">
+        <item>@string/preference_volume_key_shutter</item>
+        <item>@string/preference_volume_key_zoom</item>
+        <item>@string/preference_volume_key_do_nothing</item>
+    </string-array>
+    <string-array name="selfie_flash_descriptions">
+        <item>@string/torch_off_desc</item>
+        <item>@string/torch_on_desc</item>
+    </string-array>
+    <string-array name="toybox_hfr_mode_descriptions">
+        <item>@string/hfr_mode_120fps</item>
+        <item>@string/hfr_mode_240fps</item>
+    </string-array>
+    <string-array name="toybox_hfr_mode_rates">
+        <item>@string/hfr_fps_120</item>
+        <item>@string/hfr_fps_240</item>
+    </string-array>
+    <string-array name="trusted_certificates">
+        <item>4BA713DFECE93D47572DC5E845A7A82C4A891F2F</item>
+        <item>24BB24C05E47E0AEFA68A58A766179D9B613A600</item>
+    </string-array>
+    <string-array name="video_flash_descriptions">
+        <item>@string/torch_on_desc</item>
+        <item>@string/torch_off_desc</item>
+    </string-array>
+</resources>

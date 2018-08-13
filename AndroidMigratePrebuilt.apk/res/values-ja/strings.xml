@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">検索…</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_toolbar_collapse_description">折りたたむ</string>
+    <string name="app_has_in_app_purchases">アプリ内購入</string>
+    <string name="app_has_permissions">権限: %s</string>
+    <string name="app_has_runtime_permissions">アプリに権限が必要です</string>
+    <string name="app_install_summary">%1$d/%2$d のアプリをインストールしました</string>
+    <string name="app_picker_loading">利用可能なアプリを探しています…</string>
+    <string name="app_picker_loading_toast">利用可能なアプリの読み込みは、まもなく終了します</string>
+    <string name="app_picker_no_apps">アプリが選択されていません</string>
+    <string name="app_picker_no_apps_found">アプリが見つかりません</string>
+    <string name="apps_permissions_described_v2">"Android アプリと一致するかどうかの対象となるのは、人気のある無料の iOS® アプリのみです。通常、アプリ内購入は移行されません。セットアップ完了後に Play ストアで他のアプリを探すことができます。
+
+端末上の特定の機能または情報へのアクセス権限を事前に一部のアプリに付与する必要があります。権限は権限グループ別に分類されています。このようなアプリのインストールを選択すると、各グループに属する権限の付与に同意したことになります。各権限グループの説明は以下をご覧ください。
+
+アプリによっては、事前に権限を付与する必要がないものもあります。このようなアプリを使用する際には、アプリが該当するデータタイプにアクセスする前に、権限を個別に許可または拒否することができます。
+
+^1"</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_google_calendar">Google カレンダー</string>
+    <string name="auto_synced_item_google_contacts">Google コンタクト</string>
+    <string name="auto_synced_item_google_photos">Google フォト</string>
+    <string name="auto_synced_title">自動同期</string>
+    <string name="backup_d2d_migration_tool_activity_name">データ転送ツール</string>
+    <string name="button_dont_restore">復元しない</string>
+    <string name="byteShort">バイト</string>
+    <string name="cancel_copy_button">コピーを停止</string>
+    <string name="cancel_copy_button_text">コピーしない</string>
+    <string name="close_button_label">閉じる</string>
+    <string name="cloud_restore_app_picker_description_no_apps">バックアップされているアプリはありません</string>
+    <string name="cloud_restore_app_picker_title">復元するアプリの選択</string>
+    <string name="common_cancel">キャンセル</string>
+    <string name="common_confirm">確認</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_ok">OK</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_restore">復元</string>
+    <string name="common_try_again">再試行</string>
+    <string name="consolidated_notification_app_name">Pixel のセットアップ</string>
+    <string name="consolidated_notification_finishing_restore">アプリとデータの復元を完了中…</string>
+    <string name="consolidated_notification_restore_complete_content">タップして詳細をご確認ください</string>
+    <string name="consolidated_notification_restore_complete_title">データを復元しました</string>
+    <string name="consolidated_notification_restore_paused_content">セットアップが完了すると復元が続行されます</string>
+    <string name="consolidated_notification_restore_paused_title">アプリとデータの復元が一時停止されました</string>
+    <string name="consolidated_notification_restore_use_mobile_data">復元にモバイルデータを使用</string>
+    <string name="consolidated_notification_restore_wifi_required_content">Wi-Fi に接続してください</string>
+    <string name="consolidated_notification_restore_wifi_required_title">アプリのアップデートがあります</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d 件、端末 %2$d 件</string>
+    <string name="content_selector_ui_title">復元対象の選択</string>
+    <string name="continue_button">続行</string>
+    <string name="copied_contacts_group_label">%1$s からのコピー</string>
+    <string name="copied_contacts_group_label_default">ケーブル転送でコピー</string>
+    <string name="copied_contacts_group_label_ios">iOS からのコピー</string>
+    <string name="copy_button">コピー</string>
+    <string name="d2d_app_picker_description_no_apps">アプリが見つかりませんでした</string>
+    <string name="d2d_app_picker_title">アプリ</string>
+    <string name="data_copied_fragment_description">ケーブルを取り外せます</string>
+    <string name="data_copied_fragment_description_cancel">コピーを停止したため、新しいスマートフォンには一部のデータのみがコピーされました。</string>
+    <string name="data_copied_fragment_description_cancel_no_data">コピーを停止したため、新しいスマートフォンにはデータがコピーされていません。</string>
+    <string name="data_copied_fragment_description_error">エラーが発生したため、データの一部をコピーできませんでした。</string>
+    <string name="data_copied_fragment_description_error_no_data">エラーが発生したため、データをコピーできませんでした。</string>
+    <string name="data_copied_fragment_no_data_title">コピーできませんでした</string>
+    <string name="data_copied_fragment_some_data_title">一部のデータをコピーしました</string>
+    <string name="data_copied_fragment_title">コピーが完了しました</string>
+    <string name="device_not_supported_fragment_new_device">新しいスマートフォンに接続しています。続行するには、前のスマートフォンに再接続してください。</string>
+    <string name="device_not_supported_fragment_new_device_title">前のスマートフォンに再接続</string>
+    <string name="device_not_supported_fragment_no_data_cable">このケーブルはデータを転送できません。別のケーブルを使用して再接続し、もう一度お試しください。</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">別のケーブルを試す</string>
+    <string name="device_not_supported_fragment_other_ways_btn">別の方法でコピーする</string>
+    <string name="device_not_supported_fragment_retry_description">前のスマートフォンのロックが解除されていることを確認し、ケーブルを外して再接続してください</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">エラーが発生しました</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_description">同梱のアダプターに対応した別のケーブルを使って接続し直してください</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_title">このケーブルは使用できません</string>
+    <string name="device_not_supported_ios_supervised_description">お使いの iPhone® 端末は監視されているため、データをコピーするには別の方法を選択する必要があります</string>
+    <string name="device_picker_empty">%1$s にリンクされたバックアップはありません。</string>
+    <string name="device_picker_empty_title">バックアップが見つかりませんでした</string>
+    <string name="device_picker_item">%1$s のバックアップ</string>
+    <string name="device_picker_title">復元するバックアップの選択</string>
+    <string name="dialog_continue_button_label">続行</string>
+    <string name="download_file_description">別の端末からコピーしたファイルです</string>
+    <string name="drive_backup_content_callhistory_title">通話履歴</string>
+    <string name="drive_backup_content_contacts_title">連絡先</string>
+    <string name="drive_backup_content_devicesettings_title">端末の設定</string>
+    <string name="durationDayHour">%1$d日%2$d時間</string>
+    <string name="durationDayHours">%1$d日%2$d時間</string>
+    <string name="durationDays">%1$d 日</string>
+    <string name="durationHoursMinutes">%1$d時間 %2$d分</string>
+    <string name="durationMinute">%1$d分</string>
+    <string name="durationMinutes">%1$d分</string>
+    <string name="encryption_warning_fragment_description">"お使いの iPhone® 端末でバックアップの有効化が ON になっています。自分で ON にした覚えがない場合は、IT 管理者が ON にした可能性があります。
+
+そのため、コピーできるのは、写真、音楽、動画のみとなります。詳しくは、"<b>g.co/datatransferhelp</b> をご覧ください。</string>
+    <string name="encryption_warning_fragment_title">バックアップの暗号化</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">アプリ、写真、連絡先、Google アカウントなどを転送できます。コピーするコンテンツは選択できます。</string>
+    <string name="flow_choice_dont_copy_data">データをコピーしない</string>
+    <string name="flow_choice_new_label_new">コピーしない</string>
+    <string name="flow_choice_new_summary_new">スマートフォンを手動でセットアップします</string>
+    <string name="flow_choice_restore_label">データのコピー</string>
+    <string name="flow_choice_restore_summary_new">Android 搭載端末または iPhone® からコピーします</string>
+    <string name="flow_choice_restore_summary_no_iphone">Android 搭載端末またはクラウドからコピーします</string>
+    <string name="flow_choice_title">アプリとデータのコピー</string>
+    <string name="fragment_app_picker_d2d_title">アプリの選択</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"お使いの iOS® アプリ（計 ^2 個）のうち、^1 個に一致するアプリが見つかりました。一部のアプリ内購入は移行されない場合があります。
+
+このアプリをインストールすると、アプリの権限を許可することになります。"<annotation id="apps_permissions_learn_more">詳細</annotation></string>
+    <string name="fragment_indexing_description">コピーするデータを次の画面で選択できます</string>
+    <string name="fragment_indexing_title">データをチェックしています…</string>
+    <string name="fragment_indexing_verify_password_description">この処理には数分かかることがあります</string>
+    <string name="fragment_indexing_verify_password_title">パスワードの確認中…</string>
+    <string name="fragment_ios_decryption_description">他のコンテンツ（SMS メッセージや連絡先など）を転送するには、iTunes® のバックアップ パスワードを入力してください</string>
+    <string name="fragment_ios_decryption_forgot_password_button">パスワードを忘れた場合</string>
+    <string name="fragment_ios_decryption_forgot_password_description">iTunes® のバックアップ パスワードがない場合、暗号化されたコンテンツは転送できません。暗号化されていないコンテンツは新しい Pixel に転送されます。</string>
+    <string name="fragment_ios_decryption_forgot_password_title">暗号化されたコンテンツは転送できません</string>
+    <string name="fragment_ios_decryption_password_hint">iTunes® のバックアップ パスワードを入力</string>
+    <string name="fragment_ios_decryption_skip_button">暗号化されたコンテンツをスキップ</string>
+    <string name="fragment_ios_decryption_skip_password_description">iCloud® の連絡先、端末の連絡先、iMessage® のメッセージは転送されません</string>
+    <string name="fragment_ios_decryption_skip_password_title">暗号化されたコンテンツのスキップ</string>
+    <string name="fragment_ios_decryption_title">お使いの iPhone® 端末は暗号化されています</string>
+    <string name="fragment_ios_decryption_wrong_password_error">パスワードが正しくありません。入力し直してください。</string>
+    <string name="fragment_ios_device_management_confirm_title">モバイル デバイス管理の削除を確認</string>
+    <string name="fragment_ios_device_management_detected_description">"お使いの iPhone® 端末は組織によって管理され、コンテンツが暗号化されています。
+
+iCloud® の連絡先、端末の連絡先、iMessage® のメッセージを転送するには、iPhone® 端末からモバイル デバイス管理を削除する必要があります。"</string>
+    <string name="fragment_ios_device_management_detected_title">一部のコンテンツは暗号化されています</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">手順を表示</string>
+    <string name="fragment_ios_device_management_not_removed_description">"端末管理がまだ iPhone® 端末に存在します。前の手順に従って削除してください。
+
+暗号化されたコンテンツを新しい Pixel に転送するには、端末管理を削除する必要があります。"</string>
+    <string name="fragment_ios_device_management_not_removed_title">暗号化されたコンテンツは転送できません</string>
+    <string name="fragment_ios_device_management_open_settings_description">iPhone® 端末で、<b>[設定] > [一般] > [デバイス管理]</b> に移動します</string>
+    <string name="fragment_ios_device_management_open_settings_title">モバイル デバイス管理の設定を開く</string>
+    <string name="fragment_ios_device_management_passcode_title">パスコードの入力</string>
+    <string name="fragment_ios_device_management_remove_title">モバイル デバイス管理の削除</string>
+    <string name="fragment_ios_device_management_risk_description">"モバイル デバイス管理を削除すると、仕事用のリソースにアクセスできなくなります。
+
+設定後にモバイル デバイス管理を再インストールする際に問題が発生した場合は、IT 管理者にお問い合わせください。"</string>
+    <string name="fragment_ios_device_management_risk_title">モバイル デバイス管理の削除</string>
+    <string name="fragment_ios_device_management_select_management_title">[モバイル デバイス管理] の下のオプションをタップします</string>
+    <string name="fragment_ios_device_management_skip_button">暗号化されたコンテンツをスキップ</string>
+    <string name="fragment_ios_instructions_description">続行するには、お使いの iPhone® 端末で接続を承認してください</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_confirm_button">スキップ</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">iCloud® の連絡先、端末の連絡先、iMessage® のメッセージは転送されません</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">暗号化されたコンテンツのスキップ</string>
+    <string name="fragment_restore_choice_title">コピーする項目の選択</string>
+    <string name="fragment_target_connected_description">コピーの準備をしています…</string>
+    <string name="fragment_target_connected_title">スマートフォンを接続しました</string>
+    <string name="fragment_usb_cable_doesnt_fit">ケーブルを使用できない場合</string>
+    <string name="fragment_usb_cant_find_adapter">アダプターがない場合</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"ケーブルを使用できない場合は、^1 に付属のクイック スイッチ アダプターをご用意ください。
+
+ケーブルをアダプターに接続してください。"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">アダプターとケーブルを接続する</string>
+    <string name="fragment_usb_connect_both_phones_description">アダプターをこの ^1 に接続してください</string>
+    <string name="fragment_usb_connect_both_phones_title">両方のスマートフォンを接続する</string>
+    <string name="fragment_usb_dialog_cancel_description">"ケーブルを使用すると、SMS メッセージを含むほとんどのコンテンツを移行できます。
+
+付属のケーブルが使用できない場合は、以前のスマートフォンの充電ケーブルまたはデータケーブルをお試しください。"</string>
+    <string name="fragment_usb_dialog_cancel_title">別の方法でデータをコピーしますか？</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"以前のスマートフォンとケーブルを使用すると、移行できるデータが増えます。
+
+ケーブルを使用せずにデータを復元するには、次の画面でユーザー名とパスワードを入力してログインしてください。"</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">以前のスマートフォンを使用せずにデータを復元しますか？</string>
+    <string name="fragment_usb_dont_copy">コピーしない</string>
+    <string name="fragment_usb_dont_have_cable">ケーブルがない場合</string>
+    <string name="fragment_usb_dont_have_old_phone">以前のスマートフォンを使用できない場合</string>
+    <string name="fragment_usb_find_cable_description">以前のスマートフォンで使用していたケーブル（通常は充電ケーブル）をお使いください。</string>
+    <string name="fragment_usb_find_cable_title">以前のスマートフォンのケーブルをご用意ください</string>
+    <string name="fragment_usb_initial_description">前に使用していた Android 搭載端末または iPhone® が必要です。電源を入れ、ロックが解除された状態にしてください。</string>
+    <string name="fragment_usb_initial_title">以前のスマートフォンをご用意ください</string>
+    <string name="fragment_usb_missing_data_description">転送中も ^1 の設定を続けることができます。</string>
+    <string name="fragment_usb_missing_data_title">データをコピーする</string>
+    <string name="fragment_usb_other_ways">別の方法でコピーする</string>
+    <string name="fragment_usb_plug_cable">ケーブルを以前のスマートフォンに接続してください</string>
+    <string name="fragment_waiting_title">お待ちください…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_contacts_will_sync">Google コンタクトは同期されます</string>
+    <string name="imessage_dialog_message">"iPhone® ユーザーからの SMS メッセージを引き続き受信するには、以前のスマートフォンで iMessage® を OFF にする必要があります。iPad® などの他の端末では引き続き iMessage® を使用できます。
+
+^1 の設定が完了したら、"<b>g.co/iMessageHelp</b> にアクセスし、表示される手順に従って操作してください。</string>
+    <string name="imessage_dialog_title">iPhone® ユーザーからのメッセージの受信</string>
+    <string name="instructions_fragment_title">以前のスマートフォンを確認してください</string>
+    <string name="ios_connected_fragment_description_has_account">Google アカウントを使用して、アプリと iOS® カレンダーの予定を移行します</string>
+    <string name="ios_connected_fragment_description_no_account">"次の画面で Google アカウントにログインするか、新しいアカウントを作成してください。
+
+Google アカウントを追加しない場合、アプリと iOS® カレンダーの予定は移行されません。"</string>
+    <string name="ios_message_attachment_explanation">[メッセージの添付ファイルは Google フォト > [端末] フォルダ > [メッセージの添付ファイル] にあります]</string>
+    <string name="ios_message_attachment_failed_explanation">[一部の添付ファイルをコピーできませんでした。転送された添付ファイルは、Google フォト > [端末のフォルダ] > [メッセージの添付ファイル] にあります]</string>
+    <string name="ios_message_attachment_placeholder">[添付ファイルは Google フォト > [端末] フォルダ > [メッセージの添付ファイル] に保存されました]</string>
+    <string name="ios_message_attachments_placeholder">[添付ファイルは Google フォト > [端末] フォルダ > [メッセージの添付ファイル] に保存されました]</string>
+    <string name="ios_migration_default_calendar_title">カレンダー</string>
+    <string name="ios_migration_other_contact_relation">その他</string>
+    <string name="ios_photos_dialog_heif_and_icloud_message">"一部の画像は、iPhone® 端末によって HEIF ファイルとして保存されています。この画像と iCloud® の画像はコピーできません。
+
+この画像を ^1 にコピーするには、Google フォト アプリを iPhone® 端末にインストールしてから、[バックアップと同期] を ON にしてください。詳しくは、"<b>g.co/datatransferhelp</b> をご覧ください。</string>
+    <string name="ios_photos_dialog_heif_message">"一部の画像は、iPhone® 端末によって HEIF ファイルとして保存されています。この画像はコピーできません。
+
+この画像を ^1 にコピーするには、Google フォト アプリを iPhone® 端末にインストールしてから、[バックアップと同期] を ON にしてください。詳しくは、"<b>g.co/datatransferhelp</b> をご覧ください。</string>
+    <string name="ios_photos_dialog_icloud_message">"iCloud® に保存されている画像はコピーできません。
+
+この画像を ^1 にコピーするには、Google フォト アプリを iPhone® 端末にインストールしてから、[バックアップと同期] を ON にしてください。詳しくは、"<b>g.co/datatransferhelp</b> をご覧ください。</string>
+    <string name="key_recovery_instruction_description">バックアップを復号化するには、次の画面で今まで使用していたスマートフォンの画面ロック解除を入力してください</string>
+    <string name="key_recovery_instruction_title">今まで使用していた %s の画面ロック解除の入力</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="lock_screen_entry_title">今まで使用していた %s の画面ロック解除の入力</string>
+    <string name="lock_screen_error_other">エラーが発生しました。しばらくしてからもう一度お試しください。</string>
+    <string name="lock_screen_error_wrong_password">パスワードが正しくありません</string>
+    <string name="lock_screen_error_wrong_pattern">パターンが正しくありません</string>
+    <string name="lock_screen_error_wrong_pin">PIN が正しくありません</string>
+    <string name="lockscreen_access_pattern_area">パターンエリアです</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">セル %d を追加しました</string>
+    <string name="lockscreen_access_pattern_cleared">パターンを消去しました</string>
+    <string name="lockscreen_access_pattern_detected">パターンの描画が完了しました</string>
+    <string name="lockscreen_access_pattern_start">パターンの描画を開始しました</string>
+    <string name="megabyteShort">MB</string>
+    <string name="mobile_warning_fragment_dialog_content">データ通信料が発生することがあります。または、Wi‑Fi に接続するまで待機することもできます。Wi-Fi に接続すると自動的に実行されます</string>
+    <string name="mobile_warning_fragment_dialog_nodata">後で</string>
+    <string name="mobile_warning_fragment_dialog_title">復元にモバイルデータを使用しますか？</string>
+    <string name="mobile_warning_fragment_dialog_use_data">今すぐ復元</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_conversion_summary">%1$d/%2$d の画像を変換しました</string>
+    <string name="restore_choice_android_device_label">Android スマートフォンからバックアップ</string>
+    <string name="restore_choice_android_device_label_new">Android</string>
+    <string name="restore_choice_android_device_summary">前のスマートフォンを使用してワイヤレスでデータをコピーします</string>
+    <string name="restore_choice_data_disclaimer">一部のデータは ^1 に移行されない場合があります。<annotation id="restore_choice_data_disclaimer_learn_more">詳細</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">このバックアップは新しいバージョンの Android を搭載した端末から行っています。一部のデータは新しいスマートフォンで復元されない場合があります。</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">一部のデータは ^1 に移行されません。</string>
+    <string name="restore_choice_deselect_some_content">続行するには一部のコンテンツの選択を解除してください</string>
+    <string name="restore_choice_dont_copy">コピーしない</string>
+    <string name="restore_choice_dont_have_old_phone">以前のスマートフォンを使用できない場合</string>
+    <string name="restore_choice_google_account_label">クラウドからバックアップ</string>
+    <string name="restore_choice_google_account_summary">ユーザー名とパスワードを入力してログインします</string>
+    <string name="restore_choice_ios_device_label">iPhone®</string>
+    <string name="restore_choice_learn_more_android">"以前のスマートフォンの一部のデータは自動的にコピーされません。
+
+ ● ダウンロード（PDF ファイルなど）
+
+ ● 隠しフォルダに保存された写真、動画、音楽
+
+ ● テキスト メッセージで受信した写真、動画、音楽
+
+ ● Google Play ストアから入手していないアプリ
+
+ ● アプリのデータ（アプリで Android バックアップを使用していない場合）
+
+ ● 一部の端末設定
+
+ ● Google アカウント以外のアカウント（と関連データ）
+
+ ● Google 以外のサービスに同期されている連絡先とカレンダー
+
+ ● 着信音
+
+ 詳しい情報とこうしたデータのコピー方法については、g.co/datatransferhelp をご覧ください。"</string>
+    <string name="restore_choice_learn_more_ios">"以前のスマートフォンの一部のデータは自動的にコピーされません。
+
+ ● アプリ、アプリのデータ
+
+ ● 写真（元の写真がスマートフォンに保存されていない場合。たとえば、[iPhone のストレージを最適化] 設定が ON になっている場合、元の写真は iCloud® に保存されます）
+
+ ● iCloud® に保存されたファイルとドキュメント
+
+ ● 端末設定（Wi-Fi パスワードなど）
+
+ ● デジタル著作権管理（DRM）で保護されている音楽（2009 年 4 月以前に購入した iTunes® の音楽や、音楽ストリーミング アプリでオフライン再生用にダウンロードした音楽など）
+
+ ● Google アカウント以外のアカウント（と関連データ）
+
+ ● Google または iCloud® 以外のサービスに同期されている連絡先とカレンダー
+
+ ● Safari® のブックマーク
+
+ iMessage® の添付ファイルは、Google フォト > [端末のフォルダ] > [メッセージの添付ファイル] で確認できます。
+
+ 詳しい情報とこうしたデータのコピー方法については、g.co/datatransferhelp をご覧ください。"</string>
+    <string name="restore_choice_learn_more_ios_attachments_inline">"以前のスマートフォンの一部のデータは自動的にコピーされません。
+
+ ● アプリとアプリのデータ
+
+ ● 写真（元の写真がスマートフォンに保存されていない場合。たとえば、[ストレージを最適化] 設定が ON になっている場合、元の写真は iCloud® に保存されます）
+
+ ● iCloud® に保存されたファイルとドキュメント
+
+ ● 端末設定（Wi-Fi パスワードなど）
+
+ ● デジタル著作権管理（DRM）で保護されている音楽（2009 年 4 月以前に購入した iTunes® の音楽や、音楽ストリーミング アプリでオフライン再生用にダウンロードした音楽など）
+
+ ● Google アカウント以外のアカウント（と関連データ）
+
+ ● Google または iCloud® 以外のサービスに同期されている連絡先とカレンダー
+
+ ● Safari® のブックマーク
+
+ 詳しい情報とこれらのデータのコピー方法については、g.co/datatransferhelp をご覧ください。"</string>
+    <string name="restore_choice_not_enough_space">空き容量が不足しています</string>
+    <string name="restore_choice_phone_description">以前のスマートフォンからデータを転送します</string>
+    <string name="restore_choice_phone_title">スマートフォンの選択</string>
+    <string name="restore_choice_sync_disclaimer_android">端末と SIM の連絡先は、Google アカウント（%1$s）の連絡先として保存されます</string>
+    <string name="restore_choice_sync_disclaimer_cloud">端末と SIM の連絡先は、%1$s の Google コンタクトとして保存されます。</string>
+    <string name="restore_choice_sync_disclaimer_ios">連絡先と iOS® カレンダーが %1$s に保存されます。</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">iOS® カレンダーが %1$s に保存されます。</string>
+    <string name="restore_choice_title">データの引き継ぎ</string>
+    <string name="restore_continue_suw_description">^1 のセットアップを続行できます</string>
+    <string name="restore_continue_suw_title">復元中…</string>
+    <string name="restore_estimated_time">完了までの推定時間: ^1</string>
+    <string name="restore_item_apps">アプリ</string>
+    <string name="restore_item_calendar">カレンダー</string>
+    <string name="restore_item_calendar_ical_description">iOS® カレンダー</string>
+    <string name="restore_item_call_logs">通話履歴</string>
+    <string name="restore_item_contacts">連絡先</string>
+    <string name="restore_item_device_settings_description">Wi-Fi パスワードなど</string>
+    <string name="restore_item_downloads">ダウンロード</string>
+    <string name="restore_item_email">メール</string>
+    <string name="restore_item_email_description">Gmail は同期されます</string>
+    <string name="restore_item_message_attachments">メッセージの添付ファイル</string>
+    <string name="restore_item_messages">メッセージ</string>
+    <string name="restore_item_music">音楽とその他の音声</string>
+    <string name="restore_item_photos">写真と動画</string>
+    <string name="restore_item_settings">端末設定</string>
+    <string name="restore_item_sms">SMS メッセージ</string>
+    <string name="restore_item_wallpaper">壁紙</string>
+    <string name="restore_progress_activity_title">@string/consolidated_notification_app_name</string>
+    <string name="restore_progress_item_apps_title">アプリ</string>
+    <string name="restore_progress_item_photos_title">iPhone のメディア</string>
+    <string name="restore_progress_waiting_for_setup_to_finish">セットアップの完了を待機中…</string>
+    <string name="restore_progress_waiting_for_wifi">Wi-Fi 接続の待機中…</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2/^3</string>
+    <string name="retail_mode_warning_dialog_message">端末のデータが初期化されるまで販売店デモの動画が再生されます。このモードは、販売店向けであり、個人使用を目的としたものではありません。</string>
+    <string name="retail_mode_warning_dialog_title">デモ動画の再生</string>
+    <string name="small_time_duration">1 分未満</string>
+    <string name="stop_copying_dialog_continue_button">無視</string>
+    <string name="stop_copying_dialog_message_before_transfer">データは新しいスマートフォンにコピーされません</string>
+    <string name="stop_copying_dialog_message_during_transfer">一部のデータは新しいスマートフォンにコピーされません</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">停止</string>
+    <string name="stop_copying_dialog_title_before_transfer">コピーを中止しますか？</string>
+    <string name="stop_copying_dialog_title_during_transfer">コピーの停止</string>
+    <string name="stop_restoring_dialog_message_before_transfer">データは新しいスマートフォンに復元されません</string>
+    <string name="stop_restoring_dialog_title_before_transfer">復元のキャンセル</string>
+    <string name="suw_back_button_label">戻る</string>
+    <string name="suw_more_button_label">もっと見る</string>
+    <string name="suw_next_button_label">次へ</string>
+    <string name="target_default_source_device_model">以前のスマートフォン</string>
+    <string name="target_device_not_supported_cant_continue_description">データをコピーするには別の方法を選択する必要があります</string>
+    <string name="target_device_not_supported_cant_continue_title">他のスマートフォンが未対応</string>
+    <string name="target_device_not_supported_try_restarting_description">"ケーブルを取り外して以前のスマートフォンを再起動してから、ケーブルを再接続し、^1 の画面に表示される指示に沿って操作してください。
+
+このエラーが引き続き表示される場合は、別の方法によるコピーが必要になることがあります。"</string>
+    <string name="target_device_not_supported_try_restarting_title">お使いのスマートフォンには対応していない可能性があります</string>
+    <string name="target_fragment_msg_reconnect_cable">ケーブルを再接続してください</string>
+    <string name="target_pixelmigrate_notification_description">使用可能または進行中</string>
+    <string name="target_pixelmigrate_notification_title">データ転送</string>
+    <string name="target_smart_device_timeout_add_account">アカウントを追加</string>
+    <string name="target_smart_device_timeout_description">手動でアカウントを追加してみることもできます</string>
+    <string name="target_smart_device_timeout_dismiss">閉じる</string>
+    <string name="target_smart_device_timeout_title">お困りの場合</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">スマートフォンを接続しました</string>
+    <string name="toast_reconnect_cable">ケーブルを再接続してください</string>
+    <string name="transfer_finished_fragment_description">これには 1～2 分かかることがあります</string>
+    <string name="transfer_finished_fragment_title">最後の調整を行っています…</string>
+    <string name="transfer_summary_copied">データがコピーされました</string>
+    <string name="transfer_summary_fragment_description">ケーブルを取り外せます</string>
+    <string name="transfer_summary_fragment_done_button">完了</string>
+    <string name="transfer_summary_fragment_title">データ転送は間もなく完了します</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">一部の画像はコピーされませんでした。<annotation id="transfer_summary_learn_more">詳細</annotation></string>
+    <string name="transfer_summary_not_copied">データはコピーされていません</string>
+    <string name="transfer_summary_partial">%1$s/%2$s 件をコピーしました</string>
+    <string name="transfer_summary_will_sync">データの同期はセットアップの終了後に行われます</string>
+    <string name="transferring_fragment_calculating_remaining_time">残り時間を計算しています…</string>
+    <string name="transferring_fragment_description_continue">^1 の設定を続行できます</string>
+    <string name="transferring_fragment_description_final_hold">スマートフォンが接続され、電源が入っていることを確認してください</string>
+    <string name="transferring_fragment_header">コピーしています…</string>
+    <string name="transferring_fragment_remaining_time">残り %1$s</string>
+    <string name="transferring_fragment_restoring_content">コンテンツを復元しています…</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone、iPad、iOS、iMessage、iCloud、Safari、iTunes は米国およびその他の国における Apple Inc. の商標です。</string>
+    <string name="unlock_ios_fragment_description">続行するには、iPhone® 端末のロックを解除してください。転送中はロックを解除した状態にしてください。</string>
+    <string name="unlock_ios_fragment_title">iPhone® 端末のロック解除</string>
+    <string name="vault_almost_locked_dialog_title">あと %d 回</string>
+    <string name="vault_almost_locked_password_dialog_text">正しくないパスワードを %1$d 回入力しました。あと %2$d 回間違えると、%3$s のバックアップが削除されます。</string>
+    <string name="vault_almost_locked_pattern_dialog_text">正しくないパターンを %1$d 回入力しました。あと %2$d 回間違えると、%3$s のバックアップが削除されます。</string>
+    <string name="vault_almost_locked_pin_dialog_text">正しくない PIN を %1$d 回入力しました。あと %2$d 回間違えると、%3$s のバックアップが削除されます。</string>
+    <string name="vault_locked_dialog_text">%s の画面ロックを誤って入力した回数が上限を超えました。バックアップは削除されました。</string>
+    <string name="vault_locked_dialog_title">バックアップを削除しました</string>
+</resources>

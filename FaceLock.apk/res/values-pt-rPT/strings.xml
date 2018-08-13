@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Erro dos Serviços do Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Uma aplicação necessita da atualização dos Serviços do Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">O %1$s requer uma atualização da aplicação Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Uma aplicação necessita da ativação dos Serviços do Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Pedida por %1$s</string>
+    <string name="common_google_play_services_install_title">Obter serviços do Google Play</string>
+    <string name="common_google_play_services_install_text_phone">O %1$s não é executado sem os serviços do Google Play, os quais estão em falta no seu telemóvel.</string>
+    <string name="common_google_play_services_install_text_tablet">O %1$s não é executado sem os serviços do Google Play, os quais estão em falta no seu tablet.</string>
+    <string name="common_google_play_services_install_button">Obter serviços do Google Play</string>
+    <string name="common_google_play_services_enable_title">Ativar serviços do Google Play</string>
+    <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não ativar os serviços do Google Play.</string>
+    <string name="common_google_play_services_enable_button">Ativar serviços do Google Play</string>
+    <string name="common_google_play_services_update_title">Atualizar serviços do Google Play</string>
+    <string name="common_android_wear_update_title">Atualizar Android Wear</string>
+    <string name="common_google_play_services_update_text">O %1$s não é executado enquanto não atualizar os serviços do Google Play.</string>
+    <string name="common_android_wear_update_text">O %1$s não será executado enquanto não atualizar a aplicação Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Serviços do Google Play em atualização</string>
+    <string name="common_google_play_services_updating_text">O %1$s não é executado sem os serviços do Google Play, os quais estão a ser atualizados.</string>
+    <string name="common_google_play_services_network_error_title">Erro de Rede</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma ligação de dados para se ligar aos Serviços do Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta Inválida</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe neste dispositivo. Escolha uma conta diferente.</string>
+    <string name="common_google_play_services_unknown_issue">Problema desconhecido nos serviços do Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Serviços do Google Play</string>
+    <string name="common_google_play_services_unsupported_text">O %1$s depende dos serviços do Google Play, os quais não são compatíveis com o seu dispositivo. Contacte o fabricante para obter assistência.</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_open_on_phone">Abrir no telemóvel</string>
+    <string name="common_google_play_services_api_unavailable_text">O %1$s necessita de um ou mais Serviços do Google Play que não estão disponíveis de momento. Contacte o programador para obter assistência.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Falha ao iniciar sessão</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erro ao iniciar sessão na conta especificada. Escolha uma conta diferente.</string>
+    <string name="app_name">Rosto fidedigno</string>
+    <string name="trusted_face_service_app_name">Serviço de rosto fidedigno</string>
+    <string name="receiver_app_name">Recetor de difusão de rosto fidedigno</string>
+    <string name="intro_screen_title">Acerca do rosto fidedigno</string>
+    <string name="intro_screen_header">Desbloqueie o telemóvel ao olhar para ele</string>
+    <string name="intro_screen_body_start">"Atenção:
+"</string>
+    <string name="intro_screen_bullets">"A correspondência de rosto é menos segura do que um padrão, um PIN ou uma palavra-passe
+
+Alguém que se pareça consigo pode desbloquear o seu telemóvel
+
+Os dados utilizados para reconhecer o seu rosto são mantidos de forma privada no telemóvel"</string>
+    <string name="intro_screen_continue_label">Configurar</string>
+    <string name="instructions_screen_title">Adicionar um rosto fidedigno</string>
+    <string name="instructions_screen_header">Para obter os melhores resultados:</string>
+    <string name="instructions_screen_bullets">"Procure um espaço interior com iluminação moderada, nem muito claro, nem muito escuro
+
+Segure no telemóvel à altura dos olhos"</string>
+    <string name="instructions_screen_continue_label">Seguinte</string>
+    <string name="enrollment_screen_title">Adicionar um rosto fidedigno</string>
+    <string name="enrollment_screen_message_initializing">A iniciar...</string>
+    <string name="enrollment_screen_message_initialization_error">Não foi possível iniciar a pesquisa do rosto</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Não foi concedida a autorização da câmara</string>
+    <string name="enrollment_screen_message_camera_error">A câmara não está disponível</string>
+    <string name="enrollment_start_message">Manter o rosto dentro da área tracejada</string>
+    <string name="enrollment_screen_message_instructions">Mantenha o topo da cabeça e a parte de baixo do queixo dentro do círculo</string>
+    <string name="enrollment_screen_message_done">Rosto adicionado</string>
+    <string name="enrollment_screen_status_no_face">Mostre o seu rosto</string>
+    <string name="enrollment_screen_status_face_off_center">Não é possível ver parte do seu rosto</string>
+    <string name="enrollment_screen_status_missing_template">Não é possível ver as suas feições</string>
+    <string name="enrollment_screen_continue_label">Seguinte</string>
+    <string name="enrollment_screen_done_label">Concluído</string>
+    <string name="enrollment_screen_talkback_preview_description">Pré-visualização da câmara</string>
+    <string name="enrollment_screen_talkback_face_added">Rosto adicionado</string>
+    <string name="end_screen_title">Tudo pronto!</string>
+    <string name="end_screen_body">Para desbloquear o telemóvel, basta ligar o ecrã e olhar para a câmara</string>
+    <string name="end_screen_bullet_one_text">O telemóvel é desbloqueado assim que o reconhecer</string>
+    <string name="end_screen_bullet_two_text">Se o seu rosto não for reconhecido, desbloqueie com o seu padrão, o seu PIN ou a sua palavra-passe</string>
+    <string name="end_screen_tip_text">Sugestão: melhore o reconhecimento facial mostrando o seu rosto em diferentes situações</string>
+    <string name="end_screen_licenses_label">Licenças</string>
+    <string name="end_screen_continue_label">Concluído</string>
+    <string name="add_to_setup_intro_screen_title">Melhorar correspondência de rosto</string>
+    <string name="add_to_setup_intro_screen_header">Mostre o seu aspeto em diferentes situações</string>
+    <string name="add_to_setup_intro_screen_body_start">"Exemplos:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Em iluminações diferentes
+
+Com ou sem óculos graduados
+
+Com ou sem barba
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Segure no telemóvel à altura dos olhos</string>
+    <string name="add_to_setup_intro_screen_continue_label">Seguinte</string>
+    <string name="license_screen_title">Licenças</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">A funcionalidade \"Rosto fidedigno\" pode utilizar partes das seguintes bibliotecas de código aberto, licenciadas ao abrigo das seguintes licenças:</string>
+    <string name="license_screen_notices_header">Avisos de bibliotecas:</string>
+    <string name="shared_cancel_label">Cancelar</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">O reconhecimento facial mudou. Adicione novamente o seu rosto fidedigno para o continuar a utilizar.</string>
+</resources>

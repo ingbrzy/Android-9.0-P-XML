@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s adresāti</item>
+        <item quantity="zero">%s adresātu</item>
+        <item quantity="one">%s adresāts</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 adresāti izmanto pakalpojumus, kuros netiek atbalstīta šifrēšana. Ja ziņojums netiks šifrēts, iespējams, citas personas varēs skatīt tā saturu piegādes laikā. ^2</item>
+        <item quantity="zero">^1 adresāti izmanto pakalpojumus, kuros netiek atbalstīta šifrēšana. Ja ziņojums netiks šifrēts, iespējams, citas personas varēs skatīt tā saturu piegādes laikā. ^2</item>
+        <item quantity="one">^1 adresāts izmanto pakalpojumus, kuros netiek atbalstīta šifrēšana. Ja ziņojums netiks šifrēts, iespējams, citas personas varēs skatīt tā saturu piegādes laikā. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">Šī ziņojuma nosūtīšanas brīdī domēnā ^1 un citos domēnos netika atbalstīta šifrēšana. ^2</item>
+        <item quantity="zero">Šī ziņojuma nosūtīšanas brīdī domēnā ^1 un citos domēnos netika atbalstīta šifrēšana. ^2</item>
+        <item quantity="one">Šī ziņojuma nosūtīšanas brīdī domēnā ^1 un citos domēnos netika atbalstīta šifrēšana. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Vai arhivēt šīs %1$d sarunas?</item>
+        <item quantity="zero">Vai arhivēt šīs %1$d sarunas?</item>
+        <item quantity="one">Vai arhivēt šo %1$d sarunu?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Vai dzēst šīs %1$d sarunas?</item>
+        <item quantity="zero">Vai dzēst šīs %1$d sarunas?</item>
+        <item quantity="one">Vai dzēst šo %1$d sarunu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Vai atmest melnrakstus no šīm %1$d sarunām?</item>
+        <item quantity="zero">Vai atmest melnrakstus no šīm %1$d sarunām?</item>
+        <item quantity="one">Vai atmest melnrakstus no šīs %1$d sarunas?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas ir arhivētas.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas ir arhivētas.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna ir arhivēta.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas ir dzēstas.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas ir dzēstas.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna ir dzēsta.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Iezīmes ir mainītas.</item>
+        <item quantity="zero">Iezīmes ir mainītas.</item>
+        <item quantity="one">Iezīmes ir mainītas.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas pārvietotas uz iesūtni</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas pārvietotas uz iesūtni</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna pārvietota uz iesūtni</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas ir slēptas.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas ir slēptas.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna ir slēpta.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas ir atzīmētas kā nesvarīgas.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas ir atzīmētas kā nesvarīgas.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna ir atzīmēta kā nesvarīga.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas ir atzīmētas kā “nav mēstule”.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas ir atzīmētas kā “nav mēstule”.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna ir atzīmēta kā “nav mēstule”.</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas atzīmētas kā izlasītas</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas atzīmētas kā izlasītas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna atzīmēta kā izlasīta</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> atlikti līdz: %2$s</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> atlikti līdz: %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> atlikts līdz: %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> sarunas ir atzīmētas kā mēstules.</item>
+        <item quantity="zero">&lt;b>%1$d&lt;/b> sarunas ir atzīmētas kā mēstules.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> saruna ir atzīmēta kā mēstule.</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">Ziņots par mēstuli un anulēts abonements: %1$d</item>
+        <item quantity="zero">Ziņots par mēstuli un anulēts abonements: %1$d</item>
+        <item quantity="one">Ziņots par mēstuli un anulēts abonements: %1$d</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">Atcelta &lt;b>%1$d&lt;/b> sarunu atlikšana</item>
+        <item quantity="zero">Atcelta &lt;b>%1$d&lt;/b> sarunu atlikšana</item>
+        <item quantity="one">Atcelta &lt;b>%1$d&lt;/b> sarunas atlikšana</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Notiek zvaigznīšu noņemšana no %1$d sarunām.</item>
+        <item quantity="zero">Notiek zvaigznīšu noņemšana no %1$d sarunām.</item>
+        <item quantity="one">Notiek zvaigznīšu noņemšana no %1$d sarunas.</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Ik pēc %d dienām</item>
+        <item quantity="zero">Ik pēc %d dienām</item>
+        <item quantity="one">Ik pēc %d dienas</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Šie ziņojumi tiks atzīmēti kā mēstules. Vai vēlaties arī pārtraukt līdzīgu ziņojumu saņemšanu no šiem &lt;b>%2$d sūtītājiem&lt;/b>?%1$s</item>
+        <item quantity="zero">Šie ziņojumi tiks atzīmēti kā mēstules. Vai vēlaties arī pārtraukt līdzīgu ziņojumu saņemšanu no šiem &lt;b>%2$d sūtītājiem&lt;/b>?%1$s</item>
+        <item quantity="one">Šie ziņojumi tiks atzīmēti kā mēstules. Vai vēlaties arī pārtraukt līdzīgu ziņojumu saņemšanu no šī &lt;b>%2$d sūtītāja&lt;/b>?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Melnraksti</item>
+        <item quantity="zero">Melnraksti</item>
+        <item quantity="one">Melnraksti</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Tiks neatgriezeniski dzēstas %1$s sarunas.</item>
+        <item quantity="zero">Tiks neatgriezeniski dzēstas %1$s sarunas.</item>
+        <item quantity="one">Tiks neatgriezeniski dzēsta %1$s saruna.</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d reizes</item>
+        <item quantity="zero">; %d reizes</item>
+        <item quantity="one">; %d reizi</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Norādītie adresāti, iespējams, nevarēs piekļūt failiem, ko ievietojāt no Diska. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="zero">Norādītie adresāti, iespējams, nevarēs piekļūt failiem, ko ievietojāt no Diska. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="one">Norādītie adresāti, iespējams, nevarēs piekļūt failiem, ko ievietojāt no Diska. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Piezīme. Iespējams, daži adresāti joprojām nevar piekļūt šiem failiem. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="zero">Piezīme. Iespējams, daži adresāti joprojām nevar piekļūt šiem failiem. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+        <item quantity="one">Piezīme. Iespējams, daži adresāti joprojām nevar piekļūt šiem failiem. Tādā gadījumā jums šie faili būs jākopīgo no Google diska.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Jūs kopīgojat failu ar šādiem adresātiem:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Viņi ir ārpus Google Apps organizācijas, kurai pieder šie faili."</item>
+        <item quantity="zero">"Jūs kopīgojat failu ar šādiem adresātiem:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Viņi ir ārpus Google Apps organizācijas, kurai pieder šie faili."</item>
+        <item quantity="one">"Jūs kopīgojat failu ar šādiem adresātiem:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Viņi ir ārpus Google Apps organizācijas, kurai pieder šie faili."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 adresāti izmanto pakalpojumus, kuros netiek atbalstīta šifrēšana. Ja netiek izmantota šifrēšana, jūsu ziņojumu var izlasīt tā piegādes laikā. ^2</item>
+        <item quantity="zero">^1 adresāti izmanto pakalpojumus, kuros netiek atbalstīta šifrēšana. Ja netiek izmantota šifrēšana, jūsu ziņojumu var izlasīt tā piegādes laikā. ^2</item>
+        <item quantity="one">^1 adresāts izmanto pakalpojumus, kuros netiek atbalstīta šifrēšana. Ja netiek izmantota šifrēšana, jūsu ziņojumu var izlasīt tā piegādes laikā. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Ik pēc %1$d mēnešiem</item>
+        <item quantity="zero">Ik pēc %1$d mēnešiem</item>
+        <item quantity="one">Ik pēc %1$d mēneša</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d jauni ziņojumi</item>
+        <item quantity="zero">%1$d jaunu ziņojumu</item>
+        <item quantity="one">%1$d jauns ziņojums</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d jauni ziņojumi</item>
+        <item quantity="zero">%1$d jaunu ziņojumu</item>
+        <item quantity="one">%1$d jauns ziņojums</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d pielikumi</item>
+        <item quantity="zero">%1$d pielikumu</item>
+        <item quantity="one">%1$d pielikums</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d ziņojumi</item>
+        <item quantity="zero">%1$d ziņojumu</item>
+        <item quantity="one">%1$d ziņojums</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Kalendāri nav kopīgoti</item>
+        <item quantity="zero">Kalendāri nav kopīgoti</item>
+        <item quantity="one">Kalendāri nav kopīgoti</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d reizes</item>
+        <item quantity="zero">%d reizes</item>
+        <item quantity="one">%d reizi</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Ik pēc %d dienām</item>
+        <item quantity="zero">Ik pēc %d dienām</item>
+        <item quantity="one">Ik pēc %d dienas</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Ik pēc %d mēnešiem</item>
+        <item quantity="zero">Ik pēc %d mēnešiem</item>
+        <item quantity="one">Ik pēc %d mēneša</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Ik pēc %d nedēļām</item>
+        <item quantity="zero">Ik pēc %d nedēļām</item>
+        <item quantity="one">Ik pēc %d nedēļas</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Ik pēc %d gadiem</item>
+        <item quantity="zero">Ik pēc %d gadiem</item>
+        <item quantity="one">Ik pēc %d gada</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Tika ielādēti %d meklēšanas rezultāti</item>
+        <item quantity="zero">Tika ielādēti %d meklēšanas rezultāti</item>
+        <item quantity="one">Tika ielādēts %d meklēšanas rezultāts</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Izvērst %1$d vecākus ziņojumus</item>
+        <item quantity="zero">Izvērst %1$d vecākus ziņojumus</item>
+        <item quantity="one">Izvērst %1$d vecāku ziņojumu</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Atlikts pirms %d dienām</item>
+        <item quantity="zero">Atlikts pirms %d dienām</item>
+        <item quantity="one">Atlikts pirms %d dienas</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Atlikts pirms %d stundām</item>
+        <item quantity="zero">Atlikts pirms %d stundām</item>
+        <item quantity="one">Atlikts pirms %d stundas</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Atlikts pirms %d mēnešiem</item>
+        <item quantity="zero">Atlikts pirms %d mēnešiem</item>
+        <item quantity="one">Atlikts pirms %d mēneša</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Atlikts pirms %d nedēļām</item>
+        <item quantity="zero">Atlikts pirms %d nedēļām</item>
+        <item quantity="one">Atlikts pirms %d nedēļas</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Atlikts pirms %d gadiem</item>
+        <item quantity="zero">Atlikts pirms %d gadiem</item>
+        <item quantity="one">Atlikts pirms %d gada</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d vecāki ziņojumi ir izvērsti.</item>
+        <item quantity="zero">%1$d vecāki ziņojumi ir izvērsti.</item>
+        <item quantity="one">%1$d vecāks ziņojums ir izvērsts.</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienu</item>
+        <item quantity="one">%d diena</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Tiks lejupielādēti pēdējo %1$d dienu ziņojumi, kad būs izveidots savienojums.</item>
+        <item quantity="zero">Tiks lejupielādēti pēdējo %1$d dienu ziņojumi, kad būs izveidots savienojums.</item>
+        <item quantity="one">Tiks lejupielādēti pēdējās %1$d dienas ziņojumi, kad būs izveidots savienojums.</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Pēdējās %1$d dienas</item>
+        <item quantity="zero">Pēdējās %1$d dienas</item>
+        <item quantity="one">Pēdējā %1$d diena</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Izpildes datums — %1$s — %2$d uzdevumi</item>
+        <item quantity="zero">Izpildes datums — %1$s — %2$d uzdevumi</item>
+        <item quantity="one">Izpildes datums — %1$s — %2$d uzdevums</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Dienas</item>
+        <item quantity="zero">Dienas</item>
+        <item quantity="one">Dienas</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="zero">Ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="one">Ik pēc %1$d nedēļas (katra %2$s)</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Ik pēc %1$d gadiem</item>
+        <item quantity="zero">Ik pēc %1$d gadiem</item>
+        <item quantity="one">Ik pēc %1$d gada</item>
+    </plurals>
+</resources>

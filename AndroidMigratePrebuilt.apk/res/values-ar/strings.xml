@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="app_has_in_app_purchases">عمليات الشراء داخل التطبيق</string>
+    <string name="app_has_permissions">الأذونات: %s</string>
+    <string name="app_has_runtime_permissions">سيطلب التطبيق الحصول على أذونات</string>
+    <string name="app_install_summary">تم تثبيت %1$d من %2$d تطبيق</string>
+    <string name="app_picker_loading">جارٍ البحث عن التطبيقات المتاحة…</string>
+    <string name="app_picker_loading_toast">سيتم تحميل التطبيقات المتاحة قريبًا</string>
+    <string name="app_picker_no_apps">لم يتم تحديد أي تطبيقات</string>
+    <string name="app_picker_no_apps_found">لم يتم العثور على أي تطبيقات</string>
+    <string name="apps_permissions_described_v2">"يمكن مطابقة تطبيقات iOS®‎ المجانية والشائعة فقط مع تطبيقات Android. لن يتم نقل ملكية معظم عمليات الشراء داخل التطبيقات. ويمكنك العثور على مزيد من التطبيقات في متجر Play بعد اكتمال الإعداد.
+
+قد تحتاج إلى منح بعض التطبيقات أذونات مسبقة للحصول على إمكانيات أو معلومات معيَّنة على جهازك. ويتم تنظيم الأذونات في مجموعات الأذونات. ويعني اختيار تثبيت هذه التطبيقات أنك توافق على الأذونات التي تعتبر جزءًا من كل مجموعة. وتم تقديم وصف لكل مجموعة أذونات أدناه.
+
+قد لا تطلب بعض التطبيقات قبول الأذونات بشكل مسبق. وعند استخدام أحد هذه التطبيقات، يمكنك السماح بإذن فردي أو رفضه قبل استخدام التطبيق لهذا النوع من البيانات.
+
+^1"</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_google_calendar">تقويم Google</string>
+    <string name="auto_synced_item_google_contacts">جهات اتّصال Google</string>
+    <string name="auto_synced_item_google_photos">صور Google‏‏</string>
+    <string name="auto_synced_title">البيانات التي تتم مزامنتها تلقائيًا</string>
+    <string name="backup_d2d_migration_tool_activity_name">أداة نقل البيانات</string>
+    <string name="button_dont_restore">عدم الاستعادة</string>
+    <string name="byteShort">بايت</string>
+    <string name="cancel_copy_button">إيقاف النسخ</string>
+    <string name="cancel_copy_button_text">عدم النّسخ</string>
+    <string name="close_button_label">إغلاق</string>
+    <string name="cloud_restore_app_picker_description_no_apps">نسختك الاحتياطية لا تحتوي على أي تطبيقات</string>
+    <string name="cloud_restore_app_picker_title">اختيار التطبيقات المطلوب استعادتها</string>
+    <string name="common_cancel">إلغاء</string>
+    <string name="common_confirm">تأكيد</string>
+    <string name="common_google_play_services_enable_button">تمكين</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_ok">موافق</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_restore">استعادة</string>
+    <string name="common_try_again">إعادة المحاولة</string>
+    <string name="consolidated_notification_app_name">إعداد Pixel</string>
+    <string name="consolidated_notification_finishing_restore">جارٍ الانتهاء من استعادة التطبيقات والبيانات…</string>
+    <string name="consolidated_notification_restore_complete_content">انقر للحصول على التفاصيل.</string>
+    <string name="consolidated_notification_restore_complete_title">تمت استعادة البيانات.</string>
+    <string name="consolidated_notification_restore_paused_content">ستستمر عملية الاستعادة عند الانتهاء من الإعداد.</string>
+    <string name="consolidated_notification_restore_paused_title">تم إيقاف استعادة التطبيقات والبيانات مؤقتًا.</string>
+    <string name="consolidated_notification_restore_use_mobile_data">الاستعادة عبر بيانات الجوّال</string>
+    <string name="consolidated_notification_restore_wifi_required_content">الاتصال بشبكة Wi-Fi</string>
+    <string name="consolidated_notification_restore_wifi_required_title">تحديثات التطبيقات جاهزة</string>
+    <string name="contacts_number_device_and_icloud">%1$d على iCloud®‎، %2$d على الجهاز</string>
+    <string name="content_selector_ui_title">اختيار ما تريد استعادته</string>
+    <string name="continue_button">متابعة</string>
+    <string name="copied_contacts_group_label">جهات اتصال منسوخة من %1$s</string>
+    <string name="copied_contacts_group_label_default">جهات الاتصال التي تمّ نسخها باستخدام الكابل</string>
+    <string name="copied_contacts_group_label_ios">جهات اتصال منسوخة من iOS</string>
+    <string name="copy_button">نسخ</string>
+    <string name="d2d_app_picker_description_no_apps">تعذّر العثور على أي تطبيقات</string>
+    <string name="d2d_app_picker_title">التطبيقات</string>
+    <string name="data_copied_fragment_description">يمكنك نزع الكابل.</string>
+    <string name="data_copied_fragment_description_cancel">لقد اخترت وقف النسخ، ولذلك تم نسخ بعض البيانات فقط في هاتفك الجديد.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">لقد اخترت إيقاف النسخ، ولذلك لم يتم نسخ أي شيء على هاتفك الجديد.</string>
+    <string name="data_copied_fragment_description_error">حدث خطأ ما، ولذلك لم نتمكن من نسخ كل المحتوى.</string>
+    <string name="data_copied_fragment_description_error_no_data">حدث خطأ ما، ولذلك لم نتمكن من نسخ بياناتك.</string>
+    <string name="data_copied_fragment_no_data_title">تعذَّر النسخ</string>
+    <string name="data_copied_fragment_some_data_title">تم نسخ بعض البيانات</string>
+    <string name="data_copied_fragment_title">اكتمل النسخ.</string>
+    <string name="device_not_supported_fragment_new_device">أنت متصل بهاتف جديد، وللمتابعة، أعِد الاتصال بهاتفك السابق.</string>
+    <string name="device_not_supported_fragment_new_device_title">إعادة الاتصال بالهاتف السابق</string>
+    <string name="device_not_supported_fragment_no_data_cable">لا يمكن لهذا الكابل نقل البيانات. يُرجى إعادة الاتصال باستخدام كابل مختلف ثم المحاولة مرة أخرى.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">تجربة كابل آخر</string>
+    <string name="device_not_supported_fragment_other_ways_btn">نسخ البيانات بطريقة أخرى</string>
+    <string name="device_not_supported_fragment_retry_description">تأكد من إلغاء قفل هاتفك القديم، ثم افصل الكابل وأعد توصيله.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">حدث خطأ ما</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_description">أعد التوصيل باستخدام كابل آخر يناسب المحوِّل في المربع</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_title">هذا الكابل لا يعمل</string>
+    <string name="device_not_supported_ios_supervised_description">نظرًا لأنه يتم الإشراف على جهاز iPhone®‎ الذي تستخدمه، سيكون عليك اختيار طريقة أخرى لنسخ البيانات</string>
+    <string name="device_picker_empty">ليست هناك نسخ احتياطية مرتبطة بحساب %1$s.</string>
+    <string name="device_picker_empty_title">لم يُعثر على أي نسخ احتياطية</string>
+    <string name="device_picker_item">نسخة احتياطية للجهاز %1$s</string>
+    <string name="device_picker_title">اختيار نسخة احتياطية لاستعادتها</string>
+    <string name="dialog_continue_button_label">متابعة</string>
+    <string name="download_file_description">تم النسخ من جهاز آخر.</string>
+    <string name="drive_backup_content_callhistory_title">سجلّ المكالمات</string>
+    <string name="drive_backup_content_contacts_title">جهات الاتصال</string>
+    <string name="drive_backup_content_devicesettings_title">إعدادات الجهاز</string>
+    <string name="durationDayHour">%1$d يوم %2$d ساعة</string>
+    <string name="durationDayHours">%1$d يوم %2$d ساعة</string>
+    <string name="durationDays">%1$d يوم</string>
+    <string name="durationHoursMinutes">%1$d ساعة %2$d دقيقة</string>
+    <string name="durationMinute">%1$d دقيقة</string>
+    <string name="durationMinutes">%1$d دقيقة</string>
+    <string name="encryption_warning_fragment_description">"تمّ تشغيل تشفير النُسخ الاحتياطية لجهاز iPhone®‎، وإذا لم تكن أنت من شغّلت هذا الإعداد، فربما يكون مشرف قسم تكنولوجيا المعلومات هو من شغَّله.
+
+لا يمكن نسخ أي محتوى إلا الصور والموسيقى والفيديوهات. للمزيد من المعلومات، انتقل إلى "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">تشفير النُسخ الاحتياطية</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">يمكنك نقل التطبيقات والصور وجهات الاتصال وبيانات حساب Google وغير ذلك، وبإمكانك اختيار المحتوى الذي تريد نسخه.</string>
+    <string name="flow_choice_dont_copy_data">عدم نسخ البيانات</string>
+    <string name="flow_choice_new_label_new">عدم النسخ</string>
+    <string name="flow_choice_new_summary_new">إعداد الهاتف يدويًا</string>
+    <string name="flow_choice_restore_label">نسخ بياناتك</string>
+    <string name="flow_choice_restore_summary_new">من جهاز Android أو iPhone®‎</string>
+    <string name="flow_choice_restore_summary_no_iphone">من جهاز Android أو السحابة الإلكترونية</string>
+    <string name="flow_choice_title">نسخ التطبيقات والبيانات</string>
+    <string name="fragment_app_picker_d2d_title">اختيار تطبيقاتك</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"عثرنا على مطابقة لـ ^1 من إجمالي ^2 من تطبيقات iOS®‎، وقد لا يتم نقل بعض عمليات الشراء داخل التطبيق.
+
+يعتبر تثبيت كل تطبيق موافقة منك على أذوناته. "<annotation id="apps_permissions_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="fragment_indexing_description">اختر ما تريد نسخه على الشاشة التالية.</string>
+    <string name="fragment_indexing_title">جارٍ التحقّق من البيانات…</string>
+    <string name="fragment_indexing_verify_password_description">قد يستغرق ذلك بضع دقائق.</string>
+    <string name="fragment_indexing_verify_password_title">جارٍ التحقق من كلمة المرور…</string>
+    <string name="fragment_ios_decryption_description">لنقل المزيد من المحتوى، مثل رسائل SMS وجهات الاتصال، أدخل كلمة مرور النسخة الاحتياطية من البيانات على iTunes®‎</string>
+    <string name="fragment_ios_decryption_forgot_password_button">هل نسيت كلمة المرور؟</string>
+    <string name="fragment_ios_decryption_forgot_password_description">لا يمكننا نقل المحتوى المشفّر بدون كلمة مرور النسخة الاحتياطية على iTunes®‎. وستستمر عملية نقل المحتوى غير المشفّر إلى هاتف Pixel الجديد.</string>
+    <string name="fragment_ios_decryption_forgot_password_title">لا يمكن نقل المحتوى المشفّر</string>
+    <string name="fragment_ios_decryption_password_hint">إدخال كلمة مرور نسختك الاحتياطية على iTunes®‎</string>
+    <string name="fragment_ios_decryption_skip_button">تخطي المحتوى المشفّر</string>
+    <string name="fragment_ios_decryption_skip_password_description">لن يتم نقل جهات اتصال iCloud®‎ وجهات اتصال الجهاز ورسائل iMessage®‎.</string>
+    <string name="fragment_ios_decryption_skip_password_title">هل تريد تخطي المحتوى المشفّر؟</string>
+    <string name="fragment_ios_decryption_title">تم تشفير المحتوى على جهاز iPhone®‎</string>
+    <string name="fragment_ios_decryption_wrong_password_error">كلمة المرور خاطئة. يُرجى إعادة المحاولة.</string>
+    <string name="fragment_ios_device_management_confirm_title">تأكيد إزالة الإدارة</string>
+    <string name="fragment_ios_device_management_detected_description">"تتولى مؤسستك إدارة جهاز iPhone®‎ وقد اختارت تشفير المحتوى.
+
+لنقل جهات اتصال iCloud®‎ وجهات اتصال الجهاز ورسائل iMessage®‎، يلزمك إزالة إدارة الجهاز من iPhone®‎."</string>
+    <string name="fragment_ios_device_management_detected_title">تم تشفير بعض المحتوى</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">إظهار الخطوات</string>
+    <string name="fragment_ios_device_management_not_removed_description">"إدارة الأجهزة ما زالت موجودة على جهاز iPhone®‎. لإزالتها، اتبع الخطوات التالية.
+
+إنْ لم تتم إزالة إدارة الأجهزة، فلا يمكننا نقل المحتوى المشفّر إلى جهاز Pixel الجديد."</string>
+    <string name="fragment_ios_device_management_not_removed_title">لا يمكن نقل المحتوى المشفّر</string>
+    <string name="fragment_ios_device_management_open_settings_description">على جهاز iPhone®‎، انتقل إلى <b>الإعدادات > الإعدادات العامة > إدارة الجهاز</b></string>
+    <string name="fragment_ios_device_management_open_settings_title">افتح إعدادات الإدارة</string>
+    <string name="fragment_ios_device_management_passcode_title">إدخال رمز المرور</string>
+    <string name="fragment_ios_device_management_remove_title">إزالة الإدارة</string>
+    <string name="fragment_ios_device_management_risk_description">"بعد إزالة إدارة الجهاز، قد تفقد إذن الوصول إلى ملفات وبيانات عملك.
+
+وإنْ حدثت مشاكل أثناء إعادة تثبيت إدارة الجهاز بعد الإعداد، فاتصل بمشرف تكنولوجيا المعلومات."</string>
+    <string name="fragment_ios_device_management_risk_title">إزالة إدارة الجهاز</string>
+    <string name="fragment_ios_device_management_select_management_title">انقر على الخيار الموجود ضمن \"إدارة الأجهزة الجوّالة\"</string>
+    <string name="fragment_ios_device_management_skip_button">تخطي المحتوى المشفّر</string>
+    <string name="fragment_ios_instructions_description">للمتابعة، يمكنك التحقق من جهاز iPhone®‎ والتأكد من الاتصال.</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_confirm_button">تخطٍ</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">لن يتم نقل جهات اتصال iCloud®‎ وجهات اتصال الجهاز ورسائل iMessage®‎.</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">هل تريد تخطي المحتوى المشفّر؟</string>
+    <string name="fragment_restore_choice_title">اختيار ما تريد نسخه</string>
+    <string name="fragment_target_connected_description">جارٍ الاستعداد للنسخ...</string>
+    <string name="fragment_target_connected_title">تم توصيل الهاتفين</string>
+    <string name="fragment_usb_cable_doesnt_fit">هل الكابل غير مناسب؟</string>
+    <string name="fragment_usb_cant_find_adapter">ليس لديّ محوِّل</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"إذا لم يكن الكابل مناسبًا، يمكنك البحث عن محوّل التبديل السريع المُرفق بصندوق التعبئة الخاص بجهاز ^1.
+
+وصِّل الكابل بالمحوّل."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">توصيل المحوّل والكابل</string>
+    <string name="fragment_usb_connect_both_phones_description">وصّل المحوّل بجهاز ^1 هذا.</string>
+    <string name="fragment_usb_connect_both_phones_title">توصيل الهاتفين</string>
+    <string name="fragment_usb_dialog_cancel_description">"ستحصل على معظم المحتوى، بما في ذلك الرسائل القصيرة SMS، إذا استخدمت الكابل.
+
+إذا لم يكن الكابل المُرفق بالصندوق مناسبًا، يمكنك محاولة استخدام كابل الشحن أو كابل البيانات الخاص بهاتفك القديم."</string>
+    <string name="fragment_usb_dialog_cancel_title">هل تريد نسخ البيانات بطريقة أخرى؟</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"يمكنك نقل مزيد من البيانات عند استخدام هاتفك القديم وكابل.
+
+لاستعادة بياناتك بدون كابل، يمكنك تسجيل الدخول باستخدام اسم المستخدم وكلمة المرور في الشاشة التالية."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">هل تريد استعادة البيانات بدون الهاتف القديم؟</string>
+    <string name="fragment_usb_dont_copy">عدم النّسخ</string>
+    <string name="fragment_usb_dont_have_cable">ليس لديّ كابل</string>
+    <string name="fragment_usb_dont_have_old_phone">هل يتعذّر عليك استخدام الهاتف القديم؟</string>
+    <string name="fragment_usb_find_cable_description">يجب استخدام كابل يناسب هاتفك القديم، والذي يتم استخدامه للشحن عادةً.</string>
+    <string name="fragment_usb_find_cable_title">ابحث عن كابل هاتفك القديم.</string>
+    <string name="fragment_usb_initial_description">يلزمك جهاز Android أو iPhone®‎ القديم، ثم عليك تشغيله وإبقائه بدون قفل.</string>
+    <string name="fragment_usb_initial_title">استخدام هاتفك القديم</string>
+    <string name="fragment_usb_missing_data_description">يمكنك متابعة إعداد ^1 أثناء النقل.</string>
+    <string name="fragment_usb_missing_data_title">لنبدأ نسخ بياناتك</string>
+    <string name="fragment_usb_other_ways">نسخ البيانات بطريقة أخرى</string>
+    <string name="fragment_usb_plug_cable">توصيل الكابل بالهاتف القديم</string>
+    <string name="fragment_waiting_title">لحظة من فضلك…</string>
+    <string name="gigabyteShort">غيغابايت</string>
+    <string name="google_contacts_will_sync">ستتم مزامنة جهات اتصال Google</string>
+    <string name="imessage_dialog_message">"للاستمرار في تلقي رسائل SMS من مستخدمي iPhone®‎، يجب إيقاف iMessage®‎ على هاتفك القديم. وسيظل بإمكانك استخدام iMessage®‎ على أجهزة أخرى، مثل iPad®‎.
+
+وعند الانتهاء من إعداد ^1، انتقل إلى "<b>g.co/iMessageHelp</b> واتّبع التعليمات.</string>
+    <string name="imessage_dialog_title">الحصول على رسائل من مستخدمي iPhone®‪</string>
+    <string name="instructions_fragment_title">يُرجى التحقّق من بيانات الهاتف الآخر قبل المواصلة</string>
+    <string name="ios_connected_fragment_description_has_account">سنستخدم حسابك على Google لنقل التطبيقات وأحداث تقويم iOS®‎</string>
+    <string name="ios_connected_fragment_description_no_account">"في الشاشة التالية يمكنك تسجيل الدخول إلى حسابك على Google أو إنشاء حساب جديد.
+
+إنْ لم تضف حسابك في Google، فلن يتم نقل تطبيقاتك وأحداثك في تقويم iOS®‎."</string>
+    <string name="ios_message_attachment_explanation">[مرفقات الرسائل موجودة في \"صور Google\" > مجلدات الجهاز > مرفقات الرسائل]</string>
+    <string name="ios_message_attachment_failed_explanation">[تعذَّر نسخ بعض المرفقات. يمكن العثور على بعض المرفقات التي تم نقلها في \"صور Google\" > مجلدات الجهاز > مرفقات الرسائل]</string>
+    <string name="ios_message_attachment_placeholder">[تم حفظ المرفق في صور Google > مجلدات الجهاز > مرفقات الرسائل]</string>
+    <string name="ios_message_attachments_placeholder">[تم حفظ المرفقات في صور Google > مجلدات الجهاز > مرفقات الرسائل]</string>
+    <string name="ios_migration_default_calendar_title">التقويم</string>
+    <string name="ios_migration_other_contact_relation">غير ذلك</string>
+    <string name="ios_photos_dialog_heif_and_icloud_message">"تم تخزين بعض صورك على هيئة ملفات HEIF بواسطة جهاز iPhone®‎، لذا يتعذَّر نسخ هذه الصور وكذلك صور iCloud®‎.
+
+لجلب هذه الصور إلى ^1، يمكنك تثبيت تطبيق \"صور Google\" على جهاز iPhone®‎ وتشغيل \"النسخ الاحتياطي والمزامنة\". يمكنك الانتقال إلى "<b>g.co/datatransferhelp</b> للحصول على المزيد من التعليمات.</string>
+    <string name="ios_photos_dialog_heif_message">"تم تخزين بعض صورك على هيئة ملفات HEIF بواسطة جهاز iPhone®‎، لذا يتعذَّر نسخ هذه الصور.
+
+لجلب هذه الصور إلى ^1، يمكنك تثبيت تطبيق \"صور Google\" على جهاز iPhone®‎ وتشغيل \"النسخ الاحتياطي والمزامنة\". يمكنك الانتقال إلى "<b>g.co/datatransferhelp</b> للحصول على المزيد من التعليمات.</string>
+    <string name="ios_photos_dialog_icloud_message">"يتعذر نسخ الصور المخزَّنة في iCloud®‎.
+
+لجلب هذه الصور إلى ^1، يمكنك تثبيت تطبيق صور Google على جهاز iPhone®‎ وتشغيل \"النسخ الاحتياطي والمزامنة\". يمكنك الانتقال إلى "<b>g.co/datatransferhelp</b> للحصول على مزيد من التعليمات.</string>
+    <string name="key_recovery_instruction_description">لفك تشفير النسخة الاحتياطية، أدخل قفل شاشة هاتفك القديم في الشاشة التالية</string>
+    <string name="key_recovery_instruction_title">تأكيد قفل شاشة جهاز %s القديم</string>
+    <string name="kilobyteShort">كيلوبايت</string>
+    <string name="lock_screen_entry_title">تأكيد قفل شاشة جهاز %s القديم</string>
+    <string name="lock_screen_error_other">حدث خطأ. حاول مرّة أخرى لاحقًا.</string>
+    <string name="lock_screen_error_wrong_password">كلمة مرور غير صحيحة</string>
+    <string name="lock_screen_error_wrong_pattern">نقش غير صحيح</string>
+    <string name="lock_screen_error_wrong_pin">رقم تعريف شخصي غير صحيح</string>
+    <string name="lockscreen_access_pattern_area">منطقة النقش</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">تمت إضافة الخلية %d.</string>
+    <string name="lockscreen_access_pattern_cleared">تم محو النقش.</string>
+    <string name="lockscreen_access_pattern_detected">اكتمل النقش.</string>
+    <string name="lockscreen_access_pattern_start">بدأ إدخال النقش.</string>
+    <string name="megabyteShort">ميغابايت</string>
+    <string name="mobile_warning_fragment_dialog_content">قد يتم فرض رسوم على البيانات، لذا يمكنك الانتظار إلى أن يتم الاتصال بشبكة Wi‑Fi بدلاً من ذلك وسيتم تثبيت التطبيقات تلقائيًا.</string>
+    <string name="mobile_warning_fragment_dialog_nodata">تنفيذ ذلك لاحقًا</string>
+    <string name="mobile_warning_fragment_dialog_title">هل تريد الاستعادة عبر بيانات الجوّال؟</string>
+    <string name="mobile_warning_fragment_dialog_use_data">استعادة الآن</string>
+    <string name="petabyteShort">بيتابايت</string>
+    <string name="photo_conversion_summary">تم تحويل %1$d من %2$d صورة</string>
+    <string name="restore_choice_android_device_label">نسخة احتياطية من هاتف Android</string>
+    <string name="restore_choice_android_device_label_new">Android</string>
+    <string name="restore_choice_android_device_summary">استخدم الهاتف القديم لنسخ البيانات لاسلكيًا.</string>
+    <string name="restore_choice_data_disclaimer">قد لا يتم نقل بعض بياناتك إلى ^1. <annotation id="restore_choice_data_disclaimer_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">تم حفظ هذه النسخة الاحتياطية من جهاز يعمل بإصدار أحدث من نظام التشغيل Android. وقد لا تتم استعادة بعض البيانات إلى هاتفك الجديد.</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">قد لا يتم نقل بعض بياناتك إلى ^1.</string>
+    <string name="restore_choice_deselect_some_content">يمكنك إلغاء تحديد بعض المحتوى للمتابعة</string>
+    <string name="restore_choice_dont_copy">عدم النسخ</string>
+    <string name="restore_choice_dont_have_old_phone">هل يتعذّر عليك استخدام الهاتف القديم؟</string>
+    <string name="restore_choice_google_account_label">نسخة احتياطية من السحابة الإلكترونية</string>
+    <string name="restore_choice_google_account_summary">سجّل الدخول باستخدام اسم المستخدم وكلمة المرور.</string>
+    <string name="restore_choice_ios_device_label">جهاز iPhone®‎</string>
+    <string name="restore_choice_learn_more_android">"لا يمكن نسخ بعض البيانات من هاتفك القديم تلقائيًا:
+
+ ● التنزيلات (مثل ملفات PDF)
+
+ ● الصور والفيديوهات والموسيقى المحفوظة في المجلّدات المخفية
+
+ ● الصور والفيديوهات والموسيقى التي يتم تلقيها عبر رسائل نصية
+
+ ● التطبيقات التي لا يتم تنزيلها من متجر Google Play
+
+ ● بيانات التطبيقات (إذا لم يكن التطبيق يستخدم النسخ الاحتياطي على Android
+
+ ● إعدادات معيَّنة على الجهاز
+
+ ● الحسابات غير التابعة لـ Google (وأي بيانات مرتبطة بها)
+
+ ● جهات الاتّصال والتقاويم التي تمت مزامنتها مع خدمات غير تابعة لـ Google
+
+ ● نغمات الرنين
+
+ للحصول على مزيد من التفاصيل والمساعدة في نسخ بعض هذه البيانات، يمكنك الانتقال إلى g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"لا يمكن نسخ بعض البيانات من هاتفك القديم تلقائيًا:
+
+ ● التطبيقات وبيانات التطبيقات
+
+ ● الصور التي لم يتم تخزين النسخة الأصلية منها في هاتفك (على سبيل المثال، عند تشغيل إعداد \"تحسين سعة التخزين\"، يتم تخزين الصور الأصلية في iCloud®‎)
+
+ ● الملفات والمستندات المخزّنة في iCloud®‎
+
+ ● إعدادات الجهاز (مثل كلمات مرور Wi-Fi)
+
+ ● الموسيقى المحمية بموجب قواعد حماية الحقوق الرقمية (على سبيل المثال، موسيقى iTunes®‎ التي تم شراؤها قبل نيسان/أبريل 2009 أو الموسيقى التي تم تنزيلها للاستماع بلا إنترنت في أحد تطبيقات بث الموسيقى)
+
+ ● الحسابات بخلاف حسابات Google (وأي بيانات مقترنة)
+
+ ● جهات الاتصال والتقاويم التي تمت مزامنتها مع خدمات بخلاف Google أو iCloud®‎
+
+ ● الإشارات المرجعية من Safari®‎
+
+ ستكون مرفقات iMessage®‎ متوفرة في صور Google > مجلدات الجهاز > مرفقات الرسائل.
+
+ للاطلاع على مزيد من التفاصيل والحصول على مساعدة في نسخ بعض هذه البيانات، يمكنك الانتقال إلى g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios_attachments_inline">"لا يمكن نسخ بعض البيانات من هاتفك القديم تلقائيًا:
+
+ ● التطبيقات وبيانات التطبيقات
+
+ ● الصور التي لم يتم تخزين النسخة الأصلية منها في هاتفك (على سبيل المثال، عند تشغيل إعداد \"تحسين سعة التخزين\"، يتم تخزين الصور الأصلية في iCloud®‎)
+
+ ● الملفات والمستندات المخزّنة في iCloud®
+
+ ● إعدادات الجهاز (مثل كلمات مرور Wi-Fi)
+
+ ● الموسيقى المحمية بموجب قواعد حماية الحقوق الرقمية (على سبيل المثال، موسيقى iTunes®‎ التي تم شراؤها قبل نيسان/أبريل 2009 أو الموسيقى التي تم تنزيلها للاستماع بلا إنترنت في أحد تطبيقات بث الموسيقى)
+
+ ● الحسابات بخلاف حسابات Google (وأي بيانات مقترنة)
+
+ ● جهات الاتصال والتقاويم التي تمت مزامنتها مع خدمات بخلاف Google أو iCloud®
+
+ ● الإشارات المرجعية من Safari®
+
+ للاطلاع على مزيد من التفاصيل والحصول على مساعدة في نسخ بعض هذه البيانات، يمكنك الانتقال إلى g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">لا تتوفر مساحة كافية</string>
+    <string name="restore_choice_phone_description">نقل البيانات من هاتفك القديم</string>
+    <string name="restore_choice_phone_title">اختر هاتفك</string>
+    <string name="restore_choice_sync_disclaimer_android">سيتم حفظ جهات الاتصال الموجودة على شريحة SIM وعلى الجهاز كجهات اتصال Google إلى الحساب %1$s</string>
+    <string name="restore_choice_sync_disclaimer_cloud">سيتم حفظ جهات الاتصال الموجودة على الجهاز وعلى شريحة SIM كجهات اتصال Google في الحساب %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios">سيتم حفظ جهات الاتصال وتقويم iOS®‎ في %1$s.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">سيتم حفظ تقويم iOS®‎ في %1$s.</string>
+    <string name="restore_choice_title">جلب بياناتك من…</string>
+    <string name="restore_continue_suw_description">يمكنك الاستمرار في إعداد ^1</string>
+    <string name="restore_continue_suw_title">جارٍ الاستعادة…</string>
+    <string name="restore_estimated_time">المدّة المتبقية لنقل البيانات: ^1</string>
+    <string name="restore_item_apps">التطبيقات</string>
+    <string name="restore_item_calendar">التقويم</string>
+    <string name="restore_item_calendar_ical_description">تقويم iOS®‎</string>
+    <string name="restore_item_call_logs">سجلّ المكالمات</string>
+    <string name="restore_item_contacts">جهات الاتصال</string>
+    <string name="restore_item_device_settings_description">كلمات مرور Wi-Fi والمزيد</string>
+    <string name="restore_item_downloads">التنزيلات</string>
+    <string name="restore_item_email">البريد الإلكتروني</string>
+    <string name="restore_item_email_description">ستتم مزامنة Gmail</string>
+    <string name="restore_item_message_attachments">مرفقات الرسالة</string>
+    <string name="restore_item_messages">الرسائل</string>
+    <string name="restore_item_music">المقاطع الموسيقية وغيرها من الملفات الصوتية</string>
+    <string name="restore_item_photos">الصور والفيديوهات</string>
+    <string name="restore_item_settings">إعدادات الجهاز</string>
+    <string name="restore_item_sms">الرسائل القصيرة SMS</string>
+    <string name="restore_item_wallpaper">الخلفية</string>
+    <string name="restore_progress_activity_title">@string/consolidated_notification_app_name</string>
+    <string name="restore_progress_item_apps_title">التطبيقات</string>
+    <string name="restore_progress_item_photos_title">وسائط iPhone</string>
+    <string name="restore_progress_waiting_for_setup_to_finish">في انتظار انتهاء الإعداد…</string>
+    <string name="restore_progress_waiting_for_wifi">في انتظار توفر اتصال Wi-Fi…</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 / ^3</string>
+    <string name="retail_mode_warning_dialog_message">سيؤدي هذا إلى تشغيل فيديو يتضمّن عرضًا توضيحيًا لبائعي التجزئة إلى أن تتم إعادة تعيين إعداد المصنع في الجهاز، علمًا بأن هذا الوضع مُعد لبائعي التجزئة وغير مخصص للاستخدام الشخصي.</string>
+    <string name="retail_mode_warning_dialog_title">تشغيل الفيديو الترويجي</string>
+    <string name="small_time_duration">أقل من 1 دقيقة</string>
+    <string name="stop_copying_dialog_continue_button">تجاهل</string>
+    <string name="stop_copying_dialog_message_before_transfer">لن تُنسخ بياناتك إلى هاتفك الجديد</string>
+    <string name="stop_copying_dialog_message_during_transfer">لن تُنسخ بعض البيانات إلى هاتفك الجديد</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">إيقاف</string>
+    <string name="stop_copying_dialog_title_before_transfer">هل تريد إلغاء النسخ؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">هل تريد إيقاف النسخ؟</string>
+    <string name="stop_restoring_dialog_message_before_transfer">لن تتم إعادة بياناتك إلى هاتفك الجديد</string>
+    <string name="stop_restoring_dialog_title_before_transfer">هل تريد إلغاء عملية الاستعادة؟</string>
+    <string name="suw_back_button_label">رجوع</string>
+    <string name="suw_more_button_label">المزيد</string>
+    <string name="suw_next_button_label">التالي</string>
+    <string name="target_default_source_device_model">الهاتف القديم</string>
+    <string name="target_device_not_supported_cant_continue_description">يجب اختيار طريقة أخرى لنسخ البيانات</string>
+    <string name="target_device_not_supported_cant_continue_title">الهاتف الآخر غير متوافق</string>
+    <string name="target_device_not_supported_try_restarting_description">"يجب فصل الكابل وإعادة تشغيل هاتفك القديم، ثم إعادة توصيل الكابل واتباع التعليمات على ^1.
+
+في حال استمرار ظهور هذا الخطأ، قد تحتاج إلى محاولة النسخ بطريقة أخرى."</string>
+    <string name="target_device_not_supported_try_restarting_title">قد يكون الهاتف غير متوافق</string>
+    <string name="target_fragment_msg_reconnect_cable">أعد توصيل الكابل</string>
+    <string name="target_pixelmigrate_notification_description">متاح أو قيد التقدم</string>
+    <string name="target_pixelmigrate_notification_title">نقل البيانات</string>
+    <string name="target_smart_device_timeout_add_account">إضافة حساب</string>
+    <string name="target_smart_device_timeout_description">يمكنك تجربة إضافة حسابك يدويًا إذا أردت ذلك</string>
+    <string name="target_smart_device_timeout_dismiss">رفض</string>
+    <string name="target_smart_device_timeout_title">هل تواجه أي مشكلة؟</string>
+    <string name="terabyteShort">تيرابايت</string>
+    <string name="toast_phones_connected">تم توصيل الهاتفين</string>
+    <string name="toast_reconnect_cable">أعد توصيل الكابل</string>
+    <string name="transfer_finished_fragment_description">قد يستغرق هذا الإجراء دقيقة أو دقيقتين.</string>
+    <string name="transfer_finished_fragment_title">جارٍ إضافة اللمسات النهائية…</string>
+    <string name="transfer_summary_copied">تم نسخ البيانات</string>
+    <string name="transfer_summary_fragment_description">يمكنك نزع الكابل.</string>
+    <string name="transfer_summary_fragment_done_button">تمّ</string>
+    <string name="transfer_summary_fragment_title">باقٍ بضع خطوات فقط ويكتمل إعداد هاتفك</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">تعذَّر نسخ بعض صورك. <annotation id="transfer_summary_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="transfer_summary_not_copied">لم يتم نسخ البيانات</string>
+    <string name="transfer_summary_partial">تم نسخ %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">ستتم مزامنة البيانات بعد إكمال الإعداد</string>
+    <string name="transferring_fragment_calculating_remaining_time">جارٍ حساب الوقت المتبقي…</string>
+    <string name="transferring_fragment_description_continue">يمكنك الاستمرار في إعداد جهاز ^1.</string>
+    <string name="transferring_fragment_description_final_hold">يُرجى إبقاء الهاتفين متّصلين وقيد التشغيل.</string>
+    <string name="transferring_fragment_header">جارٍ النسخ…</string>
+    <string name="transferring_fragment_remaining_time">يتبقى %1$s</string>
+    <string name="transferring_fragment_restoring_content">جارٍ استعادة المحتوى…</string>
+    <string name="trust_instructions_trademark_disclaimer">تمثل كل من iPhone وiPad وiOS وiMessage وiCloud وSafari وiTunes علامات تجارية تملكها شركة Apple Inc.‎ ومُسجَّلة في الولايات المتحدة وبلدان أخرى.</string>
+    <string name="unlock_ios_fragment_description">للمتابعة، يمكنك إلغاء قفل جهاز إلغاء قفل جهاز iPhone®‎. ويُرجى تركه بدون قفل خلال عملية النقل.</string>
+    <string name="unlock_ios_fragment_title">إلغاء قفل جهاز iPhone®‎</string>
+    <string name="vault_almost_locked_dialog_title">عدد المحاولات المتبقية: %d</string>
+    <string name="vault_almost_locked_password_dialog_text">تم إدخال كلمة المرور غير الصحيحة %1$d مرة. بعد إجراء %2$d محاولة أخرى غير صحيحة، سيتم حذف النسخة الاحتياطية على جهاز %3$s.</string>
+    <string name="vault_almost_locked_pattern_dialog_text">تم إدخال النقش غير الصحيح %1$d مرة. بعد إجراء %2$d محاولة أخرى غير صحيحة، سيتم حذف النسخة الاحتياطية على جهاز %3$s.</string>
+    <string name="vault_almost_locked_pin_dialog_text">تم إدخال رقم التعريف الشخصي غير الصحيح %1$d مرة. بعد إجراء %2$d محاولة أخرى غير صحيحة، سيتم حذف النسخة الاحتياطية على جهاز %3$s.</string>
+    <string name="vault_locked_dialog_text">لقد أدخلت شاشة تأمين %s غير صحيحة مرات كثيرة، ولذلك تم حذف النسخة الاحتياطية.</string>
+    <string name="vault_locked_dialog_title">تم حذف نسخ احتياطي</string>
+</resources>

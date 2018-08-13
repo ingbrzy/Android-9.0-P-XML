@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s pole kehtivad e-posti aadressid.</item>
+        <item quantity="one">%s pole kehtiv e-posti aadress.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Nende failide lisamisel jagatakse need kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+        <item quantity="one">Selle faili lisamisel jagatakse see kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Nende failide ja kaustade lisamisel jagatakse need kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Nende kaustade lisamisel jagatakse need kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+        <item quantity="one">Selle kausta lisamisel jagatakse see kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Kas jagada neid faile?</item>
+        <item quantity="one">Kas jagada seda faili?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Kas jagada neid faile ja kaustu?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Kas jagada neid kaustu?</item>
+        <item quantity="one">Kas jagada seda kausta?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d kausta on värskendatud. Värviks määrati %2$s.</item>
+        <item quantity="one">%1$d kaust on värskendatud. Värviks määrati %2$s.</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Aegub %1$d päeva pärast</item>
+        <item quantity="one">Aegub %1$d päeva pärast</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Varundused on kustutatud.</item>
+        <item quantity="one">Varundus on kustutatud.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%d veergu.</item>
+        <item quantity="one">%d veerg.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%d fikseeritud veergu.</item>
+        <item quantity="one">%d fikseeritud veerg.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%d fikseeritud rida.</item>
+        <item quantity="one">%d fikseeritud rida.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%d rida.</item>
+        <item quantity="one">%d rida.</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Üksusi ei saanud alla laadida</item>
+        <item quantity="one">Üksust ei saanud alla laadida</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">%1$d üksust %2$d-st laaditakse alla. Vaadake üksikasjade nägemiseks märguannet</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d üksust laaditakse alla. Vaadake üksikasjade nägemiseks märguannet</item>
+        <item quantity="one">%1$d üksus laaditakse alla. Vaadake üksikasjade nägemiseks märguannet</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s üksust ei saanud alla laadida</item>
+        <item quantity="one">%1$s üksust ei saanud alla laadida</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">Veel %1$d üksust</item>
+        <item quantity="one">Veel %1$d üksus</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d allalaad. %2$d-st ebaõnnestus</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Teisaldate mõne üksuse jagatud kaustadest välja, mistõttu inimesed kaotavad nendele juurdepääsu.</item>
+        <item quantity="one">Teisaldate üksuse jagatud kaustast välja, mistõttu inimesed kaotavad sellele juurdepääsu.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">Teisaldate mõne üksuse tiimiketastelt välja, mistõttu inimesed kaotavad nendele üksustele juurdepääsu.</item>
+        <item quantity="one">Teisaldate üksuse tiimiketastelt välja, mistõttu inimesed kaotavad sellele üksusele juurdepääsu.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Nende failide teisaldamisel jagatakse neid kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+        <item quantity="one">Selle faili teisaldamisel jagatakse seda kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Nende failide ja kaustade teisaldamisel jagatakse neid kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Nende kaustade teisaldamisel jagatakse neid kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+        <item quantity="one">Selle kausta teisaldamisel jagatakse seda kõigiga, kellel on juurdepääs jagatud kaustale %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Kas jagada neid faile?</item>
+        <item quantity="one">Kas jagada seda faili?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Kas jagada neid faile ja kaustu?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Kas jagada neid kaustu?</item>
+        <item quantity="one">Kas jagada seda kausta?</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">Teatud üksused ei kuulu teile. Neid ei saa tiimikettale teisaldada.</item>
+        <item quantity="one">See üksus ei kuulu teile. Seda ei saa tiimikettale teisaldada.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Teil pole luba teatud üksuste nende kaustast välja teisaldamiseks.</item>
+        <item quantity="one">Teil pole luba selle üksuse sellest kaustast välja teisaldamiseks.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s%2$s pääseb nendele nüüd juurde.</item>
+        <item quantity="one">%1$s%2$s pääseb sellele nüüd juurde.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">%1$d üksust teisaldati tiimikettale. Liikmed pääsevad juurde.</item>
+        <item quantity="one">1 üksus teisaldati tiimikettale. Liikmed pääsevad juurde.</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s tegevusüksust</item>
+        <item quantity="one">%1$s tegevusüksus</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s vastuseta mainimist</item>
+        <item quantity="one">%1$s vastuseta mainimine</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s soovitust</item>
+        <item quantity="one">%1$s soovitus</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s ülesannet</item>
+        <item quantity="one">%1$s ülesanne</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d / %2$s-st on nüüd võrguühenduseta saadaval.</item>
+        <item quantity="one">%1$d / %2$s-st on nüüd võrguühenduseta saadaval.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Kõik %1$d faili on võrguühenduseta saadaval.</item>
+        <item quantity="one">%1$d fail on nüüd võrguühenduseta saadaval.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d faili võrguüh.-ta saadavaks tegemine.</item>
+        <item quantity="one">%1$d faili võrguüh.-ta saadavaks tegemine.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d faili</item>
+        <item quantity="one">%1$d fail</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">Allalaadimised on peatatud, WiFi ootel.</item>
+        <item quantity="one">Allalaadimine on peatatud, WiFi ootel.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d faili allalaadimine peatati.</item>
+        <item quantity="one">%1$d faili allalaadimine peatati.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d üksust teisaldatakse prügikasti. See eemaldab need ka teenusest Google Photos.</item>
+        <item quantity="one">Üks üksus teisaldatakse prügikasti. See eemaldab selle ka teenusest Google Photos.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s järeltegevust</item>
+        <item quantity="one">%1$s järeltegevus</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s järeltegevust</item>
+        <item quantity="one">%1$s järeltegevus</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Kommenteerisid %1$d faili</item>
+        <item quantity="one">Kommenteerisid faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Kommenteeris %1$d faili</item>
+        <item quantity="one">Kommenteeris faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Kommenteeris(id) seda faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Lõid %1$d üksust</item>
+        <item quantity="one">Lõid üksuse</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Lõi %1$d üksust</item>
+        <item quantity="one">Lõi üksuse</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Lõi selle faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Lõi selle kausta</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Muutsid %1$d üksust</item>
+        <item quantity="one">Muutsid üksust</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Muutis %1$d üksust</item>
+        <item quantity="one">Muutis üksust</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Muutis (muutsid) seda faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Kustutas %1$d üksust jäädavalt</item>
+        <item quantity="one">Kustutas üksuse jäädavalt</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Teisaldasid %1$d üksust sihtkohta</item>
+        <item quantity="one">Teisaldasid üksuse sihtkohta</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Teisaldas %1$d üksust sihtkohta</item>
+        <item quantity="one">Teisaldas üksuse sihtkohta</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Teisaldasid %1$d üksust</item>
+        <item quantity="one">Teisaldasid üksuse</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Teisaldas %1$d üksust</item>
+        <item quantity="one">Teisaldas üksuse</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Teisaldas(id) selle faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Teisaldas(id) selle faili sihtkohta</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Teisaldas(id) selle kausta</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Teisaldas(id) selle kausta sihtkohta</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Nimetasid %1$d üksust ümber</item>
+        <item quantity="one">Nimetasid üksuse ümber</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Nimetas %1$d üksust ümber</item>
+        <item quantity="one">Nimetas üksuse ümber</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Nimetas(id) selle faili ümber</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Nimetas(id) selle kausta ümber</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Jagasid %1$d üksust</item>
+        <item quantity="one">Jagasid üksust</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Jagas %1$d üksust</item>
+        <item quantity="one">Jagas üksust</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Jagas(id) seda faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Jagas(id) seda kausta</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Teisaldasid %1$d üksust prügikasti</item>
+        <item quantity="one">Teisaldasid üksuse prügikasti</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Teisaldas %1$d üksust prügikasti</item>
+        <item quantity="one">Teisaldas üksuse prügikasti</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Eemaldas(id) selle faili</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Eemaldas(id) selle kausta</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Laadisid %1$d üksust üles</item>
+        <item quantity="one">Laadisid üksuse üles</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Laadis %1$d üksust üles</item>
+        <item quantity="one">Laadis üksuse üles</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Laadis(id) selle faili üles</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Laadis(id) selle kausta üles</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">Kasutaja %1$s ja veel %2$d kasutajat</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d faili teisaldatakse tiimiketta %2$s prügikasti ja kustutatakse jäädavalt 30 päeva pärast.</item>
+        <item quantity="one">See fail teisaldatakse tiimiketta %2$s prügikasti ja kustutatakse jäädavalt 30 päeva pärast</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d kausta teisaldatakse tiimiketta %2$s prügikasti ja kustutatakse jäädavalt 30 päeva pärast.</item>
+        <item quantity="one">Kaust teisaldatakse tiimiketta %2$s prügikasti ja kustutatakse jäädavalt 30 päeva pärast</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d üksust teisaldatakse tiimiketta %2$s prügikasti ja kustutatakse jäädavalt 30 päeva pärast.</item>
+        <item quantity="one">Üksus teisaldatakse tiimiketta %2$s prügikasti ja kustutatakse jäädavalt 30 päeva pärast</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">Need %1$d faili &lt;b>kustutatakse jäädavalt kõigi jaoks&lt;/b>. Seda toimingut ei saa tagasi võtta.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">Need %1$d faili kustutatakse jäädavalt. Seda toimingut ei saa tagasi võtta.</item>
+        <item quantity="one">See fail kustutatakse jäädavalt. Seda toimingut ei saa tagasi võtta.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d üksust</item>
+        <item quantity="one">%1$d üksus</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Valitud on %1$d üksust</item>
+        <item quantity="one">Valitud on %1$d üksus</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d üksuse valik on tühistatud</item>
+        <item quantity="one">%1$d üksuse valik on tühistatud</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">%d üksust on võrguühenduseta saadaval</item>
+        <item quantity="one">1 üksus on võrguühenduseta saadaval</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d üksust tähistati tärniga</item>
+        <item quantity="one">1 üksus tähistati tärniga</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">%1$d üksust pole võrguüh.-seta saadaval</item>
+        <item quantity="one">1 üksus pole võrguüh.-seta saadaval</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d üksuselt eemaldati tärn</item>
+        <item quantity="one">1 üksuselt eemaldati tärn</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d üksust on taastatud</item>
+        <item quantity="one">1 üksus on taastatud</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d üksust on taastatud</item>
+        <item quantity="one">1 üksus on taastatud</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d üksust eemaldati kaustast %2$s</item>
+        <item quantity="one">1 üksus eemaldati kaustast %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d üksust eemaldati kaustast</item>
+        <item quantity="one">1 üksus eemaldati kaustast</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d üksust on eemaldatud</item>
+        <item quantity="one">1 üksus on eemaldatud</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d üksust teisaldati tagasi</item>
+        <item quantity="one">1 üksus teisaldati tagasi</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d üksust teisaldati prügikasti tagasi</item>
+        <item quantity="one">1 üksus teisaldati prügikasti tagasi</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">%1$d üksust pandi prügikasti tagasi</item>
+        <item quantity="one">1 üksus pandi prügikasti tagasi</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d üksust on eemaldatud</item>
+        <item quantity="one">1 üksus on eemaldatud</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d üksust lisati kausta %2$s</item>
+        <item quantity="one">1 üksus lisati kausta %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d üksust on lisatud</item>
+        <item quantity="one">1 üksus on lisatud</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d üksust taastati ja lisati kausta %2$s</item>
+        <item quantity="one">1 üksus taastati ja lisati kausta %2$s</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d üksust teisaldati kausta %2$s.</item>
+        <item quantity="one">1 üksus teisaldati kausta %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d üksust on teisaldatud</item>
+        <item quantity="one">1 üksus on teisaldatud</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d üksust taastati ja teisaldati kausta %2$s.</item>
+        <item quantity="one">1 üksus taastati ja teisaldati kausta %2$s.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d üksust on taastatud.</item>
+        <item quantity="one">1 üksus on taastatud</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d üksust taastati kausta %2$s.</item>
+        <item quantity="one">1 üksus taastati kausta %2$s.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Failide saatmine rakendusega</item>
+        <item quantity="one">Faili saatmine rakendusega</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d inimest pääsevad nüüd juurde</item>
+        <item quantity="one">Üks inimene saab nüüd vaadata</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s ja veel %2$d inimest pääsevad nüüd juurde</item>
+        <item quantity="one">%1$s ja veel üks inimene pääsevad nüüd juurde</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d inimest saavad nüüd kommentaare lisada</item>
+        <item quantity="one">Üks inimene saab nüüd kommentaare lisada</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s ja veel %2$d inimest saavad nüüd kommentaare lisada</item>
+        <item quantity="one">%1$s ja veel üks inimene saavad nüüd komment. lisada</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d inimest saavad nüüd muuta</item>
+        <item quantity="one">Üks inimene saab nüüd muuta</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s ja veel %2$d inimest saavad nüüd muuta</item>
+        <item quantity="one">%1$s ja veel üks inimene saavad nüüd muuta</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d inimest saavad nüüd vaadata</item>
+        <item quantity="one">Üks inimene saab nüüd vaadata</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s ja veel %2$d inimest saavad nüüd vaadata</item>
+        <item quantity="one">%1$s ja veel üks inimene saavad nüüd vaadata</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Salvestusruum aegub %1$d p pärast</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">%1$d inimest lisati tiimikettale</item>
+        <item quantity="one">Üks inimene lisati tiimikettale</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s ja veel %3$d inimest lisasid tiimikettale %1$s</item>
+        <item quantity="one">%2$s ja veel üks inimene lisati tiimikettale %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d liiget</item>
+        <item quantity="zero">Liikmeid ei ole</item>
+        <item quantity="one">1 liige</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Jätka kõiki kohe</item>
+        <item quantity="one">Jätka kohe</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">%1$d faili üleslaadimiseks ajastamine on tühistatud.</item>
+        <item quantity="one">%1$d faili üleslaadimiseks ajastamine on tühistatud.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">%1$d faili ei saa üleslaadimiseks ajastada.</item>
+        <item quantity="one">%1$d faili ei saa üleslaadimiseks ajastada.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d faili on üles laaditud.</item>
+        <item quantity="one">%1$d fail on üles laaditud.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%1$d faili %2$d-st ei saa üles laadida.</item>
+        <item quantity="one">%1$d faili %2$d-st ei saa üles laadida.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">%1$d faili üleslaadimine.</item>
+        <item quantity="one">%1$d faili üleslaadimine.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">Üleslaadimised on peatatud, WiFi ootel.</item>
+        <item quantity="one">Üleslaadimine on peatatud, WiFi ootel.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d faili üleslaadimine on peatatud.</item>
+        <item quantity="one">%1$d faili üleslaadimine on peatatud.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">%1$d faili ettevalmistamine üleslaadimiseks.</item>
+        <item quantity="one">%1$d faili ettevalmistamine üleslaadimiseks.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Teie %1$d faili laaditakse üles: %2$s</item>
+        <item quantity="one">Teie %1$d faili laaditakse üles: %2$s</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">Filtrid</item>
+        <item quantity="one">Filter</item>
+    </plurals>
+</resources>

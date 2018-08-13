@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="addToGroup">
+        <item quantity="other">%1$d контактам добавлен ярлык \"%2$s\"</item>
+        <item quantity="one">%1$d контакту добавлен ярлык \"%2$s\"</item>
+        <item quantity="few">%1$d контактам добавлен ярлык \"%2$s\"</item>
+        <item quantity="many">%1$d контактам добавлен ярлык \"%2$s\"</item>
+    </plurals>
+    <plurals name="addToGroupTitle">
+        <item quantity="other">Добавление ярлыка \"%2$s\" для %1$d контакта</item>
+        <item quantity="one">Добавление ярлыка \"%2$s\" для %1$d контакта</item>
+        <item quantity="few">Добавление ярлыка \"%2$s\" для %1$d контактов</item>
+        <item quantity="many">Добавление ярлыка \"%2$s\" для %1$d контактов</item>
+    </plurals>
+    <plurals name="add_info_assistant_apply_all_title">
+        <item quantity="other">Обновить %d контакта?</item>
+        <item quantity="one">Обновить %d контакт?</item>
+        <item quantity="few">Обновить %d контакта?</item>
+        <item quantity="many">Обновить %d контактов?</item>
+    </plurals>
+    <plurals name="add_info_assistant_summary_body">
+        <item quantity="other">Появились новые данные для %d вашего контакта.</item>
+        <item quantity="one">Появились новые данные для %d вашего контакта.</item>
+        <item quantity="few">Появились новые данные для %d ваших контактов.</item>
+        <item quantity="many">Появились новые данные для %d ваших контактов.</item>
+    </plurals>
+    <plurals name="add_missing_names_title">
+        <item quantity="other">Добавить &lt;xliff id="count">%d&lt;/xliff> имени</item>
+        <item quantity="one">Добавить &lt;xliff id="count">%d&lt;/xliff> имя</item>
+        <item quantity="few">Добавить &lt;xliff id="count">%d&lt;/xliff> имени</item>
+        <item quantity="many">Добавить &lt;xliff id="count">%d&lt;/xliff> имен</item>
+    </plurals>
+    <plurals name="added_missing_names">
+        <item quantity="other">Добавлено &lt;xliff id="count">%d&lt;/xliff> имени</item>
+        <item quantity="one">Добавлено &lt;xliff id="count">%d&lt;/xliff> имя</item>
+        <item quantity="few">Добавлено &lt;xliff id="count">%d&lt;/xliff> имени</item>
+        <item quantity="many">Добавлено &lt;xliff id="count">%d&lt;/xliff> имен</item>
+    </plurals>
+    <plurals name="assistant_cleanup_body">
+        <item quantity="other">%d нежелательного контакта</item>
+        <item quantity="one">%d нежелательный контакт</item>
+        <item quantity="few">%d нежелательных контакта</item>
+        <item quantity="many">%d нежелательных контактов</item>
+    </plurals>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d контакта с повторяющимися данными</item>
+        <item quantity="one">%d контакт с повторяющимися данными</item>
+        <item quantity="few">%d контакта с повторяющимися данными</item>
+        <item quantity="many">%d контактов с повторяющимися данными</item>
+    </plurals>
+    <plurals name="assistant_no_name_summary_card_body">
+        <item quantity="other">&lt;xliff id="count">%d&lt;/xliff> контакта без имени</item>
+        <item quantity="one">&lt;xliff id="count">%d&lt;/xliff> контакт без имени</item>
+        <item quantity="few">&lt;xliff id="count">%d&lt;/xliff> контакта без имени</item>
+        <item quantity="many">&lt;xliff id="count">%d&lt;/xliff> контактов без имени</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d недавнего вызова • Последний: %2$s</item>
+        <item quantity="one">%1$d недавний вызов • Последний: %2$s</item>
+        <item quantity="few">%1$d недавних вызова • Последний: %2$s</item>
+        <item quantity="many">%1$d недавних вызовов • Последний: %2$s</item>
+    </plurals>
+    <plurals name="cleanup_fragment_title_count">
+        <item quantity="other">Удалите %d ненужного адреса</item>
+        <item quantity="one">Удалите %d ненужный адрес</item>
+        <item quantity="few">Удалите %d ненужных адреса</item>
+        <item quantity="many">Удалите %d ненужных адресов</item>
+    </plurals>
+    <plurals name="cleanup_number_deleted">
+        <item quantity="other">Удалено %d контакта</item>
+        <item quantity="one">Удален %d контакт</item>
+        <item quantity="few">Удалено %d контакта</item>
+        <item quantity="many">Удалено %d контактов</item>
+    </plurals>
+    <plurals name="contact_names_added">
+        <item quantity="other">Добавлено %d имени</item>
+        <item quantity="one">Добавлено %d имя</item>
+        <item quantity="few">Добавлено %d имени</item>
+        <item quantity="many">Добавлено %d имен</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">%1$d контакта удалено</item>
+        <item quantity="one">%1$d контакт удален</item>
+        <item quantity="few">%1$d контакта удалено</item>
+        <item quantity="many">%1$d контактов удалено</item>
+    </plurals>
+    <plurals name="deletion_confirmation_message">
+        <item quantity="other">Эти контакты будут удалены из Google Контактов и со всех синхронизируемых устройств.</item>
+        <item quantity="one">Эти контакты будут удалены из Google Контактов и со всех синхронизируемых устройств.</item>
+        <item quantity="few">Эти контакты будут удалены из Google Контактов и со всех синхронизируемых устройств.</item>
+        <item quantity="many">Эти контакты будут удалены из Google Контактов и со всех синхронизируемых устройств.</item>
+    </plurals>
+    <plurals name="duplicates_activity_title_count">
+        <item quantity="other">Объедините %d контакта</item>
+        <item quantity="one">Объедините %d контакт</item>
+        <item quantity="few">Объедините %d контакта</item>
+        <item quantity="many">Объедините %d контактов</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_success">
+        <item quantity="other">Объединено %d контакта</item>
+        <item quantity="one">Объединен %d контакт</item>
+        <item quantity="few">Объединено %d контакта</item>
+        <item quantity="many">Объединено %d контактов</item>
+    </plurals>
+    <plurals name="duplicates_assistant_merge_all_title">
+        <item quantity="other">Объединить %d повторяющихся контакта?</item>
+        <item quantity="one">Объединить %d повторяющийся контакт?</item>
+        <item quantity="few">Объединить %d повторяющихся контакта?</item>
+        <item quantity="many">Объединить %d повторяющихся контактов?</item>
+    </plurals>
+    <plurals name="emptyAccountSubtext">
+        <item quantity="other">%1$d контакта в других ваших аккаунтах</item>
+        <item quantity="one">%1$d контакт в других ваших аккаунтах</item>
+        <item quantity="few">%1$d контакта в других ваших аккаунтах</item>
+        <item quantity="many">%1$d контактов в других ваших аккаунтах</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d контакта</item>
+        <item quantity="one">%1$d контакт</item>
+        <item quantity="few">%1$d контакта</item>
+        <item quantity="many">%1$d контактов</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 контакта • ^2</item>
+        <item quantity="one">^1 контакт • ^2</item>
+        <item quantity="few">^1 контакта • ^2</item>
+        <item quantity="many">^1 контактов • ^2</item>
+    </plurals>
+    <plurals name="inferred_fields_assistant_summary_body">
+        <item quantity="other">Обновите %d контакта, добавив данные из своей электронной почты.</item>
+        <item quantity="one">Обновите %d контакт, добавив данные из своей электронной почты.</item>
+        <item quantity="few">Обновите %d контакта, добавив данные из своей электронной почты.</item>
+        <item quantity="many">Обновите %d контактов, добавив данные из своей электронной почты.</item>
+    </plurals>
+    <plurals name="move_contacts_confirmation_message_fmt">
+        <item quantity="other">Перенести %1$d контакта в аккаунт %2$s?</item>
+        <item quantity="one">Перенести %1$d контакт в аккаунт %2$s?</item>
+        <item quantity="few">Перенести %1$d контакта в аккаунт %2$s?</item>
+        <item quantity="many">Перенести %1$d контактов в аккаунт %2$s?</item>
+    </plurals>
+    <plurals name="move_contacts_success_toast">
+        <item quantity="other">%d контакта перенесено</item>
+        <item quantity="one">%d контакт перенесен</item>
+        <item quantity="few">%d контакта перенесено</item>
+        <item quantity="many">%d контактов перенесено</item>
+    </plurals>
+    <plurals name="moving_contacts_finished_title">
+        <item quantity="other">%d контакта перенесено</item>
+        <item quantity="one">%d контакт перенесен</item>
+        <item quantity="few">%d контакта перенесено</item>
+        <item quantity="many">%d контактов перенесено</item>
+    </plurals>
+    <plurals name="moving_contacts_in_progress_title">
+        <item quantity="other">Перенос %d контакта…</item>
+        <item quantity="one">Перенос %d контакта…</item>
+        <item quantity="few">Перенос %d контактов…</item>
+        <item quantity="many">Перенос %d контактов…</item>
+    </plurals>
+    <plurals name="new_contact_assistant_summary_card_body">
+        <item quantity="other">%d предложения</item>
+        <item quantity="one">%d предложение</item>
+        <item quantity="few">%d предложения</item>
+        <item quantity="many">%d предложений</item>
+    </plurals>
+    <plurals name="phone_repair_contacts_to_update">
+        <item quantity="other">Изменения коснутся %d страны</item>
+        <item quantity="one">Изменения коснутся %d страны</item>
+        <item quantity="few">Изменения коснутся %d стран</item>
+        <item quantity="many">Изменения коснутся %d стран</item>
+    </plurals>
+    <plurals name="phone_repair_number_updated">
+        <item quantity="other">Обновлено %d номера</item>
+        <item quantity="one">Обновлен %d номер</item>
+        <item quantity="few">Обновлено %d номера</item>
+        <item quantity="many">Обновлено %d номеров</item>
+    </plurals>
+    <plurals name="phone_repair_updating_notification">
+        <item quantity="other">Выполняется обновление %d телефонного номера. Это может занять некоторое время.</item>
+        <item quantity="one">Выполняется обновление %d телефонного номера. Это может занять некоторое время.</item>
+        <item quantity="few">Выполняется обновление %d телефонных номеров. Это может занять некоторое время.</item>
+        <item quantity="many">Выполняется обновление %d телефонных номеров. Это может занять некоторое время.</item>
+    </plurals>
+    <plurals name="restore_assistant_message">
+        <item quantity="other">%1$d контакта скопировано в аккаунт %2$s</item>
+        <item quantity="one">%1$d контакт скопирован в аккаунт %2$s</item>
+        <item quantity="few">%1$d контакта скопировано в аккаунт %2$s</item>
+        <item quantity="many">%1$d контактов скопировано в аккаунт %2$s</item>
+    </plurals>
+    <plurals name="share_location_success_message_with_duration">
+        <item quantity="other">Ваше местоположение будет видно в течение %1$d минуты</item>
+        <item quantity="one">Ваше местоположение будет видно в течение %1$d минуты</item>
+        <item quantity="few">Ваше местоположение будет видно в течение %1$d минут</item>
+        <item quantity="many">Ваше местоположение будет видно в течение %1$d минут</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Импорт с SIM-карт</item>
+        <item quantity="one">Импорт с SIM-карт</item>
+        <item quantity="few">Импорт с SIM-карт</item>
+        <item quantity="many">Импорт с SIM-карт</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+        <item quantity="many">%d контактов</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Импортировано %d контакта с SIM</item>
+        <item quantity="one">Импортирован %d контакт с SIM</item>
+        <item quantity="few">Импортировано %d контакта с SIM</item>
+        <item quantity="many">Импортировано %d контактов с SIM</item>
+    </plurals>
+</resources>

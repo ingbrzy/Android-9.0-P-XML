@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Siirry etusivulle</string>
+    <string name="abc_action_bar_up_description">Siirry ylös</string>
+    <string name="abc_action_menu_overflow_description">Lisää</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Näytä kaikki</string>
+    <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
+    <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
+    <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_search_hint">Haku…</string>
+    <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
+    <string name="abc_searchview_description_query">Hakulauseke</string>
+    <string name="abc_searchview_description_search">Haku</string>
+    <string name="abc_searchview_description_submit">Lähetä kysely</string>
+    <string name="abc_searchview_description_voice">Puhehaku</string>
+    <string name="abc_shareactionprovider_share_with">Jakaminen:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jaa sovelluksessa %s</string>
+    <string name="abc_toolbar_collapse_description">Kutista</string>
+    <string name="account_blocked_title">Tili estetty</string>
+    <string name="account_level_title">Tilitoimia tarvitaan</string>
+    <string name="account_removed_notification_text">%1$s poistettiin, koska laitehallinnan määritystä ei suoritettu loppuun.</string>
+    <string name="account_removed_notification_title">Tili poistettiin</string>
+    <string name="android_privacy_policy_title">Tietosuojalisäkäytäntö</string>
+    <string name="app_level_title">Kirjautumispyyntö</string>
+    <string name="app_level_title_secondary">%s: kirjautumispyyntö</string>
+    <string name="audience_selection_done">Valmis</string>
+    <string name="auth_account_already_has_gmail">Gmail on jo käytössä tilillä.</string>
+    <string name="auth_account_content_provider_label">Google-tilin tiedot</string>
+    <string name="auth_account_module_display_name">Google-tilit</string>
+    <string name="auth_account_removed_default_description">Laitehallintaa ei määritetty loppuun asti. %1$s</string>
+    <string name="auth_account_removed_default_title">Määritys peruutettu</string>
+    <string name="auth_account_removed_dm_bad_result_description">Laitehallintaa ei voitu määrittää loppuun asti. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Verkkotunnuksesi edellyttää mobiililaitehallintaa, mutta sitä ei tueta tällä laitteella. Yritä käyttää toista tiliä.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Laitehallintaa ei tueta</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Laitehallintaa ei asennettu oikein. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Asennusongelmia</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Määritys peruutettu</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Vain yksi hallinnoitu tili on sallittu tälle laitteelle. Jos sinulla on kysyttävää, ota yhteyttä organisaation järjestelmänvalvojaan.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Hallinnoitu tili jo olemassa</string>
+    <string name="auth_account_settings_title">Tilin asetukset</string>
+    <string name="auth_account_setup_title">Google-tili</string>
+    <string name="auth_account_start_over_and_signin_again">Aloita alusta ja kirjaudu uudelleen sisään.</string>
+    <string name="auth_account_state_sync_title">Tilin tilan synkronointi</string>
+    <string name="auth_allow_external_site_access">käyttää jatkuvasti tietojasi sivustossa %s</string>
+    <string name="auth_app_permission_ok_footnote">Jatkamalla annat tälle sovellukselle ja Googlelle luvan käyttää tietojasi soveltuvien käyttöehtojen ja tietosuojakäytäntöjen mukaisesti.</string>
+    <string name="auth_cant_add_work_account_message">Organisaatiosi hallitsee tämän tyyppisiä tilejä.</string>
+    <string name="auth_captcha_instructions">Kirjoita näkemäsi teksti tähän:</string>
+    <string name="auth_captcha_title">Kirjoita captcha-kuvakkeen merkit</string>
+    <string name="auth_common_downloading">Ladataan…</string>
+    <string name="auth_common_go_back">Takaisin</string>
+    <string name="auth_common_switch_accounts">Vaihda tiliä</string>
+    <string name="auth_communicating_message">Laitteesi muodostaa yhteyttä Googleen tallentaakseen tietoja tiliisi. Tämä voi kestää viisi minuuttia.</string>
+    <string name="auth_confirm_creds_sync_title">Kirjautumistietojen tila</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Lukitse ja vahvista</string>
+    <string name="auth_d2d_source_copy_notice">Kopioidaanko tilit ja tiedot toiselle laitteellesi?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Kun vahvistus on suoritettu, Bluetooth otetaan käyttöön, jotta laitteesi voivat kommunikoida keskenään.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Kun vahvistus on suoritettu, laitteesi kommunikoivat keskenään Bluetoothilla.</string>
+    <string name="auth_d2d_source_lock_notice">Seuraavaksi laitteesi lukitaan, ja voit jatkaa avaamalla lukituksen.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Tap &amp; Gon käyttäminen ei onnistu, koska laitteessa ei ole tilejä.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Tap &amp; Gon käyttäminen ei onnistu, koska Bluetooth ei ole käytettävissä laitteella.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth otetaan käyttöön, jotta laitteesi voivat kommunikoida keskenään.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Käyttää Bluetoothia.</string>
+    <string name="auth_d2d_source_notification_title">Tap &amp; Go on valmis</string>
+    <string name="auth_d2d_source_restricted_user_toast">Napauta ja palauta -toimintoa ei voi käyttää rajoitetulla käyttäjäprofiililla.</string>
+    <string name="auth_d2d_source_title">Tilien palautus</string>
+    <string name="auth_d2d_source_unknown_device_name">Tuntematon laite</string>
+    <string name="auth_d2d_target_tap_progress_message">Jatka valitsemalla OK toisella laitteella.</string>
+    <string name="auth_d2d_target_unlock_progress_message">Tarkista toinen laitteesi</string>
+    <string name="auth_d2d_target_wait_progress_message">Noudetaan tilejä ja tietoja…</string>
+    <string name="auth_device_management_download_app_icon">Sovelluksen %s kuvake</string>
+    <string name="auth_device_management_download_description">Tämä tili edellyttää mobiililaitteiden hallintaa. Asenna ^1, jotta voit ottaa käyttöön tilin edellyttämät suojauskäytännöt.</string>
+    <string name="auth_device_management_download_description_kids">Jos haluat lisätä tilin tälle laitteelle, asenna ensin <b>^1</b>". 
+
+^1 auttaa määrittämään laitteen lapsesi käyttöön."</string>
+    <string name="auth_device_management_download_failed_message">Voit silti jatkaa määritystä ilman tätä sovellusta.</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Laitteenhallinnan asennus epäonnistui. Tämä tili poistetaan. Yritä myöhemmin uudelleen.</string>
+    <string name="auth_device_management_download_failed_title">Sovellusta ei voi ladata.</string>
+    <string name="auth_device_management_download_not_updated_message">Voit silti jatka määritystä nykyisellä versiolla.</string>
+    <string name="auth_device_management_download_paused">Keskeytetty</string>
+    <string name="auth_device_management_download_progress">Ladataan…</string>
+    <string name="auth_device_management_download_skip_message">Tämä tili edellyttää laitteenhallinnan käyttöönottoa. Haluatko jatkaa ilman sitä?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Tämän tilin lisääminen edellyttää laitteenhallinnan käyttöönottoa. Haluatko aloittaa alusta toisella tilillä?</string>
+    <string name="auth_device_management_go_back">Siirry takaisin</string>
+    <string name="auth_device_management_screenlock_description">Jotta voit käyttää työtiliäsi tällä laitteella, sinun on määritettävä lukitusnäyttö. Tämä on organisaatiosi laitekäytäntö.</string>
+    <string name="auth_device_management_screenlock_skip_message">Tämä tili edellyttää näytön lukituksen käyttämistä. Haluatko kirjautua eri tilille ja aloittaa alusta?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Organisaatiosi hallinnoiman työprofiilin avulla pidät työsovellukset erillään omistasi.
+
+Jotta voit suorittaa määrityksen loppuun, tarvitset koodin IT-järjestelmänvalvojaltasi. Hän lataa hallintatyökalun ja käyttää sitä työprofiilisi hoitamiseen."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Organisaatiosi hallinnoiman työprofiilin avulla pidät työsovellukset erillään omistasi.
+
+IT-järjestelmänvalvojasi lataa hallintatyökalun ja käyttää sitä työprofiilisi hoitamiseen."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Määritä työprofiili</string>
+    <string name="auth_device_management_start_description">Tämä tili edellyttää mobiililaitehallintaa. Kun valitset Seuraava, ^1 auttaa sinua ottamaan käyttöön suojauskäytännöt, joita tililtä edellytetään.</string>
+    <string name="auth_device_management_start_description_kids">Jos haluat lisätä tilin tälle laitteelle, ota käyttöön <b>^1</b>". 
+
+^1 auttaa määrittämään laitteen lapsesi käyttöön."</string>
+    <string name="auth_device_management_title">Laitehallinta</string>
+    <string name="auth_device_management_update_description">Tämä tili edellyttää mobiililaitteiden hallintaa. ^1 on päivitettävä uusimpaan versioon tilin suojauskäytäntöjen vuoksi.</string>
+    <string name="auth_device_management_update_description_kids">Jos haluat lisätä tilin tälle laitteelle, asenna ensin sovelluksen <b>^1</b>" uusin versio. 
+
+^1 auttaa määrittämään laitteen lapsesi käyttöön."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> ei käytä Gmailia.</string>
+    <string name="auth_error_account_disabled">"Tämä tili on poistettu käytöstä. 
+
+(Lisätietoja saat käymällä verkkoselaimella osoitteessa http://google.com/accounts.)"</string>
+    <string name="auth_error_account_not_verified">"Tätä tiliä ei ole vahvistettu. Vahvista tili avaamalla sähköpostiosoitteeseesi lähetetty vahvistuslinkki tietokoneella. 
+
+(Voit palauttaa tilitietosi tietokoneella osoitteessa http://www.google.com/accounts/recovery.)"</string>
+    <string name="auth_error_bad_password">Salasana on liian heikko, tai se sisältää kiellettyjä merkkejä. Yritä uudelleen.</string>
+    <string name="auth_error_bad_username">Virheellinen käyttäjänimi.</string>
+    <string name="auth_error_generic_server_error">"Yhteydessä Google-palvelimien kanssa tapahtui virhe. 
+
+Yritä myöhemmin uudelleen."</string>
+    <string name="auth_error_invalid_second_factor">Käytä sovelluskohtaista salasanaa tavallisen salasanasi sijaan.</string>
+    <string name="auth_error_login_failed">"Käyttäjätunnus ja salasana eivät täsmää. Yritä uudelleen.
+
+Voit palauttaa tilisi tiedot siirtymällä sivulle google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Kirjaudu sisään verkossa, jotta voit käyttää tiliäsi. Aloita kirjautuminen selaimella valitsemalla Seuraava.</string>
+    <string name="auth_error_no_network">"Sinulla ei ole verkkoyhteyttä. 
+
+Tämä voi olla tilapäinen ongelma. Yritä uudelleen tai yhdistä toiseen Wi-Fi-verkkoon."</string>
+    <string name="auth_error_not_logged_in">Käyttäjä ei ole kirjautunut sisään.</string>
+    <string name="auth_error_username_unavailable">Käyttäjätunnus ei ole käytettävissä.</string>
+    <string name="auth_existing_account_error_text">Tällä Android-laitteella on jo tili ^1.</string>
+    <string name="auth_existing_account_error_title">Tili on jo olemassa</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Laitteeseen kirjautuminen epäonnistui, koska salasanaa on vaihdettu äskettäin. Yritä kirjautua uudelleen sisään 24 tuntia salasanan vaihtamisen jälkeen.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Laitteen suojaus ei ole tämän jälkeen käytössä.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Laitteen viimeisen Google-tilin siirtäminen pois henkilökohtaisesta profiilistasi poistaa käytöstä laitteen varkaudenesto-ominaisuudet. Voit lisätä laitteelle toisen tilin, jos haluat ottaa ominaisuudet takaisin käyttöön.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Oletko varma?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Siirretäänkö tili työprofiiliin?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Laitteeseen ei voi kirjautua tuntemattoman virheen vuoksi. Kokeile toista tiliä tai yritä kirjautua uudelleen 24 tunnin päästä.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Kirjaudu sisään jollain tämän laitteen omistajan tilillä.</string>
+    <string name="auth_field_cant_be_blank">Kenttä ei voi olla tyhjä.</string>
+    <string name="auth_frp_add_account_no">Käytä uutta tiliä</string>
+    <string name="auth_frp_add_account_prompt">Tämän laitteen aiempi Google-tili on vahvistettu. ^1 voidaan lisätä takaisin tälle laitteelle, tai voit myös käyttää uutta tiliä.</string>
+    <string name="auth_frp_add_account_yes">Lisää aiempi tili</string>
+    <string name="auth_frp_device_managed_label">Tämän laite on määritetty organisaatiosi hallinnoitavaksi.</string>
+    <string name="auth_frp_download_management_app_label">Lataa yrityksen laitteenhallintasovellus, niin voit jatkaa määritysprosessia.</string>
+    <string name="auth_frp_enter_device_credentials_label">Vaihda järjestelmänvalvojatilaan</string>
+    <string name="auth_frp_install_dpc_error">Hallintasovelluksen asennus epäonnistui. Jos päätät ohittaa tämän vaiheen, laitetta ei hallinnoida.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Hallintasovelluksen asennus epäonnistui. Tarkista verkkoyhteys ja yritä myöhemmin uudelleen.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Käytä sen sijaan Google-tiliäni</string>
+    <string name="auth_frp_preadd_lkscreen_text">Laitteesi tehdasasetukset on palautettu, voit avata lukituksen vastaamalla aiemmin määrittämääsi turvakysymykseen.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Tehdasasetusten palautusten suojaus</string>
+    <string name="auth_frp_start_reenroll_device_title">Työkäytössä oleva laite</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Tätä tiliä ei voi käyttää. Varmista, että laite noudattaa organisaation tietoturvakäytäntöjä. Jos näet tämän virheen toistuvasti, ota yhteyttä organisaatiosi järjestelmänvalvojaan.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Tilivirhe</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Verkkotunnuksesi edellyttää mobiililaitehallintaa. Asenna Google Apps Device Policy ‑sovellus, jotta voit ottaa käyttöön tilin  "<b>^1</b> edellyttämät suojauskäytännöt.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Lataa</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" voi sisältää vain kirjaimia,
+numeroita ja pisteitä."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> ei sisällä yhtään kirjainta.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> sisältää alle 6 tai yli 30 merkkiä.</string>
+    <string name="auth_gls_is_not_available">Käyttäjätunnus <b>^1</b> ei ole käytettävissä.</string>
+    <string name="auth_gls_name_checking_info_title">Tarkistetaan tietoja…</string>
+    <string name="auth_gls_sync_item_title">Synkronoi %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Tili  "<b>^1</b> täytyy lisätä organisaatiosi hallinnoimaan laitteeseen tai työprofiiliin. Noudata IT-järjestelmänvalvojasi ohjeita.</string>
+    <string name="auth_google_title_logo">Google-logo</string>
+    <string name="auth_invalid_login_character">Virheellinen merkki. Sallittuja ovat vain 0–9, a–z, A–Z ja pisteet.</string>
+    <string name="auth_invalid_password_character">Virheellinen merkki salasanassa.</string>
+    <string name="auth_invalid_username">Käyttäjätunnus ei kelpaa.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Kirjoitit virheellisen salasanan tai tili on muuttunut. Kirjoita salasana uudelleen. Jos olet unohtanut salasanasi ja haluat palauttaa tilisi käyttöoikeuden, klikkaa <annotation id="help_url">tätä</annotation>.</string>
+    <string name="auth_login_task_title">Kirjaudutaan sisään</string>
+    <string name="auth_login_title">Kirjoita sähköpostiosoite ja salasana</string>
+    <string name="auth_minutemaid_ssl_error">"Virhe yhdistettäessä palveluun  %s"</string>
+    <string name="auth_network_unreliable_help">Tämä voi olla tilapäinen ongelma, tai datapalvelut eivät ole käytössä Android-laitteessasi. Jos ongelma jatkuu, ota yhteyttä asiakastukeen.</string>
+    <string name="auth_no_network">Ei verkkoyhteyttä.</string>
+    <string name="auth_no_network_help">Tämä voi olla väliaikainen ongelma tai Android-laitteelle ei ole määritetty tiedonsiirtoyhteyttä. Yritä uudelleen, kun olet muodostanut yhteyden mobiili- tai Wi-Fi-verkkoon.</string>
+    <string name="auth_no_network_help_wifi_only">Tämä voi olla väliaikainen ongelma. Yritä uudelleen tai muodosta yhteys toiseen Wi-Fi-verkkoon.</string>
+    <string name="auth_otp_error">Turvakoodin luominen epäonnistui.</string>
+    <string name="auth_otp_explained_paragraph">Jos unohdat salasanasi tai jos kirjautumisessasi on jotain uutta, Google saattaa pyytää sinulta turvakoodia suojellakseen tiliäsi. Käytä se nyt tai palaa tänne, jos tarvitset uuden.</string>
+    <string name="auth_otp_header_message">Milloin tarvitset tätä koodia kirjautumiseen</string>
+    <string name="auth_otp_no_accounts_available_message">Tällä laitteella ei ole määritettyä tiliä.</string>
+    <string name="auth_otp_progress_dialog_message">Turvakoodia luodaan.</string>
+    <string name="auth_otp_ten_digit_code_header">Turvakoodisi</string>
+    <string name="auth_otp_ten_digit_explaination">Jos unohdat salasanasi tai kirjaudut uudelle laitteelle tai uudessa sijainnissa, sinulta voidaan pyytää näitä koodeja tilisi suojaamiseksi.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Nämä koodit vanhentuvat 15 minuutin päästä tai käytön jälkeen. Käytä niitä vain verkkosivuilla, joiden URL-osoitteiden alussa on https://accounts.google.com/.</string>
+    <string name="auth_otp_ten_digit_usage_header">Koodien käyttö</string>
+    <string name="auth_otp_ten_digits_code1">Koodi 1</string>
+    <string name="auth_otp_ten_digits_code2">Koodi 2</string>
+    <string name="auth_password">Salasana</string>
+    <string name="auth_plus_audience_selection_description_acl">JAA SEURAAVILLE:</string>
+    <string name="auth_plus_info_fragment_app_name">%s haluaa</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%1$s laitteesta %2$s pyytää lupaa</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Laajennetut piirisi</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Valitut piirit</string>
+    <string name="auth_plus_scope_fragment_public_label">Kaikille verkossa</string>
+    <string name="auth_pre_factory_reset_title">Muista Google-tili</string>
+    <string name="auth_relogin_activity_title">Kirjoita salasana uudelleen</string>
+    <string name="auth_remove_account_start_over">Aloita alusta</string>
+    <string name="auth_request_accounts_list">Katso luettelo laitteen Google-tileistä.</string>
+    <string name="auth_scope_more_details">Lisätietoja</string>
+    <string name="auth_server_error">Viestinnässä Googlen palvelimien kanssa esiintyi ongelma.</string>
+    <string name="auth_server_error_help">Yritä myöhemmin uudelleen.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Tili lisätty</string>
+    <string name="auth_setup_wizard_account_added_description">Tilisi lisättiin. Jatka valitsemaan Google-palvelujen asetukset.</string>
+    <string name="auth_setup_wizard_services_activity_title">Googlen palvelut</string>
+    <string name="auth_setup_wizard_title">Ohjattu asennustoiminto</string>
+    <string name="auth_show_error_title">Virhe</string>
+    <string name="auth_sign_in_agreement">Kirjautumalla sisään hyväksyt <annotation id="google_privacy">Googlen</annotation> tietosuojakäytännön sekä tietosuojakäytännön <annotation id="android_privacy">lisäosat</annotation>.</string>
+    <string name="auth_sign_in_browser">Selaimeen kirjautuminen</string>
+    <string name="auth_sign_in_with_google_account_short">Kirjaudu sisään Google-tililläsi:</string>
+    <string name="auth_submission_error_text">Tapahtui virhe. Yritä uudelleen.</string>
+    <string name="auth_submission_title">Pahoittelemme…</string>
+    <string name="auth_ui_activity_authenticating">Todennetaan…</string>
+    <string name="auth_ui_activity_title">Kirjautuminen Googleen</string>
+    <string name="auth_ui_activity_title_browser_signin">Sisäänkirjautuminen</string>
+    <string name="auth_ui_add_account_title">Tilin määritys</string>
+    <string name="auth_uncertified_notification_description"><b>Laitteen ostanut käyttäjä:</b>"
+Laitteen valmistaja on asentanut etukäteen Googlen sovelluksia ja palveluita ilman Googlen sertifikaattia. Pyydä valmistajalta sertifioitua laitetta. Lue lisää osoitteessa g.co/AndroidCertifiedDevice.
+
+"<b> Lisensoimaton valmistaja:</b>"
+Tarvitset lisenssin, jotta voit käyttää Googlen sovelluksia ja palveluita. Hae sellaista osoitteessa g.co/AndroidGMSContact.
+
+"<b>Lisensoitu valmistaja:</b>"
+Jos haluat käyttää Googlen sovelluksia ja palveluita kehityksen aikana, rekisteröi laite. Pyydä lisätietoja Google-yhteyshenkilöltäsi.
+
+"<b>Muokatun ROM-järjestelmän käyttäjä:</b>"
+Jos haluat käyttää Googlen sovelluksia ja palveluita muokatulla ROM-järjestelmällä, rekisteröi tämä laite. Lisätietoja osoitteessa g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Laite ei ole Googlen sertifioima</string>
+    <string name="auth_username">Sähköposti</string>
+    <string name="auth_work_authenticator_label">Hallinnoitu tili</string>
+    <string name="authorization_dialog">Valtuutusvalintaikkuna</string>
+    <string name="chrome_privacy_title">Chromen tietosuojailmoitus</string>
+    <string name="chrome_tos_title">Chromen käyttöehdot</string>
+    <string name="close_button_label">Sulje</string>
+    <string name="common_accept">Hyväksy</string>
+    <string name="common_add">Lisää</string>
+    <string name="common_add_account_label">Lisää tili</string>
+    <string name="common_ads_settings_title">Mainokset</string>
+    <string name="common_agree">Hyväksyn</string>
+    <string name="common_app_name">Google Play Palvelut</string>
+    <string name="common_application_info">Sovelluksen tiedot</string>
+    <string name="common_application_info_composed_string">sovellustiedot</string>
+    <string name="common_asm_google_account_title">Google-tili</string>
+    <string name="common_asm_manage_google_account_title">Hallinnoi Google-tiliäsi</string>
+    <string name="common_asm_preferences_settings_title">Tiliasetukset</string>
+    <string name="common_asm_privacy_settings_title">Henkilötiedot ja yksityisyys</string>
+    <string name="common_asm_security_settings_title">Kirjautuminen ja tietosuoja</string>
+    <string name="common_back">Takaisin</string>
+    <string name="common_battery">Akku</string>
+    <string name="common_block">Estä</string>
+    <string name="common_cancel">Peruuta</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts-sovellusta ei voi käynnistää (käyttöoikeusvirhe).</string>
+    <string name="common_car_permission_desc">Autopalvelun käyttöoikeus.</string>
+    <string name="common_car_permission_label">Autopalvelu</string>
+    <string name="common_card">Kortti</string>
+    <string name="common_chips_label_empty_circles">Ei piirejä</string>
+    <string name="common_chips_label_extended_circles">Laajennetut piirit</string>
+    <string name="common_chips_label_only_you">Vain sinä</string>
+    <string name="common_chips_label_public">Julkinen</string>
+    <string name="common_chips_label_your_circles">Piirisi</string>
+    <string name="common_choose_account_label">Valitse tili</string>
+    <string name="common_confirm_screen_lock_title">Vahvista näytön lukitus</string>
+    <string name="common_connect">Yhdistä</string>
+    <string name="common_connected">Yhdistetty</string>
+    <string name="common_connected_apps_settings_title">Yhdistetyt sovellukset</string>
+    <string name="common_connecting">Yhdistetään…</string>
+    <string name="common_continue">Jatka</string>
+    <string name="common_disabled">Ei käytössä</string>
+    <string name="common_disagree">En hyväksy</string>
+    <string name="common_disconnect">Katkaise yhteys</string>
+    <string name="common_dismiss">Hylkää</string>
+    <string name="common_done">Valmis</string>
+    <string name="common_edit">Muokkaa</string>
+    <string name="common_email">Sähköposti</string>
+    <string name="common_fingerprint_hint">Kosketa tunnistinta</string>
+    <string name="common_from">Lähettäjä:</string>
+    <string name="common_games_settings_title">Play Pelit</string>
+    <string name="common_get_started">Aloita</string>
+    <string name="common_google_play_services_enable_button">Ota käyttöön</string>
+    <string name="common_google_play_services_enable_text">%1$s ei toimi, ellet ota Google Play Palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play Palvelut käyttöön</string>
+    <string name="common_google_play_services_error_dialog_title">Virhe</string>
+    <string name="common_google_play_services_install_button">Asenna</string>
+    <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Palveluiden saatavuus</string>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_google_play_services_update_text">%1$s ei toimi, ellet päivitä Google Play Palveluita.</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play Palvelut</string>
+    <string name="common_google_play_services_updating_text">%1$s ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä.</string>
+    <string name="common_google_play_services_updating_title">Google Play Palveluita päivitetään</string>
+    <string name="common_google_play_services_wear_update_text">Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play Palvelut on asennettu väärällä arkkitehtuurilla.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play Palvelut on asennettu arkkitehtuurilla (%1$s), joka eroaa laitteesi arkkitehtuurista (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Väärä arkkitehtuuri</string>
+    <string name="common_google_settings">Google-asetukset</string>
+    <string name="common_google_settings_account">Tili</string>
+    <string name="common_google_settings_credentials_title">Smart Lock salasanoille</string>
+    <string name="common_got_it">Selvä</string>
+    <string name="common_install">Asenna</string>
+    <string name="common_learn_more">Lisätietoja</string>
+    <string name="common_list_apps_menu_help">Ohje</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ohje ja palaute</string>
+    <string name="common_loading">Ladataan…</string>
+    <string name="common_location_settings_title">Sijainti</string>
+    <string name="common_login_activity_task_title">Kirjaudutaan…</string>
+    <string name="common_login_error_title">Kirjautuminen epäonnistui</string>
+    <string name="common_magictether_settings_title">Yhteyden pikajakaminen</string>
+    <string name="common_maps_settings_title">Maps ja Latitude</string>
+    <string name="common_mdm_feature_name">Paikanna puhelin</string>
+    <string name="common_missing_url_viewer">Ulkoista URL-osoitetta ei voi näyttää, koska näyttämiseen sopivaa ohjelmaa ei ole.</string>
+    <string name="common_more">Lisää</string>
+    <string name="common_more_options">Lisää vaihtoehtoja</string>
+    <string name="common_mute_notification">Mykistä ilmoitus</string>
+    <string name="common_network_unavailable">Ei internetyhteyttä</string>
+    <string name="common_networking_settings_title">Verkko</string>
+    <string name="common_never">Ei koskaan</string>
+    <string name="common_next">Seuraava</string>
+    <string name="common_no_browser_for_restricted_url">Käyttöoikeus on rajoitettu. Selainta ei löytynyt.</string>
+    <string name="common_no_devices_found">Laitteita ei löydy</string>
+    <string name="common_no_network">Ei käytettävissä, koska laite on offline-tilassa</string>
+    <string name="common_no_thanks">Ei kiitos</string>
+    <string name="common_not_now">Ei nyt</string>
+    <string name="common_off">Ei käytössä</string>
+    <string name="common_offline">Olet offline-tilassa.</string>
+    <string name="common_on">Käytössä</string>
+    <string name="common_open">Avaa</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="common_open_source_licenses">Avoimen lähdekoodin käyttöluvat</string>
+    <string name="common_pause">Keskeytä</string>
+    <string name="common_people_settings_title">Yhteystiedot</string>
+    <string name="common_permissions_enable_in_settings">Aktivoi Asetuksissa</string>
+    <string name="common_permissions_missing_end">Jatka avaamalla Asetukset, valitsemalla Käyttöoikeudet ja sallimalla kaikki luetellut kohteet.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Ota käyttöön valitsemalla
+Asetukset >
+Käyttöoikeudet >
+Google Play Palvelut."</string>
+    <string name="common_permissions_missing_start">Tämä sovellus ei toimi oikein, ellet myönnä Google Play Palveluille seuraavia käyttöoikeuksia:</string>
+    <string name="common_permissions_open_settings">Avaa asetukset</string>
+    <string name="common_phone">Puhelin</string>
+    <string name="common_play">Toista</string>
+    <string name="common_privacy_policy">Tietosuojakäytäntö</string>
+    <string name="common_privacy_policy_composed_string">Tietosuojakäytäntö</string>
+    <string name="common_refresh">Päivitä</string>
+    <string name="common_remove">Poista</string>
+    <string name="common_reply">Vastaa</string>
+    <string name="common_restore">Palauta</string>
+    <string name="common_retry">Yritä uudelleen</string>
+    <string name="common_save">Tallenna</string>
+    <string name="common_saved">Tallennettu</string>
+    <string name="common_saving">Tallennetaan…</string>
+    <string name="common_search_settings_title">Haku</string>
+    <string name="common_security_ootp_setting_title">Turvakoodi</string>
+    <string name="common_select">Valitse</string>
+    <string name="common_send">Lähetä</string>
+    <string name="common_sending">Lähetetään…</string>
+    <string name="common_set_up_nearby_device_settings_title">Määritä lähellä oleva laite</string>
+    <string name="common_settings">Asetukset</string>
+    <string name="common_share">Jaa</string>
+    <string name="common_sign_in">Kirjaudu sisään</string>
+    <string name="common_signin_button_text">Kirjaudu sisään</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tilille</string>
+    <string name="common_skip">Ohita</string>
+    <string name="common_skip_fingerprint">Käytä näytön lukitusta</string>
+    <string name="common_something_went_wrong">Jokin meni vikaan.</string>
+    <string name="common_system_info">Järjestelmätiedot</string>
+    <string name="common_system_info_composed_string">Tili- ja järjestelmätietoja</string>
+    <string name="common_take_photo_label">Ota valokuva</string>
+    <string name="common_terms_of_service">Käyttöehdot</string>
+    <string name="common_terms_of_service_composed_string">Käyttöehdot</string>
+    <string name="common_today">Tänään</string>
+    <string name="common_try_again">Yritä uudelleen</string>
+    <string name="common_turn_on">Ota käyttöön</string>
+    <string name="common_turn_on_bluetooth">Ota Bluetooth käyttöön</string>
+    <string name="common_turn_on_nfc">Ota NFC käyttöön</string>
+    <string name="common_ui_confirm_deleting_button">Poista</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ymmärrän. Haluan poistaa tiedot.</string>
+    <string name="common_unknown">Tuntematon</string>
+    <string name="common_update">Päivitä</string>
+    <string name="common_url_load_unsuccessful_message">Android-laitteesi ei ole yhteydessä verkkoon. Voit tarkastella näitä tietoja verkkoselaimella osoitteessa %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android-laitettasi ei ole yhdistetty Wi-Fi-verkkoon. Voit tarkastella näitä tietoja siirtymällä selaimella osoitteeseen %s.</string>
+    <string name="common_usage_and_diagnostics">Käyttö‑ ja diagnostiikkatiedot</string>
+    <string name="common_view">Näytä</string>
+    <string name="common_yesterday">Eilen</string>
+    <string name="continue_to_login_heading">Kirjaudu sisään</string>
+    <string name="continue_to_login_text">Kirjautumistiedot noudettu. Kirjaudu sisään ensimmäiselle laitteelle.</string>
+    <string name="description_fingerprint_icon">Sormenjälkikuvake</string>
+    <string name="download_msg_error_invalid">Lataus määritettiin virheellisesti.</string>
+    <string name="download_msg_in_progress">Lataus on käynnissä.</string>
+    <string name="download_msg_not_allowed_space">Tila ei riitä lataamiseen.</string>
+    <string name="download_msg_pending">Lataus odottaa.</string>
+    <string name="download_notification_description">%1$s pyysi tätä.</string>
+    <string name="download_notification_title">Haetaan lisää tietoja</string>
+    <string name="expand_button_title">Lisätiedot</string>
+    <string name="fido_ble_device_icon_content_description">Bluetooth-laite löydetty</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Varmista, että avaimesi on laiteparin muodostustilassa pitämällä sen painiketta painettuna vähintään viisi sekuntia.</string>
+    <string name="fido_ble_dont_see_your_key_hint">Etkö näe avaintasi?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Suojausavain toimii vain, kun laitteesi Bluetooth-yhteys ja sijaintipalvelut ovat käytössä.</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Suojausavain toimii vain, kun laitteesi Bluetooth-yhteys on käytössä.</string>
+    <string name="fido_ble_enable_body_location_only">Suojausavain toimii vain, kun laitteesi sijaintipalvelu on käytössä.</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Ota Bluetooth ja sijainti käyttöön</string>
+    <string name="fido_ble_enable_title_location_only">Ota sijainti käyttöön</string>
+    <string name="fido_ble_instructions_body">Voit käyttää useimpia avaimia napauttamalla painiketta.</string>
+    <string name="fido_ble_locate_pin_body">Parinmuodostuksen PIN-koodi on yleensä 4–6-numeroinen luku ja saattaa löytyä avaimesi takaosasta. Jatka, kun olet valmis kirjoittamaan PIN-koodin.</string>
+    <string name="fido_ble_locate_pin_title">Etsi avaimen %1$s Bluetooth-parinmuodostuksen PIN-koodi</string>
+    <string name="fido_ble_pair_device_pairing">Muodostetaan laiteparia…</string>
+    <string name="fido_ble_pair_instructions_body">Muodosta pari avaimen ja laitteen välillä, jotta voit käyttää avainta tilisi kanssa.</string>
+    <string name="fido_ble_pair_instructions_title">Oletko valmis yhdistämään suojausavaimen laitepariksi?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Aseta avain takaisin parinmuodostustilaan.</string>
+    <string name="fido_ble_pairing_mode_body">Pidä suojausavaimen painiketta painettuna vähintään viisi sekuntia.</string>
+    <string name="fido_ble_pairing_mode_title">Siirry laiteparin muodostustilaan</string>
+    <string name="fido_ble_select_device_body">Valitse alla olevasta luettelosta suojausavain, jonka haluat yhdistää pariksi laitteen kanssa. Nimi saattaa olla avaimen takaosassa.</string>
+    <string name="fido_ble_select_device_title">Valitse suojausavain</string>
+    <string name="fido_instructions_title">Sallitaanko suojausavaimen käyttö?</string>
+    <string name="fido_nfc_enable_body">Suojausavain toimii vain, kun laitteesi NFC-yhteys on käytössä.</string>
+    <string name="fido_nfc_instructions_body">Pidä avainta painettuna laitteesi takaosaa vasten, kunnes se lakkaa värisemästä.</string>
+    <string name="fido_paask_body">Lähellä oleva laite yrittää kirjautua sisään Google-tilillesi</string>
+    <string name="fido_paask_chip">käyttäjä@gmail.com</string>
+    <string name="fido_paask_footer">Tämä on kirjautumisen lisäsuojaustoimi, johon käytetään suojattua Bluetooth-yhteyttä läheiseen laitteeseen.</string>
+    <string name="fido_paask_header">Yritätkö kirjautua sisään läheisellä laitteella?</string>
+    <string name="fido_paask_no_text">En</string>
+    <string name="fido_paask_yes_text">Kyllä</string>
+    <string name="fido_pair_another_security_key">Muodosta pari toisen suojausavaimen kanssa</string>
+    <string name="fido_processing">Vahvistetaan suojausavainta…</string>
+    <string name="fido_transport_selection_bluetooth">Käytä suojausavaimen kanssa Bluetoothia</string>
+    <string name="fido_transport_selection_body">Suojausavain toimii Bluetoothin, NFC:n ja USB:n kanssa. Valitse, kuinka haluat käyttää avaintasi.</string>
+    <string name="fido_transport_selection_fingerprint">Käytä suojausavaimen kanssa sormenjälkeä</string>
+    <string name="fido_transport_selection_nfc">Käytä suojausavaimen kanssa NFC:tä</string>
+    <string name="fido_transport_selection_title">Valitse, kuinka haluat käyttää suojausavaintasi</string>
+    <string name="fido_transport_selection_usb">Käytä suojausavaimen kanssa USB:tä</string>
+    <string name="fido_usb_instructions_body">Liitä suojausavain USB-porttiin tai yhdistä se USB-kaapelilla. Jos avaimessa on painike tai kullanvärinen levy, kosketa sitä.</string>
+    <string name="fido_use_ble_instead">Käytä Bluetoothia suojausavaimen kanssa</string>
+    <string name="fido_use_fp_instead">Käytä suojausavaimesi kanssa sormenjälkeä</string>
+    <string name="fido_use_nfc_instead">Käytä NFC:tä suojausavaimen kanssa</string>
+    <string name="fido_use_usb_instead">Käytä USB:tä suojausavaimen kanssa</string>
+    <string name="fido_welcome_body">Suojausavaimen käyttö kohteen %1$s kanssa auttaa suojaamaan yksityisiä tietojasi.</string>
+    <string name="fido_welcome_title">Käytä suojausavainta kohteen %1$s kanssa</string>
+    <string name="fingerprint_description">Vahvista sormenjälkesi, niin %1$s voi vahvistaa henkilöllisyytesi.</string>
+    <string name="fingerprint_no_imprints_description">%1$s haluaa vahvistaa henkilöllisyytesi sormenjäljen avulla, mutta et ole vielä lisännyt sitä laitteelle.</string>
+    <string name="fingerprint_not_recognized">Sormenjälkeä ei tunnistettu. Yritä uudestaan.</string>
+    <string name="fingerprint_success">Sormenjälki tunnistettu</string>
+    <string name="gcm_fallback_notification_channel_label">Muut</string>
+    <string name="google_app_permissions_title">Sovelluksen käyttöoikeudet</string>
+    <string name="google_legal_title">Googlen lakiasiat</string>
+    <string name="google_play_tos_title">Google Playn käyttöehdot</string>
+    <string name="google_plus_privacy_policy_title">Google Plus -tietosuoja</string>
+    <string name="google_privacy_policy_title">Googlen tietosuojakäytäntö</string>
+    <string name="google_terms_of_service_title">Googlen käyttöehdot</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Anna sovellukselle lupa siirtää Wi-Fi-verkon kirjautumistietoja toiseen laitteeseen.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Siirrä Wi-Fi-kirjautumistietoja</string>
+    <string name="no_screen_lock_description">Aseta laitteeseen ensin näytön lukitus</string>
+    <string name="no_screen_lock_title">Ei näytön lukitusta puhelimessa</string>
+    <string name="notification_ticker">Käyttöoikeuspyyntö</string>
+    <string name="open_source_activity_prompt_heading">Avaa sovellus</string>
+    <string name="open_source_activity_prompt_text">"Viimeistele todennusprodessi avaamalla puhelimessasi SourceResponseActivity. "</string>
+    <string name="permgrouplab_calendar">Kalenteri</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Yhteystiedot</string>
+    <string name="permgrouplab_location">Sijainti</string>
+    <string name="permgrouplab_microphone">Mikrofoni</string>
+    <string name="permgrouplab_phone">Puhelin</string>
+    <string name="permgrouplab_sensors">Kehon anturit</string>
+    <string name="permgrouplab_sms">Tekstiviestit</string>
+    <string name="permgrouplab_storage">Tallennustila</string>
+    <string name="permissions_not_granted_text">Kirjaudu sisään uudelleen, niin käyttöoikeudet voidaan myöntää.</string>
+    <string name="permissions_not_granted_title">Käyttöoikeuksia ei myönnetty.</string>
+    <string name="plus_manage_app_only_you_label">Vain sinä</string>
+    <string name="plus_network_unreliable">Luotettavaa palvelinyhteyttä ei voi muodostaa.</string>
+    <string name="plus_oob_interstitial_loading_text">Tämä voi kestää muutaman minuutin.</string>
+    <string name="search_menu_title">Haku</string>
+    <string name="set_up">MÄÄRITÄ</string>
+    <string name="setupservices_additional_privacy_title">Lisätietoja tietosuojasta</string>
+    <string name="setupservices_android_privacy_policy_title">Tietosuojalisäkäytäntö</string>
+    <string name="setupservices_chrome_privacy_title">Chromen tietosuojailmoitus</string>
+    <string name="setupservices_chrome_tos_title">Chromen käyttöehdot</string>
+    <string name="setupservices_google_app_permissions_title">Sovellusten käyttöoikeudet</string>
+    <string name="setupservices_google_legal_title">Googlen lakiasiat</string>
+    <string name="setupservices_google_play_tos_title">Google Playn käyttöehdot</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus ‑tietosuoja</string>
+    <string name="setupservices_google_privacy_policy_title">Googlen tietosuojakäytäntö</string>
+    <string name="setupservices_google_services_agreement">Jatkamalla hyväksyt, että laite voi automaattisesti ladata ja asentaa Googlen, operaattorisi tai laitevalmistajan päivityksiä ja sovelluksia, mahdollisesti mobiilidatayhteyden välityksellä. Jotkin näistä sovelluksista tarjoavat sovelluksen sisäisiä ostoksia. Voit poistaa nämä sovellukset milloin tahansa.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Poista sovelluksia asetusten Sovellukset-osiossa tai Sovellusten hallinnassa. Kosketa poistettavaa sovellusta (jos sovellusta ei näy, pyyhkäise oikealle tai vasemmalle). Valitse sitten Poista tai Poista käytöstä.</string>
+    <string name="setupservices_google_services_agreement_korea">Annat täten esiladatuille Google-sovelluksille oikeuden käyttää laitteesi tietoja ja toimintoja. Saat lisätietoja näistä käyttöoikeuksista <annotation link="app_permissions">tältä sivulta</annotation>.</string>
+    <string name="setupservices_google_services_agreement_title">Päivitysten ja sovellusten asentaminen</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Kun puhelimesi tallennustila on lähes täysi, voit vapauttaa tilaa poistamalla tietoja, esim. varmuuskopioituja kuvia ja videoita.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Voit silti käyttää tietoja, kun olet yhteydessä internetiin. Hallitse toimintoa ja poistettavaa sisältöä valitsemalla Asetukset > Tallennustila > Smart Storage.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Vapauta tilaa</string>
+    <string name="setupservices_google_services_backup">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Varmuuskopio sisältää sovellukset, sovellustiedot ja laitteen asetukset (mukaan lukien Wi‑Fi-salasanat).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Varmuuskopioidut tiedot eivät kuluta Drive-tallennuskiintiötäsi."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Sovellustiedot voivat olla mitä tahansa tietoja, joita sovellus on tallentanut (kehittäjän asetusten perusteella), mukaan lukien mahdollisesti arkaluontoisia tietoja, kuten yhteystietoja, viestejä ja valokuvia.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Voit poistaa tämän palvelun käytöstä asetuksissa.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Tälle laitteelle tallennetut kuvat ja videot synkronoidaan Google Kuvien kirjastoosi, joten voit hakea, muokata, poistaa ja jakaa niitä kaikilla laitteillasi. Kuvat ja videot lähetetään Google Kuviin oletuksena täyden resoluution versioina.
+
+Varmuuskopioidut tiedot eivät kuluta Drive-tallennuskiintiötäsi."</string>
+    <string name="setupservices_google_services_backup_title">Varmuuskopiointi Google Driveen</string>
+    <string name="setupservices_google_services_backup_v23">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Varmuuskopio sisältää sovellukset, sovellustiedot, soittohistorian, yhteystiedot ja laitteen asetukset (mukaan lukien Wi‑Fi-salasanat ja käyttöoikeudet).</string>
+    <string name="setupservices_google_services_backup_v26">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Varmuuskopio sisältää sovellukset, sovellustiedot, soittohistorian, yhteystiedot, laitteen asetukset (mukaan lukien Wi‑Fi-salasanat ja käyttöoikeudet) ja tekstiviestit.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Varmuuskopio sisältää sovellukset, sovellustiedot, soittohistorian, yhteystiedot, laitteen asetukset (mukaan lukien Wi‑Fi-salasanat ja käyttöoikeudet), kuvat, videot ja tekstiviestit. Kuvat ja videot synkronoidaan Google Kuvat ‑kirjastoosi, ja niitä voidaan käyttää eri palveluissa.</string>
+    <string name="setupservices_google_services_data_policy">Tietoja käytetään Googlen <annotation link="google_privacy">tietosuojakäytännön</annotation> mukaisesti.</string>
+    <string name="setupservices_google_services_data_policy_korea">Tietoja käytetään Googlen <annotation link="google_privacy">tietosuojakäytännön</annotation> (mukaan lukien <annotation link="additional_privacy">henkilötietojen keräystä, tallentamista ja käyttöä koskevien lisätietojen</annotation>) ja <annotation link="location_tos">sijainnin käyttöehtojen</annotation> mukaisesti.</string>
+    <string name="setupservices_google_services_description">Napauta palvelua, niin näet lisätietoja, esim. ohjeet sen käyttöönottoon tai käytöstä poistamiseen myöhemmin. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Sovelluksen tiedot, mukaan lukien sovelluksen sisäiset ostokset, löytyvät Play Kaupasta. Sovelluksen tiedot ja asetukset synkronoidaan laitteisiin, joihin on kirjauduttu Google-tililläsi. 
+
+Pikasovellusten käyttöön sovelletaan "<a href="https://play.google.com/about/play-terms.html">Google Playn käyttöehtoja</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Lisätietoja</a></string>
+    <string name="setupservices_google_services_instant_apps_summary">Kun kosketat linkkiä, Google Play tarkistaa, onko pikasovellusta saatavilla, ja käynnistää sen ilman asennusta. Pikasovellukset pidetään laitteellasi väliaikaisesti.</string>
+    <string name="setupservices_google_services_instant_apps_title">Käytä sovelluksia ilman asennusta</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Googlen sijaintipalvelu pyrkii arvioimaan laitteen sijaintia esimerkiksi Wi-Fin, mobiiliverkkojen ja anturien avulla.
+
+Voit poistaa palvelun käytöstä poistamalla laitteen sijainnin pääasetuksen käytöstä. Sijaintiasetuksissa voit myös poistaa käytöstä Wi-Fi-, mobiiliverkkojen ja anturien käytön sijainnin määritykseen."</string>
+    <string name="setupservices_google_services_location_sharing_title">Auta sovelluksia sijainnin määrityksessä</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Käytä sijaintia</string>
+    <string name="setupservices_google_services_location_sharing_v28">Salli laitteen sijainnin käyttäminen sovelluksille ja palveluille, joilla on sijainnin käyttöoikeus. Google voi ajoittain kerätä sijaintitietoja ja käyttää niitä ei-yksilöivästi sijainnin tarkkuuden ja sijaintiin perustuvien palvelujen kehittämiseen.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Salli sovellusten ja palveluiden hakea Wi‑Fi-verkkoja, vaikka Wi-Fi ei ole käytössä.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Voit poistaa tämän käytöstä sijaintiasetuksissa.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Sijaintitietojen tarkkuuden parantaminen</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Salli hakeminen</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Salli sovellusten ja palveluiden hakea Wi‑Fi- ja Bluetooth-signaaleja myös silloin, kun nämä asetukset eivät ole käytössä.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Salli sovellusten ja palveluiden hakea Wi‑Fi-verkkoja ja lähellä olevia laitteita aina, vaikka Wi-Fi ja Bluetooth olisivat pois käytöstä.</string>
+    <string name="setupservices_google_services_next_button_label">Hyväksyn</string>
+    <string name="setupservices_google_services_play">Pidä minut ajan tasalla Google Playta koskevista uutisista ja tarjouksista.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Varmuuskopiointi ja tallennustila</string>
+    <string name="setupservices_google_services_section_device_maintenance">Laitteiden huolto</string>
+    <string name="setupservices_google_services_tos">Jatkamalla hyväksyt myös <annotation link="tos">Googlen käyttöehdot</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">Kun valitset Hyväksyn, hyväksyt samalla tietojen käsittelyn yllä kuvatulla tavalla näissä Google-palveluissa.</string>
+    <string name="setupservices_google_services_tos_germany">Tämän laitteen käyttöön sovelletaan <annotation link="google_privacy">tietosuojakäytäntöämme</annotation> ja <annotation link="tos">muita käyttöehtoja</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">Auta parantamaan Android-käyttökokemusta lähettämällä diagnostiikkatietoja, laitteen tietoja ja sovelluksen käyttötietoja Googlelle automaattisesti. Tämä auttaa parantamaan akunkestoa, sovelluksen vakautta, verkkoyhteyksiä ja muita ominaisuuksia. Jos olet ottanut käyttöön ylimääräisiä verkko- ja sovellustoimintoja, nämä tiedot tallennetaan tilillesi, joten voit hallinnoida niitä Omissa tapahtumissa.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Nämä ovat yleisiä tietoja laitteestasi ja sen käytöstä (esim. akun taso, sovellusten käyttö ja verkkoyhteys). Tietojen avulla parannetaan Googlen tuotteita ja palveluja kaikkien käyttäjien hyväksi. Jotkin kootuista tiedoista auttavat myös kumppaneitamme, kuten Android-kehittäjiä, parantamaan sovelluksiaan ja tuotteitaan.
+
+Tämän ominaisuuden käytöstä poistaminen ei estä laitetta lähettämästä tietoja, joita tarvitaan olennaisten palvelujen (kuten järjestelmäpäivitysten ja suojauksen) käyttämiseen."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Voit päivittää Omien tapahtumien asetukset osoitteessa myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Voit hallinnoida tätä ominaisuutta Google-asetuksissa. Valitse valikosta Käyttö‑ ja diagnostiikkatiedot.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Voit hallinnoida tätä ominaisuutta kohdassa Asetukset > Google. Valitse valikosta Käyttö‑ ja diagnostiikkatiedot.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Lähetä järjestelmätietoja</string>
+    <string name="setupservices_google_services_wallpaper_permission">Anna Googlen Live-taustakuvien vastata sijaintiisi Googlen sijaintipalvelun kautta.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Jos haluat ottaa Googlen sijaintipalvelun käyttöön tai pois käytöstä Live-taustakuvissa, valitse Asetukset > Sovellukset ja ilmoitukset > Sovellustiedot. Valitse sitten ylivuotovalikosta Näytä järjestelmä > Live Data ‑taustakuvat tai Live Earth ‑taustakuvat > Käyttöluvat.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Anna taustakuvien käyttää sijaintia</string>
+    <string name="setupservices_google_terms_of_service_title">Googlen käyttöehdot</string>
+    <string name="setupservices_kids_google_services_agreement">Jatkamalla hyväksyt, että laite voi automaattisesti ladata ja asentaa Googlen, operaattorisi tai laitevalmistajan päivityksiä ja sovelluksia, mahdollisesti mobiilidatayhteyden välityksellä. Jotkin näistä sovelluksista tarjoavat sovelluksen sisäisiä ostoksia. Voit poistaa nämä sovellukset milloin tahansa.</string>
+    <string name="setupservices_kids_google_services_backup">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Tämä varmuuskopio sisältää sovellukset, sovellustiedot ja laitteen asetukset (mukaan lukien Wi‑Fi-salasanat).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Varmuuskopioidut tiedot eivät kuluta lapsen Drive-tallennuskiintiötä."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Tälle laitteelle tallennetut kuvat ja videot synkronoidaan lapsesi Google Kuvat ‑kirjastoon, joten hän voi hakea, muokata, poistaa ja jakaa niitä millä tahansa laitteella. Kuvat ja videot lähetetään Google Kuviin oletuksena täyden resoluution versioina.
+
+Varmuuskopioidut tiedot eivät kuluta lapsen Drive-tallennuskiintiötä."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Tämä varmuuskopio sisältää sovellukset, sovellustiedot, soittohistorian, yhteystiedot ja laitteen asetukset (mukaan lukien Wi‑Fi-salasanat ja käyttöoikeudet).</string>
+    <string name="setupservices_kids_google_services_backup_v26">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Tämä varmuuskopio sisältää sovellukset, sovellustiedot, soittohistorian, yhteystiedot, laitteen asetukset (mukaan lukien Wi‑Fi-salasanat ja käyttöoikeudet) ja tekstiviestit.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Palauta tietoja tai vaihda puhelinta helposti milloin tahansa. Tämä varmuuskopio sisältää sovellukset, sovellustiedot, soittohistorian, yhteystiedot, laitteen asetukset (mukaan lukien Wi‑Fi-salasanat ja käyttöoikeudet), kuvat, videot ja tekstiviestit. Kuvat ja videot synkronoidaan lapsesi Google Kuvat ‑kirjastoon, ja niitä voidaan käyttää eri palveluissa.</string>
+    <string name="setupservices_kids_google_services_description">Napauttamalla palvelua vanhempi näkee siitä lisätietoja, esim. ohjeet sen käyttöönottoon tai käytöstä poistamiseen myöhemmin. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Googlen sijaintipalvelu pyrkii arvioimaan laitteen sijaintia esimerkiksi Wi-Fin, mobiiliverkkojen ja anturien avulla.
+
+Voit poistaa palvelun käytöstä poistamalla laitteen sijainnin pääasetuksen käytöstä. Sijaintiasetuksissa voit myös poistaa käytöstä Wi-Fin, mobiiliverkkojen ja anturien käytön sijainnin määritykseen."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Salli laitteen sijainnin käyttäminen sovelluksille ja palveluille, joilla on sijainnin käyttöoikeus. Google voi ajoittain kerätä sijaintitietoja ja käyttää niitä ei-yksilöivästi sijainnin tarkkuuden ja sijaintiin perustuvien palvelujen kehittämiseen.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Auta Androidin parantamisessa lähettämällä diagnostiikkatietoja sekä laitteiden ja sovellusten käyttötietoja automaattisesti Googlelle. Tietoja ei käytetä lapsesi henkilöllisyyden selvittämiseen – niiden avulla esim. parannetaan akun kestoa, sovellusten vakautta ja verkkoyhteyksiä. Jos lapsesi verkko- ja sovellustoiminta on otettu käyttöön tämän lisäksi, nämä tiedot tallennetaan lapsesi tilille.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Nämä ovat yleisiä tietoja laitteesta ja sen käytöstä (esim. akun varaustasosta, sovellusten käytöstä ja verkkoyhteyksistä). Tietoja käytetään Googlen tuotteiden ja palvelujen parantamiseen kaikille käyttäjille. Kumppanit, esimerkiksi Android-kehittäjät, voivat käyttää joitakin koottuja tietoja myös sovellusten ja tuotteiden parantamiseen.
+
+Asetuksen poistaminen käytöstä ei estä laitetta lähettämästä olennaisten palvelujen (esim. järjestelmäpäivitysten ja tietoturvan) kannalta välttämättömiä tietoja."</string>
+    <string name="setupservices_location_tos_title">Sijainnin käyttöehdot</string>
+    <string name="sid_lsid_grant_detail">Istunnon SID- ja LSID-evästeet toimivat salasanan tapaan ja liittävät henkilöllisyytesi selainpyyntöihin. Ne sallivat kaikkien tilitietojesi käyttämisen. Näitä evästeitä tarvitsevat vain selaimet.</string>
+    <string name="sid_lsid_grant_label">Käytä kaikkia Google-tilisi tietoja SID- ja LSID-evästeiden avulla.</string>
+    <string name="smartdevice_action_copy">Kopioi</string>
+    <string name="smartdevice_action_open_app">Avaa sovellus</string>
+    <string name="smartdevice_action_try_another_way">Kokeile toisella tavalla</string>
+    <string name="smartdevice_action_turn_on_location">Ota sijainti käyttöön</string>
+    <string name="smartdevice_alert_disconnected_title">Laitteen yhteyden katkeaminen</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Valitettavasti et voi käyttää tätä ominaisuutta, koska laitteesi järjestelmänvalvoja hallinnoi varmuuskopiotiliäsi.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Ominaisuus ei käytettävissä</string>
+    <string name="smartdevice_alert_exit_setup_message">Haluatko varmasti lopettaa toisen laitteen määrityksen?</string>
+    <string name="smartdevice_alert_exit_setup_title">Lopetetaanko laitteen määritys?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Laitteen määrittämiseen tarvitaan ainakin yksi Google-tili.</string>
+    <string name="smartdevice_alert_no_accounts_text">Laitteen %s määrittämiseen tarvitaan ainakin yksi Google-tili.</string>
+    <string name="smartdevice_alert_no_accounts_title">Ei kopioitavia tilejä</string>
+    <string name="smartdevice_alert_quit_button">Lopeta</string>
+    <string name="smartdevice_alert_restart_setup_button">Käynnistä määritys uudelleen</string>
+    <string name="smartdevice_alert_setup_incomplete">Määritys ei ole valmis.</string>
+    <string name="smartdevice_alert_start_over_button">Aloita uudelleen</string>
+    <string name="smartdevice_alert_work_profile_message">Työtilejä ei vielä voi kopioida. Kun olet kopioinut muut Google-tilit ja tiedot, lisää työtili uuden laitteen asetuksissa.</string>
+    <string name="smartdevice_alert_work_profile_title">Työtiliä ei voi kopioida</string>
+    <string name="smartdevice_application_label">Laitteen määritys</string>
+    <string name="smartdevice_choose_device">Valitse laite.</string>
+    <string name="smartdevice_companion_app_ready">Sovellus %s on jo asennettu tälle laitteelle.</string>
+    <string name="smartdevice_connect_to_wifi">Yhdistä laite.</string>
+    <string name="smartdevice_connection_error">Toiseen laitteeseen yhdistäminen epäonnistui.</string>
+    <string name="smartdevice_connection_error_title">Ei yhteyttä</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Muodostetaan yhteyttä laitteeseen…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Kopioi Google-tilisi ja muut tilit sekä palauta Google Drive ‑varmuuskopio, jos se on käytössä</string>
+    <string name="smartdevice_d2d_copy_account_text">Kopioi Google-tilisi ja palauta Google Drive ‑varmuuskopio, jos se on käytössä</string>
+    <string name="smartdevice_d2d_copy_account_title">Kopioidaanko laitteelle?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Ei tunnistettu</string>
+    <string name="smartdevice_d2d_fingerprint_title">Vahvista sormenjälki</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Vahvista sormenjälkesi turvallisuussyistä. Google-tilisi, sovelluksesi ja tietosi kopioidaan laitteelle %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Jatka laitteen määritystä avaamalla lukitus.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Tietoturvasyistä sinun on annettava näytön lukituksen avaamistapa, ennen kuin määritystä voidaan jatkaa.</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Toista laitetta ei voi määrittää, koska Bluetooth ei ole käytettävissä laitteessasi.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Tämä ominaisuus on poistettu käytöstä turvallisuussyistä. Kosketa toisessa laitteessasi Ohita ja jatka määritystä.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Uuden laitteen määritys</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Laitteen määritys</string>
+    <string name="smartdevice_d2d_source_notification_title">Laitteen ^1 määritys</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Käynnistä määritys uudelleen ja valitse ^1, jotta varmistat kopioivasi Google-tilit, sovellukset ja tiedot oikealle laitteelle.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Eikö koodia näy?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Uutta laitetta ei voi määrittää rajoitetulla käyttäjäprofiililla.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Avaa %s ja jatka määritystä sillä.</string>
+    <string name="smartdevice_d2d_source_setup_success">Melkein valmista</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Kopioi toisesta Android-laitteesta</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, määritä tämä laite seuraavien ohjeiden mukaisesti</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Kopioi Google-tilit, sovellukset ja tiedot toiselta laitteelta</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Kopioidaan tilejä…</string>
+    <string name="smartdevice_d2d_target_description">1. Sano &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> tai kirjoita \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" ja vahvista napauttamalla.&lt;br/>&lt;br/> 2. Valitse luettelosta &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> ja seuraa näytöllä näkyviä ohjeita.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Kokeile tätä</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Toisella laitteella:&lt;br/>&lt;br/> 1. Avaa &lt;b>Google-asetukset&lt;/b>-sovellus. &lt;br/>&lt;br/> 2. Valitse &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Määritä lähellä oleva laite>%1$s&lt;/xliff:g>&lt;/b>. &lt;br/>&lt;br/> 3. Valitse &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> luettelosta ja noudata näytöllä olevia ohjeita.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Vaiheiden suorittaminen ei onnistu</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Käytetään Asetuksia</string>
+    <string name="smartdevice_d2d_target_help_text">Eikö onnistu?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Eikö sitä löydy?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Avaa Google-sovellus toisella laitteellasi.</string>
+    <string name="smartdevice_d2d_target_instruction_description">Avaa Google-sovellus.</string>
+    <string name="smartdevice_d2d_target_instruction_title">Toisella laitteella</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google-sovellus on asennettu valmiiksi kaikille Android-laitteille. Etsi yllä näkyvä Google-kuvake laitteen sovelluskuvakkeiden joukosta.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Tämän koodin on vastattava toisella laitteellasi olevaa koodia:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Älä ohita</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Määritys ei kopioi tätä tiliä tai varmuuskopioituja sovelluksia ja tietoja tälle laitteelle.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Ohita silti</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Ohitetaanko tämä tili?</string>
+    <string name="smartdevice_d2d_target_title">Google-sovelluksessa</string>
+    <string name="smartdevice_do_disclosure_generic">Tietoja ei voi siirtää.</string>
+    <string name="smartdevice_do_unsupported_message">Tietoja ei voi siirtää hallinnoidusta laitteesta.</string>
+    <string name="smartdevice_install_app">Sovelluksen asentaminen</string>
+    <string name="smartdevice_install_app_reason">Hanki %1$s, jotta voit hallita ja hallinnoida uutta laitettasi %2$s tällä laitteella.</string>
+    <string name="smartdevice_look_for_other_device">Etsi tämä nimi toisella laitteellasi</string>
+    <string name="smartdevice_magicwand_cancel_signin">Älä kirjaudu sisään</string>
+    <string name="smartdevice_magicwand_confirm_signin">Sisäänkirjautuminen käynnistyi</string>
+    <string name="smartdevice_magicwand_consent_detail">Valitse <b>Kirjaudu sisään</b> suorittaaksesi sisäänkirjautumisen loppuun toisella laitteella.</string>
+    <string name="smartdevice_magicwand_consent_title">Suorita sisäänkirjautuminen loppuun</string>
+    <string name="smartdevice_magicwand_error_detail">Jokin meni vikaan, eikä Google onnistunut kirjaamaan sinua sisään tällä puhelimella.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Skannasit QR-koodin kirjautuaksesi tilillesi.
+
+Turvallisuussyistä sinun on vahvistettava sormenjälki näyttääksesi että kyseessä olet sinä kirjautumassa eri laitteelle."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Tämä ylimääräinen vaihe auttaa varmistamaan, että laite on turvallinen.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Skannasit QR-koodin kirjautuaksesi tilillesi.
+
+Turvallisuussyistä sinun on vahvistettava sormenjälki näyttääksesi että kyseessä olet sinä kirjautumassa eri laitteelle."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">jatkaaksesi selaamista</string>
+    <string name="smartdevice_magicwand_success_detail">Siirry takaisin toisen laitteesi selaimeen.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Katso muodot toiselta laitteelta</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Vahvista muodot</string>
+    <string name="smartdevice_problem_copying">Tietojen kopiointi toiseen laitteeseen epäonnistui.</string>
+    <string name="smartdevice_problem_copying_title">Tietojen kopiointi epäonnistui</string>
+    <string name="smartdevice_search_again">Hae uudelleen</string>
+    <string name="smartdevice_searching_for_devices">Laitteiden hakeminen</string>
+    <string name="smartdevice_setup_google_app_trigger">Määritä laite</string>
+    <string name="smartdevice_setup_info_installing_app">Asennetaan sovellusta…</string>
+    <string name="smartdevice_setup_intro_text">Toisen laitteen määrittämiseen käytetään puhelimesi Bluetooth- ja Wi-Fi-yhteyttä.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Toisen laitteen määrittämiseen käytetään puhelimesi Bluetooth-yhteyttä.</string>
+    <string name="smartdevice_setup_intro_title">Aloitusopas</string>
+    <string name="smartdevice_setup_password_hint">Anna Wi-Fi-salasana</string>
+    <string name="smartdevice_setup_show_password">Näytä salasana</string>
+    <string name="smartdevice_setup_title_verify_code">Koodin vahvistaminen</string>
+    <string name="smartdevice_target_hotphrase_instructions">Sano toisella laitteella &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> Voit myös kirjoittaa hakukenttään &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b>.</string>
+    <string name="smartdevice_type_typing_ok_google">Jos äänikomento ei toimi, kokeile sen sijaan kirjoittaa hakukentään &lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b></string>
+    <string name="smartdevice_verify_device">Vahvista laite</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Vain avoimia verkkoja ja WPA-/WPA2-verkkoja voi käyttää tämän laitteen määrittämiseen.</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Ei voi käyttää Wi-Fi-verkkoa.</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Ota sijainti käyttöön, niin voit etsiä Wi-Fi-verkkoja.
+
+Voit muuttaa tätä myöhemmin asetuksissa."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi-verkkojen hakeminen ei onnistu</string>
+    <string name="storage_management_wear_descriptive_text">Sovellukset käyttävät laitteesi tallennustilaa voidakseen replikoida tietoja puettaviin laitteisiin.</string>
+    <string name="storage_management_wear_manage_size_label">Hallinnoi puettavien tilankäyttöä</string>
+    <string name="storage_management_wear_size_label">Puettavien tilankäyttö</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play -palveluiden tilankäyttö yhteensä, hakukone ja muut tiedot mukaan luettuna.</string>
+    <string name="storage_managment_clear_all_data">Poista kaikki tiedot</string>
+    <string name="storage_managment_computing_size">Lasketaan…</string>
+    <string name="storage_managment_icing_size_label">Hakutiedot</string>
+    <string name="storage_managment_manage_icing_button">Hallitse hakutietoja</string>
+    <string name="storage_managment_search_index_descriptive_text">Appsille tarkoitettu hakukone, jolla saat vauhtia laitteella tekemiisi hakuihin.</string>
+    <string name="storage_managment_title">Google Play -palveluiden tallennustila</string>
+    <string name="storage_managment_total_size_label">Tallennustila yhteensä</string>
+    <string name="suw_back_button_label">Takaisin</string>
+    <string name="suw_more_button_label">Lisää</string>
+    <string name="suw_next_button_label">Seuraava</string>
+    <string name="uncertified_notification_expired_content">Googlen sovellukset ja palvelut eivät enää toimi tällä laitteella. Lue lisää napauttamalla.</string>
+    <string name="uncertified_notification_expired_title">Tili on vanhentunut</string>
+    <string name="uncertified_notification_expiring_title">Tili vanhenee pian</string>
+    <string name="use_nearby_device_heading">Käytetäänkö lähellä olevaa laitetta?</string>
+    <string name="use_nearby_device_text">Haluatko noutaa kirjautumistiedot lähellä olevan laitteen avulla?</string>
+    <string name="v7_preference_off">POIS PÄÄLTÄ</string>
+    <string name="v7_preference_on">PÄÄLLÄ</string>
+    <string name="verify_your_identity_description">%1$s haluaa vahvistaa henkilöllisyytesi.</string>
+    <string name="verify_your_identity_title">Vahvista henkilöllisyytesi</string>
+    <string name="waiting_for_account_info_text">Odotetaan tilitietoja…</string>
+</resources>

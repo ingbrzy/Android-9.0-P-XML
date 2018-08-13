@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s adresata</item>
+        <item quantity="one">1 adresat</item>
+        <item quantity="few">%s adresatów</item>
+        <item quantity="many">%s adresatów</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 odbiorcy korzysta z usług, które nie obsługują szyfrowania. Niezaszyfrowana wiadomość może być widoczna dla innych podczas przesyłania. ^2</item>
+        <item quantity="one">^1 korzysta z usługi, która nie obsługuje szyfrowania. Niezaszyfrowana wiadomość może być widoczna dla innych podczas przesyłania. ^2</item>
+        <item quantity="few">^1 odbiorców korzysta z usług, które nie obsługują szyfrowania. Niezaszyfrowana wiadomość może być widoczna dla innych podczas przesyłania. ^2</item>
+        <item quantity="many">^1 odbiorców korzysta z usług, które nie obsługują szyfrowania. Niezaszyfrowana wiadomość może być widoczna dla innych podczas przesyłania. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">Domena ^1 oraz pozostałe domeny nie obsługiwały szyfrowania, kiedy ta wiadomość była wysyłana. ^2</item>
+        <item quantity="one">Domena ^1 nie obsługiwała szyfrowania, kiedy ta wiadomość była wysyłana. ^2</item>
+        <item quantity="few">Domena ^1 oraz pozostałe domeny nie obsługiwały szyfrowania, kiedy ta wiadomość była wysyłana. ^2</item>
+        <item quantity="many">Domena ^1 oraz pozostałe domeny nie obsługiwały szyfrowania, kiedy ta wiadomość była wysyłana. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Zarchiwizować te wątki (%1$d)?</item>
+        <item quantity="one">Zarchiwizować ten wątek?</item>
+        <item quantity="few">Zarchiwizować te %1$d wątki?</item>
+        <item quantity="many">Zarchiwizować tych %1$d wątków?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Usunąć te wątki (%1$d)?</item>
+        <item quantity="one">Usunąć ten wątek?</item>
+        <item quantity="few">Usunąć te %1$d wątki?</item>
+        <item quantity="many">Usunąć tych %1$d wątków?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Odrzucić wersje robocze z tych %1$d wątków?</item>
+        <item quantity="one">Odrzucić wersje robocze z tego wątku?</item>
+        <item quantity="few">Odrzucić wersje robocze z tych %1$d wątków?</item>
+        <item quantity="many">Odrzucić wersje robocze z tych %1$d wątków?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Zarchiwizowano &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Zarchiwizowano &lt;b>%1$d&lt;/b></item>
+        <item quantity="few">Zarchiwizowano &lt;b>%1$d&lt;/b></item>
+        <item quantity="many">Zarchiwizowano &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Usunięto &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Usunięto &lt;b>%1$d&lt;/b></item>
+        <item quantity="few">Usunięto &lt;b>%1$d&lt;/b></item>
+        <item quantity="many">Usunięto &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Zmieniono etykiety.</item>
+        <item quantity="one">Zmieniono etykietę.</item>
+        <item quantity="few">Zmieniono etykiety.</item>
+        <item quantity="many">Zmieniono etykiety.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> wątku przeniesionego do Odebranych</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> wątek przeniesiony do Odebranych</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> wątki przeniesione do Odebranych</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> wątków przeniesionych do Odebranych</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Zignorowano &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Zignorowano &lt;b>%1$d&lt;/b></item>
+        <item quantity="few">Zignorowano &lt;b>%1$d&lt;/b></item>
+        <item quantity="many">Zignorowano &lt;b>%1$d&lt;/b></item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Oznaczono &lt;b>%1$d&lt;/b> jako mało ważne</item>
+        <item quantity="one">Oznaczono &lt;b>%1$d&lt;/b> jako mało ważny</item>
+        <item quantity="few">Oznaczono &lt;b>%1$d&lt;/b> jako mało ważne</item>
+        <item quantity="many">Oznaczono &lt;b>%1$d&lt;/b> jako mało ważne</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Zgłoszono &lt;b>%1$d&lt;/b> jako nie spam</item>
+        <item quantity="one">Zgłoszono &lt;b>%1$d&lt;/b> jako nie spam</item>
+        <item quantity="few">Zgłoszono &lt;b>%1$d&lt;/b> jako nie spam</item>
+        <item quantity="many">Zgłoszono &lt;b>%1$d&lt;/b> jako nie spam</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">Oznaczono &lt;b>%1$d&lt;/b> jako przeczytane</item>
+        <item quantity="one">Oznaczono &lt;b>%1$d&lt;/b> jako przeczytaną</item>
+        <item quantity="few">Oznaczono &lt;b>%1$d&lt;/b> jako przeczytane</item>
+        <item quantity="many">Oznaczono &lt;b>%1$d&lt;/b> jako przeczytane</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> odłożono do: %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> odłożono do: %2$s</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> odłożono do: %2$s</item>
+        <item quantity="many">&lt;b>%1$d&lt;/b> odłożono do: %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Zgłoszono &lt;b>%1$d&lt;/b> jako spam</item>
+        <item quantity="one">Zgłoszono &lt;b>%1$d&lt;/b> jako spam</item>
+        <item quantity="few">Zgłoszono &lt;b>%1$d&lt;/b> jako spam</item>
+        <item quantity="many">Zgłoszono &lt;b>%1$d&lt;/b> jako spam</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">Zgłoszono jako spam i zrezygnowano z subskrypcji: %1$d</item>
+        <item quantity="one">Zgłoszono jako spam i zrezygnowano z subskrypcji: %1$d</item>
+        <item quantity="few">Zgłoszono jako spam i zrezygnowano z subskrypcji: %1$d</item>
+        <item quantity="many">Zgłoszono jako spam i zrezygnowano z subskrypcji: %1$d</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">Anulowano odłożenie &lt;b>%1$d&lt;/b> rozmów</item>
+        <item quantity="one">Anulowano odłożenie &lt;b>%1$d&lt;/b> rozmowy</item>
+        <item quantity="few">Anulowano odłożenie &lt;b>%1$d&lt;/b> rozmów</item>
+        <item quantity="many">Anulowano odłożenie &lt;b>%1$d&lt;/b> rozmów</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Usuwam gwiazdkę z wątków (%1$d).</item>
+        <item quantity="one">Usuwam gwiazdkę z %1$d wątku.</item>
+        <item quantity="few">Usuwam gwiazdkę z %1$d wątków.</item>
+        <item quantity="many">Usuwam gwiazdkę z %1$d wątków.</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Co %d dnia</item>
+        <item quantity="one">Codziennie</item>
+        <item quantity="few">Co %d dni</item>
+        <item quantity="many">Co %d dni</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Wiadomości zostaną oznaczone jako spam. Czy chcesz też zrezygnować z otrzymywania podobnych wiadomości od tego &lt;b>%2$d nadawcy&lt;/b>?%1$s</item>
+        <item quantity="one">Wiadomość zostanie oznaczona jako spam. Czy chcesz też zrezygnować z otrzymywania podobnych wiadomości od nadawcy: %1$s?</item>
+        <item quantity="few">Wiadomości zostaną oznaczone jako spam. Czy chcesz też zrezygnować z otrzymywania podobnych wiadomości od tych &lt;b>%2$d nadawców&lt;/b>?%1$s</item>
+        <item quantity="many">Wiadomości zostaną oznaczone jako spam. Czy chcesz też zrezygnować z otrzymywania podobnych wiadomości od tych &lt;b>%2$d nadawców&lt;/b>?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Wersje robocze</item>
+        <item quantity="one">Wersja robocza</item>
+        <item quantity="few">Wersje robocze</item>
+        <item quantity="many">Wersje robocze</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Wątki (%1$s) zostaną trwale usunięte</item>
+        <item quantity="one">%1$s wątek zostanie trwale usunięty</item>
+        <item quantity="few">%1$s wątki zostaną trwale usunięte</item>
+        <item quantity="many">%1$s wątków zostanie trwale usuniętych</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d raza</item>
+        <item quantity="one">; raz</item>
+        <item quantity="few">; %d razy</item>
+        <item quantity="many">; %d razy</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Odbiorcy mogą nie mieć dostępu do plików wstawionych z Dysku. Możliwe, że będzie trzeba udostępnić te pliki bezpośrednio na Dysku Google.</item>
+        <item quantity="one">Odbiorcy mogą nie mieć dostępu do pliku wstawionego z Dysku. Możliwe, że będzie trzeba udostępnić ten plik bezpośrednio na Dysku Google.</item>
+        <item quantity="few">Odbiorcy mogą nie mieć dostępu do plików wstawionych z Dysku. Możliwe, że będzie trzeba udostępnić te pliki bezpośrednio na Dysku Google.</item>
+        <item quantity="many">Odbiorcy mogą nie mieć dostępu do plików wstawionych z Dysku. Możliwe, że będzie trzeba udostępnić te pliki bezpośrednio na Dysku Google.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Uwaga: niektórzy odbiorcy mogą nadal nie mieć dostępu do tych plików. Możliwe, że będzie trzeba udostępnić je bezpośrednio na Dysku Google.</item>
+        <item quantity="one">Uwaga: niektórzy odbiorcy mogą nadal nie mieć dostępu do tego pliku. Możliwe, że będzie trzeba udostępnić go bezpośrednio na Dysku Google.</item>
+        <item quantity="few">Uwaga: niektórzy odbiorcy mogą nadal nie mieć dostępu do tych plików. Możliwe, że będzie trzeba udostępnić je bezpośrednio na Dysku Google.</item>
+        <item quantity="many">Uwaga: niektórzy odbiorcy mogą nadal nie mieć dostępu do tych plików. Możliwe, że będzie trzeba udostępnić je bezpośrednio na Dysku Google.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Udostępniasz te pliki tym odbiorcom:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Nie należą oni do organizacji w Google Apps, z której pochodzą te pliki."</item>
+        <item quantity="one">Udostępniasz ten plik tym odbiorcom:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>Nie należą oni do organizacji w Google Apps, z której pochodzi ten plik.</item>
+        <item quantity="few">"Udostępniasz te pliki tym odbiorcom:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Nie należą oni do organizacji w Google Apps, z której pochodzą te pliki."</item>
+        <item quantity="many">"Udostępniasz te pliki tym odbiorcom:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>Nie należą oni do organizacji w Google Apps, z której pochodzą te pliki."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 odbiorcy korzysta z usług, które nie obsługują szyfrowania. Bez niego Twoja wiadomość może zostać odczytana w trakcie dostarczania. ^2</item>
+        <item quantity="one">^1 korzysta z usługi, która nie obsługuje szyfrowania. Bez niego Twoja wiadomość może zostać odczytana w trakcie dostarczania. ^2</item>
+        <item quantity="few">^1 odbiorców korzysta z usług, które nie obsługują szyfrowania. Bez niego Twoja wiadomość może zostać odczytana w trakcie dostarczania. ^2</item>
+        <item quantity="many">^1 odbiorców korzysta z usług, które nie obsługują szyfrowania. Bez niego Twoja wiadomość może zostać odczytana w trakcie dostarczania. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Co %1$d miesiąca</item>
+        <item quantity="one">Co miesiąc</item>
+        <item quantity="few">Co %1$d miesiące</item>
+        <item quantity="many">Co %1$d miesięcy</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">Nowe wiadomości: %1$d</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+        <item quantity="few">%1$d nowe wiadomości</item>
+        <item quantity="many">%1$d nowych wiadomości</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">Nowe wiadomości: %1$d</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+        <item quantity="few">%1$d nowe wiadomości</item>
+        <item quantity="many">%1$d nowych wiadomości</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">Załączniki: %1$d</item>
+        <item quantity="one">%1$d załącznik</item>
+        <item quantity="few">%1$d załączniki</item>
+        <item quantity="many">%1$d załączników</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d wiadomości</item>
+        <item quantity="one">%1$d wiadomość</item>
+        <item quantity="few">%1$d wiadomości</item>
+        <item quantity="many">%1$d wiadomości</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Kalendarze nie są udostępnione</item>
+        <item quantity="one">Kalendarz nie jest udostępniony</item>
+        <item quantity="few">Kalendarze nie są udostępnione</item>
+        <item quantity="many">Kalendarze nie są udostępnione</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Dla %d wydarzenia</item>
+        <item quantity="one">Dla %d wydarzenia</item>
+        <item quantity="few">Dla %d wydarzeń</item>
+        <item quantity="many">Dla %d wydarzeń</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Co %d dnia</item>
+        <item quantity="one">Co %d dzień</item>
+        <item quantity="few">Co %d dni</item>
+        <item quantity="many">Co %d dni</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Co %d miesiąca</item>
+        <item quantity="one">Co %d miesiąc</item>
+        <item quantity="few">Co %d miesiące</item>
+        <item quantity="many">Co %d miesięcy</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Co %d tygodnia</item>
+        <item quantity="one">Co %d tydzień</item>
+        <item quantity="few">Co %d tygodnie</item>
+        <item quantity="many">Co %d tygodni</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Co %d roku</item>
+        <item quantity="one">Co %d rok</item>
+        <item quantity="few">Co %d lata</item>
+        <item quantity="many">Co %d lat</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Załadowano %d wyniku wyszukiwania</item>
+        <item quantity="one">Załadowano %d wynik wyszukiwania</item>
+        <item quantity="few">Załadowano %d wyniki wyszukiwania</item>
+        <item quantity="many">Załadowano %d wyników wyszukiwania</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Rozwiń starsze wiadomości (%1$d)</item>
+        <item quantity="one">Rozwiń starszą wiadomość</item>
+        <item quantity="few">Rozwiń %1$d starsze wiadomości</item>
+        <item quantity="many">Rozwiń %1$d starszych wiadomości</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Odłożono %d dnia temu</item>
+        <item quantity="one">Odłożono %d dzień temu</item>
+        <item quantity="few">Odłożono %d dni temu</item>
+        <item quantity="many">Odłożono %d dni temu</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Odłożono %d godziny temu</item>
+        <item quantity="one">Odłożono %d godzinę temu</item>
+        <item quantity="few">Odłożono %d godziny temu</item>
+        <item quantity="many">Odłożono %d godzin temu</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Odłożono %d miesiąca temu</item>
+        <item quantity="one">Odłożono %d miesiąc temu</item>
+        <item quantity="few">Odłożono %d miesiące temu</item>
+        <item quantity="many">Odłożono %d miesięcy temu</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Odłożono %d tygodnia temu</item>
+        <item quantity="one">Odłożono %d tydzień temu</item>
+        <item quantity="few">Odłożono %d tygodnie temu</item>
+        <item quantity="many">Odłożono %d tygodni temu</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Odłożono %d roku temu</item>
+        <item quantity="one">Odłożono %d rok temu</item>
+        <item quantity="few">Odłożono %d lata temu</item>
+        <item quantity="many">Odłożono %d lat temu</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Rozwinięto starsze wiadomości (%1$d)</item>
+        <item quantity="one">Rozwinięto jedną starszą wiadomość</item>
+        <item quantity="few">Rozwinięto %1$d starsze wiadomości</item>
+        <item quantity="many">Rozwinięto %1$d starszych wiadomości</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d dnia</item>
+        <item quantity="one">1 dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Po nawiązaniu połączenia zostaną pobrane wiadomości z ostatnich %1$d dnia</item>
+        <item quantity="one">Po nawiązaniu połączenia zostaną pobrane wiadomości z ostatniego dnia</item>
+        <item quantity="few">Po nawiązaniu połączenia zostaną pobrane wiadomości z ostatnich %1$d dni</item>
+        <item quantity="many">Po nawiązaniu połączenia zostaną pobrane wiadomości z ostatnich %1$d dni</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Ostatnie %1$d dnia</item>
+        <item quantity="one">Ostatni dzień</item>
+        <item quantity="few">Ostatnie %1$d dni</item>
+        <item quantity="many">Ostatnie %1$d dni</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Termin: %1$s – %2$d zadania</item>
+        <item quantity="one">Termin: %1$s – %2$d zadanie</item>
+        <item quantity="few">Termin: %1$s – %2$d zadania</item>
+        <item quantity="many">Termin: %1$s – %2$d zadań</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Dni</item>
+        <item quantity="one">Dzień</item>
+        <item quantity="few">Dni</item>
+        <item quantity="many">Dni</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Co %1$d tygodnia w: %2$s</item>
+        <item quantity="one">Co tydzień w: %2$s</item>
+        <item quantity="few">Co %1$d tygodnie w: %2$s</item>
+        <item quantity="many">Co %1$d tygodni w: %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Co %1$d roku</item>
+        <item quantity="one">Co rok</item>
+        <item quantity="few">Co %1$d lata</item>
+        <item quantity="many">Co %1$d lat</item>
+    </plurals>
+</resources>

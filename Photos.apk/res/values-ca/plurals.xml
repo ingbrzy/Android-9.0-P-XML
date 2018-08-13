@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Aquests elements són massa grans per a la paperera del dispositiu. Si els suprimeixes, se suprimiran definitivament del dispositiu i del compte.</item>
+        <item quantity="one">Aquest element és massa gran per a la paperera del dispositiu. Si el suprimeixes, se suprimirà definitivament del dispositiu i del compte.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d elements analitzats</item>
+        <item quantity="one">%1$d element analitzat</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d elements seleccionats</item>
+        <item quantity="one">%1$d element seleccionat</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">La mida nova de l’àlbum hauria superat el límit actual de %1$d elements.</item>
+        <item quantity="one">La mida nova de l’àlbum hauria superat el límit actual d’%1$d element.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">"L'àlbum tindria %1$d elements."</item>
+        <item quantity="one">"L'àlbum tindria %1$d element."</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">"S'han afegit %d ubicacions"</item>
+        <item quantity="one">"S'ha afegit %d ubicació"</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d ubicacions</item>
+        <item quantity="one">%d ubicació</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d mapes</item>
+        <item quantity="one">%d mapa</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">"S'han afegit %d mapes"</item>
+        <item quantity="one">"S'ha afegit %d mapa"</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">"S'estan suprimint els elements d'aquest àlbum…"</item>
+        <item quantity="one">"S'està suprimint l'element d'aquest àlbum…"</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">"S'han suprimit %d elements"</item>
+        <item quantity="one">"S'ha suprimit %d element"</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">"S'estan suprimint les fotos d'aquest àlbum…"</item>
+        <item quantity="one">"S'està suprimint la foto d'aquest àlbum…"</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">"S'estan suprimint els vídeos d'aquest àlbum…"</item>
+        <item quantity="one">"S'està suprimint el vídeo d'aquest àlbum…"</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d elements</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Suprimeix del dispositiu (%d)</item>
+        <item quantity="one">Suprimeix del dispositiu (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Suprimeix-ho tot del dispositiu (%d)</item>
+        <item quantity="one">Suprimeix-ho tot del dispositiu (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Mou a la paperera (%d)</item>
+        <item quantity="one">Mou a la paperera (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">"Se n'han arxivat %d"</item>
+        <item quantity="one">"S'ha arxivat %d element"</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">"Se n'han tret %d de l'arxiu"</item>
+        <item quantity="one">"S'ha tret %d element de l'arxiu"</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d seleccionats</item>
+        <item quantity="one">%d seleccionat</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">"S'estan penjant %d elements"</item>
+        <item quantity="one">"S'està penjant %d element"</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Falten %d fotos</item>
+        <item quantity="one">Falta %d foto</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Falta fer la còpia de seguretat de %d fotos</item>
+        <item quantity="one">Falta fer la còpia de seguretat dʼ%d foto</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d fotos • %2$s</item>
+        <item quantity="one">%1$d foto • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Vols crear una còpia de seguretat de %1$d elements?</item>
+        <item quantity="one">"Vols crear una còpia de seguretat d'un (%1$d) element?"</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">"S'estan penjant %1$d elements"</item>
+        <item quantity="one">"S'està penjant %1$d element"</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">"No s'ha creat cap còpia de seguretat per a %1$d fotos"</item>
+        <item quantity="one">"No s'ha creat cap còpia de seguretat per a %1$d foto"</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Protegeix %1$d elements</item>
+        <item quantity="one">Protegeix %1$d element</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">"S'estan penjant %d elements"</item>
+        <item quantity="one">"S'està penjant %d element"</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">"S'estan penjant %d vídeos"</item>
+        <item quantity="one">"S'està penjant %d vídeo"</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d elements per penjar</item>
+        <item quantity="one">%d element per penjar</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d vídeos per penjar</item>
+        <item quantity="one">%d vídeo per penjar</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Les %d fotos en total</item>
+        <item quantity="one">%d foto en total</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d fotos sense còpia de seguretat</item>
+        <item quantity="one">%d foto sense còpia de seguretat</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">"S'han afegit %1$d elements"</item>
+        <item quantity="one">"S'ha afegit %1$d element"</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Un àlbum pot contenir %d elements com a màxim.</item>
+        <item quantity="one">Un àlbum pot contenir %d element com a màxim.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Selecciona %d elements com a màxim.</item>
+        <item quantity="one">Selecciona %d element com a màxim.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Selecciona %d elements com a mínim.</item>
+        <item quantity="one">Selecciona %d element com a mínim.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">"Selecciona elements dins de l'interval (%d dies)."</item>
+        <item quantity="one">"Selecciona elements dins de l'interval (%d dia)."</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">"S'han afegit %d elements"</item>
+        <item quantity="one">"S'ha afegit %d element"</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Fa %d dies</item>
+        <item quantity="one">Fa %d dia</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Fa %d hores</item>
+        <item quantity="one">Fa %d hora</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d set.</item>
+        <item quantity="one">%d set.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Fa %d setmanes</item>
+        <item quantity="one">Fa %d setmana</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Fa %d minuts</item>
+        <item quantity="one">Fa %d minut</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Fa %d dies</item>
+        <item quantity="one">Fa %d dia</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">Se suprimiran %1$d elements del teu dispositiu. No et preocupis, continuaran estant disponibles a Google Fotos.</item>
+        <item quantity="one">Se suprimirà %1$d element del teu dispositiu. No et preocupis, continuarà estant disponible a Google Fotos.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Suprimeix %1$d elements del dispositiu</item>
+        <item quantity="one">Suprimeix %1$d element del dispositiu</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Suprimeix %1$d fotos o vídeos del dispositiu</item>
+        <item quantity="one">Suprimeix %1$d foto o vídeo del dispositiu</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">"S'estan suprimint %1$d fotos o vídeos originals"</item>
+        <item quantity="one">"S'està suprimint %1$d foto o vídeo originals"</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d targetes noves</item>
+        <item quantity="one">1 targeta nova</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">"S'han afegit %d elements"</item>
+        <item quantity="one">"S'ha afegit %d element"</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d actualitzacions</item>
+        <item quantity="one">%1$d actualització</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d comentaris</item>
+        <item quantity="one">%1$d comentari</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">"S'estan desant els elements a la biblioteca…"</item>
+        <item quantity="one">"S'està desant l'element a la biblioteca…"</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">"S'han afegit %d elements"</item>
+        <item quantity="one">"S'ha afegit %d element"</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Només pots afegir %d elements més.</item>
+        <item quantity="one">Només pots afegir %d element més.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Suprimeix la carpeta i els %d elements que conté</item>
+        <item quantity="one">Suprimeix la carpeta i %d element que conté</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Suprimeix del dispositiu (%d)</item>
+        <item quantity="one">Suprimeix del dispositiu (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">"No s'han pogut copiar %d elements"</item>
+        <item quantity="one">"No s'ha pogut copiar %d element"</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">"S'han copiat %d elements"</item>
+        <item quantity="one">"S'ha copiat %d element"</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">"No s'han pogut moure %d elements"</item>
+        <item quantity="one">"No s'ha pogut moure %d element"</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">"S'han mogut %d elements"</item>
+        <item quantity="one">"S'ha mogut %d element"</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">"Vols afegir-les a l'àlbum compartit amb %1$d persones?"</item>
+        <item quantity="one">"Vols afegir-les a l'àlbum compartit amb %1$d persona?"</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">"Vols afegir-les a l'àlbum compartit amb %1$s i %2$d persones més?"</item>
+        <item quantity="one">"Vols afegir-les a l'àlbum compartit amb %1$s i %2$d persona més?"</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">"Vols afegir-les a l'àlbum compartit amb %1$s, %2$s i %3$d persones més?"</item>
+        <item quantity="one">"Vols afegir-les a l'àlbum compartit amb %1$s, %2$s i %3$d persona més?"</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Vols enviar-les a %1$s i %2$d persones més?</item>
+        <item quantity="one">Vols enviar-les a %1$s i %2$d persona més?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Vols enviar-les a %1$s, %2$s i %3$d persones més?</item>
+        <item quantity="one">Vols enviar-les a %1$s, %2$s i %3$d persona més?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Fotos en què surten %d persones</item>
+        <item quantity="one">Fotos en què surt %d persona</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Fotos de les cares (%d) seleccionades</item>
+        <item quantity="one">Fotos de la cara (%d) seleccionada</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d seleccionats</item>
+        <item quantity="one">%d seleccionat</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">"S'han seleccionat %d cares"</item>
+        <item quantity="one">"S'ha seleccionat %d cara"</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Fotos de les cares (%1$d) seleccionades, des del dia %2$s</item>
+        <item quantity="one">Fotos de la cara (%1$d) seleccionada, des del dia %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Fotos de les cares (%d) seleccionades</item>
+        <item quantity="one">Fotos de la cara (%d) seleccionada</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">"S'han suprimit %1$d fotos."</item>
+        <item quantity="one">"S'ha suprimit %1$d foto."</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Selecciona només %d persones</item>
+        <item quantity="one">Selecciona només %d persona</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d pàgines addicionals</item>
+        <item quantity="one">%d pàgina addicional</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d pàgines</item>
+        <item quantity="one">%d pàgina</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Afegeix %d fotos més per poder fer la compra</item>
+        <item quantity="one">Afegeix %d foto més per poder fer la compra</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">"S'han afegit %d fotos."</item>
+        <item quantity="one">"S'ha afegit %d foto."</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">"És possible que les fotos s'hagin suprimit o s'hagin deixat de compartir"</item>
+        <item quantity="one">"És possible que la foto s'hagi suprimit o s'hagi deixat de compartir"</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d fotos ja no estan disponibles</item>
+        <item quantity="one">%d foto ja no està disponible</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">"S'han suprimit %d fotos."</item>
+        <item quantity="one">"S'ha suprimit %d foto."</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d pàgines addicionals</item>
+        <item quantity="one">%d pàgina addicional</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d pàgines</item>
+        <item quantity="one">%d pàgina</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Només es poden imprimir %d fotos, </item>
+        <item quantity="one">Només es pot imprimir %d foto, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">"però te n'han suggerit %d"</item>
+        <item quantity="one">"però te n'han suggerit %d"</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">"S'han suggerit %d fotos"</item>
+        <item quantity="one">"S'ha suggerit %d foto"</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">fotos o vídeos</item>
+        <item quantity="one">foto o vídeo</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">fotos</item>
+        <item quantity="one">foto</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">vídeos</item>
+        <item quantity="one">vídeo</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">"S'han trobat %d animals domèstics"</item>
+        <item quantity="one">"S'ha trobat %d animal domèstic"</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Així com %1$d llocs a les teves fotos</item>
+        <item quantity="one">Així com %1$d lloc a les teves fotos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Així com %1$d coses a les teves fotos</item>
+        <item quantity="one">Així com %1$d cosa a les teves fotos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Així com %1$d llocs i coses a les teves fotos</item>
+        <item quantity="one">Així com %1$d lloc/cosa a les teves fotos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">"S'han trobat %1$d persones"</item>
+        <item quantity="one">"S'ha trobat %1$d persona"</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">"S'han trobat %1$d llocs"</item>
+        <item quantity="one">"S'ha trobat %1$d lloc"</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">"S'han trobat %1$d coses"</item>
+        <item quantity="one">"S'ha trobat %1$d cosa"</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">I també %1$d llocs</item>
+        <item quantity="one">I també %1$d lloc</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">I també %1$d coses</item>
+        <item quantity="one">I també %1$d cosa</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">I també %1$d coses i llocs</item>
+        <item quantity="one">I també %1$d cosa o lloc</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Mostra %1$d persones de les teves fotos</item>
+        <item quantity="one">Mostra %1$d persona de les teves fotos</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">"S'han trobat %1$d persones"</item>
+        <item quantity="one">"S'ha trobat %1$d persona"</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">"S'han trobat %1$d llocs"</item>
+        <item quantity="one">"S'ha trobat %1$d lloc"</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">"S'han trobat %1$d coses"</item>
+        <item quantity="one">"S'ha trobat %1$d cosa"</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Mostra %1$d coses de les teves fotos</item>
+        <item quantity="one">Mostra %1$d cosa de les teves fotos</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">"S'han seleccionat %1$d elements"</item>
+        <item quantity="one">"S'ha seleccionat %1$d element"</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d seleccionats</item>
+        <item quantity="one">%d seleccionat</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">"S'han afegit %d elements a l'àlbum"</item>
+        <item quantity="one">"S'ha afegit %d element a l'àlbum"</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">"S'estan penjant %d elements"</item>
+        <item quantity="one">"S'està penjant %d element"</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">Es penjaran %d elements quan tinguis connexió</item>
+        <item quantity="one">Es penjarà %d element quan tinguis connexió</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s i %2$d persones més</item>
+        <item quantity="one">%1$s i %2$d persona més</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d elements</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Vols afegir %d fotos relacionades?</item>
+        <item quantity="one">Vols afegir %d foto relacionada?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d fotos noves</item>
+        <item quantity="one">%1$d foto nova</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s ha afegit %2$d fotos noves</item>
+        <item quantity="one">%1$s ha afegit %2$d foto nova</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">"S'han trobat %1$d persones a les teves fotos"</item>
+        <item quantity="one">"S'ha trobat %1$d persona a les teves fotos"</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">"S'han trobat %1$d llocs a les teves fotos"</item>
+        <item quantity="one">"S'ha trobat %1$d lloc a les teves fotos"</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">"S'han trobat %1$d coses a les teves fotos"</item>
+        <item quantity="one">"S'ha trobat %1$d cosa a les teves fotos"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Els elements no es poden suprimir</item>
+        <item quantity="one">"L'element no es pot suprimir"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">No es poden suprimir %d elements</item>
+        <item quantity="one">No es pot suprimir %d element</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">No es poden suprimir %d elements definitivament</item>
+        <item quantity="one">No es pot suprimir %d element definitivament</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">"S'estan suprimint els elements definitivament…"</item>
+        <item quantity="one">"S'està suprimint l'element definitivament…"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">"S'han suprimit %d elements definitivament"</item>
+        <item quantity="one">"S'ha suprimit %d element definitivament"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d elements suprimits del dispositiu</item>
+        <item quantity="one">%d element suprimit del dispositiu</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">"S'estan restaurant els elements…"</item>
+        <item quantity="one">"S'està restaurant l'element…"</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">No es poden restaurar %d elements</item>
+        <item quantity="one">No es pot restaurar %d element</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">"S'han restaurat %d elements de la paperera"</item>
+        <item quantity="one">"S'ha restaurat %d element de la paperera"</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Vols suprimir els elements definitivament?</item>
+        <item quantity="one">"Vols suprimir l'element definitivament?"</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Vols suprimir %d elements?</item>
+        <item quantity="one">Vols suprimir %d element?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Suprimeix %d elements definitivament</item>
+        <item quantity="one">Suprimeix %d element definitivament</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">"Aquesta versió caduca d'aquí a %d dies. Si vols continuar utilitzant l'aplicació Google Fotos, actualitza-la ara."</item>
+        <item quantity="one">"Aquesta versió caduca d'aquí a 1 dia. Si vols continuar utilitzant l'aplicació Google Fotos, actualitza-la ara."</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">"S'estan penjant %d elements"</item>
+        <item quantity="one">"S'està penjant %d element"</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">Es penjaran %d elements quan tinguis connexió</item>
+        <item quantity="one">Es penjarà %d element quan tinguis connexió</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Es penjaran %d elements quan tinguis connexió a una xarxa Wi-Fi</item>
+        <item quantity="one">Es penjarà %d element quan tinguis connexió a una xarxa Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">"Per crear la còpia de seguretat d'aquests elements, hauràs de fer servir aproximadament %s de dades. Connecta't a una xarxa Wi-Fi si no vols fer servir les dades mòbils."</item>
+        <item quantity="one">"Per crear la còpia de seguretat d'aquest element, hauràs de fer servir aproximadament %s de dades. Connecta't a una xarxa Wi-Fi si no vols fer servir les dades mòbils."</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">"En crear la còpia de seguretat d'aquests elements, es consumiran dades. Per evitar-ho, connecta't a una xarxa Wi-Fi."</item>
+        <item quantity="one">"En crear la còpia de seguretat d'aquest element, es consumiran dades. Per evitar-ho, connecta't a una xarxa Wi-Fi."</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">"S'està penjant… En queden %d."</item>
+        <item quantity="one">"S'està penjant… En queda %d."</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d fitxers</item>
+        <item quantity="one">%d fitxer</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s elements</item>
+        <item quantity="one">%s element</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s vídeos</item>
+        <item quantity="one">%s vídeo</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Selecciona fotos</item>
+        <item quantity="one">Selecciona una foto</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Selecciona elements</item>
+        <item quantity="one">Selecciona un element</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Selecciona vídeos</item>
+        <item quantity="one">Selecciona un vídeo</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">i %d persones més</item>
+        <item quantity="one">i %d persona més</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d mètodes de contacte</item>
+        <item quantity="one">%1$s. %2$d mètode de contacte</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d membres</item>
+        <item quantity="one">%d membre</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">"S'han seleccionat %d"</item>
+        <item quantity="one">"S'ha seleccionat %d"</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d de %2$d membres seleccionats</item>
+        <item quantity="one">%1$d de %2$d membre seleccionat</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d membres seleccionats</item>
+        <item quantity="one">%d membre seleccionat</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">La paperera del dispositiu és plena. Si suprimeixes aquests elements, se suprimiran definitivament del dispositiu i del compte.</item>
+        <item quantity="one">La paperera del dispositiu és plena. Si suprimeixes aquest element, se suprimirà definitivament del dispositiu i del compte.</item>
+    </plurals>
+</resources>

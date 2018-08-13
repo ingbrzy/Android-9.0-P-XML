@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">‘%s’은(는) 유효한 이메일 주소가 아닙니다.</item>
+        <item quantity="one">‘%s’은(는) 유효한 이메일 주소가 아닙니다.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">이 파일을 추가하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 파일이 공유됩니다.</item>
+        <item quantity="one">이 파일을 추가하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 파일이 공유됩니다.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">이 파일 및 폴더를 추가하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 파일 및 폴더가 공유됩니다.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">이 폴더를 추가하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 폴더가 공유됩니다.</item>
+        <item quantity="one">이 폴더를 추가하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 폴더가 공유됩니다.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">파일을 공유하시겠습니까?</item>
+        <item quantity="one">파일을 공유하시겠습니까?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">파일 및 폴더를 공유하시겠습니까?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">폴더를 공유하시겠습니까?</item>
+        <item quantity="one">폴더를 공유하시겠습니까?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">폴더 %1$d개가 업데이트되었습니다. 색상이 %2$s으로 설정되었습니다</item>
+        <item quantity="one">폴더 %1$d개가 업데이트되었습니다. 색상이 %2$s으로 설정되었습니다.</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">%1$d일 후 만료됨</item>
+        <item quantity="one">%1$d일 후 만료됨</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">백업이 삭제되었습니다.</item>
+        <item quantity="one">백업이 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">열 %d개</item>
+        <item quantity="one">열 %d개</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">고정 열 %d개</item>
+        <item quantity="one">고정 열 %d개</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">고정 행 %d개</item>
+        <item quantity="one">고정 행 %d개</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">행 %d개</item>
+        <item quantity="one">행 %d개</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">항목을 다운로드할 수 없습니다.</item>
+        <item quantity="one">항목을 다운로드할 수 없음</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">총 %2$d개 중 %1$d개 항목이 다운로드됩니다. 자세한 내용은 알림을 참조하세요.</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">항목 %1$d개가 다운로드됩니다. 자세한 내용은 알림을 참조하세요.</item>
+        <item quantity="one">항목 %1$d개가 다운로드됩니다. 자세한 내용은 알림을 참조하세요.</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">항목 %1$s개를 다운로드할 수 없습니다.</item>
+        <item quantity="one">항목 %1$s개를 다운로드할 수 없습니다.</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">외 항목 %1$d개</item>
+        <item quantity="one">외 항목 %1$d개</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">총 %2$d개 중 %1$d개의 다운로드 실패</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">공유 폴더에서 일부 항목을 이동하므로 다른 사용자가 이 항목에 액세스하지 못하게 됩니다.</item>
+        <item quantity="one">공유 폴더에서 항목 1개를 이동하므로 다른 사용자가 이 항목에 액세스하지 못하게 됩니다.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">팀 드라이브에서 일부 항목을 이동하므로 다른 사용자가 이 항목에 액세스하지 못하게 됩니다.</item>
+        <item quantity="one">팀 드라이브에서 항목 1개를 이동하므로 다른 사용자가 이 항목에 액세스하지 못하게 됩니다.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">이 파일을 이동하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 공유됩니다.</item>
+        <item quantity="one">이 파일을 이동하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 공유됩니다.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">이 파일 및 폴더를 이동하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 공유됩니다.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">이 폴더를 이동하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 공유됩니다.</item>
+        <item quantity="one">이 폴더를 이동하면 공유 폴더 %1$s에 액세스할 수 있는 모든 사용자와 공유됩니다.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">파일 공유</item>
+        <item quantity="one">파일 공유</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">파일 및 폴더 공유</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">폴더 공유</item>
+        <item quantity="one">폴더 공유</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">항목 소유자가 아닙니다. 팀 드라이브로 항목을 이동할 수 없습니다.</item>
+        <item quantity="one">이 항목의 소유자가 아닙니다. 팀 드라이브로 항목을 이동할 수 없습니다.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">항목을 폴더 밖으로 이동할 수 있는 권한이 없습니다.</item>
+        <item quantity="one">이 항목을 폴더 밖으로 이동할 수 있는 권한이 없습니다.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s ‘%2$s’에서 현재 항목에 액세스할 수 있습니다.</item>
+        <item quantity="one">%1$s ‘%2$s’에서 현재 항목에 액세스할 수 있습니다.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">항목 %1$d개가 팀 드라이브로 이동하여 이제 멤버가 해당 항목에 액세스할 수 있음</item>
+        <item quantity="one">항목 1개가 팀 드라이브로 이동하여 이제 멤버가 해당 항목에 액세스할 수 있음</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">작업 항목 %1$s개</item>
+        <item quantity="one">작업 항목 %1$s개</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">답글이 없는 %1$s개의 멘션</item>
+        <item quantity="one">답글이 없는 %1$s개의 멘션</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">제안사항 %1$s개</item>
+        <item quantity="one">제안사항 %1$s개</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">할 일 %1$s개</item>
+        <item quantity="one">할 일 %1$s개</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d/%2$s개 파일 오프라인에서 사용 가능</item>
+        <item quantity="one">%1$d/%2$s개 파일 오프라인에서 사용 가능</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">%1$d개 파일 오프라인에서 모두 사용 가능</item>
+        <item quantity="one">%1$d개 파일 오프라인에서 사용 가능</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">%1$d개 파일 오프라인 사용 설정 중입니다.</item>
+        <item quantity="one">%1$d개 파일 오프라인 사용 설정 중입니다.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">파일 %1$d개</item>
+        <item quantity="one">파일 %1$d개</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">업로드 일시 중지됨. Wi-Fi를 기다리는 중입니다.</item>
+        <item quantity="one">다운로드 일시 중지됨. Wi-Fi를 기다리는 중입니다.</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d개의 다운로드가 일시중지되었습니다.</item>
+        <item quantity="one">%1$d개의 다운로드가 일시중지되었습니다.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">항목 %1$d개를 휴지통으로 이동합니다. Google 포토에서도 이 항목이 삭제됩니다.</item>
+        <item quantity="one">항목 1개를 휴지통으로 이동합니다. Google 포토에서도 이 항목이 삭제됩니다.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">후속 활동 항목 %1$s개</item>
+        <item quantity="one">후속 활동 항목 %1$s개</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">후속 활동 항목 %1$s개</item>
+        <item quantity="one">후속 활동 항목 %1$s개</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">파일 %1$d개에 댓글을 작성함</item>
+        <item quantity="one">파일 1개에 댓글을 작성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">파일 %1$d개에 댓글을 작성함</item>
+        <item quantity="one">파일 1개에 댓글을 작성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">이 파일에 댓글을 작성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">항목 %1$d개를 생성함</item>
+        <item quantity="one">항목 1개를 생성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">항목 %1$d개를 생성함</item>
+        <item quantity="one">항목 1개를 생성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">이 파일을 생성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">이 폴더를 생성함</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">항목 %1$d개를 수정함</item>
+        <item quantity="one">항목 1개를 수정함</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">항목 %1$d개를 수정함</item>
+        <item quantity="one">항목 1개를 수정함</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">이 파일을 수정함</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">항목 %1$d개를 완전히 삭제함</item>
+        <item quantity="one">항목 1개를 완전히 삭제함</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">항목 %1$d개를 다음으로 이동함:</item>
+        <item quantity="one">항목 1개를 다음으로 이동함:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">항목 %1$d개를 다음으로 이동함:</item>
+        <item quantity="one">항목 1개를 다음으로 이동함:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">항목 %1$d개를 이동함</item>
+        <item quantity="one">항목 1개를 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">항목 %1$d개를 이동함</item>
+        <item quantity="one">항목 1개를 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">이 파일을 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">이 파일을 다음으로 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">이 폴더를 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">이 폴더를 다음으로 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">항목 %1$d개의 이름을 변경함</item>
+        <item quantity="one">항목 1개의 이름을 변경함</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">항목 %1$d개의 이름을 변경함</item>
+        <item quantity="one">항목 1개의 이름을 변경함</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">이 파일의 이름을 변경함</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">이 폴더의 이름을 변경함</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">항목 %1$d개를 공유함</item>
+        <item quantity="one">항목 1개를 공유함</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">항목 %1$d개를 공유함</item>
+        <item quantity="one">항목 1개를 공유함</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">이 파일을 공유함</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">이 폴더를 공유함</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">항목 %1$d개를 휴지통으로 이동함</item>
+        <item quantity="one">항목 1개를 휴지통으로 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">항목 %1$d개를 휴지통으로 이동함</item>
+        <item quantity="one">항목 1개를 휴지통으로 이동함</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">이 파일을 삭제함</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">이 폴더를 삭제함</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">항목 %1$d개를 업로드함</item>
+        <item quantity="one">항목 1개를 업로드함</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">항목 %1$d개를 업로드함</item>
+        <item quantity="one">항목 1개를 업로드함</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">이 파일을 업로드함</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">이 폴더를 업로드함</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s 외 %2$d명</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">파일 %1$d개가 %2$s 휴지통으로 이동되어 30일 후 완전히 삭제됩니다.</item>
+        <item quantity="one">파일이 %2$s 휴지통으로 이동하며 30일 후 완전히 삭제됩니다.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">폴더 %1$d개가 %2$s 휴지통으로 이동되어 30일 후 완전히 삭제됩니다.</item>
+        <item quantity="one">폴더가 %2$s 휴지통으로 이동되어 30일 후 완전히 삭제됩니다.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">항목 %1$d개가 %2$s 휴지통으로 이동되어 30일 후 완전히 삭제됩니다.</item>
+        <item quantity="one">항목이 %2$s 휴지통으로 이동되어 30일 후 완전히 삭제됩니다.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">파일 %1$d개가 &lt;b>모든 사용자에게서 영구적으로 삭제&lt;/b>됩니다. 이 작업은 실행취소할 수 없습니다.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">파일 %1$d개가 완전히 삭제되며, 이 작업은 실행취소할 수 없습니다.</item>
+        <item quantity="one">이 파일이 완전히 삭제되며, 이 작업은 실행취소할 수 없습니다.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">항목 %1$d개</item>
+        <item quantity="one">항목 %1$d개</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">항목 %1$d개를 선택함</item>
+        <item quantity="one">항목 %1$d개를 선택함</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">항목 %1$d개를 선택취소함</item>
+        <item quantity="one">항목 %1$d개를 선택취소함</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">항목 %d개를 오프라인에서 사용 가능</item>
+        <item quantity="one">항목 1개를 오프라인에서 사용 가능</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d개 항목을 별표표시했습니다.</item>
+        <item quantity="one">1개 항목을 별표표시했습니다.</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">항목 %1$d개를 더 이상 오프라인에서 사용불가</item>
+        <item quantity="one">항목 1개를 더 이상 오프라인에서 사용불가</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">%1$d개 항목을 별표표시 취소했습니다.</item>
+        <item quantity="one">1개 항목을 별표표시 취소했습니다.</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">복원된 항목 %1$d개</item>
+        <item quantity="one">복원된 항목 1개</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">복원된 항목 %1$d개</item>
+        <item quantity="one">복원된 항목 1개</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">항목 %1$d개가 ‘%2$s’에서 삭제되었습니다.</item>
+        <item quantity="one">항목 1개가 ‘%2$s’에서 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">폴더에서 항목 %1$d개를 삭제했습니다.</item>
+        <item quantity="one">폴더에서 항목 1개를 삭제했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">항목 %1$d개를 삭제함</item>
+        <item quantity="one">항목 1개를 삭제함</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">항목 %1$d개를 다시 이동함</item>
+        <item quantity="one">항목 1개를 다시 이동함</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d개 항목을 휴지통으로 다시 이동함</item>
+        <item quantity="one">1개 항목을 휴지통으로 다시 이동함</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">%1$d개 항목이 휴지통으로 다시 이동됨</item>
+        <item quantity="one">1개 항목이 휴지통으로 다시 이동됨</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">항목 %1$d개를 삭제함</item>
+        <item quantity="one">항목 1개를 삭제함</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">항목 %1$d개가 ‘%2$s’에 추가되었습니다.</item>
+        <item quantity="one">항목 1개가 ‘%2$s’에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">항목 %1$d개를 추가했습니다.</item>
+        <item quantity="one">항목 1개를 추가했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">항목 %1$d개를 복원하여 ‘%2$s’에 추가했습니다.</item>
+        <item quantity="one">항목 1개를 복원하여 ‘%2$s’에 추가했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">항목 %1$d개를 ‘%2$s’(으)로 이동했습니다.</item>
+        <item quantity="one">항목 1개를 ‘%2$s’(으)로 이동했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">항목 %1$d개를 이동했습니다.</item>
+        <item quantity="one">항목 1개를 이동했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">항목 %1$d개를 복원하여 ‘%2$s’(으)로 이동했습니다.</item>
+        <item quantity="one">항목 1개를 복원하여 ‘%2$s’(으)로 이동했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">항목 %1$d개를 복원했습니다.</item>
+        <item quantity="one">항목 1개를 복원했습니다.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">항목 %1$d개를 ‘%2$s’(으)로 복원했습니다.</item>
+        <item quantity="one">항목 1개를 ‘%2$s’(으)로 복원했습니다.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">다음 앱으로 파일 보내기</item>
+        <item quantity="one">다음 앱으로 파일 보내기</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d명에게 액세스 권한을 부여했습니다.</item>
+        <item quantity="one">1명에게 보기 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s님 외 %2$d명에게 액세스 권한을 부여했습니다.</item>
+        <item quantity="one">%1$s님 외 1명에게 액세스 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d명에게 댓글 추가 권한을 부여했습니다.</item>
+        <item quantity="one">1명에게 댓글 추가 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s님 외 %2$d명에게 댓글 추가 권한을 부여했습니다.</item>
+        <item quantity="one">%1$s님 외 1명에게 댓글 추가 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d명에게 수정 권한을 부여했습니다.</item>
+        <item quantity="one">1명에게 수정 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s님 외 %2$d명에게 수정 권한을 부여했습니다.</item>
+        <item quantity="one">%1$s님 외 1명에게 수정 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d명에게 보기 권한을 부여했습니다.</item>
+        <item quantity="one">1명에게 보기 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s님 외 %2$d명에게 보기 권한을 부여했습니다.</item>
+        <item quantity="one">%1$s님 외 1명에게 보기 권한을 부여했습니다.</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">드라이브 스토리지가 %1$d일 뒤 만료됨</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">%1$d명이 팀 드라이브에 추가되었습니다.</item>
+        <item quantity="one">1명이 팀 드라이브에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s님 외 %3$d명이 %1$s에 추가되었습니다.</item>
+        <item quantity="one">%2$s님 외 1명이 %1$s에 추가되었습니다.</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">멤버 %d명</item>
+        <item quantity="zero">멤버 없음</item>
+        <item quantity="one">멤버 1명</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">지금 모두 다시 시작</item>
+        <item quantity="one">지금 다시 시작</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">파일 업로드 예약 %1$d건을 취소했습니다.</item>
+        <item quantity="one">파일 업로드 예약 %1$d건을 취소했습니다.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">파일 %1$d개 업로드를 예약할 수 없습니다.</item>
+        <item quantity="one">파일 %1$d개 업로드를 예약할 수 없습니다.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">파일 %1$d개를 업로드했습니다.</item>
+        <item quantity="one">파일 %1$d개를 업로드했습니다.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">파일 %1$d/%2$d개를 업로드할 수 없습니다.</item>
+        <item quantity="one">파일 %1$d/%2$d개를 업로드할 수 없습니다.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">파일 %1$d개를 업로드하는 중입니다.</item>
+        <item quantity="one">파일 %1$d개를 업로드하는 중입니다.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">업로드 일시중지됨. Wi-Fi 연결 대기 중입니다.</item>
+        <item quantity="one">업로드 일시중지됨. Wi-Fi 연결 대기 중입니다.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">파일 %1$d개의 업로드가 일시중지되었습니다.</item>
+        <item quantity="one">파일 %1$d개의 업로드가 일시중지되었습니다.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">파일 %1$d개의 업로드를 준비 중입니다.</item>
+        <item quantity="one">파일 %1$d개의 업로드를 준비 중입니다.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">파일 %1$d개를 %2$s에 업로드하는 중입니다.</item>
+        <item quantity="one">파일 %1$d개를 %2$s에 업로드하는 중입니다.</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">필터</item>
+        <item quantity="one">필터</item>
+    </plurals>
+</resources>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Þessi atriði eru of stór fyrir ruslakörfu tækisins. Ef þú eyðir þeim verða þau fjarlægð fyrir fullt og allt úr tækinu þínu og af reikningnum.</item>
+        <item quantity="one">Þessi atriði eru of stór fyrir ruslakörfu tækisins. Ef þú eyðir þeim verða þau fjarlægð fyrir fullt og allt úr tækinu þínu og af reikningnum.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d atriði skönnuð</item>
+        <item quantity="one">%1$d atriði skannað</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d atriði valin</item>
+        <item quantity="one">%1$d atriði valið</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Ný stærð albúms hefði orðið meiri en núverandi hámark sem er %1$d atriði.</item>
+        <item quantity="one">Ný stærð albúms hefði orðið meiri en núverandi hámark sem er %1$d atriði.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albúm myndi vera með %1$d atriði.</item>
+        <item quantity="one">Albúm myndi vera með %1$d atriði.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d staðsetningum bætt við</item>
+        <item quantity="one">%d staðsetningu bætt við</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d staðsetningum</item>
+        <item quantity="one">%d staðsetningu</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d kortum</item>
+        <item quantity="one">%d korti</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d kortum bætt við</item>
+        <item quantity="one">%d korti bætt við</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Fjarlægir atriði úr þessu albúmi…</item>
+        <item quantity="one">Fjarlægir atriði úr þessu albúmi…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d atriði fjarlægð</item>
+        <item quantity="one">%d atriði fjarlægt</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Fjarlægir myndir úr þessu albúmi…</item>
+        <item quantity="one">Fjarlægir myndir úr þessu albúmi…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Fjarlægir myndskeið úr þessu albúmi…</item>
+        <item quantity="one">Fjarlægir myndskeið úr þessu albúmi…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d atriði</item>
+        <item quantity="one">%1$d atriði</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d atriði</item>
+        <item quantity="one">%d atriði</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Eyða út af tækinu (%d)</item>
+        <item quantity="one">Eyða út af tækinu (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Eyða öllum atriðunum út af tækinu (%d)</item>
+        <item quantity="one">Eyða öllum atriðunum út af tækinu (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Setja í ruslið (%d)</item>
+        <item quantity="one">Setja í ruslið (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d atriði sett í geymslu</item>
+        <item quantity="one">%d atriði sett í geymslu</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d atriði tekin úr geymslu</item>
+        <item quantity="one">%d atriði tekið úr geymslu</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d valin</item>
+        <item quantity="one">%d valið</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Hleður inn %d atriðum</item>
+        <item quantity="one">Hleður inn %d atriði</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d myndir eftir</item>
+        <item quantity="one">%d mynd eftir</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d myndir eftir til afritunar</item>
+        <item quantity="one">%d mynd eftir til afritunar</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d myndir • %2$s</item>
+        <item quantity="one">%1$d mynd • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Viltu afrita %1$d atriði?</item>
+        <item quantity="one">Viltu afrita %1$d atriði?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Hleður inn %1$d atriðum</item>
+        <item quantity="one">Hleður inn %1$d atriði</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d myndir hafa ekki verið afritaðar</item>
+        <item quantity="one">%1$d mynd hefur ekki verið afrituð</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Halda %1$d atriðum öruggum</item>
+        <item quantity="one">Halda %1$d atriði öruggu</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Hleður inn %d atriðum</item>
+        <item quantity="one">Hleður inn %d atriði</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Hleður upp %d myndskeiðum</item>
+        <item quantity="one">Hleður upp %d myndskeiði</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d atriði bíða flutnings</item>
+        <item quantity="one">%d atriði bíður flutnings</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d myndskeið bíða flutnings</item>
+        <item quantity="one">%d myndskeið bíður flutnings</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%d myndir</item>
+        <item quantity="one">%d mynd</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">Öryggisafrit vantar fyrir %d myndir</item>
+        <item quantity="one">Öryggisafrit vantar fyrir %d mynd</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d atriðum bætt við</item>
+        <item quantity="one">%1$d atriði bætt við</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Albúm getur mest innihaldið %d atriði.</item>
+        <item quantity="one">Albúm getur mest innihaldið %d atriði.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Veldu mest %d atriði.</item>
+        <item quantity="one">Veldu mest %d atriði.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Veldu að minnsta kosti %d atriði.</item>
+        <item quantity="one">Veldu að minnsta kosti %d atriði.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Veldu atriði innan %d daga tímabils.</item>
+        <item quantity="one">Veldu atriði innan %d dags tímabils.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d atriðum bætt við</item>
+        <item quantity="one">%d atriði bætt við</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">fyrir %d dögum</item>
+        <item quantity="one">fyrir %d degi</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d klst.</item>
+        <item quantity="one">%d klst.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">Fyrir %d klukkustundum</item>
+        <item quantity="one">Fyrir %d klukkustund</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d vikur</item>
+        <item quantity="one">%d vika</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">Fyrir %d vikum</item>
+        <item quantity="one">Fyrir %d viku</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d mín.</item>
+        <item quantity="one">%d mín.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">Fyrir %d mínútum</item>
+        <item quantity="one">Fyrir %d mínútu</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">%d dagur</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">Fyrir %d dögum síðan</item>
+        <item quantity="one">Fyrir %d degi síðan</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d atriði verða fjarlægð úr tækinu þínu. En hafðu ekki áhyggjur, þau verða áfram til staðar í Google myndum.</item>
+        <item quantity="one">%1$d atriði verður fjarlægt úr tækinu þínu. En hafðu ekki áhyggjur, atriðin verða áfram til staðar í Google myndum.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Fjarlægja %1$d atriði úr tæki</item>
+        <item quantity="one">Fjarlægja %1$d atriði úr tæki</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Fjarlægðu %1$d myndir og myndskeið úr tækinu</item>
+        <item quantity="one">Fjarlægðu %1$d mynd og myndskeið úr tækinu</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Fjarlægir %1$d upprunalegar myndir eða myndskeið</item>
+        <item quantity="one">Fjarlægir %1$d upprunalega mynd eða myndskeið</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d atriði</item>
+        <item quantity="one">%d atriði</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d ný spjöld</item>
+        <item quantity="one">%d nýtt spjald</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d atriðum bætt við</item>
+        <item quantity="one">%d atriði bætt við</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d uppfærslur</item>
+        <item quantity="one">%1$d uppfærsla</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d ummæli</item>
+        <item quantity="one">%1$d ummæli</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Vistar atriði í safni…</item>
+        <item quantity="one">Vistar atriði í safni…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d atriðum bætt við</item>
+        <item quantity="one">%d atriði bætt við</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Þú getur einungis bætt við %d atriðum í viðbót.</item>
+        <item quantity="one">Þú getur einungis bætt við %d atriði í viðbót.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Eyða möppunni og %d atriðum í henni</item>
+        <item quantity="one">Eyða möppunni og %d atriði í henni</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Eyða af tækinu (%d)</item>
+        <item quantity="one">Eyða af tækinu (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Vandamál við að afrita %d atriði</item>
+        <item quantity="one">Vandamál við að afrita %d atriði</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d atriði afrituð</item>
+        <item quantity="one">%d atriði afritað</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Vandamál við að færa %d atriði</item>
+        <item quantity="one">Vandamál við að færa %d atriði</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d atriði færð</item>
+        <item quantity="one">%d atriði fært</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Bæta við sameiginlegt albúm með %1$d manneskjum?</item>
+        <item quantity="one">Bæta við sameiginlegt albúm með %1$d manneskju?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Bæta við albúm sem deilt er með %1$s og %2$d í viðbót?</item>
+        <item quantity="one">Bæta við albúm sem deilt er með %1$s og %2$d í viðbót?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Bæta við albúm sem deilt er með %1$s, %2$s og %3$d í viðbót?</item>
+        <item quantity="one">Bæta við albúm sem deilt er með %1$s, %2$s og %3$d í viðbót?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Senda til %1$s og %2$d í viðbót?</item>
+        <item quantity="one">Senda til %1$s og %2$d í viðbót?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Senda til %1$s, %2$s og %3$d í viðbót?</item>
+        <item quantity="one">Senda til %1$s, %2$s og %3$d í viðbót?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Myndir af %d manneskjum</item>
+        <item quantity="one">Myndir af %d manneskju</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Myndir af %d völdum andlitum</item>
+        <item quantity="one">Myndir af %d völdu andliti</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d valin</item>
+        <item quantity="one">%d valið</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d andlit valin</item>
+        <item quantity="one">%d andlit valið</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Myndir af %1$d völdum andlitum, frá %2$s</item>
+        <item quantity="one">Myndir af %1$d völdu andliti, frá %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Myndir af %d völdum andlitum</item>
+        <item quantity="one">Myndir af %d völdu andliti</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d myndir fjarlægðar</item>
+        <item quantity="one">%1$d mynd fjarlægð</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Veldu aðeins %d einstaklinga</item>
+        <item quantity="one">Veldu aðeins %d einstakling</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d aukasíður</item>
+        <item quantity="one">%d aukasíða</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d síður</item>
+        <item quantity="one">%d síða</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Bættu %d myndum við til að kaupa</item>
+        <item quantity="one">Bættu %d mynd við til að kaupa</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d myndum bætt við</item>
+        <item quantity="one">%d mynd bætt við</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Myndunum var mögulega eytt eða lokað fyrir deilingu</item>
+        <item quantity="one">Myndunum var mögulega eytt eða lokað fyrir deilingu</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d myndir eru ekki lengur til staðar</item>
+        <item quantity="one">%d mynd er ekki lengur til staðar</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d myndir fjarlægðar</item>
+        <item quantity="one">%d mynd fjarlægð</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d síður í viðbót</item>
+        <item quantity="one">%d síða í viðbót</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d síður</item>
+        <item quantity="one">%d síða</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Aðeins er hægt að prenta út %d myndir, </item>
+        <item quantity="one">Aðeins er hægt að prenta út %d mynd, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">þú ert með tillögu að %d myndum</item>
+        <item quantity="one">þú ert með tillögu að %d mynd</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d tillögur að myndum</item>
+        <item quantity="one">%d tillaga að mynd</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">myndir eða myndskeið</item>
+        <item quantity="one">mynd eða myndskeið</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">myndir</item>
+        <item quantity="one">mynd</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">myndskeið</item>
+        <item quantity="one">myndskeið</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">%d gæludýr fundust</item>
+        <item quantity="one">%d gæludýr fannst</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Auk %1$d staða á myndunum þínum</item>
+        <item quantity="one">Auk %1$d staðar á myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Auk %1$d atriða á myndunum þínum</item>
+        <item quantity="one">Auk %1$d atriðis á myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Auk þess %1$d staðir og hlutir í myndunum þínum</item>
+        <item quantity="one">Auk þess %1$d staður og hlutur í myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d manneskjur fundust</item>
+        <item quantity="one">%1$d manneskja fannst</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d staðir fundust</item>
+        <item quantity="one">%1$d staður fannst</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d atriði fundust</item>
+        <item quantity="one">%1$d atriði fannst</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d myndir</item>
+        <item quantity="one">%d mynd</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Auk %1$d staða</item>
+        <item quantity="one">Auk %1$d staðar</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Auk %1$d hluta</item>
+        <item quantity="one">Auk %1$d hlutar</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Auk %1$d hluta og staða</item>
+        <item quantity="one">Auk %1$d hlutar og staðar</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Sjáðu %1$d einstakling á myndunum þínum</item>
+        <item quantity="one">Sjáðu %1$d einstakling á myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">%1$d einstaklingur fannst</item>
+        <item quantity="one">%1$d einstaklingur fannst</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">%1$d staðir fundust</item>
+        <item quantity="one">%1$d staður fannst</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">%1$d hlutir fundust</item>
+        <item quantity="one">%1$d hlutur fannst</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Sjáðu %1$d hluti á myndunum þínum</item>
+        <item quantity="one">Sjáðu %1$d hlut á myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d atriði valin</item>
+        <item quantity="one">%1$d atriði valið</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d valin</item>
+        <item quantity="one">%d valið</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d atriði sett í albúmið</item>
+        <item quantity="one">%d atriði sett í albúmið</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Hleður upp %d atriðum</item>
+        <item quantity="one">Hleður upp %d atriði</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d atriðum verður hlaðið upp þegar tenging næst</item>
+        <item quantity="one">%d atriði verður hlaðið upp þegar tenging næst</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s og %2$d í viðbót</item>
+        <item quantity="one">%1$s og %2$d í viðbót</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d atriði</item>
+        <item quantity="one">%d atriði</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Viltu bæta við %d tengdum myndum?</item>
+        <item quantity="one">Viltu bæta við %d tengdri mynd?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d nýjar myndir</item>
+        <item quantity="one">%1$d ný mynd</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s bætti við %2$d nýjum myndum</item>
+        <item quantity="one">%1$sbætti við %2$d nýrri mynd</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">%1$d manneskjur fundust í myndunum þínum</item>
+        <item quantity="one">%1$d manneskja fannst í myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">%1$d staðir fundust í myndunum þínum</item>
+        <item quantity="one">%1$d staður fannst í myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">%1$d hlutir fundust í myndunum þínum</item>
+        <item quantity="one">%1$d hlutur fannst í myndunum þínum</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Ekki er hægt að eyða atriðum</item>
+        <item quantity="one">Ekki er hægt að eyða atriðum</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Ekki er hægt að eyða %d atriðum</item>
+        <item quantity="one">Ekki er hægt að eyða %d atriði</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Ekki hægt að eyða %d atriðum varanlega</item>
+        <item quantity="one">Ekki hægt að eyða %d atriði varanlega</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Eyðir atriðum fyrir fullt og allt...</item>
+        <item quantity="one">Eyðir atriðum fyrir fullt og allt...</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d atriðum eytt fyrir fullt og allt</item>
+        <item quantity="one">%d atriði eytt fyrir fullt og allt</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d eytt út af tækinu</item>
+        <item quantity="one">%d eytt út af tækinu</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Endurheimtir atriði ...</item>
+        <item quantity="one">Endurheimtir atriði…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Ekki er hægt að endurheimta %d atriði</item>
+        <item quantity="one">Ekki er hægt að endurheimta %d atriði</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d atriði endurheimt úr ruslinu</item>
+        <item quantity="one">%d atriði endurheimt úr ruslinu</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Eyða atriðum fyrir fullt og allt?</item>
+        <item quantity="one">Eyða atriðum fyrir fullt og allt?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Viltu eyða %d atriðum?</item>
+        <item quantity="one">Viltu eyða %d atriði?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Eyða %d atriðum varanlega</item>
+        <item quantity="one">Eyða %d atriði varanlega</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">%d dagar þar til þessi útgáfa rennur út. Til að halda áfram að nota Google myndir skaltu uppfæra núna.</item>
+        <item quantity="one">%d dagur þar til þessi útgáfa rennur út. Til að halda áfram að nota Google myndir skaltu uppfæra núna.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Hleður inn %d atriðum</item>
+        <item quantity="one">Hleður inn %d atriði</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d atriðum verður hlaðið inn þegar tenging næst</item>
+        <item quantity="one">%d atriði verður hlaðið inn þegar tenging næst</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d atriðum verður hlaðið inn við tengingu við Wi-Fi</item>
+        <item quantity="one">%d atriði verður hlaðið inn við tengingu við Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Þú notar um %s af gögnum ef þú tekur afrit af þessum atriðum núna. Tengstu Wi-Fi neti til að komast hjá því.</item>
+        <item quantity="one">Þú notar um %s af gögnum ef þú tekur afrit af þessum atriðum núna. Tengstu Wi-Fi neti til að komast hjá því.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Afritun þessara atriða mun nota farsímagögn. Tengstu Wi-Fi neti til að komast hjá því.</item>
+        <item quantity="one">Afritun þessara atriða mun nota farsímagögn. Tengstu Wi-Fi neti til að komast hjá því.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Hleður inn…%d eftir</item>
+        <item quantity="one">Hleður inn…%d eftir</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d skrár</item>
+        <item quantity="one">%d skrá</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s myndir</item>
+        <item quantity="one">%s mynd</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s atriði</item>
+        <item quantity="one">%s atriði</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s myndskeið</item>
+        <item quantity="one">%s myndskeið</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Veldu myndir</item>
+        <item quantity="one">Veldu myndir</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Veldu atriði</item>
+        <item quantity="one">Veldu atriði</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Veldu myndskeið</item>
+        <item quantity="one">Veldu myndskeið</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">og %d í viðbót</item>
+        <item quantity="one">og %d í viðbót</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d samskiptaleiðir</item>
+        <item quantity="one">%1$s. %2$d samskiptaleið</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d meðlimir</item>
+        <item quantity="one">%d meðlimur</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d valdir</item>
+        <item quantity="one">%d valinn</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d meðlimir valdir af %2$d</item>
+        <item quantity="one">%1$d meðlimir valdir af %2$d</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d meðlimir valdir</item>
+        <item quantity="one">%d meðlimur valinn</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Ruslakarfa tækisins er full. Ef þú eyðir þessum atriðum verða þau fjarlægð fyrir fullt og allt úr tækinu þínu og af reikningnum.</item>
+        <item quantity="one">Ruslakarfa tækisins er full. Ef þú eyðir þessum atriðum verða þau fjarlægð fyrir fullt og allt úr tækinu þínu og af reikningnum.</item>
+    </plurals>
+</resources>

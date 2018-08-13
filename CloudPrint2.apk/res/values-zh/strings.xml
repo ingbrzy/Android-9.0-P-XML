@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">接受</string>
+    <string name="account_label">帐号</string>
+    <string name="acl_list_title">拥有使用权限的用户</string>
+    <string name="acl_printer_access_level_private_subtitle">只有获得明确授权的用户才能添加打印机</string>
+    <string name="acl_printer_access_level_private_title">私有</string>
+    <string name="acl_printer_access_level_public_subtitle">所有知道其链接的用户均可使用该打印机，并可提交打印作业</string>
+    <string name="acl_printer_access_level_public_title">所有知道其链接的用户均可使用</string>
+    <string name="acl_public_share_note">请注意：您将该打印机共享给用户后，相应用户将成为其公共用户 - 如果您以后将该打印机设为私有打印机，则需要重新将其共享给他们，他们才能继续使用该打印机。</string>
+    <string name="acl_role_description_manager">有权管理</string>
+    <string name="acl_role_description_none">无访问权限</string>
+    <string name="acl_role_description_owner">所有者</string>
+    <string name="acl_role_description_user">有权打印</string>
+    <string name="add_people_acl_entry_hint">添加用户…</string>
+    <string name="add_people_hint">输入姓名、电子邮件地址或组名称…</string>
+    <string name="add_people_title">添加用户</string>
+    <string name="add_printer">添加打印机</string>
+    <string name="add_printer_failed">无法添加打印机</string>
+    <string name="adding_printer">正在添加打印机…</string>
+    <string name="app_name">云打印</string>
+    <string name="apply">应用</string>
+    <string name="cancel">取消</string>
+    <string name="cdd_collate">逐份打印</string>
+    <string name="cdd_color">彩色</string>
+    <string name="cdd_copies">份数</string>
+    <string name="cdd_dpi">打印质量</string>
+    <string name="cdd_duplex">双面打印</string>
+    <string name="cdd_fit_to_page">适合页面大小</string>
+    <string name="cdd_margin">页边距</string>
+    <string name="cdd_media_size">材质尺寸</string>
+    <string name="cdd_option_color_auto">自动</string>
+    <string name="cdd_option_color_color">彩色</string>
+    <string name="cdd_option_color_monochrome">单色</string>
+    <string name="cdd_option_dpi_double">%1$d x %2$d DPI</string>
+    <string name="cdd_option_dpi_horizontal">水平 DPI</string>
+    <string name="cdd_option_dpi_single">%1$d DPI</string>
+    <string name="cdd_option_dpi_vertical">垂直 DPI</string>
+    <string name="cdd_option_duplex_long_edge">长边</string>
+    <string name="cdd_option_duplex_off">关闭</string>
+    <string name="cdd_option_duplex_short_edge">短边</string>
+    <string name="cdd_option_fit_to_page_fill">符合页面大小</string>
+    <string name="cdd_option_fit_to_page_fit">适合页面大小</string>
+    <string name="cdd_option_fit_to_page_grow">增至符合页面大小</string>
+    <string name="cdd_option_fit_to_page_none">无</string>
+    <string name="cdd_option_fit_to_page_shrink">缩至符合页面大小</string>
+    <string name="cdd_option_margin_borderless">无边距</string>
+    <string name="cdd_option_margin_bottom">下边距</string>
+    <string name="cdd_option_margin_custom">自定义</string>
+    <string name="cdd_option_margin_left">左边距</string>
+    <string name="cdd_option_margin_right">右边距</string>
+    <string name="cdd_option_margin_standard">标准</string>
+    <string name="cdd_option_margin_top">上边距</string>
+    <string name="cdd_option_media_size">%1$d x %2$d 毫米</string>
+    <string name="cdd_option_orientation_auto">自动</string>
+    <string name="cdd_option_orientation_landscape">横向</string>
+    <string name="cdd_option_orientation_portrait">纵向</string>
+    <string name="cdd_page_orientation">页面方向</string>
+    <string name="cdd_page_range">页面范围</string>
+    <string name="cdd_reverse">逆序</string>
+    <string name="close">关闭</string>
+    <string name="content_description_account_image">帐号图片</string>
+    <string name="content_description_navigation_drawer_close">关闭侧导航栏</string>
+    <string name="content_description_navigation_drawer_open">打开侧导航栏</string>
+    <string name="content_description_navigation_item">导航项图标</string>
+    <string name="content_description_printer_icon">打印机图标</string>
+    <string name="content_description_printer_info_icon">常规打印机信息图标</string>
+    <string name="could_not_receive_printers_heading">无法接收打印机列表</string>
+    <string name="could_not_receive_printers_message">无法从服务器接收打印机列表。您要重试吗？</string>
+    <string name="could_not_resolve_content_type">无法开始云打印：文件类型无法识别</string>
+    <string name="could_not_start">无法开始云打印</string>
+    <string name="could_not_start_unknown_intent">无法开始云打印：操作无法识别</string>
+    <string name="currently_offline">目前处于离线状态</string>
+    <string name="decline">拒绝</string>
+    <string name="default_document_title">无标题</string>
+    <string name="delete">删除</string>
+    <string name="delete_item">删除</string>
+    <string name="delete_printer_msg">确定要移除此打印机吗？</string>
+    <string name="delete_printer_msg_own_cloud">"确定要删除您的云端打印机吗？ 
+以后，您随时可以重新连接该打印机。"</string>
+    <string name="delete_printer_msg_own_connector">为了确保您的打印机不会被重复注册，请在连接该打印机的计算机上停用Google云打印接口。</string>
+    <string name="delete_printer_msg_public">"确定要从打印机列表中移除此公用打印机吗？ 
+以后，您随时可以重新添加该打印机。"</string>
+    <string name="delete_printer_msg_shared_directly">"确定要从列表中移除此打印机吗？ 
+以后，您随时可以请求打印机所有者再次与您共享此打印机。"</string>
+    <string name="delete_printer_title">删除打印机</string>
+    <string name="document_sending">正在发送打印作业</string>
+    <string name="document_sending_title">正在发送打印作业</string>
+    <string name="document_submit_failed">无法提交打印作业</string>
+    <string name="document_submit_failed_title">无法提交打印作业</string>
+    <string name="document_submit_failed_title_multiple">无法提交打印作业：%1$d</string>
+    <string name="document_submit_success_and_failed_title">已提交打印作业：%1$d。无法提交打印作业：%2$d</string>
+    <string name="document_submitted">已提交打印作业</string>
+    <string name="document_submitted_title">已提交打印作业</string>
+    <string name="document_submitted_title_multiple">已提交打印作业：%1$d</string>
+    <string name="document_will_upload_in_background">打印作业将在后台上传</string>
+    <string name="failure_msg_authentication_failed">身份验证失败</string>
+    <string name="failure_msg_could_not_connect">无法连接到服务器</string>
+    <string name="failure_msg_could_not_create_http_request">无法创建 HTTP 请求</string>
+    <string name="failure_msg_could_not_create_request">无法创建服务器请求</string>
+    <string name="failure_msg_could_not_execute_http_request">无法执行 HTTP 请求</string>
+    <string name="failure_msg_could_not_parse">无法解析服务器响应</string>
+    <string name="failure_msg_file_not_found">找不到文件或文件无法访问</string>
+    <string name="failure_msg_format_printer_delete">"无法删除打印机。 
+错误：%1$s"</string>
+    <string name="failure_msg_format_printer_share">"无法共享打印机。 
+错误：%1$s"</string>
+    <string name="failure_msg_format_printer_share_with">"无法将打印机共享给%1$s。 
+错误：%2$s"</string>
+    <string name="failure_msg_format_printer_update">"无法更新打印机。 
+错误：%1$s"</string>
+    <string name="failure_msg_insufficient_memory">内存不足，无法处理该文档。请试试以较低的分辨率进行打印。</string>
+    <string name="failure_msg_internal_error">内部应用错误</string>
+    <string name="failure_msg_out_of_memory">内存不足</string>
+    <string name="failure_msg_print_document_conversion">无法将该文档转换为可打印格式。</string>
+    <string name="failure_msg_printer_lookup">无法加载打印机功能</string>
+    <string name="failure_msg_printer_missing">缺少打印机</string>
+    <string name="failure_msg_privet_register_pending_user_action">待处理的用户操作</string>
+    <string name="failure_msg_request_failed">请求失败</string>
+    <string name="failure_msg_success_is_false">服务器返回了意外错误</string>
+    <string name="failure_msg_unexpected_number_of_printers">响应的打印机数量超出预期</string>
+    <string name="failure_request_msg">请求失败</string>
+    <string name="failure_server_failed_response">服务器返回错误状态</string>
+    <string name="feature_off">停用</string>
+    <string name="feature_on">启用</string>
+    <string name="gcp_add_account">添加帐号</string>
+    <string name="help_and_feedback">帮助和反馈</string>
+    <string name="invitation_invited_by">邀请方：</string>
+    <string name="invitation_processing_failed">无法处理您的邀请</string>
+    <string name="invitation_will_be_processed_in_background">正在处理邀请</string>
+    <string name="invitations_load_failure">无法加载邀请列表。</string>
+    <string name="invited_by_label">邀请者：</string>
+    <string name="job_section_held">可以打印了</string>
+    <string name="job_section_other">其他</string>
+    <string name="local_device_registration_title">设备注册</string>
+    <string name="local_discovery">本地设备搜索</string>
+    <string name="local_discovery_off_message">要启用该功能，请连接到WLAN</string>
+    <string name="local_printer_display_name_format">%s（本地）</string>
+    <string name="manage_acl_permission">管理权限</string>
+    <string name="menu_hint_search_printers">搜索打印机</string>
+    <string name="no_accounts_message">要使用云打印，您需要先为自己的设备添加一个Google帐号</string>
+    <string name="no_advanced_options_message_title">没有高级选项</string>
+    <string name="no_devices_to_add">没有可添加的打印机</string>
+    <string name="offline_more_than_a_month">离线超过 1 个月</string>
+    <string name="offline_more_than_a_week">离线超过 1 周</string>
+    <string name="offline_more_than_a_year">离线超过 1 年</string>
+    <string name="ok">确定</string>
+    <string name="page_1">1</string>
+    <string name="page_2">2</string>
+    <string name="play_store_description">"下载最新版本的官方“Google 云打印”应用。借助 Android 版云打印，您可以： 
+
+- 从任何兼容的 Android 设备上，将打印任务发送到任何已连接到 Google 云打印的打印机进行打印 
+- 将“图库”等应用中的图片或文档直接共享到云打印 
+- 跟踪打印任务的状态 
+- 处理打印机邀请。在云打印中打开电子邮件内的邀请链接 
+- 在本地网络中查找和注册新的云端打印机* 
+
+ 无比轻松地从 Android 进行打印。 
+
+“Google 云打印”应用是 Android KitKat 上的一款打印插件，而在早期版本的 Android 上，它是一款独立的应用。如果您将设备的操作系统更新至 KitKat，则可能需要手动移除 Google 云打印的图标。 
+*并非所有型号都支持本地设备发现功能 - 请查看相应打印机的设置手册了解详情 
+
+权限声明： 
+- 通讯录：“云打印”应用会使用通讯录权限来管理您的 Google 帐号，从而与打印机交互 
+- 存储空间：“云打印”应用会使用存储空间权限来访问请求打印的文件"</string>
+    <string name="play_store_tagline">随时随地通过任何 Android 平板电脑或智能手机进行打印。</string>
+    <string name="play_store_whats_new">"
+- 增加了对 Google 云打印 2.0 打印机（无驱动本地打印，设置简单）的支持 
+- 增加了打印机管理功能（“设置”>“打印”>“云打印”>“设置”菜单 >“管理打印机”） 
+- 更正了多项错误，并改进了界面"</string>
+    <string name="please_confirm_registration_on_device">请在设备上确认注册</string>
+    <string name="pref_about">关于</string>
+    <string name="pref_account">帐号</string>
+    <string name="pref_account_settings_title">帐号设置</string>
+    <string name="pref_add_account">添加帐号</string>
+    <string name="pref_category_about">关于</string>
+    <string name="pref_category_features">功能</string>
+    <string name="pref_category_manage">管理</string>
+    <string name="pref_category_options">选项</string>
+    <string name="pref_category_settings">设置</string>
+    <string name="pref_open_source">开放源代码许可</string>
+    <string name="pref_printer_visibility_title">打印机公开范围</string>
+    <string name="pref_privacy_policy">隐私权政策</string>
+    <string name="pref_terms_of_service">服务条款</string>
+    <string name="preferences">设置</string>
+    <string name="print">打印</string>
+    <string name="print_job_deleted">已删除“%1$s”</string>
+    <string name="print_job_deleted_multiple">已删除 %1$d 个打印作业</string>
+    <string name="print_queue_empty">没有打印作业</string>
+    <string name="print_queue_load_failure">无法加载打印作业。</string>
+    <string name="printer_added_format">已添加%1$s</string>
+    <string name="printer_available_to_everyone">任何人都可以使用</string>
+    <string name="printer_detail_title_firmware_update_url">固件更新网址</string>
+    <string name="printer_detail_title_firmware_version">固件版本</string>
+    <string name="printer_detail_title_gcp_version">Google云打印版本</string>
+    <string name="printer_detail_title_manufacturer">制造商</string>
+    <string name="printer_detail_title_model">型号</string>
+    <string name="printer_detail_title_printer_id">打印机ID</string>
+    <string name="printer_detail_title_printer_type">打印机类型</string>
+    <string name="printer_detail_title_proxy">代理</string>
+    <string name="printer_detail_title_registered_time">注册到云打印的时间</string>
+    <string name="printer_detail_title_serial_number">序列号</string>
+    <string name="printer_detail_title_supported_content_types">支持的内容类型</string>
+    <string name="printer_detail_title_tags">标签</string>
+    <string name="printer_detail_title_update_time">上次更新时间</string>
+    <string name="printer_details_advanced_title">高级详细信息</string>
+    <string name="printer_details_title">常规信息</string>
+    <string name="printer_label">打印机</string>
+    <string name="printer_last_job_format">上一个打印作业是%1$s</string>
+    <string name="printer_list_empty">打印机列表为空</string>
+    <string name="printer_list_load_failure">无法加载打印机。</string>
+    <string name="printer_list_search_no_matches">没有匹配的打印机</string>
+    <string name="printer_owned_by">所有人：%1$s</string>
+    <string name="printer_owned_by_me">我拥有的打印机</string>
+    <string name="printer_status_offline_msg">打印机未连接到网络</string>
+    <string name="printer_status_online_msg">打印机已连接到网络且可以使用</string>
+    <string name="printer_support_url_at">如需获得支持，请访问%1$s</string>
+    <string name="printer_type_connector">通过Google Chrome连接的传统打印机</string>
+    <string name="printer_type_docs">Google文档打印机</string>
+    <string name="printer_type_drive">Google云端硬盘打印机</string>
+    <string name="printer_type_gcp_ready">云端打印机</string>
+    <string name="printer_type_hp">HP ePrinter</string>
+    <string name="printers_shown_entry_all">全部</string>
+    <string name="printers_shown_entry_none">全不显示</string>
+    <string name="printers_shown_entry_recent">近期</string>
+    <string name="printers_shown_summary_all">与此帐号关联的所有打印机都将显示。点按即可进行更改。</string>
+    <string name="printers_shown_summary_none">不显示与此帐号关联的任何打印机。点按即可进行更改。</string>
+    <string name="printers_shown_summary_recent">仅显示此帐号最近用过的打印机。点按即可进行更改。</string>
+    <string name="privet_device_address">地址：</string>
+    <string name="privet_registration_failure">无法注册打印机</string>
+    <string name="privet_registration_success">打印机已成功注册</string>
+    <string name="quota_limited">页/天</string>
+    <string name="quota_limited_template">每日配额：%1$d页</string>
+    <string name="quota_remaining">今天还可以打印 %1$d 页</string>
+    <string name="quota_unlimited">不限配额</string>
+    <string name="refresh">刷新</string>
+    <string name="register_with_account_template">正在通过 %2$s 注册“%1$s”</string>
+    <string name="rename">重命名</string>
+    <string name="rename_printer_hint">输入新的打印机名称…</string>
+    <string name="rename_printer_title">重命名打印机</string>
+    <string name="save">保存</string>
+    <string name="search">搜索</string>
+    <string name="select_file">选择文件</string>
+    <string name="share_public_url">共享打印机网址</string>
+    <string name="sharing_toast">正在共享…</string>
+    <string name="status_done">已打印</string>
+    <string name="status_error">错误</string>
+    <string name="status_expired">已过期</string>
+    <string name="status_held">暂不打印</string>
+    <string name="status_in_progress">进行中</string>
+    <string name="status_queued">已加入队列</string>
+    <string name="status_sending">正在发送...</string>
+    <string name="status_submitted">已提交</string>
+    <string name="subtitle_print_preview_multiple_documents">多个文档</string>
+    <string name="success_msg">成功</string>
+    <string name="title_add_printer">添加打印机</string>
+    <string name="title_advanced_print_options">高级打印选项</string>
+    <string name="title_invitations">邀请</string>
+    <string name="title_manage_printer">管理打印机</string>
+    <string name="title_manage_printers">管理打印机</string>
+    <string name="title_print_jobs">打印作业</string>
+    <string name="title_print_preview">打印预览</string>
+    <string name="title_printers">打印机</string>
+    <string name="to_print_file">打印文件…</string>
+    <string name="unknown_printer">未知打印机</string>
+    <string name="updating_toast">正在更新…</string>
+</resources>

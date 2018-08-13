@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Vipengee hivi ni vikubwa mno kutoshea katika tupio la kifaa chako. Ukivifuta, vitaondolewa kabisa kwenye kifaa na akaunti yako.</item>
+        <item quantity="one">Kipengee hiki ni kikubwa mno kutoshea katika tupio la kifaa chako. Ukikifuta, kitaondolewa kabisa kwenye kifaa na akaunti yako.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">Vipengee %1$d vimechanganuliwa</item>
+        <item quantity="one">Kipengee %1$d kimechanganuliwa</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">Vipengee %1$d vimechaguliwa</item>
+        <item quantity="one">Kipengee %1$d kimechaguliwa</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Ukubwa wa albamu mpya ungezidi kiwango kinachoruhusiwa sasa cha picha %1$d.</item>
+        <item quantity="one">Ukubwa wa albamu mpya ungezidi kiwango kinachoruhusiwa sasa cha picha %1$d.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Albamu ina takriban picha %1$d.</item>
+        <item quantity="one">Albamu ina takriban picha %1$d.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">Mahali %d pameongezwa</item>
+        <item quantity="one">Mahali %d pameongezwa</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">Mahali %d</item>
+        <item quantity="one">Mahali %d</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">Ramani %d</item>
+        <item quantity="one">Ramani %d</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">Ramani %d zimeongezwa</item>
+        <item quantity="one">Ramani %d imeongezwa</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Inaondoa picha kwenye albamu hii...</item>
+        <item quantity="one">Inaondoa picha kwenye albamu hii…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">Imeondoa vipengee %d</item>
+        <item quantity="one">Imeondoa kipengee %d</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Inaondoa picha kwenye albamu hii...</item>
+        <item quantity="one">Inaondoa picha kwenye albamu hii...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Inaondoa video kwenye albamu hii...</item>
+        <item quantity="one">Inaondoa video kwenye albamu hii...</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">Picha %1$d</item>
+        <item quantity="one">Picha %1$d</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">Picha %d</item>
+        <item quantity="one">Picha %d</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Futa kwenye kifaa (%d)</item>
+        <item quantity="one">Futa kwenye kifaa (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Futa vipengee vyote kwenye kifaa (%d)</item>
+        <item quantity="one">Futa vipengee vyote kwenye kifaa (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Hamishia kwenye tupio (%d)</item>
+        <item quantity="one">Hamishia kwenye tupio (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">Umeweka vipengee %d kwenye kumbukumbu</item>
+        <item quantity="one">Umeweka kipengee %d kwenye kumbukumbu</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">Umeondoa vipengee %d kwenye kumbukumbu</item>
+        <item quantity="one">Umeondoa kipengee %d kwenye kumbukumbu</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">Umechagua %d</item>
+        <item quantity="one">Umechagua %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Inapakia vipengee %d</item>
+        <item quantity="one">Inapakia kipengee %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Zimesalia picha %d</item>
+        <item quantity="one">Imesalia picha %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Haijahifadhi nakala za picha %d</item>
+        <item quantity="one">Haijahifadhi nakala ya picha %d</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">Picha %1$d • %2$s</item>
+        <item quantity="one">Picha %1$d • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Ungependa kuhifadhi nakala za vipengee %1$d?</item>
+        <item quantity="one">Ungependa kuhifadhi nakala ya kipengee %1$d?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Inapakia vipengee %1$d</item>
+        <item quantity="one">Inapakia kipengee %1$d</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">Haijahifadhi nakala ya picha %1$d</item>
+        <item quantity="one">Haijahifadhi nakala ya picha %1$d</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Hifadhi nakala za picha %1$d</item>
+        <item quantity="one">Hifadhi nakala ya picha %1$d</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Inapakia vipengee %d</item>
+        <item quantity="one">Inapakia kipengee %d</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Inapakia video %d</item>
+        <item quantity="one">Inapakia video %d</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">Vipengee %d vya kupakiwa</item>
+        <item quantity="one">Kipengee %d cha kupakiwa</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">Video %d za kupakiwa</item>
+        <item quantity="one">Video %d ya kupakiwa</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Picha zote %d</item>
+        <item quantity="one">Picha %d</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">Hujahifadhi nakala %d za picha</item>
+        <item quantity="one">Hujahifadhi nakala %d ya picha</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">Vipengee %1$d vimeongezwa</item>
+        <item quantity="one">Kipengee %1$d kimeongezwa</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Albamu inaweza kubeba vipengee %d pekee.</item>
+        <item quantity="one">Albamu inaweza kubeba kipengee %d pekee.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Chagua vipengee visivyozidi %d.</item>
+        <item quantity="one">Usichague zaidi ya kipengee %d.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Chagua angalau vipengee %d.</item>
+        <item quantity="one">Chagua angalau kipengee %d.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Tafadhali chagua vipengee katika kipindi cha siku %d.</item>
+        <item quantity="one">Tafadhali chagua vipengee katika kipindi cha siku %d.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">Imeongeza vipengee %d</item>
+        <item quantity="one">Imeongeza kipengee %d</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">siku %d zilizopita</item>
+        <item quantity="one">siku %d iliyopita</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa %d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">saa %d zilizopita</item>
+        <item quantity="one">saa %d iliyopita</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">Wiki %d</item>
+        <item quantity="one">Wiki %d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">wiki %d zilizopita</item>
+        <item quantity="one">wiki %d iliyopita</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">dakika %d zilizopita</item>
+        <item quantity="one">dakika %d iliyopita</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">siku %d zilizopita</item>
+        <item quantity="one">siku %d iliyopita</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">Imeondoa vipengee %1$d kwenye kifaa chako. Usijali, vitasalia katika programu ya Picha kwenye Google.</item>
+        <item quantity="one">Imeondoa kipengee %1$d kwenye kifaa chako. Usijali, kitasalia katika programu ya Picha kwenye Google.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Ondoa vipengee %1$d kwenye kifaa</item>
+        <item quantity="one">Ondoa kipengee %1$d kwenye kifaa</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Ondoa picha au video %1$d kwenye kifaa</item>
+        <item quantity="one">Ondoa picha au video %1$d kwenye kifaa</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Inaondoa video na picha %1$d halisi</item>
+        <item quantity="one">Inaondoa video au picha %1$d halisi</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">Vipengee %d</item>
+        <item quantity="one">Kipengee %d</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">Kadi %d mpya</item>
+        <item quantity="one">Kadi 1 mpya</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">Imeongeza vipengee %d</item>
+        <item quantity="one">Imeongeza kipengee %d</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">Masasisho %1$d</item>
+        <item quantity="one">Sasisho %1$d</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">Maoni %1$d</item>
+        <item quantity="one">Maoni %1$d</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Inahifadhi picha kwenye maktaba...</item>
+        <item quantity="one">Inahifadhi picha kwenye maktaba...</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">Imeongeza vipengee %d</item>
+        <item quantity="one">Imeongeza kipengee %d</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Unaweza kuongeza picha zingine %d pekee.</item>
+        <item quantity="one">Unaweza kuongeza picha nyingine %d pekee.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Futa folda na vipengee %d vilivyomo</item>
+        <item quantity="one">Futa folda na kipengee %d kilichomo</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Futa kwenye kifaa (%d)</item>
+        <item quantity="one">Futa kwenye kifaa (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Imeshindwa kunakili vipengee %d</item>
+        <item quantity="one">Imeshindwa kunakili kipengee %d</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">Imenakili vipengee %d</item>
+        <item quantity="one">Imenakili kipengee %d</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Imeshindwa kuhamisha vipengee %d</item>
+        <item quantity="one">Imeshindwa kuhamisha kipengee %d</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">Imehamisha vipengee %d</item>
+        <item quantity="one">Imehamisha kipengee %d</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Ungependa kuongeza kwenye albamu inayoshirikiwa na watu %1$d?</item>
+        <item quantity="one">Ungependa kuongeza kwenye albamu inayoshirikiwa na mtu %1$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Ungependa kuongeza kwenye albamu inayoshirikiwa na %1$s na wengine %2$d?</item>
+        <item quantity="one">Ungependa kuongeza kwenye albamu inayoshirikiwa na %1$s na mwingine %2$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Ungependa kuongeza kwenye albamu inayoshirikiwa na %1$s, %2$s na wengine %3$d?</item>
+        <item quantity="one">Ungependa kungeza kwenye albamu inayoshirikiwa na %1$s, %2$s na mwingine %3$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Ungependa kutuma kwa %1$s na wengine %2$d?</item>
+        <item quantity="one">Ungependa kutuma kwa %1$s na mwingine %2$d?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Ungependa kutuma kwa %1$s, %2$s na wengine %3$d?</item>
+        <item quantity="one">Ungependa kutuma kwa %1$s, %2$s na mwingine %3$d?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Picha za watu %d</item>
+        <item quantity="one">Picha za mtu %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Picha za nyuso %d ulizochagua</item>
+        <item quantity="one">Picha za uso %d uliochagua</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">Umechagua %d</item>
+        <item quantity="one">Umechagua %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Umechagua nyuso %d</item>
+        <item quantity="one">Umechagua uso %d</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Picha za nyuso %1$d ulizochagua, kuanzia tarehe %2$s</item>
+        <item quantity="one">Picha za uso %1$d uliochagua, kuanzia tarehe %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Picha za nyuso %d ulizochagua</item>
+        <item quantity="one">Picha za uso %d uliochagua</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Umeondoa picha %1$d</item>
+        <item quantity="one">Umeondoa picha %1$d</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Wachague watu %d pekee</item>
+        <item quantity="one">Mchague mtu %d pekee</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">Kurasa %d za ziada</item>
+        <item quantity="one">Ukurasa %d wa ziada</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">Kurasa %d</item>
+        <item quantity="one">Ukurasa %d</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Ongeza picha zingine %d ili uweze kununua kitabu cha picha</item>
+        <item quantity="one">Ongeza picha nyingine %d ili uweze kununua kitabu cha picha</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Umeongeza picha %d</item>
+        <item quantity="one">Umeongeza picha %d</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Huenda picha zimefutwa au hazijashirikiwa</item>
+        <item quantity="one">Huenda picha imefutwa au haijashirikiwa</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">Picha %d hazipatikani tena</item>
+        <item quantity="one">Picha %d haipatikani tena</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">Umeondoa picha %d</item>
+        <item quantity="one">Umeondoa picha %d</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">Kurasa %d za ziada</item>
+        <item quantity="one">Ukurasa %d wa ziada</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">Kurasa %d</item>
+        <item quantity="one">Ukurasa %d</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Unaruhusiwa kuchapisha picha %d pekee, </item>
+        <item quantity="one">Unaruhusiwa kuchapisha picha %d pekee, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">Tumekupendekezea picha %d</item>
+        <item quantity="one">Tumekupendekezea picha %d</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">Tumekupendekezea picha %d</item>
+        <item quantity="one">Tumekupendekezea picha %d</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">picha au video</item>
+        <item quantity="one">picha au video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">picha</item>
+        <item quantity="one">picha</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">video</item>
+        <item quantity="one">video</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">Imepata wanyama %d unaopenda</item>
+        <item quantity="one">Imepata mnyama %d unayependa</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Pamoja na sehemu %1$d katika picha zako</item>
+        <item quantity="one">Pamoja na sehemu %1$d katika picha zako</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Pamoja na vitu %1$d katika picha zako</item>
+        <item quantity="one">Pamoja na kitu %1$d katika picha zako</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Pamoja na maeneo na vitu %1$d katika picha zako</item>
+        <item quantity="one">Pamoja na maeneo na vitu %1$d katika picha zako</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Imepata watu %1$d</item>
+        <item quantity="one">Imepata mtu %1$d</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Imepata sehemu %1$d</item>
+        <item quantity="one">Imepata sehemu %1$d</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Imepata vitu %1$d</item>
+        <item quantity="one">Imepata kitu %1$d</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">Picha %d</item>
+        <item quantity="one">Picha %d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Pamoja na sehemu %1$d</item>
+        <item quantity="one">Pamoja na sehemu %1$d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Pamoja na vitu %1$d</item>
+        <item quantity="one">Pamoja na kitu %1$d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Pamoja sehemu na vitu %1$d</item>
+        <item quantity="one">Pamoja sehemu na vitu %1$d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Angalia watu %1$d walio kwenye picha zako</item>
+        <item quantity="one">Angalia mtu %1$d aliye kwenye picha zako</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">Imepata watu %1$d</item>
+        <item quantity="one">Imepata mtu %1$d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">Imepata sehemu %1$d</item>
+        <item quantity="one">Imepata sehemu %1$d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">Imepata vitu %1$d</item>
+        <item quantity="one">Imepata kitu %1$d</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Angalia vitu %1$d vilivyo kwenye picha zako</item>
+        <item quantity="one">Angalia kitu %1$d kilicho kwenye picha zako</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">Imechagua vipengee %1$d</item>
+        <item quantity="one">Imechagua kipengee %1$d</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">Umechagua %d</item>
+        <item quantity="one">Umechagua %d</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">Imeongeza faili %d kwenye albamu</item>
+        <item quantity="one">Imeongeza faili %d kwenye albamu</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Inapakia vipengee %d</item>
+        <item quantity="one">Inapakia kipengee %d</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">Itapakia vipengee %d ukiunganisha kwenye Intaneti</item>
+        <item quantity="one">Itapakia kipengee %d ukiunganisha kwenye Intaneti</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s na wengine %2$d</item>
+        <item quantity="one">%1$s na mwingine %2$d</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">Vipengee %d</item>
+        <item quantity="one">Kipengee %d</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Ungependa kuongeza picha %d zinazohusiana?</item>
+        <item quantity="one">Ungependa kuongeza picha %d inayohusiana?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">Picha %1$d mpya</item>
+        <item quantity="one">Picha %1$d mpya</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s ameongeza picha %2$d mpya</item>
+        <item quantity="one">%1$s ameongeza picha %2$d mpya</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">Imepata watu %1$d kwenye picha zako</item>
+        <item quantity="one">Imepata mtu %1$d kwenye picha zako</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">Imepata sehemu %1$d kwenye picha zako</item>
+        <item quantity="one">Imepata sehemu %1$d kwenye picha zako</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">Imepata vipengee %1$d kwenye picha zako</item>
+        <item quantity="one">Imepata kipengee %1$d kwenye picha zako</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Haiwezi kufuta vipengee</item>
+        <item quantity="one">Haiwezi kufuta kipengee</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Imeshindwa kufuta vipengee %d</item>
+        <item quantity="one">Imeshindwa kufuta kipengee %d</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Imeshindwa kufuta vipengee %d kabisa</item>
+        <item quantity="one">Imeshindwa kufuta kipengee %d kabisa</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Inafuta vipengee kabisa…</item>
+        <item quantity="one">Inafuta kipengee kabisa…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">Imefuta vipengee %d kabisa</item>
+        <item quantity="one">Imefuta kipengee %d kabisa</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">Imefuta %d kwenye kifaa</item>
+        <item quantity="one">Imefuta %d kwenye kifaa</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Inarejesha vipengee…</item>
+        <item quantity="one">Inarejesha kipengee…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Imeshindwa kurejesha vipengee %d</item>
+        <item quantity="one">Imeshindwa kurejesha kipengee %d</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">Imerejesha vipengee %d kutoka tupio</item>
+        <item quantity="one">Imerejesha kipengee %d kutoka tupio</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Je, ungependa kufuta vipengee kabisa?</item>
+        <item quantity="one">Je, ungependa kufuta kipengee kabisa?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Ungependa kufuta vipengee %d?</item>
+        <item quantity="one">Ungependa kufuta kipengee %d?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Futa kabisa vipengee %d</item>
+        <item quantity="one">Futa kabisa kipengee %d</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Zimesalia siku %d hadi muda wa toleo hili uishe. Ili uendelee kutumia Picha kwenye Google, sasisha sasa.</item>
+        <item quantity="one">Imesalia siku 1 hadi muda wa toleo hili uishe. Ili uendelee kutumia Picha kwenye Google, sasisha sasa.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Inapakia vipengee %d</item>
+        <item quantity="one">Inapakia kipengee %d</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">Itapakia vipengee %d utakapounganisha kwenye Intaneti</item>
+        <item quantity="one">Itapakia kipengee %d utakapounganisha kwenye Intaneti</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Itapakia vipengee %d utakapounganisha kwenye Wi-Fi</item>
+        <item quantity="one">Itapakia kipengee %d utakapounganisha kwenye Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Utatumia takribani %s za data kuhifahi nakala ya picha hizi sasa. Unganisha kwenye Wi-Fi ili usitumia data yako.</item>
+        <item quantity="one">Utatumia takribani %s za data kuhifahi nakala ya picha hii sasa. Unganisha kwenye Wi-Fi ili usitumia data yako.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Kuhifadhi nakala za faili hizi kutatumia data yako. Unganisha kwenye Wi-Fi ili usitumia data yako.</item>
+        <item quantity="one">Kuhifadhi nakala ya faili hii kutatumia data yako. Unganisha kwenye Wi-Fi ili usitumia data yako.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Inapakia... Zimesalia %d</item>
+        <item quantity="one">Inapakia... Imesalia %d</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">Faili %d</item>
+        <item quantity="one">Faili %d</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">Picha %s</item>
+        <item quantity="one">Picha %s</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">Vipengee %s</item>
+        <item quantity="one">Kipengee %s</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">Videos %s</item>
+        <item quantity="one">Video %s</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Chagua picha</item>
+        <item quantity="one">Chagua picha</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Chagua vipengee</item>
+        <item quantity="one">Chagua kipengee</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Chagua video</item>
+        <item quantity="one">Chagua video</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">na wengine %d</item>
+        <item quantity="one">na mwingine %d</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. Mbinu %2$d za mawasiliano</item>
+        <item quantity="one">%1$s. Mbinu %2$d ya mawasiliano</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">Wanachama %d</item>
+        <item quantity="one">Mwanachama %d</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d zimechaguliwa</item>
+        <item quantity="one">%d imechaguliwa</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">Wanachama %1$d kati ya %2$d wamechaguliwa</item>
+        <item quantity="one">Mwanachama %1$d kati ya %2$d amechaguliwa</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">Wanachama %d wamechaguliwa</item>
+        <item quantity="one">Mwanachama %d amechaguliwa</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Tupio la kifaa chako limejaa. Ukifuta vipengee hivi, vitaondolewa kabisa kwenye kifaa na akaunti yako.</item>
+        <item quantity="one">Tupio la kifaa chako limejaa. Ukifuta kipengee hiki, kitaondolewa kabisa kwenye kifaa na akaunti yako.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Бул объекттер көлөмдүү болгондуктан, түзмөгүңүздүн таштанды кутусуна батпайт. Аларды жок кылсаңыз, алар түзмөгүңүздөн жана аккаунтуңуздан биротоло өчөт.</item>
+        <item quantity="one">Бул объект көлөмдүү болгондуктан, түзмөгүңүздүн таштанды кутусуна батпайт. Аны жок кылсаңыз, ал түзмөгүңүздөн жана аккаунтуңуздан биротоло өчөт.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Жаңы альбомдогу объекттерин саны %1$d ашпашы керек.</item>
+        <item quantity="one">Жаңы альбомдогу объекттердин саны %1$d ашпашы керек.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Альбомдо %1$d нерсе болот.</item>
+        <item quantity="one">Альбомдо %1$d нерсе болот.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d жер кошулду</item>
+        <item quantity="one">%d жер кошулду</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d сүрөт/видео тартылган жер</item>
+        <item quantity="one">%d сүрөт/видео тартылган жер</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d карта</item>
+        <item quantity="one">%d карта</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d карта кошулду</item>
+        <item quantity="one">%d карта кошулду</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Бул альбомдон объекттер өчүрүлүүдө…</item>
+        <item quantity="one">Бул альбомдон объект өчүрүлүүдө…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d нерсе жылдырылды</item>
+        <item quantity="one">%d нерсе жылдырылды</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Сүрөт бул альбомдон өчүрүлүүдө…</item>
+        <item quantity="one">Сүрөт бул альбомдон өчүрүлүүдө…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Бул альбомдон видеолор өчүрүлүүдө…</item>
+        <item quantity="one">Бул альбомдон видео өчүрүлүүдө…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d нерсе</item>
+        <item quantity="one">%1$d нерсе</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d нерсе</item>
+        <item quantity="one">%d нерсе</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">(%d) түзмөктөн өчүрүү</item>
+        <item quantity="one">(%d) түзмөктөн өчүрүү</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">(%d) бардыгын түзмөктөн өчүрүү</item>
+        <item quantity="one">(%d) бардыгын түзмөктөн өчүрүү</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Таштандыга ыргытылсын: (%d)</item>
+        <item quantity="one">Таштандыга ыргытылсын: (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d архивделди</item>
+        <item quantity="one">%d нерсе архивделди</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d архивден чыгарылды</item>
+        <item quantity="one">%d нерсе архивден чыгарылды</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d тандалды</item>
+        <item quantity="one">%d тандалды</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">%d нерсе жүктөлүп берилүүдө</item>
+        <item quantity="one">%d нерсе жүктөлүп берилүүдө</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d сүрөт калды</item>
+        <item quantity="one">%d сүрөт калды</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Камдык көчүрмөсү сактала элек %d сүрөт калды</item>
+        <item quantity="one">Камдык көчүрмөсү сактала элек %d сүрөт калды</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d сүрөт • %2$s</item>
+        <item quantity="one">%1$d сүрөт • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">%1$d нерсени Google Фотого жүктөйсүзбү?</item>
+        <item quantity="one">%1$d нерсени Google Фотого жүктөйсүзбү?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">%1$d нерсе жүктөлүп берилүүдө</item>
+        <item quantity="one">%1$d нерсе жүктөлүп берилүүдө</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d сүрөттүн камдык көчүрмөсү али сактала элек</item>
+        <item quantity="one">%1$d сүрөттүн камдык көчүрмөсү али сактала элек</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">%1$d сүрөттүн камдык көчүрмөсү сакталат</item>
+        <item quantity="one">%1$d сүрөттүн камдык көчүрмөсү сакталат</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d нерсе жүктөлүп берилүүдө</item>
+        <item quantity="one">%d нерсе жүктөлүп берилүүдө</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d видео жүктөлүп берилүүдө</item>
+        <item quantity="one">%d видео жүктөлүп берилүүдө</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d нерсени жүктөп берсе болот</item>
+        <item quantity="one">%d нерсени жүктөп берсе болот</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d видеону жүктөп берсе болот</item>
+        <item quantity="one">%d видеону жүктөп берсе болот</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%d сүрөттүн баары</item>
+        <item quantity="one">%d сүрөттүн баары</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d сүрөттүн камдык көчүрмөсү сакталган жок</item>
+        <item quantity="one">%d сүрөттүн камдык көчүрмөсү сакталган жок</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d нерсе кошулду</item>
+        <item quantity="one">%1$d нерсе кошулду</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Альбомго эң көп %d нерсе батат.</item>
+        <item quantity="one">Альбомго эң көп %d нерсе батат.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">%d ашпаган сүрөт тандаңыз.</item>
+        <item quantity="one">%d ашпаган сүрөт тандаңыз.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">%d кем эмес сүрөт тандаңыз.</item>
+        <item quantity="one">%d кем эмес сүрөт тандаңыз.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d күн ичиндеги сүрөттөрдү тандаңыз.</item>
+        <item quantity="one">%d күн ичиндеги сүрөттөрдү тандаңыз.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d нерсе кошулду</item>
+        <item quantity="one">%d нерсе кошулду</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d күн мурун</item>
+        <item quantity="one">%d күн мурун</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dсаат</item>
+        <item quantity="one">%dсаат</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d саат мурун</item>
+        <item quantity="one">%d саат мурун</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dапта</item>
+        <item quantity="one">%dапта</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d апта мурун</item>
+        <item quantity="one">%d апта мурун</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dмүн</item>
+        <item quantity="one">%dмүн</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d мүнөт мурун</item>
+        <item quantity="one">%d мүнөт мурун</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dкүн</item>
+        <item quantity="one">%dкүн</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d күн мурун</item>
+        <item quantity="one">%d күн мурун</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">Түзмөгүңүздөн %1$d нерсе өчүрүлөт. Кабатыр болбоңуз, алар Google Фотодо сакталып кала берет</item>
+        <item quantity="one">Түзмөгүңүздөн %1$d нерсе өчүрүлөт. Кабатыр болбоңуз, ал Google Фотодо сакталып кала берет.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Түзмөктөн %1$d нерсени алып салуу</item>
+        <item quantity="one">Түзмөктөн %1$d нерсени алып салуу</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Түзмөктөн %1$d сүрөт жана видео өчүрүлөт</item>
+        <item quantity="one">Түзмөктөн %1$d сүрөт жана видео өчүрүлөт</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$d түпнуска сүрөт же видео жок кылынууда</item>
+        <item quantity="one">%1$d түпнуска сүрөт же видео жок кылынууда</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d нерсе</item>
+        <item quantity="one">%d нерсе</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d жаңы карточка</item>
+        <item quantity="one">1 жаңы карточка</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d нерсе кошулду</item>
+        <item quantity="one">%d нерсе кошулду</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d жаңыртуу</item>
+        <item quantity="one">%1$d жаңыртуу</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d ой жорум</item>
+        <item quantity="one">%1$d ой жорум</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Объекттер жыйнакка сакталууда…</item>
+        <item quantity="one">Объект жыйнакка сакталууда…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d нерсе кошулду</item>
+        <item quantity="one">%d нерсе кошулду</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Сиз болгону %d нерсени кошо аласыз.</item>
+        <item quantity="one">Сиз болгону %d нерсени кошо аласыз.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Папканы жана анын ичиндеги %d нерсени өчүрүү</item>
+        <item quantity="one">Папканы жана анын ичиндеги %d нерсени өчүрүү</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Түзмөктөн өчүрүү (%d)</item>
+        <item quantity="one">Түзмөктөн жок кылуу (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d нерсе көчүрүлбөй жатат</item>
+        <item quantity="one">%d нерсе көчүрүлбөй жатат</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d нерсе көчүрүлдү</item>
+        <item quantity="one">%d нерсе көчүрүлдү</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d нерсе жылбай жатат</item>
+        <item quantity="one">%d нерсе жылбай жатат</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d нерсе жылдырылды</item>
+        <item quantity="one">%d нерсе жылдырылды</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">%1$d адам менен бөлүшүлгөн альбомго кошулсунбу?</item>
+        <item quantity="one">%1$d адам менен бөлүшүлгөн альбомго кошулсунбу?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">%1$s жана дагы %2$d колдонуучу менен бөлүшүлгөн альбомго кошулсунбу?</item>
+        <item quantity="one">%1$s жана дагы %2$d колдонуучу менен бөлүшүлгөн альбомго кошулсунбу?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">%1$s, %2$s жана дагы %3$d колдонуучу менен бөлүшүлгөн альбомго кошулсунбу?</item>
+        <item quantity="one">%1$s, %2$s жана дагы %3$d колдонуучу менен бөлүшүлгөн альбомго кошулсунбу?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">%1$s жана башка %2$d жөнөтүлсүнбү?</item>
+        <item quantity="one">%1$s жана башка %2$d жөнөтүлсүнбү?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">%1$s, %2$s жана башка %3$d жөнөтүлсүнбү?</item>
+        <item quantity="one">%1$s, %2$s жана башка %3$d жөнөтүлсүнбү?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d адамдын сүрөттөрү</item>
+        <item quantity="one">%d адамдын сүрөттөрү</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Тандалган %d адам менен түшкөн сүрөттөр</item>
+        <item quantity="one">Тандалган %d адам менен түшкөн сүрөттөр</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d тандалды</item>
+        <item quantity="one">%d тандалды</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d жүз тандалды</item>
+        <item quantity="one">%d жүз тандалды</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Тандалган %1$d адам менен %2$s берки түшкөн сүрөттөр</item>
+        <item quantity="one">Тандалган %1$d адам менен %2$s берки түшкөн сүрөттөр</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Тандалган %d адам менен түшкөн сүрөттөр</item>
+        <item quantity="one">Тандалган %d адам менен түшкөн сүрөттөр</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d сүрөт өчүрүлдү</item>
+        <item quantity="one">%1$d сүрөт өчүрүлдү</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">%d гана адам тандаңыз</item>
+        <item quantity="one">%d гана адам тандаңыз</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">Кошумча %d бет</item>
+        <item quantity="one">Кошумча %d бет</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d бет</item>
+        <item quantity="one">%d бет</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Сатып алуу үчүн дагы %d сүрөт кошуңуз</item>
+        <item quantity="one">Сатып алуу үчүн дагы %d сүрөт кошуңуз</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d сүрөт кошулду</item>
+        <item quantity="one">%d сүрөт кошулду</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Сүрөттөр жок кылынган же бөлүшүлбөй калган</item>
+        <item quantity="one">Сүрөт жок кылынган же бөлүшүлбөй калган</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d сүрөт жеткиликсиз</item>
+        <item quantity="one">%d сүрөт жеткиликсиз</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d сүрөт өчүрүлдү</item>
+        <item quantity="one">%d сүрөт өчүрүлдү</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">кошумча %d барак</item>
+        <item quantity="one">кошумча %d барак</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d бет</item>
+        <item quantity="one">%d бет</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">%d сүрөт гана басып чыгарууга болот, </item>
+        <item quantity="one">%d сүрөт гана басып чыгарууга болот, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">Сизге %d сүрөт сунушталды</item>
+        <item quantity="one">Сизге %d сүрөт сунушталды</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d сүрөт сунушталды</item>
+        <item quantity="one">%d сүрөт сунушталды</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">сүрөт же видео</item>
+        <item quantity="one">сүрөт же видео</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">сүрөт</item>
+        <item quantity="one">сүрөт</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">видео</item>
+        <item quantity="one">видео</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">%d үй жаныбары табылды</item>
+        <item quantity="one">%d үй жаныбары табылды</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Сүрөттөрүңүздүн ичинен дагы %1$d жер табылды</item>
+        <item quantity="one">Сүрөттөрүңүздүн ичинен дагы %1$d жер табылды</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Сүрөттөрүңүздүн ичинен дагы %1$d объект табылды</item>
+        <item quantity="one">Сүрөттөрүңүздүн ичинен дагы %1$d объект табылды</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Сүрөттөрүңүздүн ичинен дагы %1$d жер жана объект табылды</item>
+        <item quantity="one">Сүрөттөрүңүздүн ичинен дагы %1$d жер жана объект табылды</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d адам табылды</item>
+        <item quantity="one">%1$d адам табылды</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d жер табылды</item>
+        <item quantity="one">%1$d жер табылды</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d объект табылды</item>
+        <item quantity="one">%1$d объект табылды</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d сүрөт</item>
+        <item quantity="one">%d сүрөт</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Дагы %1$d жер</item>
+        <item quantity="one">Дагы %1$d жер</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Дагы %1$d нерсе</item>
+        <item quantity="one">Дагы %1$d нерсе</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Дагы %1$d объект жана жер</item>
+        <item quantity="one">Дагы %1$d объект жана жер</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Сүрөттөрүңүздөн %1$d адам табылды</item>
+        <item quantity="one">Сүрөттөрүңүздөн %1$d адам табылды</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">%1$d адам табылды</item>
+        <item quantity="one">%1$d адам табылды</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">%1$d жер табылды</item>
+        <item quantity="one">%1$d жер табылды</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">%1$d объект табылды</item>
+        <item quantity="one">%1$d объект табылды</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Сүрөттөрүңүздөн %1$d объект табылды</item>
+        <item quantity="one">Сүрөттөрүңүздөн %1$d объект табылды</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d объект тандалды</item>
+        <item quantity="one">%1$d объект тандалды</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d тандалды</item>
+        <item quantity="one">%d тандалды</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d нерсе альбомго кошулду</item>
+        <item quantity="one">%d нерсе альбомго кошулду</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d нерсе жүктөлүп берилүүдө</item>
+        <item quantity="one">%d нерсе жүктөлүп берилүүдө</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">Интернетке туташканда %d нерсе жүктөлүп берилет</item>
+        <item quantity="one">Интернетке туташканда %d нерсе жүктөлүп берилет</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s жана башка %2$d</item>
+        <item quantity="one">%1$s жана башка %2$d</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d файл</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Окшош %d сүрөт кошосузбу?</item>
+        <item quantity="one">Окшош %d сүрөт кошосузбу?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d жаңы сүрөт</item>
+        <item quantity="one">%1$d жаңы сүрөт</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s %2$d жаңы сүрөт кошту</item>
+        <item quantity="one">%1$s %2$d жаңы сүрөт кошту</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">Сүрөттөрүңүздө %1$d адам табылды</item>
+        <item quantity="one">Сүрөттөрүңүздө %1$d адам табылды</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">Сүрөттөрүңүздө %1$d жер табылды</item>
+        <item quantity="one">Сүрөттөрүңүздө %1$d жер табылды</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">Сүрөттөрүңүздө %1$d нерсе табылды</item>
+        <item quantity="one">Сүрөттөрүңүздө %1$d нерсе табылды</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Объекттерди жок кылуу мүмкүн болбой жатат</item>
+        <item quantity="one">Объектти жок кылуу мүмкүн болбой жатат</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d объектти өчүрүү мүмкүн болбой жатат</item>
+        <item quantity="one">%d объектти өчүрүү мүмкүн болбой жатат</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d объектти биротоло өчүрүү мүмкүн болбой жатат</item>
+        <item quantity="one">%d объектти биротоло өчүрүү мүмкүн болбой жатат</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Объекттер биротоло жок кылынууда…</item>
+        <item quantity="one">Объект биротоло жок кылынууда…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d нерсе биротоло өчүрүлдү</item>
+        <item quantity="one">%d нерсе биротоло өчүрүлдү</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d объект түзмөктөн өчүрүлдү</item>
+        <item quantity="one">%d объект түзмөктөн өчүрүлдү</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Объекттер калыбына келтирилүүдө…</item>
+        <item quantity="one">Объект калыбына келтирилүүдө…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d нерсе калыбына келтирилбейт</item>
+        <item quantity="one">%d нерсе калыбына келтирилбейт</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">Таштандыдан %d нерсе кайра калыбына келтирилди</item>
+        <item quantity="one">Таштандыдан %d нерсе кайра калыбына келтирилди</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Объекттерди биротоло жок кыласызбы?</item>
+        <item quantity="one">Объектти биротоло жок кыласызбы?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">%d объектти өчүрөсүзбү?</item>
+        <item quantity="one">%d объектти өчүрөсүзбү?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d объектти биротоло жок кыласызбы?</item>
+        <item quantity="one">%d объектти биротоло жок кыласызбы?</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Google Фотонун бул версиясын %d күндөн кийин пайдалана албай каласыз. Колдонууну уланткыңыз келсе, анын версиясын жаңыртыңыз.</item>
+        <item quantity="one">Google Фотонун бул версиясын 1 күндөн кийин пайдалана албай каласыз. Колдонууну уланткыңыз келсе, анын версиясын жаңыртыңыз.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d объект жүктөлүп берилүүдө</item>
+        <item quantity="one">%d объект жүктөлүп берилүүдө</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">Интернетке туташканда %d нерсе жүктөлүп берилет</item>
+        <item quantity="one">Интернетке туташканда %d нерсе жүктөлүп берилет</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Интернетке туташканда %d нерсе жүктөлүп берилет</item>
+        <item quantity="one">Интернетке туташканда %d нерсе жүктөлүп берилет</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">"Бул объекттердин камдык көчүрмөлөрүн мобилдик Интернет аркылуу сактасаңыз, болжол менен %s трафик керектелет. Андыктан Wi-Fi'га туташыңыз."</item>
+        <item quantity="one">"Бул объекттин камдык көчүрмөсүн мобилдик Интернет аркылуу сактасаңыз, болжол менен %s трафик керектелет. Андыктан Wi-Fi'га туташыңыз."</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">"Бул объекттердин камдык көчүрмөлөрүн мобилдик Интернет аркылуу сактасаңыз көп трафик керектелип калышы мүмкүн. Андыктан Wi-Fi'га туташыңыз."</item>
+        <item quantity="one">"Бул объекттин камдык көчүрмөсүн мобилдик Интернет аркылуу сактасаңыз көп трафик керектелип калышы мүмкүн. Андыктан Wi-Fi'га туташыңыз."</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Жүктөлүп берилүүдө…%d файл калды</item>
+        <item quantity="one">Жүктөлүп берилүүдө…%d файл калды</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d файл</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s сүрөт</item>
+        <item quantity="one">%s сүрөт</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s объект</item>
+        <item quantity="one">%s объект</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s видео</item>
+        <item quantity="one">%s видео</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Сүрөттөрдү тандоо</item>
+        <item quantity="one">Сүрөт тандоо</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Объекттерди тандаңыз</item>
+        <item quantity="one">Объект тандаңыз</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Видео тандоо</item>
+        <item quantity="one">Видео тандоо</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">жана дагы %d адам</item>
+        <item quantity="one">жана дагы %d адам</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d байланыш ыкмасы</item>
+        <item quantity="one">%1$s. %2$d байланыш ыкмасы</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d мүчө</item>
+        <item quantity="one">%d мүчө</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d тандалды</item>
+        <item quantity="one">%d тандалды</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%2$d мүчөдөн %1$d мүчө тандалды</item>
+        <item quantity="one">%2$d мүчөдөн %1$d мүчө тандалды</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d мүчө тандалды</item>
+        <item quantity="one">%d мүчө тандалды</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Түзмөгүңүздүн таштанды кутусу толуп калды. Бул объекттерди жок кылсаңыз, алар түзмөгүңүздөн жана аккаунтуңуздан биротоло өчөт.</item>
+        <item quantity="one">Түзмөгүңүздүн таштанды кутусу толуп калды. Бул объектти жок кылсаңыз, ал түзмөгүңүздөн жана аккаунтуңуздан биротоло өчөт.</item>
+    </plurals>
+</resources>

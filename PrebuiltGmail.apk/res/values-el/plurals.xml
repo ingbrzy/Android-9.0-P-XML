@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s παραλήπτες</item>
+        <item quantity="one">1 παραλήπτης</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 χρησιμοποιούν υπηρεσίες που δεν υποστηρίζουν κρυπτογράφηση. Χωρίς κρυπτογράφηση, άλλοι θα μπορούσαν να δουν το μήνυμά σας κατά την παράδοσή του. ^2</item>
+        <item quantity="one">Ο χρήστης ^1 χρησιμοποιεί κάποια υπηρεσία που δεν υποστηρίζει κρυπτογράφηση. Χωρίς κρυπτογράφηση, άλλοι θα μπορούσαν να δουν το μήνυμά σας κατά την παράδοσή του. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">Ο τομέας ^1, καθώς και άλλοι, δεν υποστήριζαν κρυπτογράφηση όταν στάλθηκε αυτό το μήνυμα. ^2</item>
+        <item quantity="one">Ο τομέας ^1 δεν υποστήριζε κρυπτογράφηση όταν στάλθηκε αυτό το μήνυμα. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Να αρχειοθετηθούν αυτές οι %1$d συνομιλίες;</item>
+        <item quantity="one">Να αρχειοθετηθεί αυτή η συνομιλία;</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Διαγραφή αυτών των %1$d συνομιλιών;</item>
+        <item quantity="one">Διαγραφή αυτής της συνομιλίας;</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Απόρριψη προχείρων από αυτές τις %1$d συνομιλίες;</item>
+        <item quantity="one">Απόρριψη προχείρων από αυτήν τη συνομιλία;</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> συνομιλίες αρχειοθετήθηκαν</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> συνομιλία αρχειοθετήθηκε</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> συνομιλίες διαγράφτηκαν</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> συνομιλία διαγράφτηκε</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Άλλαξαν οι ετικέτες.</item>
+        <item quantity="one">Άλλαξε η ετικέτα.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> στοιχεία μετακινήθηκαν στα εισερχόμενα</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> στοιχείο μετακινήθηκε στα εισερχόμενα</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> συνομιλίες τέθηκαν σε σίγαση</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> συνομιλία τέθηκε σε σίγαση</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> συνομιλίες επισημάνθηκαν ως μη σημαντικές</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> συνομιλία επισημάνθηκε ως μη σημαντική</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> συνομιλίες αναφέρθηκαν ως μη ανεπιθύμητες</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> συνομιλία αναφέρθηκε ως μη ανεπιθύμητη</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> επισημάνθηκαν ως μη αναγνωσμένες</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> επισημάνθηκε ως μη αναγνωσμένη</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> αναβλήθηκαν έως %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> αναβλήθηκε έως %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> συνομιλίες αναφέρθηκαν ως ανεπιθύμητες</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> συνομιλία αναφέρθηκε ως ανεπιθύμητη</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">Έγινε αναφορά %1$d συνομιλιών ως ανεπιθύμητων και καταργήθηκε η εγγραφή σε αυτές</item>
+        <item quantity="one">Έγινε αναφορά %1$d συνομιλίας ως ανεπιθύμητης και καταργήθηκε η εγγραφή σε αυτήν</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> χωρίς αναβολή</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> χωρίς αναβολή</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Κατάργηση αστεριού για %1$d συνομιλίες.</item>
+        <item quantity="one">Κατάργηση αστεριού για %1$d συνομιλία.</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Κάθε %d ημέρες</item>
+        <item quantity="one">Καθημερινά</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Αυτά τα μηνύματα θα επισημανθούν ως ανεπιθύμητα. Θέλετε επίσης να σταματήσετε να λαμβάνετε παρόμοια μηνύματα από αυτούς τους &lt;b>%2$d αποστολείς&lt;/b>;%1$s</item>
+        <item quantity="one">Αυτό το μήνυμα θα επισημανθεί ως ανεπιθύμητο. Θέλετε επίσης να σταματήσετε να λαμβάνετε παρόμοια μηνύματα από τον αποστολέα %1$s;</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Πρόχειρα</item>
+        <item quantity="one">Πρόχειρο</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s συνομιλίες θα διαγραφούν οριστικά</item>
+        <item quantity="one">%1$s συνομιλία θα διαγραφεί οριστικά</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, για %d φορές</item>
+        <item quantity="one">, για μία φορά</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Οι παραλήπτες σας ενδέχεται να μην έχουν πρόσβαση στα αρχεία που εισαγάγατε από το Drive. Ίσως χρειαστεί να μοιραστείτε τα αρχεία μέσα από το ίδιο το Google Drive.</item>
+        <item quantity="one">Οι παραλήπτες σας ενδέχεται να μην έχουν πρόσβαση στο αρχείο που εισαγάγατε από το Drive. Ίσως χρειαστεί να μοιραστείτε το αρχείο μέσα από το ίδιο το Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Σημείωση: Μερικοί παραλήπτες ενδέχεται να μην έχουν ακόμα πρόσβαση στα αρχεία αυτά. Ίσως χρειαστεί να μοιραστείτε αυτά τα αρχεία μέσα από το ίδιο το Google Drive.</item>
+        <item quantity="one">Σημείωση: Μερικοί παραλήπτες ενδέχεται να μην έχουν ακόμα πρόσβαση στο αρχείο αυτό. Ίσως χρειαστεί να μοιραστείτε αυτό το αρχείο μέσα από το ίδιο το Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Μοιράζεστε με τους παραλήπτες:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>που δεν ανήκουν στον οργανισμό Google Apps στον οποίο ανήκει αυτό το αρχείο."</item>
+        <item quantity="one">Μοιράζεστε με τους παραλήπτες:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>που δεν ανήκουν στον οργανισμό Google Apps στον οποίο ανήκει αυτό το αρχείο.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 παραλήπτες χρησιμοποιούν υπηρεσίες που δεν υποστηρίζουν κρυπτογράφηση. Χωρίς κρυπτογράφηση, το μήνυμά σας θα μπορούσε να αναγνωστεί από κάποιον κατά τη διάρκεια της παράδοσης. ^2</item>
+        <item quantity="one">Ο χρήστης ^1 χρησιμοποιεί κάποια υπηρεσία που δεν υποστηρίζει κρυπτογράφηση. Χωρίς κρυπτογράφηση, το μήνυμά σας θα μπορούσε να αναγνωστεί από κάποιον κατά τη διάρκεια της παράδοσης. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Κάθε %1$d μήνες</item>
+        <item quantity="one">Mηνιαία</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d νέα μηνύματα</item>
+        <item quantity="one">%1$d νέο μήνυμα</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d συνημμένα</item>
+        <item quantity="one">%1$d συνημμένο</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d μηνύματα</item>
+        <item quantity="one">%1$d μήνυμα</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Τα ημερολόγια δεν είναι κοινόχρηστα</item>
+        <item quantity="one">Το ημερολόγιο δεν είναι κοινόχρηστο</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Για %d συμβάντα</item>
+        <item quantity="one">Για %d συμβάν</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Κάθε %d ημέρες</item>
+        <item quantity="one">Κάθε %d ημέρα</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Κάθε %d μήνες</item>
+        <item quantity="one">Κάθε %d μήνα</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Κάθε %d εβδομάδες</item>
+        <item quantity="one">Κάθε %d εβδομάδα</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Κάθε %d έτη</item>
+        <item quantity="one">Κάθε %d έτος</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Φορτώθηκαν %d αποτελέσματα αναζήτησης</item>
+        <item quantity="one">Φορτώθηκε %d αποτέλεσμα αναζήτησης</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Ανάπτυξη %1$d παλαιότερων μηνυμάτων</item>
+        <item quantity="one">Ανάπτυξη παλαιότερου μηνύματος</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Τέθηκε σε αναβολή %d ημέρες πριν</item>
+        <item quantity="one">Τέθηκε σε αναβολή %d ημέρα πριν</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Τέθηκε σε αναβολή %d ώρες πριν</item>
+        <item quantity="one">Τέθηκε σε αναβολή %d ώρα πριν</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Τέθηκε σε αναβολή %d μήνες πριν</item>
+        <item quantity="one">Τέθηκε σε αναβολή %d μήνα πριν</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Τέθηκε σε αναβολή %d εβδομάδες πριν</item>
+        <item quantity="one">Τέθηκε σε αναβολή %d εβδομάδα πριν</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Τέθηκε σε αναβολή %d χρόνια πριν</item>
+        <item quantity="one">Τέθηκε σε αναβολή %d χρόνο πριν</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d παλαιότερα μηνύματα αναπτύχθηκαν</item>
+        <item quantity="one">Ένα παλαιότερο μήνυμα αναπτύχθηκε</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">Μία ημέρα</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Θα κατεβαίνουν τα μηνύματα των τελευταίων %1$d ημερών κατά τη σύνδεση</item>
+        <item quantity="one">Θα γίνει λήψη των μηνυμάτων της τελευταίας ημέρας κατά τη σύνδεση</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Τελευταίες %1$d ημέρες</item>
+        <item quantity="one">Τελευταία ημέρα</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Ημερομηνία λήξης - %1$s - %2$d εργασίες</item>
+        <item quantity="one">Ημερομηνία λήξης - %1$s - %2$d εργασία</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Ημέρες</item>
+        <item quantity="one">Ημέρα</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Κάθε %1$d εβδομάδες, ημέρα %2$s</item>
+        <item quantity="one">Εβδομαδιαία, ημέρα %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Κάθε %1$d έτη</item>
+        <item quantity="one">Ετησίως</item>
+    </plurals>
+</resources>

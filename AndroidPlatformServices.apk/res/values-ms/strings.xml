@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigasi skrin utama</string>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_menu_overflow_description">Lagi pilihan</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih apl</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_query">Pertanyaan carian</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_shareactionprovider_share_with">Kongsi dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Kongsi dengan %s</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="account_blocked_title">Akaun Disekat</string>
+    <string name="account_level_title">Tindakan Akaun Diperlukan</string>
+    <string name="account_removed_notification_text">%1$s telah dialih keluar kerana pengurusan peranti tidak selesai</string>
+    <string name="account_removed_notification_title">Akaun dialih keluar</string>
+    <string name="android_privacy_policy_title">Dasar Privasi Tambahan</string>
+    <string name="app_level_title">Permintaan Log Masuk</string>
+    <string name="app_level_title_secondary">Permintaan Log Masuk oleh %s</string>
+    <string name="audience_selection_done">Selesai</string>
+    <string name="auth_account_already_has_gmail">Akaun sudah mempunyai Gmail.</string>
+    <string name="auth_account_content_provider_label">Data Akaun Google</string>
+    <string name="auth_account_module_display_name">Akaun Google</string>
+    <string name="auth_account_removed_default_description">Pengurusan peranti tidak selesai. %1$s</string>
+    <string name="auth_account_removed_default_title">Persediaan dibatalkan</string>
+    <string name="auth_account_removed_dm_bad_result_description">Pengurusan peranti tidak dapat diselesaikan. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Domain anda memerlukan pengurusan peranti mudah alih tetapi tidak disokong pada peranti ini. Cuba gunakan akaun lain.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Pengurusan peranti tdk disokong</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Pengurusan peranti tidak dipasang dengan betul. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Masalah memasang</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Persediaan dibatalkan</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Hanya satu akaun terurus yang dibenarkan untuk peranti ini. Jika anda ingin mengemukakan pertanyaan, sila hubungi pentadbir organisasi anda.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Akaun terurus sudah wujud</string>
+    <string name="auth_account_settings_title">Tetapan akaun</string>
+    <string name="auth_account_setup_title">Akaun Google</string>
+    <string name="auth_account_start_over_and_signin_again">Mulakan semula dan log masuk sekali lagi.</string>
+    <string name="auth_account_state_sync_title">Penyegerakan Keadaan Akaun</string>
+    <string name="auth_allow_external_site_access">Mempunyai akses berterusan kepada data anda di %s</string>
+    <string name="auth_app_permission_ok_footnote">Apabila anda meneruskan, anda membenarkan apl ini dan Google menggunakan maklumat anda menurut syarat perkhidmatan dan dasar privasi masing-masing.</string>
+    <string name="auth_cant_add_work_account_message">Akaun jenis ini diurus oleh organisasi anda.</string>
+    <string name="auth_captcha_instructions">Taip teks yang anda lihat di sini:</string>
+    <string name="auth_captcha_title">Perlu Memasukkan CAPTCHA</string>
+    <string name="auth_common_downloading">Memuat turun…</string>
+    <string name="auth_common_go_back">Kembali</string>
+    <string name="auth_common_switch_accounts">Tukar Akaun</string>
+    <string name="auth_communicating_message">Peranti anda sedang menghubungi Google untuk menyimpan maklumat ke akaun anda. Proses ini boleh mengambil masa sehingga 5 minit.</string>
+    <string name="auth_confirm_creds_sync_title">Keadaan Bukti Kelayakan</string>
+    <string name="auth_d2d_source_alert_title">Ketik &amp; Jalankan</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Kunci &amp; sahkan</string>
+    <string name="auth_d2d_source_copy_notice">Salin akaun dan data ke peranti anda yang lain?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Selepas anda mengesahkan, Bluetooth akan dihidupkan agar peranti anda boleh berkomunikasi.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Selepas anda mengesahkan, peranti anda akan menyambung melalui Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Untuk meneruskan, skrin anda akan dikunci dan anda perlu membuka kunci skrin untuk pengesahan.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Tidak boleh menggunakan Ketik &amp; Jalankan kerana tiada akaun pada peranti ini.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Tidak boleh menggunakan Ketik &amp; Jalankan kerana Bluetooth tidak tersedia pada peranti anda.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth akan dihidupkan agar peranti anda boleh berkomunikasi.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Ini menggunakan Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Ketik &amp; Jalankan selesai</string>
+    <string name="auth_d2d_source_restricted_user_toast">Tidak boleh Ketik dan Pulihkan dari profil pengguna yang terhad.</string>
+    <string name="auth_d2d_source_title">Pulihkan Akaun</string>
+    <string name="auth_d2d_source_unknown_device_name">Peranti yang Tidak Diketahui</string>
+    <string name="auth_d2d_tap_and_go">Ketik &amp; Jalankan</string>
+    <string name="auth_d2d_target_tap_progress_message">Untuk meneruskan, ketik OK pada peranti anda yang lain</string>
+    <string name="auth_d2d_target_title">Ketik &amp; Jalankan</string>
+    <string name="auth_d2d_target_unlock_progress_message">Semak peranti anda yang lain</string>
+    <string name="auth_d2d_target_wait_progress_message">Mendapatkan akaun dan data...</string>
+    <string name="auth_device_management_download_app_icon">Ikon apl %s</string>
+    <string name="auth_device_management_download_description">Akaun ini memerlukan pengurusan peranti mudah alih. Pasang apl ^1 untuk menguatkuasakan dasar keselamatan yang diperlukan oleh akaun.</string>
+    <string name="auth_device_management_download_description_kids">Untuk menambahkan akaun pada peranti ini, pasang <b>^1</b>" terlebih dahulu. 
+
+^1 membantu anda menyediakan peranti ini untuk anak anda."</string>
+    <string name="auth_device_management_download_failed_message">Anda masih boleh meneruskan persediaan tanpa apl ini</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Pengurusan peranti gagal dipasang. Akaun ini akan dialih keluar. Cuba lagi nanti.</string>
+    <string name="auth_device_management_download_failed_title">Tidak dapat memuat turun apl</string>
+    <string name="auth_device_management_download_not_updated_message">Anda masih boleh meneruskan persediaan menggunakan versi semasa</string>
+    <string name="auth_device_management_download_paused">Dijeda</string>
+    <string name="auth_device_management_download_progress">Memuat turun…</string>
+    <string name="auth_device_management_download_skip_message">Akaun ini memerlukan pengurusan peranti. Teruskan tanpa pengurusan ini?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Penambahan akaun ini memerlukan pengurusan peranti. Adakah anda ingin memulakan semula dengan akaun lain?</string>
+    <string name="auth_device_management_go_back">Kembali</string>
+    <string name="auth_device_management_screenlock_description">Untuk mengakses akaun kerja anda pada peranti ini, anda perlu menetapkan skrin kunci. Ini merupakan dasar peranti mudah alih organisasi anda.</string>
+    <string name="auth_device_management_screenlock_skip_message">Akaun ini memerlukan keselamatan kunci skrin. Adakah anda mahu memulakan semula menggunakan akaun yang lain?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Profil kerja anda memastikan apl kerja disimpan secara berasingan dan diurus oleh organisasi anda.
+
+Untuk menyelesaikan persediaan, anda memerlukan kod daripada pentadbir IT. Alat pengurusan akan dimuat turun dan digunakan oleh pentadbir IT untuk mengurus profil kerja anda."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Profil kerja anda memastikan apl kerja disimpan secara berasingan dan diurus oleh organisasi anda.
+
+Alat pengurusan akan dimuat turun dan digunakan oleh pentadbir IT untuk mengurus profil kerja anda."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Sediakan profil kerja anda</string>
+    <string name="auth_device_management_start_description">Akaun ini memerlukan pengurusan peranti mudah alih. Apabila anda mengetik Seterusnya, apl ^1 akan membantu anda menguatkuasakan dasar keselamatan yang diperlukan oleh akaun.</string>
+    <string name="auth_device_management_start_description_kids">Untuk menambahkan akaun pada peranti ini, gunakan <b>^1</b>". 
+
+^1 membantu anda menyediakan peranti ini untuk anak anda."</string>
+    <string name="auth_device_management_title">Pengurusan peranti</string>
+    <string name="auth_device_management_update_description">Akaun ini memerlukan pengurusan peranti mudah alih. Untuk memenuhi dasar keselamatan yang dikaitkan dengan akaun, anda perlu memasang versi apl ^1 yang lebih baharu.</string>
+    <string name="auth_device_management_update_description_kids">Untuk menambahkan akaun pada peranti ini, pasang versi <b>^1</b>" yang terbaharu dahulu. 
+
+^1 membantu anda menyediakan peranti ini untuk anak anda."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> tidak menggunakan Gmail.</string>
+    <string name="auth_error_account_disabled">"Akaun ini telah dilumpuhkan. 
+
+(Untuk mendapatkan butirannya, lawati http://google.com/accounts dengan penyemak imbas web.)"</string>
+    <string name="auth_error_account_not_verified">"Akaun ini belum disahkan. Sila semak e-mel anda dan ikuti pautan yang disertakan untuk mengesahkan akaun ini. 
+
+(Untuk memulihkan maklumat akaun anda, pergi ke http://www.google.com/accounts/recovery pada komputer anda.)"</string>
+    <string name="auth_error_bad_password">Kata laluan terlalu lemah atau mengandungi aksara tidak sah. Cuba lagi.</string>
+    <string name="auth_error_bad_username">Nama pengguna tidak sah.</string>
+    <string name="auth_error_generic_server_error">"Terdapat masalah berkomunikasi dengan pelayan Google. 
+
+Cuba lagi kemudian."</string>
+    <string name="auth_error_invalid_second_factor">Gunakan kata laluan khusus apl dan bukannya kata laluan akaun biasa anda.</string>
+    <string name="auth_error_login_failed">"Nama pengguna dan kata laluan anda tidak sepadan. Cuba lagi.
+
+Untuk mendapatkan semula maklumat akaun anda, pergi ke google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Untuk mengakses akaun anda, anda mesti log masuk di web. Ketik Seterusnya untuk memulakan log masuk Penyemak Imbas.</string>
+    <string name="auth_error_no_network">"Anda tidak mempunyai sambungan rangkaian. 
+
+Ini mungkin masalah sementara. Cuba lagi atau sambung ke rangkaian Wi-Fi yang lain."</string>
+    <string name="auth_error_not_logged_in">Pengguna tidak dilog masuk.</string>
+    <string name="auth_error_username_unavailable">Nama pengguna tidak tersedia.</string>
+    <string name="auth_existing_account_error_text">Sudah terdapat akaun ^1 pada peranti Android ini.</string>
+    <string name="auth_existing_account_error_title">Akaun sudah pun wujud</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Tidak dapat log masuk ke peranti disebabkan perubahan kata laluan yang dibuat baru-baru ini. Cuba log masuk sekali lagi 24 jam selepas perubahan kata laluan dilakukan.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Ciri-ciri perlindungan peranti tidak akan berfungsi lagi.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Tindakan mengalih keluar akaun Google yang terakhir pada peranti daripada profil peribadi anda akan melumpuhkan ciri perlindungan kecurian peranti. Anda boleh menambahkan akaun lain pada peranti untuk mendayakannya lagi kemudian.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Adakah anda pasti?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Alihkan akaun ke dalam Profil Kerja?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Tidak dapat log masuk ke peranti disebabkan ralat yang tidak diketahui. Cuba akaun lain atau log masuk sekali lagi selepas 24 jam.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Sila log masuk menggunakan salah satu akaun pemilik untuk peranti ini</string>
+    <string name="auth_field_cant_be_blank">Medan tidak boleh kosong.</string>
+    <string name="auth_frp_add_account_no">Gunakan akaun baharu</string>
+    <string name="auth_frp_add_account_prompt">Akaun Google yang terdahulu pada peranti ini telah disahkan. Anda boleh menambahkan ^1 kembali pada peranti ini atau anda boleh menggunakan akaun baharu.</string>
+    <string name="auth_frp_add_account_yes">Tmbh akaun terdahulu</string>
+    <string name="auth_frp_device_managed_label">Peranti ini telah disediakan untuk diurus oleh organisasi anda.</string>
+    <string name="auth_frp_download_management_app_label">Anda mesti memuat turun apl pengurusan peranti untuk meneruskan proses persediaan.</string>
+    <string name="auth_frp_enter_device_credentials_label">Beralih kepada mod pentadbir</string>
+    <string name="auth_frp_install_dpc_error">Gagal memasang aplikasi pengurusan. Jika anda memilih untuk melangkau langkah ini, peranti ini tidak akan diurus.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Gagal memasang aplikasi pengurusan. Sila periksa sambungan rangkaian dan cuba lagi nanti.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Gunakan akaun Google saya</string>
+    <string name="auth_frp_preadd_lkscreen_text">Peranti anda telah dibuat tetapan semula kilang. Anda boleh membuka kunci peranti menggunakan rahsia sebelum ini.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Perlindungan Tetapan Semula Kilang</string>
+    <string name="auth_frp_start_reenroll_device_title">Peranti anda di tempat kerja</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Akaun ini tidak boleh diakses. Pastikan peranti anda mematuhi dasar keselamatan organisasi. Jika anda melihat ralat ini berulang kali, hubungi pentadbir organisasi anda.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Ralat akaun</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Domain anda memerlukan pengurusan peranti mudah alih. Pasang apl \"Google Apps Device Policy\" untuk menguatkuasakan dasar keselamatan yang diperlukan oleh akaun  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Muat turun</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" boleh mengandungi huruf,
+nombor dan titik sahaja."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> tidak mengandungi sebarang huruf.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> mengandungi kurang daripada 6 atau lebih daripada 30 aksara.</string>
+    <string name="auth_gls_is_not_available">"Nama pengguna  tidak tersedia."</string>
+    <string name="auth_gls_name_checking_info_title">Menyemak maklumat…</string>
+    <string name="auth_gls_sync_item_title">Segerakkan %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Akaun  "<b>^1</b> mesti ditambahkan pada peranti atau profil kerja yang ditadbir oleh organisasi anda. Sila patuhi arahan yang diberikan oleh pentadbir IT anda untuk melengkapkan langkah ini.</string>
+    <string name="auth_google_title_logo">Logo Google</string>
+    <string name="auth_invalid_login_character">Aksara tidak sah. Hanya 0-9, a-z, A-Z dan titik dibenarkan.</string>
+    <string name="auth_invalid_password_character">Aksara kata laluan tidak sah.</string>
+    <string name="auth_invalid_username">Teks yang anda taip bukan nama pengguna yang sah.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Anda telah menaip kata laluan yang tidak betul atau akaun anda telah berubah. Taipkan semula kata laluan anda. Jika anda terlupa kata laluan anda dan perlu memulihkan kembali akaun anda, klik <annotation id="help_url">di sini</annotation>.</string>
+    <string name="auth_login_task_title">Log masuk</string>
+    <string name="auth_login_title">Taip E-mel dan Kata Laluan</string>
+    <string name="auth_minutemaid_ssl_error">"Terdapat masalah menyambung ke  %s."</string>
+    <string name="auth_network_unreliable_help">Ini mungkin masalah sementara atau peranti Android anda tidak diperuntukkan untuk perkhidmatan data. Jika masalah berterusan, hubungi Bahagian Khidmat Pelanggan.</string>
+    <string name="auth_no_network">Anda tiada sambungan rangkaian.</string>
+    <string name="auth_no_network_help">Ini mungkin masalah sementara atau peranti Android anda tidak diperuntukkan untuk perkhidmatan data. Cuba lagi apabila disambungkan kepada rangkaian mudah alih atau bersambung kepada rangkaian Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Ini mungkin masalah sementara. Cuba lagi atau bersambung ke rangkaian Wi-Fi yang lain.</string>
+    <string name="auth_otp_error">Terdapat masalah menjanakan kod keselamatan.</string>
+    <string name="auth_otp_explained_paragraph">Jika anda terlupa kata laluan atau jika terdapat perkara baharu tentang log masuk anda, Google mungkin meminta kod keselamatan untuk melindungi akaun anda. Gunakan kod itu sekarang atau kembali untuk mendapatkan kod baharu.</string>
+    <string name="auth_otp_header_message">Keadaan yang memerlukan kod ini untuk log masuk</string>
+    <string name="auth_otp_no_accounts_available_message">Tiada akaun dikonfigurasikan pada peranti ini.</string>
+    <string name="auth_otp_progress_dialog_message">Menjanakan kod keselamatan.</string>
+    <string name="auth_otp_ten_digit_code_header">Kod keselamatan anda</string>
+    <string name="auth_otp_ten_digit_explaination">Jika anda terlupa kata laluan atau anda log masuk daripada peranti atau lokasi baharu, anda mungkin diminta supaya memberikan satu atau kedua-dua kod ini untuk melindungi Akaun Google anda.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Kod ini tamat tempoh dalam masa 15 minit dari sekarang atau selepas kod tersebut digunakan. Anda hendaklah menggunakan kod ini hanya pada laman web dengan URL yang bermula dengan \"https://accounts.google.com/\".</string>
+    <string name="auth_otp_ten_digit_usage_header">Waktu untuk menggunakan kod anda</string>
+    <string name="auth_otp_ten_digits_code1">Kod 1</string>
+    <string name="auth_otp_ten_digits_code2">Kod 2</string>
+    <string name="auth_password">Kata laluan</string>
+    <string name="auth_plus_audience_selection_description_acl">KONGSI DENGAN</string>
+    <string name="auth_plus_info_fragment_app_name">%s mahu:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%1$s daripada peranti %2$s mahu:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Kalangan lanjutan anda</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Kalangan yang dipilih</string>
+    <string name="auth_plus_scope_fragment_public_label">Sesiapa sahaja di web</string>
+    <string name="auth_pre_factory_reset_title">Ingat Akaun Google Anda</string>
+    <string name="auth_relogin_activity_title">Taip semula kata laluan</string>
+    <string name="auth_remove_account_start_over">Buat Semula</string>
+    <string name="auth_request_accounts_list">Dapatkan senarai akaun Google pada peranti.</string>
+    <string name="auth_scope_more_details">Maklumat lanjut</string>
+    <string name="auth_server_error">Terdapat masalah berkomunikasi dengan pelayan Google.</string>
+    <string name="auth_server_error_help">Cuba sebentar lagi</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Akaun Ditambah</string>
+    <string name="auth_setup_wizard_account_added_description">Akaun anda telah ditambahkan. Sila teruskan untuk membuat pilihan Perkhidmatan Google</string>
+    <string name="auth_setup_wizard_services_activity_title">Perkhidmatan Google</string>
+    <string name="auth_setup_wizard_title">Bestari Persediaan</string>
+    <string name="auth_show_error_title">Ralat</string>
+    <string name="auth_sign_in_agreement">Dengan melog masuk, anda bersetuju menerima Dasar Privasi <annotation id="google_privacy">Google</annotation> dan <annotation id="android_privacy">Tambahan</annotation>.</string>
+    <string name="auth_sign_in_browser">Log masuk penyemak imbas</string>
+    <string name="auth_sign_in_with_google_account_short">Log masuk dengan Akaun Google anda</string>
+    <string name="auth_submission_error_text">Berlaku ralat. Cuba lagi.</string>
+    <string name="auth_submission_title">Maaf…</string>
+    <string name="auth_ui_activity_authenticating">Mengesahkan...</string>
+    <string name="auth_ui_activity_title">Log masuk Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Log masuk</string>
+    <string name="auth_ui_add_account_title">Persediaan akaun</string>
+    <string name="auth_uncertified_notification_description"><b>Pengguna yang membeli peranti ini:</b>"
+Pengilang peranti telah pramuatkan apl dan perkhidmatan Google tanpa pensijilan daripada Google. Hubungi pengilang dan minta peranti yang diperakui. Ketahui lebih lanjut di g.co/AndroidCertifiedDevice.
+
+"<b>Pengilang tidak berlesen:</b>"
+Anda memerlukan lesen daripada Google untuk mengedarkan apl dan perkhidmatan Google. Mohon di g.co/AndroidGMSContact.
+
+"<b>Pengilang berlesen:</b>"
+Untuk menggunakan apl dan perkhidmatan Google semasa pembangunan, daftarkan peranti. Hubungi Pengurus Pembangunan Perniagaan Google anda untuk mengetahui lebih lanjut.
+
+"<b>Pengguna ROM tersuai:</b>"
+Untuk menggunakan apl dan perkhidmatan Google dengan ROM tersuai, daftarkan peranti ini. Ketahui lebih lanjut di g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Peranti tidak diiktiraf oleh Google</string>
+    <string name="auth_username">E-mel</string>
+    <string name="auth_work_authenticator_label">Akaun Terurus</string>
+    <string name="authorization_dialog">Dialog keizinan</string>
+    <string name="chrome_privacy_title">Notis Privasi Chrome</string>
+    <string name="chrome_tos_title">Syarat Perkhidmatan Chrome</string>
+    <string name="close_button_label">Tutup</string>
+    <string name="common_accept">Terima</string>
+    <string name="common_add">Tambah</string>
+    <string name="common_add_account_label">Tambahkan akaun</string>
+    <string name="common_ads_settings_title">Iklan</string>
+    <string name="common_agree">Setuju</string>
+    <string name="common_app_name">Perkhidmatan Google Play</string>
+    <string name="common_application_info">Maklumat aplikasi</string>
+    <string name="common_application_info_composed_string">maklumat aplikasi</string>
+    <string name="common_asm_google_account_title">Akaun Google</string>
+    <string name="common_asm_manage_google_account_title">Urus Akaun Google anda</string>
+    <string name="common_asm_preferences_settings_title">Pilihan akaun</string>
+    <string name="common_asm_privacy_settings_title">Maklumat peribadi &amp; privasi</string>
+    <string name="common_asm_security_settings_title">Log masuk &amp; keselamatan</string>
+    <string name="common_back">Kembali</string>
+    <string name="common_battery">Bateri</string>
+    <string name="common_block">Sekat</string>
+    <string name="common_cancel">Batal</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts tidak dapat dimulakan (ralat kebenaran).</string>
+    <string name="common_car_permission_desc">Akses kepada perkhidmatan kereta.</string>
+    <string name="common_car_permission_label">Perkhidmatan Kereta</string>
+    <string name="common_card">Kad</string>
+    <string name="common_chips_label_empty_circles">Tiada kalangan</string>
+    <string name="common_chips_label_extended_circles">Kalangan lanjutan</string>
+    <string name="common_chips_label_only_you">Anda sahaja</string>
+    <string name="common_chips_label_public">Awam</string>
+    <string name="common_chips_label_your_circles">Kalangan anda</string>
+    <string name="common_choose_account_label">Pilih akaun</string>
+    <string name="common_confirm_screen_lock_title">Sahkan kunci skrin anda</string>
+    <string name="common_connect">Sambung</string>
+    <string name="common_connected">Disambungkan</string>
+    <string name="common_connected_apps_settings_title">Apl yang disambungkan</string>
+    <string name="common_connecting">Menyambung…</string>
+    <string name="common_continue">Teruskan</string>
+    <string name="common_disabled">Dilumpuhkan</string>
+    <string name="common_disagree">Tidak setuju</string>
+    <string name="common_disconnect">Putuskan sambungan</string>
+    <string name="common_dismiss">Ketepikan</string>
+    <string name="common_done">Selesai</string>
+    <string name="common_email">E-mel</string>
+    <string name="common_fingerprint_hint">Sentuh penderia</string>
+    <string name="common_from">Daripada:</string>
+    <string name="common_games_settings_title">Permainan Play</string>
+    <string name="common_get_started">Mulakan</string>
+    <string name="common_google_play_services_enable_button">Dayakan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Ralat</string>
+    <string name="common_google_play_services_install_button">Pasang</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</string>
+    <string name="common_google_play_services_update_title">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</string>
+    <string name="common_google_play_services_updating_title">Perkhidmatan Google Play sdg dikms kini</string>
+    <string name="common_google_play_services_wear_update_text">Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Perkhidmatan Google Play dipasang dengan seni bina yang salah.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Perkhidmatan Google Play telah dipasang dengan seni bina (%1$s) yang berbeza daripada seni bina peranti anda (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Seni bina salah</string>
+    <string name="common_google_settings">Tetapan Google</string>
+    <string name="common_google_settings_account">Akaun</string>
+    <string name="common_google_settings_credentials_title">Smart Lock untuk Kata Laluan</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Pasang</string>
+    <string name="common_learn_more">Ketahui lebih lanjut</string>
+    <string name="common_list_apps_menu_help">Bantuan</string>
+    <string name="common_list_apps_menu_help_and_feedback">Bantuan &amp; maklum balas</string>
+    <string name="common_loading">Memuatkan…</string>
+    <string name="common_location_settings_title">Lokasi</string>
+    <string name="common_login_activity_task_title">Log masuk…</string>
+    <string name="common_login_error_title">Tidak dapat log masuk</string>
+    <string name="common_magictether_settings_title">Penambatan Segera</string>
+    <string name="common_maps_settings_title">Peta &amp; Latitud</string>
+    <string name="common_mdm_feature_name">Cari Peranti Saya</string>
+    <string name="common_missing_url_viewer">Pemapar tiada untuk menunjukkan url luaran.</string>
+    <string name="common_more">Lagi</string>
+    <string name="common_more_options">Lagi pilihan</string>
+    <string name="common_mute_notification">Redamkan pemberitahuan</string>
+    <string name="common_network_unavailable">Tiada sambungan Internet</string>
+    <string name="common_networking_settings_title">Perangkaian</string>
+    <string name="common_never">Jangan sekali-kali</string>
+    <string name="common_next">Seterusnya</string>
+    <string name="common_no_browser_for_restricted_url">Akses terhad. Tiada penyemak imbas ditemui.</string>
+    <string name="common_no_devices_found">Tiada peranti ditemui</string>
+    <string name="common_no_network">Tidak tersedia kerana peranti di luar talian</string>
+    <string name="common_no_thanks">Tidak, terima kasih</string>
+    <string name="common_not_now">Bukan sekarang</string>
+    <string name="common_off">Mati</string>
+    <string name="common_offline">Anda di luar talian</string>
+    <string name="common_on">Hidup</string>
+    <string name="common_open">Buka</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+    <string name="common_open_source_licenses">Lesen sumber terbuka</string>
+    <string name="common_pause">Jeda</string>
+    <string name="common_people_settings_title">Kenalan</string>
+    <string name="common_permissions_enable_in_settings">Dayakan dalam Tetapan</string>
+    <string name="common_permissions_missing_end">Untuk meneruskan, buka Tetapan, kemudian Kebenaran dan benarkan semua item yang disenaraikan.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Untuk mendayakan, pergi ke
+Tetapan >
+Kebenaran >
+Perkhidmatan Google Play"</string>
+    <string name="common_permissions_missing_start">Apl ini tidak akan berfungsi dengan betul melainkan anda membenarkan permintaan perkhidmatan Google Play mengakses item berikut:</string>
+    <string name="common_permissions_open_settings">Buka Tetapan</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_play">Main</string>
+    <string name="common_privacy_policy">Dasar privasi</string>
+    <string name="common_privacy_policy_composed_string">Dasar Privasi</string>
+    <string name="common_refresh">Muat semula</string>
+    <string name="common_remove">Alih keluar</string>
+    <string name="common_reply">Balas</string>
+    <string name="common_restore">Pulihkan</string>
+    <string name="common_retry">Cuba semula</string>
+    <string name="common_save">Simpan</string>
+    <string name="common_saved">Disimpan</string>
+    <string name="common_saving">Menyimpan…</string>
+    <string name="common_search_settings_title">Carian</string>
+    <string name="common_security_ootp_setting_title">Kod keselamatan</string>
+    <string name="common_select">Pilih</string>
+    <string name="common_send">Hantar</string>
+    <string name="common_sending">Menghantar…</string>
+    <string name="common_set_up_nearby_device_settings_title">Sediakan peranti berdekatan</string>
+    <string name="common_settings">Tetapan</string>
+    <string name="common_share">Kongsi</string>
+    <string name="common_sign_in">Log masuk</string>
+    <string name="common_signin_button_text">Log masuk</string>
+    <string name="common_signin_button_text_long">Log masuk dengan Google</string>
+    <string name="common_skip">Langkau</string>
+    <string name="common_skip_fingerprint">Gunakan kunci skrin</string>
+    <string name="common_something_went_wrong">Berlaku kesilapan</string>
+    <string name="common_system_info">Maklumat sistem</string>
+    <string name="common_system_info_composed_string">maklumat akaun dan sistem</string>
+    <string name="common_take_photo_label">Ambil foto</string>
+    <string name="common_terms_of_service">Syarat perkhidmatan</string>
+    <string name="common_terms_of_service_composed_string">Syarat Perkhidmatan</string>
+    <string name="common_today">Hari ini</string>
+    <string name="common_try_again">Cuba lagi</string>
+    <string name="common_turn_on">Hidupkan</string>
+    <string name="common_turn_on_bluetooth">Hidupkan Bluetooth</string>
+    <string name="common_turn_on_nfc">Hidupkan NFC</string>
+    <string name="common_ui_confirm_deleting_button">Padam</string>
+    <string name="common_ui_confirm_deleting_checkbox">Saya faham dan mahu memadam</string>
+    <string name="common_unknown">Tidak diketahui</string>
+    <string name="common_update">Kemas kini</string>
+    <string name="common_url_load_unsuccessful_message">Peranti Android anda tidak disambungkan kepada perkhidmatan data. Untuk melihat maklumat ini sekarang, lawati %s dengan penyemak imbas web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Peranti Android anda tidak disambungkan ke rangkaian Wi-Fi. Untuk melihat maklumat ini sekarang, lawati %s menggunakan penyemak imbas web.</string>
+    <string name="common_usage_and_diagnostics">Penggunaan &amp; diagnostik</string>
+    <string name="common_view">Lihat</string>
+    <string name="common_yesterday">Semalam</string>
+    <string name="continue_to_login_heading">Sila log masuk.</string>
+    <string name="continue_to_login_text">Bukti kelayakan diberikan. Teruskan untuk log masuk pada peranti anda yang pertama.</string>
+    <string name="description_fingerprint_icon">Ikon cap jari</string>
+    <string name="download_msg_error_invalid">Muat turun dikonfigurasikan secara tidak betul.</string>
+    <string name="download_msg_in_progress">Muat turun sedang berjalan.</string>
+    <string name="download_msg_not_allowed_space">Tiada ruang yang mencukupi untuk melakukan muat turun.</string>
+    <string name="download_msg_pending">Muat turun belum selesai.</string>
+    <string name="download_notification_description">%1$s telah meminta ini.</string>
+    <string name="download_notification_title">Mengambil data lagi</string>
+    <string name="expand_button_title">Lanjutan</string>
+    <string name="fido_ble_device_icon_content_description">Peranti Bluetooth ditemui</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Tekan dan tahan butang pada kunci anda sekurang-kurangnya 5 saat untuk memastikan kunci dalam mod penggandingan</string>
+    <string name="fido_ble_dont_see_your_key_hint">Kunci anda tidak kelihatan?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Kunci Keselamatan anda hanya berfungsi apabila Bluetooth dan perkhidmatan Lokasi peranti dihidupkan</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Kunci Keselamatan anda hanya berfungsi apabila Bluetooth peranti dihidupkan</string>
+    <string name="fido_ble_enable_body_location_only">Kunci Keselamatan anda hanya berfungsi apabila perkhidmatan Lokasi peranti dihidupkan</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Hidupkan Bluetooth dan Lokasi</string>
+    <string name="fido_ble_enable_title_location_only">Hidupkan Lokasi</string>
+    <string name="fido_ble_instructions_body">Untuk menggunakan kebanyakan kunci, ketik sahaja butangnya</string>
+    <string name="fido_ble_locate_pin_body">PIN penggandingan biasanya merupakan nombor 4 atau 6 digit dan mungkin tertera pada bahagian belakang kunci anda. Teruskan apabila anda bersedia untuk memasukkan PIN.</string>
+    <string name="fido_ble_locate_pin_title">Cari PIN penggandingan Bluetooth untuk kunci %1$s anda</string>
+    <string name="fido_ble_pair_device_pairing">Menggandingkan Kunci Keselamatan anda…</string>
+    <string name="fido_ble_pair_instructions_body">Gandingkan kunci anda dengan peranti ini supaya anda boleh menggunakan kunci itu dengan akaun anda</string>
+    <string name="fido_ble_pair_instructions_title">Bersedia untuk menggandingkan Kunci Keselamatan anda?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Kembalikan kunci anda ke dalam mod penggandingan</string>
+    <string name="fido_ble_pairing_mode_body">Tekan dan tahan butang pada Kunci Keselamatan anda selama sekurang-kurangnya 5 saat</string>
+    <string name="fido_ble_pairing_mode_title">Masuki mod penggandingan</string>
+    <string name="fido_ble_select_device_body">Daripada senarai di bawah, pilih Kunci Keselamatan yang ingin digandingkan dengan peranti anda. Nama peranti mungkin dicetak pada bahagian belakang kunci.</string>
+    <string name="fido_ble_select_device_title">Pilih Kunci Keselamatan anda</string>
+    <string name="fido_instructions_title">Benarkan penggunaan Kunci Keselamatan anda?</string>
+    <string name="fido_nfc_enable_body">Kunci Keselamatan anda hanya berfungsi apabila NFC peranti anda dihidupkan</string>
+    <string name="fido_nfc_instructions_body">Lekapkan kunci anda pada bahagian belakang peranti sehingga peranti berhenti bergetar</string>
+    <string name="fido_paask_body">Peranti berdekatan cuba log masuk dengan Akaun Google anda</string>
+    <string name="fido_paask_footer">Ini ialah perlindungan log masuk tertingkat menggunakan sambungan bluetooth tersulit ke peranti berdekatan.</string>
+    <string name="fido_paask_header">Cuba log masuk pada peranti berdekatan?</string>
+    <string name="fido_paask_no_text">Tidak, itu bukan saya</string>
+    <string name="fido_paask_yes_text">Ya, ini saya</string>
+    <string name="fido_pair_another_security_key">Gandingkan Kunci Keselamatan yang lain</string>
+    <string name="fido_processing">Mengesahkan Kunci Keselamatan anda…</string>
+    <string name="fido_transport_selection_bluetooth">Gunakan Kunci Keselamatan dengan Bluetooth</string>
+    <string name="fido_transport_selection_body">Kunci Keselamatan berfungsi dengan Bluetooth, NFC dan USB. Pilih cara anda ingin menggunakan kunci anda.</string>
+    <string name="fido_transport_selection_fingerprint">Gunakan Kunci Keselamatan dengan Cap Jari</string>
+    <string name="fido_transport_selection_nfc">Gunakan Kunci Keselamatan dengan NFC</string>
+    <string name="fido_transport_selection_title">Pilih cara untuk menggunakan Kunci Keselamatan anda</string>
+    <string name="fido_transport_selection_usb">Gunakan Kunci Keselamatan dengan USB</string>
+    <string name="fido_usb_instructions_body">Sambungkan Kunci Keselamatan anda ke port USB atau sambungkannya dengan kabel USB. Jika kunci anda mempunyai butang atau cakera emas, ketik padanya sekarang.</string>
+    <string name="fido_use_ble_instead">Gunakan Kunci Keselamatan anda dengan Bluetooth</string>
+    <string name="fido_use_fp_instead">Gunakan Kunci Keselamatan anda dengan Cap Jari</string>
+    <string name="fido_use_nfc_instead">Gunakan Kunci Keselamatan anda dengan NFC</string>
+    <string name="fido_use_usb_instead">Gunakan Kunci Keselamatan anda dengan USB</string>
+    <string name="fido_welcome_body">Penggunaan Kunci Keselamatan anda dengan %1$s dapat melindungi data peribadi anda.</string>
+    <string name="fido_welcome_title">Gunakan Kunci Keselamatan anda dengan %1$s</string>
+    <string name="fingerprint_description">Sahkan cap jari anda supaya %1$s dapat mengesahkan identiti anda.</string>
+    <string name="fingerprint_no_imprints_description">%1$s mahu mengesahkan identiti anda menggunakan cap jari tetapi anda belum menambahkan cap jari pada peranti ini lagi.</string>
+    <string name="fingerprint_not_recognized">Cap jari tidak dikenali. Cuba lagi</string>
+    <string name="fingerprint_success">Cap jari dikenali</string>
+    <string name="gcm_fallback_notification_channel_label">Pelbagai</string>
+    <string name="google_app_permissions_title">Kebenaran Apl</string>
+    <string name="google_legal_title">Undang-undang Google</string>
+    <string name="google_play_tos_title">Syarat Perkhidmatan Google Play</string>
+    <string name="google_plus_privacy_policy_title">Dasar Privasi Google Tambah</string>
+    <string name="google_privacy_policy_title">Dasar Privasi Google</string>
+    <string name="google_terms_of_service_title">Syarat Perkhidmatan Google</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Benarkan apl memindahkan bukti kelayakan Wi-Fi rangkaian ke peranti lain.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Pindahkan bukti kelayakan Wi-Fi</string>
+    <string name="no_screen_lock_description">Anda perlu menyediakan kunci skrin pada peranti anda dahulu</string>
+    <string name="no_screen_lock_title">Tiada kunci skrin pada telefon anda</string>
+    <string name="notification_ticker">Akses Diminta</string>
+    <string name="open_source_activity_prompt_heading">Buka Aplikasi</string>
+    <string name="open_source_activity_prompt_text">"Buka SourceResponseActivity pada telefon anda untuk melengkapkan proses pengesahan. "</string>
+    <string name="permgrouplab_calendar">Kalendar</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kenalan</string>
+    <string name="permgrouplab_location">Lokasi</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Penderia Badan</string>
+    <string name="permgrouplab_storage">Storan</string>
+    <string name="permissions_not_granted_text">Untuk memberikan kebenaran, log masuk sekali lagi.</string>
+    <string name="permissions_not_granted_title">Kebenaran tidak diberikan.</string>
+    <string name="plus_manage_app_only_you_label">Anda sahaja</string>
+    <string name="plus_network_unreliable">Tidak dapat mewujudkan sambungan yang boleh dipercayai ke pelayan.</string>
+    <string name="plus_oob_interstitial_loading_text">Proses ini boleh mengambil masa beberapa minit.</string>
+    <string name="search_menu_title">Cari</string>
+    <string name="set_up">SEDIAKAN</string>
+    <string name="setupservices_additional_privacy_title">Maklumat Privasi Tambahan</string>
+    <string name="setupservices_android_privacy_policy_title">Dasar Privasi Tambahan</string>
+    <string name="setupservices_chrome_privacy_title">Notis Privasi Chrome</string>
+    <string name="setupservices_chrome_tos_title">Syarat Perkhidmatan Chrome</string>
+    <string name="setupservices_google_app_permissions_title">Kebenaran Apl</string>
+    <string name="setupservices_google_legal_title">Undang-undang Google</string>
+    <string name="setupservices_google_play_tos_title">Syarat Perkhidmatan Google Play</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Dasar Privasi Google Plus</string>
+    <string name="setupservices_google_privacy_policy_title">Dasar Privasi Google</string>
+    <string name="setupservices_google_services_agreement">Dengan meneruskan penggunaan, anda bersetuju bahawa peranti ini juga boleh memuat turun dan memasang kemas kini dan apl daripada Google, pembawa dan pengeluar peranti anda secara automatik dan mungkin menggunakan data selular. Sesetengah apl ini mungkin menawarkan pembelian dalam apl. Anda boleh mengalih keluar apl ini pada bila-bila masa.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Untuk mengalih keluar apl, pergi ke Tetapan > Apl atau Pengurus apl. Kemudian, ketik apl yang ingin dinyahpasang (anda mungkin perlu meleret ke kanan atau kiri untuk mencari apl). Kemudian, ketik Nyahpasang atau Lumpuhkan.</string>
+    <string name="setupservices_google_services_agreement_korea">Anda juga dengan ini bersetuju dan memberi kebenaran kepada apl Google yang dipramuat untuk mengakses maklumat dan fungsi pada peranti anda. Lihat <annotation link="app_permissions">halaman ini</annotation> untuk mendapatkan maklumat lanjut tentang penggunaan kebenaran ini.</string>
+    <string name="setupservices_google_services_agreement_title">Pasang kemas kini &amp; apl</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Apabila storan telefon anda hampir penuh, kosongkan ruang dengan mengalih keluar sebahagian data, seperti foto dan video yang disandarkan.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Apabila anda disambungkan, anda masih dapat mengakses data ini. Anda boleh mengawal ciri ini dan item yang dialih keluar dengan melawati Tetapan > Storan > Storan Pintar.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Kosongkan ruang</string>
+    <string name="setupservices_google_services_backup">Pulihkan data anda atau beralih telefon dengan mudah pada bila-bila masa. Sandaran anda termasuk apl, data apl dan tetapan peranti (termasuk kata laluan Wi-Fi).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Data sandaran tidak dikira dalam kuota storan Drive anda."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Data apl boleh jadi sebarang data yang telah disimpan oleh apl (berdasarkan tetapan pembangun), termasuk data yang berkemungkinan sensitif, seperti kenalan, mesej dan foto.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Anda boleh mematikan perkhidmatan ini dalam Tetapan.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Foto dan video pada peranti ini disegerakkan ke pustaka Google Photos anda supaya anda dapat mencari, mengedit, memadam dan berkongsi daripada mana-mana peranti anda. Secara lalainya, foto dan video peleraian penuh dimuat naik ke Google Photos.
+
+Data sandaran tidak dikira dalam kuota storan Drive anda."</string>
+    <string name="setupservices_google_services_backup_title">Sandarkan ke Google Drive</string>
+    <string name="setupservices_google_services_backup_v23">Pulihkan data anda atau beralih telefon dengan mudah pada bila-bila masa. Sandaran anda termasuk apl, data apl, sejarah panggilan, kenalan dan tetapan peranti (termasuk kata laluan dan kebenaran Wi-Fi).</string>
+    <string name="setupservices_google_services_backup_v26">Pulihkan data anda atau beralih telefon dengan mudah pada bila-bila masa. Sandaran anda termasuk apl, data apl, sejarah panggilan, kenalan, tetapan peranti (termasuk kata laluan dan kebenaran Wi-Fi) dan SMS.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Pulihkan data anda atau beralih telefon dengan mudah pada bila-bila masa. Sandaran anda termasuk apl, data apl, sejarah panggilan, kenalan, tetapan peranti (termasuk kata laluan dan kebenaran Wi-Fi), foto, video dan SMS. Foto dan video disegerakkan ke pustaka Google Photos anda dan boleh digunakan merentas perkhidmatan.</string>
+    <string name="setupservices_google_services_data_policy">Data akan digunakan menurut <annotation link="google_privacy">Dasar Privasi</annotation> Google.</string>
+    <string name="setupservices_google_services_data_policy_korea">Data akan digunakan menurut <annotation link="google_privacy">Dasar Privasi</annotation> Google (termasuk <annotation link="additional_privacy">koleksi, storan dan penggunaan maklumat peribadi</annotation>) serta <annotation link="location_tos">Syarat Perkhidmatan Lokasi</annotation>.</string>
+    <string name="setupservices_google_services_description">Ketik untuk mengetahui lebih lanjut tentang setiap perkhidmatan, seperti cara menghidupkan atau mematikan perkhidmatan itu kemudian. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Butiran apl, termasuk pembelian dalam apl boleh didapati di Gedung Play. Data apl &amp; tetapan disegerakkan pada peranti yang dilog masuk dengan Akaun Google anda. 
+
+Penggunaan apl segera dikawal oleh "<a href="https://play.google.com/about/play-terms.html">Syarat Perkhidmatan Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Ketahui lebih lanjut</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Apabila anda mengetik pautan, Google Play menyemak sama ada Apl segera wujud dan menjalankan apl itu tanpa pemasangan. Apl segera disimpan untuk sementara waktu pada peranti anda.</string>
+    <string name="setupservices_google_services_instant_apps_title">Gunakan apl tanpa pemasangan</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Perkhidmatan lokasi Google menggunakan sumber seperti Wi-Fi, rangkaian mudah alih dan penderia untuk menganggarkan lokasi peranti anda.
+
+Anda boleh mematikan Lokasi dengan mematikan tetapan Lokasi utama pada peranti anda. Anda juga boleh mematikan penggunaan Wi-Fi, rangkaian mudah alih dan penderia untuk lokasi dalam tetapan lokasi."</string>
+    <string name="setupservices_google_services_location_sharing_title">Bantu apl mencari lokasi</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Gunakan lokasi</string>
+    <string name="setupservices_google_services_location_sharing_v28">Benarkan apl dan perkhidmatan dengan kebenaran lokasi menggunakan lokasi peranti anda. Google boleh mengumpulkan data lokasi secara berkala dan menggunakan data ini secara awanama untuk meningkatkan ketepatan lokasi dan perkhidmatan berasaskan lokasi.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Benarkan apl dan perkhidmatan mengimbas untuk mengesan Wi-Fi meskipun semasa Wi-Fi dimatikan.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Anda boleh mematikan tindakan ini dalam tetapan lokasi.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Tingkatkan ketepatan lokasi</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Benarkan pengimbasan</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Benarkan apl dan perkhidmatan mengimbas untuk mengesan isyarat Wi-Fi dan Bluetooth meskipun apabila tetapan ini dimatikan.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Benarkan apl dan perkhidmatan mengimbas rangkaian Wi-Fi dan peranti berdekatan pada bila-bila masa (meskipun apabila Wi‑Fi atau Bluetooth dimatikan).</string>
+    <string name="setupservices_google_services_next_button_label">Saya setuju</string>
+    <string name="setupservices_google_services_play">Pastikan saya dimaklumkan tentang berita dan tawaran daripada Google Play.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Sandaran &amp; storan</string>
+    <string name="setupservices_google_services_section_device_maintenance">Penyelenggaraan peranti</string>
+    <string name="setupservices_google_services_tos">Jika anda meneruskan, anda turut bersetuju menerima <annotation link="tos">Syarat Perkhidmatan Google</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">Dengan mengklik butang “Saya setuju”, anda bersetuju dengan pemprosesan yang diperihalkan di atas untuk perkhidmatan Google ini.</string>
+    <string name="setupservices_google_services_tos_germany">Apabila anda menggunakan peranti ini, sila patuhi <annotation link="google_privacy">Dasar Privasi</annotation> dan <annotation link="tos">syarat tambahan</annotation> yang dikenakan.</string>
+    <string name="setupservices_google_services_usage_reporting">Tingkatkan pengalaman Android anda dengan menghantar data diagnostik dan data penggunaan peranti dan apl kepada Google secara automatik. Tindakan ini dapat meningkatkan hayat bateri, kestabilan apl, kesambungan rangkaian dan pelbagai lagi. Jika anda menghidupkan Aktiviti Web &amp; Apl tambahan, maklumat ini akan disimpan dengan akaun anda supaya anda dapat mengurus maklumat tersebut dalam Aktiviti Saya.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Ini merupakan maklumat umum tentang peranti anda dan cara anda menggunakan peranti (seperti aras bateri, penggunaan apl dan kesambungan rangkaian). Data ini akan digunakan untuk mempertingkatkan produk dan perkhidmatan Google untuk semua orang. Sesetengah maklumat teragregat juga dapat membantu rakan kongsi, seperti pembangun Android, menjadikan apl dan produk mereka lebih bagus.
+
+Tindakan mematikan ciri ini tidak menjejaskan keupayaan peranti anda untuk menghantar maklumat yang diperlukan bagi perkhidmatan penting seperti kemas kini dan keselamatan sistem."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Anda boleh mengemas kini tetapan Aktiviti Saya di myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Anda boleh mengawal ciri ini daripada Tetapan Google. Pilih Penggunaan &amp; diagnostik daripada menu.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Anda boleh mengawal ciri ini daripada Tetapan > Google. Pilih Penggunaan &amp; diagnostik daripada menu.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Hantar data sistem</string>
+    <string name="setupservices_google_services_wallpaper_permission">Benarkan Kertas dinding langsung Google bertindak balas dengan lokasi anda dengan mengakses perkhidmatan lokasi Google.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Anda boleh menghidupkan atau mematikan akses kepada perkhidmatan lokasi Google untuk Kertas dinding langsung dengan melawati Tetapan > Apl &amp; pemberitahuan > Maklumat apl. Dalam menu limpahan, ketik Tunjukkan sistem > Kertas dinding data langsung atau Kertas Dinding Bumi Langsung > Kebenaran.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Benarkan kertas dinding menggunakan lokasi</string>
+    <string name="setupservices_google_terms_of_service_title">Syarat Perkhidmatan Google</string>
+    <string name="setupservices_kids_google_services_agreement">Dengan meneruskan penggunaan, anda bersetuju bahawa peranti ini juga boleh memuat turun dan memasang kemas kini dan apl daripada Google, pembawa anda dan pengeluar peranti ini secara automatik dan mungkin menggunakan data selular. Sesetengah apl ini mungkin menawarkan pembelian dalam apl. Anda boleh mengalih keluar apl ini pada bila-bila masa.</string>
+    <string name="setupservices_kids_google_services_backup">Pulihkan data atau beralih telefon dengan mudah pada bila-bila masa. Sandaran ini termasuk apl, data apl dan tetapan peranti (termasuk kata laluan Wi-Fi).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Data sandaran tidak dikira dalam kuota storan Drive anak anda."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Foto dan video pada peranti ini disegerakkan ke pustaka Google Photos anak anda supaya anak anda dapat mencari, mengedit, memadam dan berkongsi daripada mana-mana peranti mereka. Secara lalainya, foto dan video peleraian penuh dimuat naik ke Google Photos.
+
+Data sandaran tidak akan dikira dalam kuota storan Drive anak anda."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Pulihkan data atau beralih telefon dengan mudah pada bila-bila masa. Sandaran ini termasuk apl, data apl, sejarah panggilan, kenalan dan tetapan peranti (termasuk kata laluan dan kebenaran Wi-Fi).</string>
+    <string name="setupservices_kids_google_services_backup_v26">Pulihkan data atau beralih telefon dengan mudah pada bila-bila masa. Sandaran ini termasuk apl, data apl, sejarah panggilan, kenalan, tetapan peranti (termasuk kata laluan dan kebenaran Wi-Fi) dan SMS.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Pulihkan data atau beralih telefon dengan mudah pada bila-bila masa. Sandaran ini termasuk apl, data apl, sejarah panggilan, kenalan, tetapan peranti (termasuk kata laluan dan kebenaran Wi-Fi), foto, video dan SMS. Foto dan video disegerakkan ke pustaka Google Photos anak anda dan boleh digunakan merentas peranti.</string>
+    <string name="setupservices_kids_google_services_description">Sebagai ibu bapa, anda boleh mengetik untuk mengetahui lebih lanjut tentang setiap perkhidmatan, seperti cara menghidupkan atau mematikan perkhidmatan itu kemudian. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Perkhidmatan lokasi Google menggunakan sumber seperti Wi-Fi, rangkaian mudah alih dan penderia untuk menganggarkan lokasi peranti ini.
+
+Anda boleh mematikan Lokasi dengan mematikan tetapan Lokasi utama pada peranti ini. Anda juga boleh mematikan penggunaan Wi-Fi, rangkaian mudah alih dan penderia untuk lokasi dalam tetapan lokasi."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Benarkan apl dan perkhidmatan dengan kebenaran lokasi menggunakan lokasi peranti ini. Google boleh mengumpulkan data lokasi secara berkala dan mengunakan data ini secara awanama untuk meningkatkan ketepatan lokasi dan perkhidmatan berasaskan lokasi.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Tingkatkan Android dengan menghantar data diagnostik serta data penggunaan peranti dan apl kepada Google secara automatik. Maklumat ini tidak akan digunakan untuk mengenal pasti anak anda dan dapat meningkatkan hayat bateri, kestabilan apl, kesambungan rangkaian dan pelbagai lagi. Jika anda menghidupkan Aktiviti Web &amp; Apl tambahan untuk anak anda, maklumat ini akan disimpan dengan akaun anak anda.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Ini merupakan maklumat umum tentang peranti ini dan cara peranti ini digunakan (seperti aras bateri, penggunaan apl dan kesambungan rangkaian). Data ini akan digunakan untuk mempertingkatkan produk dan perkhidmatan Google untuk semua orang. Sesetengah maklumat teragregat juga dapat membantu rakan kongsi, seperti pembangun Android, menjadikan apl dan produk mereka lebih bagus.
+
+Tindakan mematikan ciri ini tidak menjejaskan keupayaan peranti ini untuk menghantar maklumat yang diperlukan bagi perkhidmatan penting seperti kemas kini dan keselamatan sistem."</string>
+    <string name="setupservices_location_tos_title">Syarat Perkhidmatan Lokasi</string>
+    <string name="sid_lsid_grant_detail">Sama seperti kata laluan, kuki Pengenalan Sesi (SID) dan Pengenalan Sesi Setempat (LSID) mengaitkan identiti anda dengan siri permintaan dari penyemak imbas. Ini membenarkan akses penuh kepada semua data akaun anda. Hanya penyemak imbas mempunyai kegunaan yang sah untuk kuki ini.</string>
+    <string name="sid_lsid_grant_label">Gunakan kuki SID dan LSID untuk mendapatkan akses kepada semua data akaun Google anda.</string>
+    <string name="smartdevice_action_copy">Salin</string>
+    <string name="smartdevice_action_open_app">Buka apl</string>
+    <string name="smartdevice_action_try_another_way">Cuba Cara Lain</string>
+    <string name="smartdevice_action_turn_on_location">Hidupkan Lokasi</string>
+    <string name="smartdevice_alert_disconnected_title">Sambungan peranti terputus</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Malangnya, anda tidak boleh menggunakan ciri ini kerana akaun sandaran diurus oleh pentadbir peranti anda.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Ciri tidak tersedia</string>
+    <string name="smartdevice_alert_exit_setup_message">Adakah anda pasti mahu keluar daripada persediaan peranti anda yang lain?</string>
+    <string name="smartdevice_alert_exit_setup_title">Keluar daripada persediaan peranti?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Untuk menyediakan peranti, anda memerlukan sekurang-kurangnya satu akaun Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">Untuk menyediakan %s, anda memerlukan sekurang-kurangnya satu akaun Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Tiada akaun untuk disalin</string>
+    <string name="smartdevice_alert_quit_button">Keluar</string>
+    <string name="smartdevice_alert_restart_setup_button">Mulakan semula persediaan</string>
+    <string name="smartdevice_alert_setup_incomplete">Persediaan tidak selesai</string>
+    <string name="smartdevice_alert_start_over_button">Buat semula</string>
+    <string name="smartdevice_alert_work_profile_message">Akaun kerja belum dapat disalin. Setelah menyalin Akuan Google dan data anda yang lain, pergi ke Tetapan pada peranti baharu untuk menambahkan akaun kerja.</string>
+    <string name="smartdevice_alert_work_profile_title">Tidak boleh menyalin akaun kerja</string>
+    <string name="smartdevice_application_label">Persediaan Peranti</string>
+    <string name="smartdevice_choose_device">Pilih peranti anda</string>
+    <string name="smartdevice_companion_app_ready">Apl %s sudah pun dipasang pada peranti ini.</string>
+    <string name="smartdevice_connect_to_wifi">Sambungkan peranti anda</string>
+    <string name="smartdevice_connection_error">Terdapat masalah semasa menyambung ke peranti anda yang lain</string>
+    <string name="smartdevice_connection_error_title">Tidak dapat menyambung</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Menyambung ke peranti anda…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Salin Akaun Google anda, akaun lain dan pulihkan sandaran Google Drive anda, jika tersedia.</string>
+    <string name="smartdevice_d2d_copy_account_text">Salin Akaun Google anda dan pulihkan sandaran Google Drive anda, jika tersedia</string>
+    <string name="smartdevice_d2d_copy_account_title">Salin ke peranti yg lain?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Tidak dikenali</string>
+    <string name="smartdevice_d2d_fingerprint_title">Sahkan cap jari anda</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Atas sebab keselamatan, sahkan cap jari anda. Akaun Google, apl dan data anda akan disalin ke %s anda yang lain</string>
+    <string name="smartdevice_d2d_lockscreen_description">Buka untuk terus menyediakan peranti anda</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Atas sebab-sebab keselamatan, anda perlu mengesahkan kunci skrin untuk meneruskan persediaan</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Tidak dapat menyediakan peranti lain kerana Bluetooth tidak tersedia pada peranti anda.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Untuk keselamatan, ciri ini telah dilumpuhkan. Pada peranti anda yang lain, sentuh Langkau dan teruskan persediaan.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Sediakan peranti baharu</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Persediaan peranti</string>
+    <string name="smartdevice_d2d_source_notification_title">Persediaan ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Mulakan semula persediaan dan pilih ^1 untuk memastikan anda menyalin apl dan data Akaun Google anda pada peranti yang betul.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Kod tidak kelihatan?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Tidak dapat menyediakan peranti baharu daripada profil pengguna yang terhad.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Teruskan persediaan pada %s anda</string>
+    <string name="smartdevice_d2d_source_setup_success">Hampir selesai!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Salin daripada peranti Android yang lain</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, ikut langkah seterusnya untuk menyediakan peranti ini</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Salin Akaun Google, apl dan data anda daripada peranti lain</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Menyalin akaun...</string>
+    <string name="smartdevice_d2d_target_description">1. Katakan &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> atau taip \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" dan ketik untuk mengesahkan&lt;br/>&lt;br/> 2. Sentuh &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> pada senarai dan ikut arahan pada skrin</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Cuba yang ini</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Pada peranti anda yang lain:&lt;br/>&lt;br/> 1. Buka apl &lt;b>Tetapan Google&lt;/b>&lt;br/>&lt;br/> 2. Pilih &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Sediakan peranti berdekatan>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Ketik &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> pada senarai dan ikut arahan pada skrin</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Tidak dapat menyelesaikan langkah ini</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Mari gunakan Tetapan</string>
+    <string name="smartdevice_d2d_target_help_text">Ada masalah?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Tidak dapat mencarinya?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Buka apl Google pada peranti anda yang lain</string>
+    <string name="smartdevice_d2d_target_instruction_description">Buka apl Google+</string>
+    <string name="smartdevice_d2d_target_instruction_title">Pada peranti anda yang lain</string>
+    <string name="smartdevice_d2d_target_other_device_description">Apl Google telah siap diprapasang pada semua peranti Android. Lihat semua apl anda, kemudian cari ikon Google yang ditunjukkan di atas.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Kod ini hendaklah sepadan dengan kod pada peranti anda yang lain:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Jangan langkau</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Persediaan tidak menyalin akaun ini atau apl dan data sandaran ke peranti ini.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Langkau juga</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Langkau akaun ini?</string>
+    <string name="smartdevice_d2d_target_title">Dalam apl Google</string>
+    <string name="smartdevice_do_disclosure_generic">Tidak dapat memindahkan data</string>
+    <string name="smartdevice_do_unsupported_message">Data tidak dapat dipindahkan daripada peranti terurus</string>
+    <string name="smartdevice_install_app">Pasang apl</string>
+    <string name="smartdevice_install_app_reason">Dapatkan apl %1$s untuk mengawal dan mengurus %2$s baharu anda daripada peranti ini</string>
+    <string name="smartdevice_look_for_other_device">Cari nama ini pada peranti anda yang lain</string>
+    <string name="smartdevice_magicwand_cancel_signin">Jangan Log Masuk</string>
+    <string name="smartdevice_magicwand_confirm_signin">Log masuk bermula</string>
+    <string name="smartdevice_magicwand_consent_detail">Ketik <b>Log masuk</b> untuk menyelesaikan log masuk ke peranti lain.</string>
+    <string name="smartdevice_magicwand_consent_title">Selesaikan log masuk</string>
+    <string name="smartdevice_magicwand_error_detail">Kesilapan telah berlaku. Google tidak dapat log anda masuk daripada telefon ini.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Anda mengimbas kod QR untuk log masuk ke akaun.
+
+Untuk keselamatan anda, sahkan cap jari untuk menunjukkan bahawa andalah yang log masuk pada peranti lain."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Langkah tambahan ini memastikan peranti ini peranti selamat.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Anda mengimbas kod QR untuk log masuk ke akaun.
+
+Untuk keselamatan anda, masukkan corak kunci skrin untuk menunjukkan bahawa andalah yang log masuk pada peranti lain."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">untuk meneruskan ke penyemak imbas anda</string>
+    <string name="smartdevice_magicwand_success_detail">Kembali ke penyemak imbas anda pada peranti anda yang lain.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Cari bentuk ini pada peranti anda yang lain</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Sahkan bentuk</string>
+    <string name="smartdevice_problem_copying">Terdapat masalah semasa menyalin data ke peranti anda yang lain</string>
+    <string name="smartdevice_problem_copying_title">Tidak dapat menyalin data</string>
+    <string name="smartdevice_search_again">Cari lagi</string>
+    <string name="smartdevice_searching_for_devices">Mencari peranti</string>
+    <string name="smartdevice_setup_info_installing_app">Memasang apl…</string>
+    <string name="smartdevice_setup_intro_text">Untuk menyediakan peranti anda yang lain, Bluetooth telefon dan data Wi-Fi anda akan digunakan</string>
+    <string name="smartdevice_setup_intro_text_nfc">Untuk menyediakan peranti anda yang lain, Bluetooth telefon anda akan digunakan</string>
+    <string name="smartdevice_setup_intro_title">Bermula</string>
+    <string name="smartdevice_setup_password_hint">Masukkan kata laluan WiFi</string>
+    <string name="smartdevice_setup_show_password">Tunjukkan kata laluan</string>
+    <string name="smartdevice_setup_title_verify_code">Sahkan kod</string>
+    <string name="smartdevice_target_hotphrase_instructions">Pada peranti anda yang lain, sebut &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> Jika tidak, taip &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> dalam kotak carian.</string>
+    <string name="smartdevice_type_typing_ok_google">Jika perintah suara tidak berfungsi, cuba taip dalam kotak carian. Taip \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\"</string>
+    <string name="smartdevice_verify_device">Sahkan peranti</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Hanya rangkaian terbuka dan rangkaian WPA/WPA2 yang boleh digunakan untuk menyediakan peranti ini</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Tidak boleh menggunakan rangkaian Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Untuk mencari Wi-Fi, hidupkan Lokasi.
+
+Anda boleh menukar tetapan ini pada bila-bila masa dalam Tetapan."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Tidak dapat mencari rangkaian Wi-Fi</string>
+    <string name="storage_management_wear_descriptive_text">Apl menggunakan storan peranti anda untuk meniru data ke storan sesuai dipakai.</string>
+    <string name="storage_management_wear_manage_size_label">Urus storan sesuai dipakai</string>
+    <string name="storage_management_wear_size_label">Storan sesuai dipakai</string>
+    <string name="storage_managment_all_storage_descriptive_text">Jumlah data yang digunakan oleh perkhidmatan Google Play, termasuk enjin carian dan data lain.</string>
+    <string name="storage_managment_clear_all_data">Padam semua data</string>
+    <string name="storage_managment_computing_size">Mengira...</string>
+    <string name="storage_managment_icing_size_label">Data Carian</string>
+    <string name="storage_managment_manage_icing_button">Urus data carian</string>
+    <string name="storage_managment_search_index_descriptive_text">Kami mempercepat carian pada peranti anda dengan menyediakan enjin carian untuk digunakan oleh Apl anda.</string>
+    <string name="storage_managment_title">Storan perkhidmatan Google Play</string>
+    <string name="storage_managment_total_size_label">Jumlah storan</string>
+    <string name="suw_back_button_label">Kembali</string>
+    <string name="suw_more_button_label">Lagi</string>
+    <string name="suw_next_button_label">Seterusnya</string>
+    <string name="uncertified_notification_expired_content">Apl dan perkhidmatan Google tidak lagi berfungsi pada peranti ini. Ketik untuk mengetahui lebih lanjut.</string>
+    <string name="uncertified_notification_expired_title">Pendaftaran tamat tempoh</string>
+    <string name="uncertified_notification_expiring_title">Pendaftaran hampir tamat tempoh</string>
+    <string name="use_nearby_device_heading">Gunakan peranti bercirikan nearby?</string>
+    <string name="use_nearby_device_text">Adakah anda ingin menggunakan peranti bercirikan nearby untuk memberikan bukti kelayakan?</string>
+    <string name="v7_preference_off">MATI</string>
+    <string name="v7_preference_on">HIDUP</string>
+    <string name="verify_your_identity_description">%1$s perlu mengesahkan identiti anda.</string>
+    <string name="verify_your_identity_title">Sahkan identiti anda</string>
+    <string name="waiting_for_account_info_text">Menunggu maklumat akaun…</string>
+</resources>

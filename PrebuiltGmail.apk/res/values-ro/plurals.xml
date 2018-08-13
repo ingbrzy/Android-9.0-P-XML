@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s de destinatari</item>
+        <item quantity="one">Un destinatar</item>
+        <item quantity="few">%s destinatari</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 de destinatari folosesc servicii care nu acceptă criptarea. Fără criptare, alte persoane pot să îți vadă mesajul în timpul livrării. ^2</item>
+        <item quantity="one">^1 folosește un serviciu care nu acceptă criptarea. Fără criptare, alte persoane pot să îți vadă mesajul în timpul livrării. ^2</item>
+        <item quantity="few">^1 destinatari folosesc servicii care nu acceptă criptarea. Fără criptare, alte persoane pot să îți vadă mesajul în timpul livrării. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 și altele nu au acceptat criptarea când mesajul a fost trimis. ^2</item>
+        <item quantity="one">^1 nu a acceptat criptarea când mesajul a fost trimis. ^2</item>
+        <item quantity="few">^1 și altele nu au acceptat criptarea când mesajul a fost trimis. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arhivează aceste %1$d de conversații?</item>
+        <item quantity="one">Arhivează această conversație?</item>
+        <item quantity="few">Arhivează aceste %1$d conversații?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Șterge aceste %1$d de conversații?</item>
+        <item quantity="one">Șterge această conversație?</item>
+        <item quantity="few">Șterge aceste %1$d conversații?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Ștergi mesajele nefinalizate din aceste %1$d de conversații?</item>
+        <item quantity="one">Ștergi mesajele nefinalizate din conversație?</item>
+        <item quantity="few">Ștergi mesajele nefinalizate din aceste %1$d conversații?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> arhivate</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> arhivată</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> arhivate</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> șterse</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ștearsă</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> șterse</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">S-au modificat etichetele.</item>
+        <item quantity="one">S-a modificat eticheta.</item>
+        <item quantity="few">S-au modificat etichetele.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> au fost mutate în Mesaje primite.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> a fost mutat în Mesaje primite.</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> au fost mutate în Mesaje primite.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ignorate</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ignorată</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> ignorate</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> marcate ca neimportante</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> marcată ca neimportantă</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> marcate ca neimportante</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> raportate ca nefiind spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> raportată ca nefiind spam</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> raportate ca nefiind spam</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> marcate ca citite</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> marcată ca citită</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> marcate ca citite</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> de elemente amânate până la %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> element amânat până la %2$s</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> elemente amânate până la %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> raportate ca spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> raportată ca spam</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> raportate ca spam</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d raportate ca spam și anulată abonarea</item>
+        <item quantity="one">%1$d raportată ca spam și anulată abonarea</item>
+        <item quantity="few">%1$d raportate ca spam și anulată abonarea</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> nu mai sunt amânate</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> numai este amânată</item>
+        <item quantity="few">&lt;b>%1$d&lt;/b> nu mai sunt amânate</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Se elimină stelele pentru %1$d de conversații…</item>
+        <item quantity="one">Se elimină steaua pentru %1$d conversație…</item>
+        <item quantity="few">Se elimină stelele pentru %1$d conversații…</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">O dată la %d de zile</item>
+        <item quantity="one">Zilnic</item>
+        <item quantity="few">O dată la %d zile</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Aceste mesaje vor fi marcate ca spam. Vrei și să nu mai primești mesaje similare de la acești &lt;b>%2$d de expeditori&lt;/b>?%1$s</item>
+        <item quantity="one">Acest mesaj va fi marcat ca spam. Vrei și să nu mai primești mesaje similare de la %1$s?</item>
+        <item quantity="few">Aceste mesaje vor fi marcate ca spam. Vrei și să nu mai primești mesaje similare de la acești &lt;b>%2$d expeditori&lt;/b>?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Mesaje nefinalizate</item>
+        <item quantity="one">Mesaj nefinalizat</item>
+        <item quantity="few">Mesaje nefinalizate</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s de conversații vor fi șterse definitiv.</item>
+        <item quantity="one">%1$s conversație va fi ștearsă definitiv.</item>
+        <item quantity="few">%1$s conversații vor fi șterse definitiv.</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; de %d de ori</item>
+        <item quantity="one">; o dată</item>
+        <item quantity="few">; de %d ori</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">S-ar putea ca destinatarii să nu aibă acces la fișierele pe care le-ai inserat din Drive. De aceea, ar putea fi necesar să permiți accesul la ele din Google Drive.</item>
+        <item quantity="one">S-ar putea ca destinatarii să nu aibă acces la fișierul pe care l-ai inserat din Drive. De aceea, ar putea fi necesar să permiți accesul la el din Google Drive.</item>
+        <item quantity="few">S-ar putea ca destinatarii să nu aibă acces la fișierele pe care le-ai inserat din Drive. De aceea, ar putea fi necesar să permiți accesul la ele din Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Notă: s-ar putea ca anumiți destinatari să nu poată avea în continuare acces la fișiere. De aceea, ar putea fi necesar să permiți accesul la fișiere din Google Drive.</item>
+        <item quantity="one">Notă: s-ar putea ca anumiți destinatari să nu poată avea în continuare acces la fișier. De aceea, ar putea fi necesar să permiți accesul la fișier din Google Drive.</item>
+        <item quantity="few">Notă: s-ar putea ca anumiți destinatari să nu poată avea în continuare acces la fișiere. De aceea, ar putea fi necesar să permiți accesul la fișiere din Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Următorii destinatari vor avea acces:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>. Aceștia nu se află în organizația Google Apps căreia le aparțin fișierele."</item>
+        <item quantity="one">Următorii destinatari vor avea acces:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>. Aceștia nu se află în organizația Google Apps căreia îi aparține fișierul.</item>
+        <item quantity="few">"Următorii destinatari vor avea acces:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>. Aceștia nu se află în organizația Google Apps căreia le aparțin fișierele."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 de destinatari folosesc servicii care nu acceptă criptarea. Fără criptare, mesajul tău ar putea fi citit pe durata livrării. ^2</item>
+        <item quantity="one">^1 folosește un serviciu care nu acceptă criptarea. Fără criptare, mesajul tău ar putea fi citit pe durata livrării. ^2</item>
+        <item quantity="few">^1 destinatari folosesc servicii care nu acceptă criptarea. Fără criptare, mesajul tău ar putea fi citit pe durata livrării. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">O dată la %1$d de luni</item>
+        <item quantity="one">Lunar</item>
+        <item quantity="few">O dată la %1$d luni</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d de mesaje noi</item>
+        <item quantity="one">%1$d mesaj nou</item>
+        <item quantity="few">%1$d mesaje noi</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d de mesaje noi</item>
+        <item quantity="one">%1$d mesaj nou</item>
+        <item quantity="few">%1$d mesaje noi</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d de atașamente</item>
+        <item quantity="one">%1$d atașament</item>
+        <item quantity="few">%1$d atașamente</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d de mesaje</item>
+        <item quantity="one">%1$d mesaj</item>
+        <item quantity="few">%1$d mesaje</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Accesul la calendare nu este permis</item>
+        <item quantity="one">Accesul la calendar nu este permis</item>
+        <item quantity="few">Accesul la calendare nu este permis</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Pentru %d de evenimente</item>
+        <item quantity="one">Pentru %d eveniment</item>
+        <item quantity="few">Pentru %d evenimente</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">O dată la %d de zile</item>
+        <item quantity="one">În fiecare %d zi</item>
+        <item quantity="few">O dată la %d zile</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">O dată la %d de luni</item>
+        <item quantity="one">În fiecare %d lună</item>
+        <item quantity="few">O dată la %d luni</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">O dată la %d de săptămâni</item>
+        <item quantity="one">În fiecare %d săptămână</item>
+        <item quantity="few">O dată la %d săptămâni</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">O dată la %d de ani</item>
+        <item quantity="one">În fiecare %d an</item>
+        <item quantity="few">O dată la %d ani</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">S-au încărcat %d de rezultate ale căutării.</item>
+        <item quantity="one">S-a încărcat %d rezultat al căutării.</item>
+        <item quantity="few">S-au încărcat %d rezultate ale căutării.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Extinde %1$d de mesaje mai vechi</item>
+        <item quantity="one">Extinde mesajul mai vechi</item>
+        <item quantity="few">Extinde %1$d mesaje mai vechi</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Amânat acum %d de zile</item>
+        <item quantity="one">Amânat acum %d zi</item>
+        <item quantity="few">Amânat acum %d zile</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Amânat acum %d de ore</item>
+        <item quantity="one">Amânat acum %d oră</item>
+        <item quantity="few">Amânat acum %d ore</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Amânat acum %d de luni</item>
+        <item quantity="one">Amânat acum %d lună</item>
+        <item quantity="few">Amânat acum %d luni</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Amânat acum %d de săptămâni</item>
+        <item quantity="one">Amânat acum %d săptămână</item>
+        <item quantity="few">Amânat acum %d săptămâni</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Amânat acum %d de ani</item>
+        <item quantity="one">Amânat acum %d an</item>
+        <item quantity="few">Amânat acum %d ani</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">S-au extins %1$d de mesaje mai vechi.</item>
+        <item quantity="one">S-a extins un mesaj mai vechi.</item>
+        <item quantity="few">S-au extins %1$d mesaje mai vechi.</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d de zile</item>
+        <item quantity="one">O zi</item>
+        <item quantity="few">%d zile</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Mesajele din ultimele %1$d de zile vor fi descărcate când te conectezi.</item>
+        <item quantity="one">Mesajele din ultima zi vor fi descărcate când te conectezi.</item>
+        <item quantity="few">Mesajele din ultimele %1$d zile vor fi descărcate când te conectezi.</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Ultimele %1$d de zile</item>
+        <item quantity="one">Ultima zi</item>
+        <item quantity="few">Ultimele %1$d zile</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Termen limită - %1$s - %2$d de sarcini</item>
+        <item quantity="one">Termen limită - %1$s - %2$d sarcină</item>
+        <item quantity="few">Termen limită - %1$s - %2$d sarcini</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Zile</item>
+        <item quantity="one">Zi</item>
+        <item quantity="few">Zile</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">O dată la %1$d de săptămâni, %2$s</item>
+        <item quantity="one">În fiecare %2$s</item>
+        <item quantity="few">O dată la %1$d săptămâni, %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">O dată la %1$d de ani</item>
+        <item quantity="one">Anual</item>
+        <item quantity="few">O dată la %1$d ani</item>
+    </plurals>
+</resources>

@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Այս տարրերը չափազանց մեծ են ձեր սարքի աղբարկղի համար: Եթե ջնջեք, դրանք ձեր սարքից և հաշվից ընդմիշտ կհեռացվեն:</item>
+        <item quantity="one">"These items are too big for your device's trash. If you delete them, they'll be removed permanently from your device &amp; account."</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Նոր ալբոմի չափը ներկայիս սահմանաչափից (%1$d տարր) ավելի մեծ կլիներ:</item>
+        <item quantity="one">New album size would have been larger than current limit of %1$d items.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Ալբոմը կունենար %1$d տարր:</item>
+        <item quantity="one">Album would have %1$d items.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d վայր ավելացվեց</item>
+        <item quantity="one">%d locations added</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d վայր</item>
+        <item quantity="one">%d locations</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d քարտեզ</item>
+        <item quantity="one">%d maps</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">Ավելացվել է %d քարտեզ</item>
+        <item quantity="one">%d maps added</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Տարրերը հեռացվում են այս ալբոմից…</item>
+        <item quantity="one">Removing items from this album…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d տարր հեռացվեց</item>
+        <item quantity="one">%d items removed</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Լուսանկարները հեռացվում են ալբոմից…</item>
+        <item quantity="one">Լուսանկարը հեռացվում է ալբոմից…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Տեսանյութերը հեռացվում են այս ալբոմից…</item>
+        <item quantity="one">Removing videos from this album…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d տարր</item>
+        <item quantity="one">%1$d items</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d տարր</item>
+        <item quantity="one">%d items</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Ջնջել սարքից (%d)</item>
+        <item quantity="one">Delete from device (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Բոլորը ջնջել սարքից (%d)</item>
+        <item quantity="one">Delete all from device (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Ուղարկել աղբարկղ (%d)</item>
+        <item quantity="one">Move to trash (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">է %d տարր արխիվացվեց</item>
+        <item quantity="one">%d տարր արխիվացվեց</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d տարր հանվեց արխիվից</item>
+        <item quantity="one">%d տարր հանվեց արխիվից</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">Ընտրվել է %d տարր</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Վերբեռնվում է %d տարր</item>
+        <item quantity="one">Վերբեռնվում է %d տարր</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Մնացել է %d լուսանկար</item>
+        <item quantity="one">Մնացել է %d լուսանկար</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Մնացել է պահուստավորել %d լուսանկար</item>
+        <item quantity="one">%d photos left to back up</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d լուսանկար • %2$s</item>
+        <item quantity="one">%1$d լուսանկար • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Պահուստավորե՞լ %1$d տարր</item>
+        <item quantity="one">Պահուստավորե՞լ %1$d տարր</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Վերբեռնվում է %1$d տարր</item>
+        <item quantity="one">Վերբեռնվում է %1$d տարր</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d լուսանկար չի պահուստավորվել</item>
+        <item quantity="one">%1$d լուսանկար չի պահուստավորվել</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Ապահով պահեք %1$d տարր</item>
+        <item quantity="one">Ապահով պահեք %1$d տարր</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Վերբեռնվում է %d տարր</item>
+        <item quantity="one">Վերբեռնվում է %d տարր</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Վերբեռնվում է %d տեսանյութ</item>
+        <item quantity="one">Վերբեռնվում է %d տեսանյութ</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d տարր սպասում է վերբեռնման</item>
+        <item quantity="one">%d items to upload</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d տեսանյութ սպասում է վերբեռնման</item>
+        <item quantity="one">%d videos to upload</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Բոլոր լուսանկարները (%d)</item>
+        <item quantity="one">Բոլոր լուսանկարները (%d)</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d լուսանկար պահուստավորված չէ</item>
+        <item quantity="one">%d photos not backed up</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d տարր ավելացվեց</item>
+        <item quantity="one">%1$d տարր ավելացվեց</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Ալբոմը կարող է պարունակել առավելագույնը %d տարր:</item>
+        <item quantity="one">%d items is the most an album can hold.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Ընտրեք առավելագույնը %d տարր:</item>
+        <item quantity="one">Ընտրեք առավելագույնը %d տարր:</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Ընտրեք առնվազն %d տարր:</item>
+        <item quantity="one">Ընտրեք առնվազն %d տարր:</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Ընտրեք առավելագույնը %d օրվա տարբերությամբ արված լուսանկարներ:</item>
+        <item quantity="one">Ընտրեք առավելագույնը %d օրվա տարբերությամբ արված լուսանկարներ:</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d տարր ավելացվեց</item>
+        <item quantity="one">%d տարր ավելացվեց</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d օր առաջ</item>
+        <item quantity="one">%d days ago</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d ժ</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d ժամ առաջ</item>
+        <item quantity="one">%d hours ago</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d շաբ</item>
+        <item quantity="one">%dw</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d շաբաթ առաջ</item>
+        <item quantity="one">%d weeks ago</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d ր</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d րոպե առաջ</item>
+        <item quantity="one">%d minutes ago</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d օր</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d օր առաջ</item>
+        <item quantity="one">%d days ago</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d տարր կհեռացվի ձեր սարքից: Մի՛ անհանգստացեք, դրանք կմնան Google Լուսանկարներում:</item>
+        <item quantity="one">%1$d տարր կհեռացվի ձեր սարքից: Մի՛ անհանգստացեք, այն կմնա Google Լուսանկարներում:</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Հեռացրեք %1$d տարր սարքից</item>
+        <item quantity="one">Հեռացրեք %1$d տարր սարքից</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Սարքից հեռացրեք %1$d լուսանկար և տեսանյութ</item>
+        <item quantity="one">Սարքից հեռացրեք %1$d լուսանկար կամ տեսանյութ</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Հեռացվում է %1$d լուսանկար և տեսանյութ</item>
+        <item quantity="one">Հեռացվում է %1$d լուսանկար և տեսանյութ</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d տարր</item>
+        <item quantity="one">%d տարր</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d նոր քարտ</item>
+        <item quantity="one">%d new cards</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d տարր ավելացվեց</item>
+        <item quantity="one">%d տարր ավելացվեց</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d թարմացում</item>
+        <item quantity="one">%1$d updates</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d մեկնաբանություն</item>
+        <item quantity="one">%1$d comments</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Տարրերը պահվում են դարանում…</item>
+        <item quantity="one">Saving items to library…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d տարր ավելացվեց</item>
+        <item quantity="one">%d տարր ավելացվեց</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Դուք կարող եք ավելացնել միայն %d այլ տարր:</item>
+        <item quantity="one">You can only add %d more items.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Պանակի և դրանում առկա %d տարրի ջնջում</item>
+        <item quantity="one">Պանակի և դրանում առկա %d տարրի ջնջում</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Ջնջել սարքից (%d)</item>
+        <item quantity="one">Delete from device (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Չհաջողվեց պատճենել %d տարր</item>
+        <item quantity="one">Trouble copying %d items</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d տարր պատճենվեց</item>
+        <item quantity="one">%d տարր պատճենվեց</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Չհաջողվեց տեղափոխել %d տարր</item>
+        <item quantity="one">Trouble moving %d items</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d տարր տեղափոխվեց</item>
+        <item quantity="one">%d տարր տեղափոխվեց</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Ավելացնե՞լ ընդհանուր ալբոմում (ստացող՝ %1$d հոգի)</item>
+        <item quantity="one">Add to shared album with %1$d people?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Ավելացնե՞լ ընդհանուր ալբոմում (ստացողներ՝ %1$s ու ևս %2$d հոգի)</item>
+        <item quantity="one">Add to shared album with %1$s &amp; %2$d others?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Ավելացնե՞լ ընդհանուր ալբոմում (ստացողներ՝ %1$s, %2$s ու ևս %3$d հոգի)</item>
+        <item quantity="one">Add to shared album with %1$s, %2$s &amp; %3$d others?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Ուղարկե՞լ %1$s-ին ու ևս %2$d հոգու</item>
+        <item quantity="one">Send to %1$s &amp; %2$d others?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Ուղարկե՞լ %1$s-ին, %2$s-ին ու ևս %3$d հոգու</item>
+        <item quantity="one">Send to %1$s, %2$s &amp; %3$d others</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d հոգու լուսանկարներ</item>
+        <item quantity="one">%d հոգու լուսանկարներ</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Լուսանկարներ, որոնցում առկա են նշված %d դեմքերը</item>
+        <item quantity="one">Լուսանկարներ, որոնցում առկա է նշված %d դեմքը</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">Ընտրվեց %d-ը</item>
+        <item quantity="one">Ընտրվեց %d-ը</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Ընտրվել է %d դեմք</item>
+        <item quantity="one">Ընտրվել է %d դեմք</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%2$s-ից հետ արված լուսանկարներ, որոնցում առկա են նշված %1$d դեմքերը</item>
+        <item quantity="one">%2$s-ից հետ արված լուսանկարներ, որոնցում առկա է նշված %1$d դեմքը</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Լուսանկարներ, որոնցում առկա են նշված %d դեմքերը</item>
+        <item quantity="one">Լուսանկարներ, որոնցում առկա է նշված %d դեմքը</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d լուսանկար հեռացվեց</item>
+        <item quantity="one">%1$d լուսանկար հեռացվեց</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Նշեք միայն %d հոգու</item>
+        <item quantity="one">Նշեք միայն %d հոգու</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d հավելյալ էջ</item>
+        <item quantity="one">%d հավելյալ էջ</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d էջ</item>
+        <item quantity="one">%d էջ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Ֆոտոգիրք գնելու համար ավելացրեք ևս %d լուսանկար</item>
+        <item quantity="one">Ֆոտոգիրք գնելու համար ավելացրեք ևս %d լուսանկար</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d լուսանկար ավելացվեց</item>
+        <item quantity="one">%d photos added</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Լուսանկարները ջնջվել են կամ այլևս հասանելի չեն ձեզ</item>
+        <item quantity="one">Լուսանկարը ջնջվել է կամ այլևս հասանելի չէ ձեզ</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d լուսանկար այլևս հասանելի չէ</item>
+        <item quantity="one">%d photos are no longer available</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d լուսանկար հեռացվեց</item>
+        <item quantity="one">%d լուսանկար հեռացվեց</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d հավելյալ էջ</item>
+        <item quantity="one">%d հավելյալ էջ</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d էջ</item>
+        <item quantity="one">%d pages</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Միայն %d լուսանկար կարող է տպվել, </item>
+        <item quantity="one">Միայն %d լուսանկար կարող է տպվել, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">Ձեզ առաջարկվել է %d լուսանկար</item>
+        <item quantity="one">%d photos have been suggested for you</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">Առաջարկում ենք %d լուսանկար</item>
+        <item quantity="one">%d photos suggested</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">լուսանկար կամ տեսանյութ</item>
+        <item quantity="one">լուսանկար կամ տեսանյութ</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">լուսանկար</item>
+        <item quantity="one">photos</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">տեսանյութ</item>
+        <item quantity="one">videos</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">Գտնվել է %d տնային կենդանի</item>
+        <item quantity="one">Գտնվել է %d տնային կենդանի</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Ինչպես նաև %1$d վայր ձեր լուսանկարներում</item>
+        <item quantity="one">Ինչպես նաև %1$d վայր ձեր լուսանկարներում</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Ինչպես նաև %1$d օբյեկտ ձեր լուսանկարներում</item>
+        <item quantity="one">Ինչպես նաև %1$d օբյեկտ ձեր լուսանկարներում</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Ինչպես նաև %1$d վայր և օբյեկտ ձեր լուսանկարներում</item>
+        <item quantity="one">Ինչպես նաև %1$d վայր և օբյեկտ ձեր լուսանկարներում</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Գտնվել է %1$d հոգի</item>
+        <item quantity="one">%1$d people found</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Գտնվել է %1$d վայր</item>
+        <item quantity="one">%1$d places found</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Գտնվել է %1$d առարկա</item>
+        <item quantity="one">%1$d things found</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d լուսանկար</item>
+        <item quantity="one">%d լուսանկար</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Ինչպես նաև %1$d վայր</item>
+        <item quantity="one">Ինչպես նաև %1$d վայր</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Ինչպես նաև %1$d առարկա</item>
+        <item quantity="one">Ինչպես նաև %1$d առարկա</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Ինչպես նաև %1$d առարկա և վայր</item>
+        <item quantity="one">Ինչպես նաև %1$d առարկա և վայր</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Ձեր լուսանկարներում գտնվել է %1$d հոգի</item>
+        <item quantity="one">Ձեր լուսանկարներում գտնվել է %1$d հոգի</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">Գտնվել է %1$d հոգի</item>
+        <item quantity="one">Գտնվել է %1$d հոգի</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">Գտնվել է %1$d վայր</item>
+        <item quantity="one">Գտնվել է %1$d վայր</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">Գտնվել է %1$d առարկա</item>
+        <item quantity="one">Գտնվել է %1$d առարկա</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Ձեր լուսանկարներում գտնվել է %1$d առարկա</item>
+        <item quantity="one">Ձեր լուսանկարներում գտնվել է %1$d առարկա</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">Ընտրվել է %1$d տարր</item>
+        <item quantity="one">%1$d items selected</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">Ընտրվեց %d-ը</item>
+        <item quantity="one">Ընտրվեց %d-ը</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d տարր ավելացվեց ալբոմում</item>
+        <item quantity="one">%d տարր ավելացվեց ալբոմում</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Վերբեռնվում է %d տարր</item>
+        <item quantity="one">Վերբեռնվում է %d տարր</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d տարր կվերբեռնվի, հենց որ միանաք ցանցին</item>
+        <item quantity="one">%d items will upload when connected</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s օգտատերերն ու ևս %2$d հոգի</item>
+        <item quantity="one">%1$s &amp; %2$d others</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d տարր</item>
+        <item quantity="one">%d items</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Ավելացնե՞լ %d առնչվող լուսանկար:</item>
+        <item quantity="one">Ավելացնե՞լ %d առնչվող լուսանկար։</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d նոր լուսանկար</item>
+        <item quantity="one">%1$d new photos</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s-ն ավելացրել է %2$d նոր լուսանկար</item>
+        <item quantity="one">%1$s added %2$d new photos</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">Ձեր լուսանկարներում գտնվել է %1$d դեմք</item>
+        <item quantity="one">Ձեր լուսանկարներում գտնվել է %1$d դեմք</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">Ձեր լուսանկարներում գտնվել է %1$d վայր</item>
+        <item quantity="one">Ձեր լուսանկարներում գտնվել է %1$d վայր</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">Ձեր լուսանկարներում գտնվել է %1$d իր</item>
+        <item quantity="one">Ձեր լուսանկարներում գտնվել է %1$d իր</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Չհաջողվեց ջնջել տարրերը</item>
+        <item quantity="one">Չհաջողվեց ջնջել տարրը</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Չհաջողվեց ջնջել %d տարր</item>
+        <item quantity="one">Չհաջողվեց ջնջել %d տարր</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Չհաջողվեց ընդմիշտ ջնջել %d տարր</item>
+        <item quantity="one">Չհաջողվեց ընդմիշտ ջնջել %d տարր</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Տարրերը ընդմիշտ ջնջվում են…</item>
+        <item quantity="one">Permanently deleting items…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d տարր ընդմիշտ ջնջվեց</item>
+        <item quantity="one">%d տարր ընդմիշտ ջնջվեց</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d տարր ջնջվեց սարքից</item>
+        <item quantity="one">%d deleted from device</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Տարրերի վերականգնում…</item>
+        <item quantity="one">Restoring items…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Չհաջողվեց վերականգնել %d տարր</item>
+        <item quantity="one">Չհաջողվեց վերականգնել %d տարր</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d տարր վերականգնվեց</item>
+        <item quantity="one">%d տարր վերականգնվեց</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Տարրերը ընդմիշտ ջնջե՞լ</item>
+        <item quantity="one">Delete items permanently?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Ջնջե՞լ %d տարր</item>
+        <item quantity="one">Ջնջե՞լ %d տարր</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d տարր ընդմիշտ ջնջել</item>
+        <item quantity="one">%d տարր ընդմիշտ ջնջել</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">%d օրից այս տարբերակի ժամկետը կսպառվի: Որպեսզի շարունակեք օգտվել Google Լուսանկարներից, թարմացրեք այն հիմա:</item>
+        <item quantity="one">%d օրից այս տարբերակի ժամկետը կսպառվի: Որպեսզի շարունակեք օգտվել Google Լուսանկարներից, թարմացրեք այն հիմա:</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Վերբեռնվում է %d տարր</item>
+        <item quantity="one">Վերբեռնվում է %d տարր</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d տարր կվերբեռնվի, հենց որ միանաք ցանցին</item>
+        <item quantity="one">%d տարր կվերբեռնվի, հենց որ միանաք ցանցին</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d տարր կվերբեռնվի, հենց որ միանաք Wi-Fi-ին</item>
+        <item quantity="one">%d տարր կվերբեռնվի, հենց որ միանաք Wi-Fi-ին</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Այս տարրերի պահուստավորման համար կօգտագործվի մոտ %s բջջային ինտերնետ: Դրանից խուսափելու համար միացեք Wi-Fi ցանցին:</item>
+        <item quantity="one">"You'll use about %s of data to backup these items now. Connect to Wi-Fi to avoid using data."</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Այս տարրերի պահուստավորումը կկատարվի բջջային ինտերնետի միջոցով: Դրանից խուսափելու համար միացեք Wi-Fi ցանցին:</item>
+        <item quantity="one">Backing up these items will use some of your data. Connect to Wi-Fi to avoid using data.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Վերբեռնում…մնաց %d ֆայլ</item>
+        <item quantity="one">Վերբեռնում…մնաց %d ֆայլ</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ֆայլ</item>
+        <item quantity="one">%d files</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s լուսանկար</item>
+        <item quantity="one">%s լուսանկար</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s տարր</item>
+        <item quantity="one">%s items</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s տեսանյութ</item>
+        <item quantity="one">%s videos</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Ընտրեք լուսանկարներ</item>
+        <item quantity="one">Ընտրեք լուսանկար</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Տարրեր ընտրեք</item>
+        <item quantity="one">Select items</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Ընտրեք տեսանյութեր</item>
+        <item quantity="one">Select videos</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">ու ևս %d ստացող</item>
+        <item quantity="one">ու ևս %d ստացող</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s: Կապի %2$d եղանակ</item>
+        <item quantity="one">%1$s: Կապի %2$d եղանակ</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d անդամ</item>
+        <item quantity="one">%d անդամ</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">Ընտրվել է ուղարկման %d եղանակ</item>
+        <item quantity="one">Ընտրվել է ուղարկման %d եղանակ</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">Ընտրվել է %1$d անդամ՝ %2$d-ից</item>
+        <item quantity="one">Ընտրվել է %1$d անդամ՝ %2$d-ից</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">Ընտրվել է %d անդամ</item>
+        <item quantity="one">Ընտրվել է %d անդամ</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Ձեր սարքի աղբարկղը լիքն է: Եթե ջնջեք այս տարրերը, դրանք ձեր սարքից և հաշվից ընդմիշտ կհեռացվեն:</item>
+        <item quantity="one">"Your device's trash is full. If you delete these items, they'll be removed permanently from your device &amp; account."</item>
+    </plurals>
+</resources>

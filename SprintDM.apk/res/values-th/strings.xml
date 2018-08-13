@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="carrier_settings_label">การตั้งค่าของผู้ให้บริการ</string>
+    <string name="view_detail_label">ดูรายละเอียด</string>
+    <string name="reset_default_label">รีเซ็ตค่าเริ่มต้น</string>
+    <string name="update_prl_label">อัปเดต PRL</string>
+    <string name="device_config_label">อัปเดตการกำหนดค่าอุปกรณ์</string>
+    <string name="enter_msl_message">ป้อนรหัสบริการ</string>
+    <string name="incorrect_msl">รหัสไม่ถูกต้อง</string>
+    <string name="incorrect_msl_text">ป้อนรหัสบริการไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="incorrect_msl_text_reboot">มีการป้อนรหัสบริการที่ไม่ถูกต้องหลายครั้ง ระบบกำลังจะปิดอุปกรณ์</string>
+    <string name="reset_device">รีเซ็ตอุปกรณ์</string>
+    <string name="reset_device_text">การดำเนินการนี้จะรีเซ็ตอุปกรณ์ ข้อมูลผู้ใช้ทั้งหมดจะล้างออกจากอุปกรณ์</string>
+    <string name="reset_button">รีเซ็ต</string>
+    <string name="cancel_button">ยกเลิก</string>
+    <string name="skip_button">ข้าม</string>
+    <string name="emergency_call_button">หมายเลขฉุกเฉิน</string>
+    <string name="emergency_action">เหตุฉุกเฉิน</string>
+    <string name="network_error_67">อุปกรณ์พบข้อผิดพลาดเมื่อพยายามเชื่อมต่อเครือข่ายที่ต้องรีเซ็ต คุณต้องการรีเซ็ตอุปกรณ์นี้ไหม วิธีนี้จะนำบัญชีออกจากอุปกรณ์แต่จะไม่นำข้อมูลส่วนบุคคลออก</string>
+    <string name="cidc_nidc_alert">เครือข่ายกำลังเตรียมบริการของคุณ โปรดรอสักครู่…</string>
+    <string name="missing_provisioning_info">ไม่สามารถอัปเดตโปรไฟล์ให้เสร็จสิ้นได้ โปรดลองอีกครั้งในภายหลัง หากยังคงมีปัญหา คุณอาจต้องติดต่อฝ่ายบริการลูกค้า</string>
+    <string name="hfa_title">การเปิดใช้งานแฮนด์ฟรี</string>
+    <string name="hfa_message">"กำลังกำหนดค่าอุปกรณ์สำหรับเสียงและข้อมูล
+โปรดรอสักครู่…"</string>
+    <string name="contacting_network">กำลังติดต่อเครือข่าย…</string>
+    <string name="device_activated">เปิดใช้งานอุปกรณ์แล้ว กด \"ตกลง\" เพื่อดำเนินการต่อ</string>
+    <string name="waiting_for_retry">กำลังรอเพื่อลองใหม่…</string>
+    <string name="retry_n_of_5">ลองใหม่ครั้งที่ %1$d จาก 5 ครั้ง</string>
+    <string name="update_prl_message">กำลังตรวจสอบการอัปเดต PRL...</string>
+    <string name="prl_updated_message">อัปเกรด PRL แล้ว กด \"ตกลง\" เพื่อดำเนินการต่อ</string>
+    <string name="no_prl_update_message">ไม่มีการอัปเดต PRL ที่พร้อมใช้งาน</string>
+    <string name="checking_for_fumo_message">กำลังตรวจสอบการอัปเดตเฟิร์มแวร์ โปรดรอสักครู่…</string>
+    <string name="no_fumo_update_message">ไม่มีการอัปเดตเฟิร์มแวร์ที่พร้อมใช้งาน</string>
+    <string name="hfa_failure_message">การเปิดใช้งานอุปกรณ์ล้มเหลว หากยังคงมีปัญหา คุณอาจต้องติดต่อฝ่ายบริการลูกค้า</string>
+    <string name="scrtn_message">"คำเตือน: SCRTN จะดำเนินการต่อไปนี้และรีบูตโทรศัพท์ คุณแน่ใจไหมว่าต้องการทำต่อ
+รีเซ็ต MDN ให้เป็นค่าเริ่มต้นจากโรงงาน
+รีเซ็ต MSID ให้เป็นค่าเริ่มต้นจากโรงงาน
+รีเซ็ต NAI ช่อง 1 ให้เป็นค่าเริ่มต้นจากโรงงาน
+รีเซ็ตรหัสผ่าน NAI ช่อง 1 ให้เป็นค่าเริ่มต้นจากโรงงาน"</string>
+    <string name="notification_title">กำลังกำหนดค่าเครือข่ายมือถือ</string>
+    <string name="notification_msg">ในระหว่างการกำหนดค่า บริการมือถืออาจใช้งานไม่ได้ชั่วคราว โดยจะใช้เวลาเพียงไม่กี่นาที</string>
+    <string name="notification_channel_mobile_service_update">อัปเดตบริการอุปกรณ์เคลื่อนที่</string>
+</resources>

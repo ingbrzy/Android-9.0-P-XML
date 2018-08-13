@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Boshiga o‘tish</string>
+    <string name="abc_action_bar_up_description">Yuqoriga o‘tish</string>
+    <string name="abc_action_menu_overflow_description">Boshqa parametrlar</string>
+    <string name="abc_action_mode_done">Tayyor</string>
+    <string name="abc_activity_chooser_view_see_all">Hammasi</string>
+    <string name="abc_activitychooserview_choose_application">Dastur tanlang</string>
+    <string name="abc_capital_off">O‘CHIQ</string>
+    <string name="abc_capital_on">YONIQ</string>
+    <string name="abc_search_hint">Qidirish…</string>
+    <string name="abc_searchview_description_clear">So‘rovni tozalash</string>
+    <string name="abc_searchview_description_query">So‘rovni izlash</string>
+    <string name="abc_searchview_description_search">Qidirish</string>
+    <string name="abc_searchview_description_submit">So‘rov yaratish</string>
+    <string name="abc_searchview_description_voice">Ovozli qidiruv</string>
+    <string name="abc_shareactionprovider_share_with">Ruxsat berish</string>
+    <string name="abc_shareactionprovider_share_with_application">%s orqali ulashish</string>
+    <string name="abc_toolbar_collapse_description">Yig‘ish</string>
+    <string name="account_blocked_title">Hisob bloklandi</string>
+    <string name="account_level_title">Hisob bilan bog‘liq amal</string>
+    <string name="account_removed_notification_text">Qurilmalar boshqaruvini sozlab bo‘lmagani uchun %1$s hisobi o‘chirib tashlandi</string>
+    <string name="account_removed_notification_title">Hisob o‘chirib tashlandi</string>
+    <string name="android_privacy_policy_title">Qo‘shimcha maxfiylik siyosati</string>
+    <string name="app_level_title">Kirish uchun so‘rov</string>
+    <string name="app_level_title_secondary">%s: kirish uchun so‘rov</string>
+    <string name="audience_selection_done">Tayyor</string>
+    <string name="auth_account_already_has_gmail">Ushbu hisob bilan bog‘liq Gmail hisobi allaqachon mavjud.</string>
+    <string name="auth_account_content_provider_label">Google hisobi ma’lumotlari</string>
+    <string name="auth_account_module_display_name">Google Hisoblar</string>
+    <string name="auth_account_removed_default_description">Qurilmalar boshqaruvini sozlash tugallanmagan edi. %1$s</string>
+    <string name="auth_account_removed_default_title">Sozlash bekor qilindi</string>
+    <string name="auth_account_removed_dm_bad_result_description">Qurilmalar boshqaruvini sozlash tugallanmadi. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Domeningiz mobil qurilmalarni boshqarish tizimini talab qiladi, lekin bu qurilmada ushbu tizim ishlamaydi. Boshqa hisob bilan urinib ko‘ring.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Qurilmalar boshqaruvi qo‘llab-quvvatlanmaydi</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Qurilmalar boshqaruvi ilovasi o‘rnatilmadi. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">O‘rnatish muammosi</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Sozlash bekor qilindi</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Bu qurilma uchun faqat bitta boshqariluvchi hisobga ruxsat berilgan. Savollaringizga javob olish uchun administratoringizga murojaat qiling.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Boshqariluvchi hisob allaqachon mavjud</string>
+    <string name="auth_account_settings_title">Hisob sozlamalari</string>
+    <string name="auth_account_setup_title">Google hisobi</string>
+    <string name="auth_account_start_over_and_signin_again">Boshidan boshlang va qayta kiring.</string>
+    <string name="auth_account_state_sync_title">Hisob holatini sinxronlash</string>
+    <string name="auth_allow_external_site_access">%s saytidagi ma’lumotlaringizga kirish</string>
+    <string name="auth_app_permission_ok_footnote">Davom ettirish orqali siz ushbu ilova va Google’ga ma’lumotlaringizdan mos ravishda o‘zlarining foydalanish shartlari va maxfiylik siyosatlariga muvofiq foydalanishiga ruxsat berasiz.</string>
+    <string name="auth_cant_add_work_account_message">Mazkur hisob turi tashkilotingiz tomonidan boshqariladi.</string>
+    <string name="auth_captcha_instructions">Ko‘rsatilgan matnni bu yerga kiriting:</string>
+    <string name="auth_captcha_title">CAPTCHA kodini kiritish zarur</string>
+    <string name="auth_common_downloading">Yuklab olinmoqda…</string>
+    <string name="auth_common_go_back">Orqaga qaytish</string>
+    <string name="auth_common_switch_accounts">Hisobni almashtirish</string>
+    <string name="auth_communicating_message">Ma’lumotlarni hisobingizga saqlash uchun qurilmangiz Google bilan bog‘lanmoqda. Bu 5 daqiqagacha vaqt olishi mumkin.</string>
+    <string name="auth_confirm_creds_sync_title">Hisob ma’lumotlari holati</string>
+    <string name="auth_d2d_source_alert_title">Tap&amp;Go</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Qulflab tekshirish</string>
+    <string name="auth_d2d_source_copy_notice">Hisob va ma’lumotlar boshqa qurilmangizga nusxalansinmi?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Tekshiruv tugagach, Bluetooth yoqiladi va qurilmalar bir-biriga ulanishi mumkin bo‘ladi.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Tekshiruv tugagach, qurilmalaringiz bir-biriga Bluetooth orqali ulanishi mumkin bo‘ladi.</string>
+    <string name="auth_d2d_source_lock_notice">Davom etish uchun ekraningiz qulflanadi va siz uni qulfdan chiqarishingiz lozim bo‘ladi.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Ma’lumotlardan nusxa olib bo‘lmaydi, chunki ushbu qurilmaga hech qanday hisob qo‘shilmagan.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Ma’lumotlardan nusxa olib bo‘lmaydi, chunki qurilmangizda Bluetooth mavjud emas.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth yoqiladi va qurilmalaringiz bir-biriga ulanishi mumkin bo‘ladi.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Bluetooth funksiyasidan foydalaniladi.</string>
+    <string name="auth_d2d_source_notification_title">“Tap&amp;Go” jarayoni tugallandi</string>
+    <string name="auth_d2d_source_restricted_user_toast">“Ulanish va qayta tiklash” funksiyasi taqiqlangan foydalanuvchi profilida ishlamaydi.</string>
+    <string name="auth_d2d_source_title">Hisoblarni qayta tiklash</string>
+    <string name="auth_d2d_source_unknown_device_name">Noma’lum qurilma</string>
+    <string name="auth_d2d_target_tap_progress_message">Davom etish uchun boshqa qurilmadagi OK tugmasini bosing</string>
+    <string name="auth_d2d_target_unlock_progress_message">Ikkinchi qurilmangizni tekshiring</string>
+    <string name="auth_d2d_target_wait_progress_message">Hisoblar va ma’lumotlar olinmoqda…</string>
+    <string name="auth_device_management_download_app_icon">%s ilovasi ikonkasi</string>
+    <string name="auth_device_management_download_description">Bu hisob mobil qurilmalarni boshqarish tizimini talab qiladi. Hisob uchun zarur bo‘lgan xavfsizlik qoidalarini joriy etish uchun ^1 ilovasini o‘rnating.</string>
+    <string name="auth_device_management_download_description_kids">Bu qurilmaga ushbu hisobni qo‘shish uchun birinchi <b>^1</b>" ilovasini o‘rnating. 
+
+^1 ilovasi ushbu qurilmani farzandlaringiz uchun sozlashda yordam beradi."</string>
+    <string name="auth_device_management_download_failed_message">Bu ilovasiz ham sozlashni davom ettirishingiz mumkin</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Qurilmalar boshqaruvi xizmatini o‘rnatib bo‘lmadi. Ushbu hisob o‘chirib tashlanadi. Qaytadan urinib ko‘ring.</string>
+    <string name="auth_device_management_download_failed_title">Ilova yuklab olinmadi</string>
+    <string name="auth_device_management_download_not_updated_message">Joriy versiyadan foydalangan holda ham sozlashni davom ettirishingiz mumkin</string>
+    <string name="auth_device_management_download_paused">Pauzada</string>
+    <string name="auth_device_management_download_progress">Yuklab olinmoqda…</string>
+    <string name="auth_device_management_download_skip_message">Ushbu hisob qurilmani boshqarish tizimini talab qiladi. Usiz davom ettirilsinmi?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Ushbu hisob qurilmani boshqarish tizimini talab qiladi. Boshqa hisob bilan qayta boshlaysizmi?</string>
+    <string name="auth_device_management_go_back">Orqaga qaytish</string>
+    <string name="auth_device_management_screenlock_description">Bu qurilmada ishchi hisobdan foydalanish uchun ekran qulfini o‘rnatish lozim. Bu tashkilotingizning mobil qurilmalar bo‘yicha siyosatidir.</string>
+    <string name="auth_device_management_screenlock_skip_message">Bu hisobda ekran qulfini sozlash shart. Boshqa hisob bilan qayta boshlaysizmi?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Ishchi profil ishchi ilovalaringizni alohida saqlaydi va tashkilotingiz tomonidan boshqariladi.
+
+Sozlashni yakunlash uchun AT adminidan kod olishingiz kerak. Boshqaruv vositasi yuklab olinadi va undan AT admin tomonidan ishchi profilingizni boshqarish uchun foydalaniladi."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Ishchi profil ishchi ilovalaringizni alohida saqlaydi va tashkilotingiz tomonidan boshqariladi.
+
+Boshqaruv vositasi yuklab olinadi va undan AT admin tomonidan ishchi profilingizni boshqarish uchun foydalaniladi."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Ishchi profilni sozlash</string>
+    <string name="auth_device_management_start_description">Bu hisob mobil qurilmalar boshqaruvini talab qiladi. “Keyingisi” tugmasini bossangiz, ^1 ilovasi hisob tomonidan talab qilingan xavfsizlik tartib-qoidalarini joriy etishga yordam beradi.</string>
+    <string name="auth_device_management_start_description_kids">Bu qurilmaga ushbu hisobni qo‘shish uchun <b>^1</b>" ilovasidan foydalaning. 
+
+^1 ilovasi ushbu qurilmani farzandlaringiz uchun sozlashda yordam beradi."</string>
+    <string name="auth_device_management_title">Qurilmalar boshqaruvi</string>
+    <string name="auth_device_management_update_description">Bu hisob mobil qurilmalar boshqaruvini talab qiladi. Hisob bilan bog‘liq xavfsizlik tartib-qoidalarini ta’minlash uchun ^1 ilovasining yangiroq versiyasini o‘rnating.</string>
+    <string name="auth_device_management_update_description_kids">Bu qurilmaga ushbu hisobni qo‘shish uchun birinchi <b>^1</b>" ilovasining eng so‘nggi versiyasini o‘rnating. 
+
+^1 ilovasi ushbu qurilmani farzandlaringiz uchun sozlashda yordam beradi."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> hisobi Gmail pochtasiga bog‘lanmagan.</string>
+    <string name="auth_error_account_disabled">"Ushbu hisob o‘chirib qo‘yilgan. 
+
+(Ma’lumot uchun veb-brauzer orqali http://google.com/accounts veb-sahifasiga tashrif buyuring.)"</string>
+    <string name="auth_error_account_not_verified">"Ushbu hisob tasdiqlanmagan. Hisobni tasdiqlash uchun e-pochtangizni tekshiring va undagi linkka o‘ting. 
+
+(Hisobingiz ma’lumotlarini qayta tiklash uchun kompyuteringiz orqali http://www.google.com/accounts/recovery veb-sahifasiga tashrif buyuring.)"</string>
+    <string name="auth_error_bad_password">Parol juda kuchsiz yoki unda mumkin bo‘lmagan belgilar mavjud. Qaytadan urining.</string>
+    <string name="auth_error_bad_username">Mumkin bo‘lmagan nom.</string>
+    <string name="auth_error_generic_server_error">"Google serverlari bilan bog‘lanishda muammo yuz berdi. 
+
+Keyinroq qayta urining."</string>
+    <string name="auth_error_invalid_second_factor">Doimiy hisobingiz parolidan foydalanmay, ushbu ilova uchun xos parol tanlang.</string>
+    <string name="auth_error_login_failed">"Foydalanuvchi nomi va parol bir-biriga mos kelmadi. Qaytadan urining.
+
+Hisobingiz ma’lumotlarini qayta tiklash uchun google.com/accounts/recovery/ veb-sahifasiga tashrif buyuring."</string>
+    <string name="auth_error_needs_browser">Hisobingizdan foydalanish uchun tizimga internet orqali kirish lozim. Brauzer orqali kirish uchun “Keyingisi” tugmasini bosing.</string>
+    <string name="auth_error_no_network">"Siz tarmoqqa ulanmagansiz. 
+
+Bu vaqtinchalik muammo bo‘lishi mumkin. Qayta urunib ko‘ring yoki boshqa Wi-Fi tarmog‘iga ulaning."</string>
+    <string name="auth_error_not_logged_in">Foydalanuvchi tizimga kirmagan.</string>
+    <string name="auth_error_username_unavailable">Bunday nomni tanlab bo‘lmaydi.</string>
+    <string name="auth_existing_account_error_text">Ushbu Android qurilmada ^1 hisobi allaqachon mavjud.</string>
+    <string name="auth_existing_account_error_title">Bunday hisob allaqachon mavjud</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Yaqinda parol o‘zgargani sababli qurilmaga hisob bilan kirib bo‘lmadi. Parol o‘zgartirilgan vaqtdan 24 soat o‘tganidan keyin qayta kirishga urinib ko‘ring.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Qurilmani himoyalash funksiyalari ishlamay qoladi.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Agar qurilmadagi eng so‘nggi Google hisobini shaxsiy profilingizdan o‘chirib tashlasangiz, qurilmaning o‘g‘irlanishga qarshi himoya funksiyalari ishlamay qoladi. Ularni qayta yoqish uchun qurilmaga boshqa hisob qo‘shishingiz lozim.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Ishonchingiz komilmi?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Bu hisob ishchi profilga ko‘chirib o‘tkazilsinmi?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Noma’lum xato tufaylik qurilmaga hisob bilan kirib bo‘lmadi. Boshqa hisob bilan kirib ko‘ring yoki 24 soatdan keyin yana qayta shu hisob bilan kirib ko‘ring.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Ushbu qurilma egasi hisoblaridan biriga kiring</string>
+    <string name="auth_field_cant_be_blank">Ushbu maydon bo‘sh qoldirilishi mumkin emas.</string>
+    <string name="auth_frp_add_account_no">Yangi hisob</string>
+    <string name="auth_frp_add_account_prompt">Bu qurilmadagi avvalgi Google hisobi tasdiqlangan. ^1 hisobini ushbu qurilmaga qayta qo‘shish yoki yangi hisobdan foydalanish mumkin.</string>
+    <string name="auth_frp_add_account_yes">Avvalgi hisob</string>
+    <string name="auth_frp_device_managed_label">Bu qurilma tashkilotingiz tomonidan boshqariladigan qilib sozlandi.</string>
+    <string name="auth_frp_download_management_app_label">Sozlashni davom ettirish uchun qurilmalar boshqaruvi ilovasini yuklab olishingiz lozim.</string>
+    <string name="auth_frp_enter_device_credentials_label">Administrator rejimiga o‘tish</string>
+    <string name="auth_frp_install_dpc_error">Boshqaruvchi ilovani o‘rnatib bo‘lmadi. Agar bu qadamni tashlab ketsangiz, qurilmani boshqarib bo‘lmaydi.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Boshqaruvchi ilova o‘rnatilmadi. Internet aloqasini tekshirib, qaytadan urining.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Google hisobidan foydalanish</string>
+    <string name="auth_frp_preadd_lkscreen_text">Qurilma sozlamalari asliga qaytarilgan. Uni avvalgi maxfiy kalit yordamida qulfdan chiqarish mumkin.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Zavod holatiga qayratishdan himoya</string>
+    <string name="auth_frp_start_reenroll_device_title">Ishchi qurilma</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Bu hisobga kirib bo‘lmadi. Qurilmangiz tashkilot xavfsizlik siyosatiga amal qilayotganini tekshirib ko‘ring. Agar bu xato takrorlansa, tashkilot administratori bilan bog‘laning.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Hisob xatosi</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Domeningiz mobil qurilmalarni boshqarish tizimini talab qiladi.  "<b>^1</b> hisobi uchun zarur bo‘lgan xavfsizlik qoidalarini joriy etish uchun Google Apps Device Policy ilovasini o‘rnating.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Yuklab olish</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" faqat harf, raqam va
+nuqtalardan iborat bo‘lishi mumkin."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> tarkibida hech qanday harf yo‘q.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> tarkibida 6 tadan kam yoki 30 tadan ko‘p belgi bor.</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> nomi bo‘sh emas.</string>
+    <string name="auth_gls_name_checking_info_title">Tekshirilmoqda…</string>
+    <string name="auth_gls_sync_item_title">Sinxronlash: %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" “ "<b>^1</b> ” hisobi tashkilotingiz tomonidan boshqariladigan qurilma yoki ishchi profilga qo‘shilishi lozim. Buni bajarish uchun IT administratoringiz tomonidan taqdim etilgan ko‘rsatmalarga amal qiling.</string>
+    <string name="auth_google_title_logo">Google logotipi</string>
+    <string name="auth_invalid_login_character">Mumkin bo‘lmagan belgi mavjud. Faqat 0-9, a-z, A-Z va nuqtalarni kiritish mumkin.</string>
+    <string name="auth_invalid_password_character">Parol tarkibida mumkin bo‘lmagan belgi mavjud.</string>
+    <string name="auth_invalid_username">Siz kiritgan foydalanuvchi nomi to‘g‘ri kelmaydi.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Parol noto‘g‘ri kiritildi yoki hisobingiz o‘zgargan. Parolni qaytadan kiriting. Agar parolingizni esdan chiqargan bo‘lib, uni qayta tiklamoqchi bo‘lsangiz, mana <annotation id="help_url">bu yerga</annotation> bosing.</string>
+    <string name="auth_login_task_title">Kirish amalga oshmoqda</string>
+    <string name="auth_login_title">E-pochta va parolni kiriting</string>
+    <string name="auth_minutemaid_ssl_error">Hostga ( %s) ulanishda muammo yuz berdi.</string>
+    <string name="auth_network_unreliable_help">Bu vaqtinchalik muammo yoki Android qurilmangiz internet xizmati bilan ta’minlanmagan bo‘lishi mumkin. Agar muammo yana qaytarilsa, Xaridorlarni qo‘llab-quvvatlash xizmatiga murojaat qiling.</string>
+    <string name="auth_no_network">Siz internetga ulanmagansiz.</string>
+    <string name="auth_no_network_help">Bu vaqtinchalik muammo yoki Android qurilmangiz internet xizmati bilan ta’minlanmagan bo‘lishi mumkin. Uyali tarmoqqa ulanganda qaytadan urining yoki biror Wi-Fi tarmog‘iga ulanib ko‘ring.</string>
+    <string name="auth_no_network_help_wifi_only">Bu vaqtinchalik muammo bo‘lishi mumkin. Qaytadan urining yoki boshqa Wi-Fi tarmog‘iga ulanib ko‘ring.</string>
+    <string name="auth_otp_error">Himoya kodini yaratishda muammo yuz berdi.</string>
+    <string name="auth_otp_explained_paragraph">Agar parolni unutib qo‘ysangiz yoki hisobga kirishda yangi o‘zgarishlar bo‘lsa, Google hisobingizni himoyalash uchun xavfsizlik kodini so‘rashi mumkin. Uni hozir ishlating yoki yangisini olish uchun orqaga qayting.</string>
+    <string name="auth_otp_header_message">Hisobga kirishda bu kod qachon ishlatiladi</string>
+    <string name="auth_otp_no_accounts_available_message">Ushbu qurilmada hech qanday hisob sozlanmagan.</string>
+    <string name="auth_otp_progress_dialog_message">Himoya kodi yaratilmoqda.</string>
+    <string name="auth_otp_ten_digit_code_header">Himoya kodlaringiz</string>
+    <string name="auth_otp_ten_digit_explaination">Agar parolni unutsangiz yoki hisobingizga notanish qurilmadan kirsangiz, Google hisobingizni himoyalash uchun bu kodlarning birini yoki ikkalasini kiritish talab etiladi.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Mazkur kodlar 15 daqiqadan keyin yoki ishlatilgandan keyin eskiradi. Ularni faqat https://accounts.google.com bilan boshlanadigan veb-sahifalarda ishlatish mumkin.</string>
+    <string name="auth_otp_ten_digit_usage_header">Kodlar qachon ishlatiladi</string>
+    <string name="auth_otp_ten_digits_code1">1-kod</string>
+    <string name="auth_otp_ten_digits_code2">2-kod</string>
+    <string name="auth_password">Parol</string>
+    <string name="auth_plus_audience_selection_description_acl">KIMLARGA KO‘RINSIN</string>
+    <string name="auth_plus_info_fragment_app_name">“%s” ilovasi u-n ruxsatnomalar:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%2$s qurilmasidagi %1$s ilovasi uchun quyidagi ruxsatlar zarur:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Kengaytirilgan davralaringiz</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Tanlangan davralar</string>
+    <string name="auth_plus_scope_fragment_public_label">Internetdagi hamma</string>
+    <string name="auth_pre_factory_reset_title">Google hisobingiz eslab qolinadi</string>
+    <string name="auth_relogin_activity_title">Parolni qayta kiriting</string>
+    <string name="auth_remove_account_start_over">Boshidan boshlash</string>
+    <string name="auth_request_accounts_list">Qurilmada Google hisoblari ro‘yxatini olish.</string>
+    <string name="auth_scope_more_details">Qo‘shimcha ma’lumot</string>
+    <string name="auth_server_error">Google serverlari bilan bog‘lanishda muammo yuz berdi.</string>
+    <string name="auth_server_error_help">Keyinroq qayta urinib ko‘ring.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Hisob qo‘shildi</string>
+    <string name="auth_setup_wizard_account_added_description">Hisobingiz qo‘shildi. Google xizmatlari parametrlarini tanlang</string>
+    <string name="auth_setup_wizard_services_activity_title">Google xizmatlari</string>
+    <string name="auth_setup_wizard_title">O‘rnatish ustasi</string>
+    <string name="auth_show_error_title">Xato</string>
+    <string name="auth_sign_in_agreement">Kirish orqali siz <annotation id="google_privacy">Google Maxfiylik siyosati</annotation> va <annotation id="android_privacy">qo‘shimcha maxfiylik siyosatlariga</annotation> rozilik bildirgan hisoblanasiz.</string>
+    <string name="auth_sign_in_browser">Brauzer orqali kirish</string>
+    <string name="auth_sign_in_with_google_account_short">Google hisobingiz orqali kiring:</string>
+    <string name="auth_submission_error_text">Xatolik yuz berdi. Qaytadan urining.</string>
+    <string name="auth_submission_title">Kechirasiz…</string>
+    <string name="auth_ui_activity_authenticating">Haqiqiylik tekshirilmoqda…</string>
+    <string name="auth_ui_activity_title">Google hisobingizga kirish</string>
+    <string name="auth_ui_activity_title_browser_signin">Kirish</string>
+    <string name="auth_ui_add_account_title">Hisobni sozlash</string>
+    <string name="auth_uncertified_notification_description"><b>Bu qurilmani sotib olgan foydalanuvchilar:</b>"
+Qurilma ishlab chiqaruvchisi Google ilovalari va xizmatlarini Google tomonidan sertifikatdan o‘tkazmay joylashtirgan. Ishlab chiqaruvchiga murojaat qilib, sertifikatlangan qurilmani talab qiling. Batafsil: g.co/AndroidCertifiedDevice.
+
+"<b>Litsenziyalanmagan ishlab chiqaruvchilar:</b>"
+Google ilovalari va xizmatlarini tarqatish uchun Google sertifikatiga ega bo‘lishingiz lozim. g.co/AndroidGMSContact orqali ariza topshiring.
+
+"<b>Litsenziyalangan ishlab chiqaruvchilar:</b>"
+Dastur ishlab chiqishda Google ilovalari va xizmatlaridan foydalanish uchun qurilmani ro‘yxatdan o‘tkazing. Batafsil axborot olish uchun Google tijoratni rivojlantirish menejeriga murojaat qiling.
+
+"<b>Maxsus ROM foydalanuvchilari:</b>"
+Google ilovalari va xizmatlaridan maxsus ROM bilan foydalanish uchun qurilmani ro‘yxatdan o‘tkazing. Batafsil: g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Qurilma Google tomonidan sertifikatlanmagan</string>
+    <string name="auth_username">E-pochta</string>
+    <string name="auth_work_authenticator_label">Boshqariluvchi hisob</string>
+    <string name="authorization_dialog">Hisobni tekshirish oynasi</string>
+    <string name="chrome_privacy_title">Chrome Maxfiylik eslatmasi</string>
+    <string name="chrome_tos_title">Chrome Foydalanish shartlari</string>
+    <string name="close_button_label">Yopish</string>
+    <string name="common_accept">Qabul qilish</string>
+    <string name="common_add">Qo‘shish</string>
+    <string name="common_add_account_label">Hisob qo‘shing</string>
+    <string name="common_ads_settings_title">Reklamalar</string>
+    <string name="common_agree">Roziman</string>
+    <string name="common_app_name">Google Play xizmatlari</string>
+    <string name="common_application_info">Ilova haqida ma’lumot</string>
+    <string name="common_application_info_composed_string">ilova haqida ma’lumot</string>
+    <string name="common_asm_google_account_title">Google hisobi</string>
+    <string name="common_asm_manage_google_account_title">Google hisobingizni boshqaring</string>
+    <string name="common_asm_preferences_settings_title">Hisob sozlamalari</string>
+    <string name="common_asm_privacy_settings_title">Maxfiylik</string>
+    <string name="common_asm_security_settings_title">Hisobingizga kirish va xavfsizlik</string>
+    <string name="common_back">Orqaga</string>
+    <string name="common_battery">Batareya</string>
+    <string name="common_block">Bloklash</string>
+    <string name="common_cancel">Bekor qilish</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts ilovasini ishga tushirish uchun ruxsat talab qilinadi.</string>
+    <string name="common_car_permission_desc">Avtomobil xizmatiga kirish</string>
+    <string name="common_car_permission_label">Avtomobil xizmati</string>
+    <string name="common_card">Karta</string>
+    <string name="common_chips_label_empty_circles">Hech qanday davra yo‘q</string>
+    <string name="common_chips_label_extended_circles">Kengaytirilgan davralar</string>
+    <string name="common_chips_label_only_you">Faqat siz</string>
+    <string name="common_chips_label_public">Umumiy</string>
+    <string name="common_chips_label_your_circles">Davralaringiz</string>
+    <string name="common_choose_account_label">Hisobni tanlang</string>
+    <string name="common_confirm_screen_lock_title">Ekran qulfini oching</string>
+    <string name="common_connect">Ulanish</string>
+    <string name="common_connected">Ulangan</string>
+    <string name="common_connected_apps_settings_title">Ulangan ilovalar</string>
+    <string name="common_connecting">Ulanmoqda…</string>
+    <string name="common_continue">Davom etish</string>
+    <string name="common_disabled">O‘chirilgan</string>
+    <string name="common_disagree">Hozir emas</string>
+    <string name="common_disconnect">Aloqani uzish</string>
+    <string name="common_dismiss">Yopish</string>
+    <string name="common_done">Tayyor</string>
+    <string name="common_edit">Tahrirlash</string>
+    <string name="common_email">E-pochta</string>
+    <string name="common_fingerprint_hint">Sensorga tegining</string>
+    <string name="common_from">Kimdan:</string>
+    <string name="common_games_settings_title">Play O‘yinlar</string>
+    <string name="common_get_started">Boshlash</string>
+    <string name="common_google_play_services_enable_button">Yoqish</string>
+    <string name="common_google_play_services_enable_text">Google Play xizmatlari yoqilmaguncha, %1$s ishlamaydi.</string>
+    <string name="common_google_play_services_enable_title">Google Play xizmatlarini yoqish</string>
+    <string name="common_google_play_services_error_dialog_title">Xato</string>
+    <string name="common_google_play_services_install_button">O‘rnatish</string>
+    <string name="common_google_play_services_install_text">%1$s ishlashi uchun qurilmangizda Google Play xizmatlarini o‘rnatish lozim.</string>
+    <string name="common_google_play_services_install_title">Google Play xizmatlarini o‘rnatish</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xizmatlarining mavjudligi</string>
+    <string name="common_google_play_services_notification_ticker">Google Play xizmatlari xatosi</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ilovasini Google Play xizmatlariga ulab bo‘lmadi. Qaytadan urinib ko‘ring.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ilovasi Google Play xizmatlarisiz ishlamaydi, biroq qurilmangiz ularni qo‘llab-quvvatlamaydi.</string>
+    <string name="common_google_play_services_update_button">Yangilash</string>
+    <string name="common_google_play_services_update_text">Google Play xizmatlari yangilanmaguncha, %1$s ishga tushmaydi.</string>
+    <string name="common_google_play_services_update_title">Google Play xizmatlarini yangilash</string>
+    <string name="common_google_play_services_updating_text">%1$s ilovasining ishlashi uchun zarur Google Play xizmatlari hozirda yangilanmoqda.</string>
+    <string name="common_google_play_services_updating_title">Google Play xizmatlari yangilanmoqda</string>
+    <string name="common_google_play_services_wear_update_text">Google Play xizmatlarining yangi versiyasi zarur. U o‘zini qisqa vaqt ichida yangilaydi.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play xizmatlari noto‘g‘ri arxitektura bilan o‘rnatilgan.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play xizmatlari noto‘g‘ri (%1$s) arxitektura bilan o‘rnatilgan, qurilmada esa boshqa (%2$s) arxitektura.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Noto‘g‘ri arxitektura</string>
+    <string name="common_google_settings">Google sozlamalari</string>
+    <string name="common_google_settings_account">Hisob</string>
+    <string name="common_google_settings_credentials_title">Parollar uchun Smart Lock</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">O‘rnatish</string>
+    <string name="common_learn_more">Batafsil…</string>
+    <string name="common_list_apps_menu_help">Yordam</string>
+    <string name="common_list_apps_menu_help_and_feedback">Yordam va fikr-mulohaza</string>
+    <string name="common_loading">Yuklanmoqda…</string>
+    <string name="common_location_settings_title">Joylashuv</string>
+    <string name="common_login_activity_task_title">Tizimga kirilmoqda…</string>
+    <string name="common_login_error_title">Hisobga kirish amalga oshmadi</string>
+    <string name="common_magictether_settings_title">Tezkor modem rejimi</string>
+    <string name="common_maps_settings_title">Xaritalar va Lokator</string>
+    <string name="common_mdm_feature_name">Qurilmamni top</string>
+    <string name="common_missing_url_viewer">Tashqi URLni ko‘rsatish vositasi yo‘q.</string>
+    <string name="common_more">Yana</string>
+    <string name="common_more_options">Boshqa parametrlar</string>
+    <string name="common_mute_notification">Bildirishnoma kelmasin</string>
+    <string name="common_network_unavailable">Internet aloqasi yo‘q</string>
+    <string name="common_networking_settings_title">Tarmoqlar</string>
+    <string name="common_never">Hech qachon</string>
+    <string name="common_next">Keyingisi</string>
+    <string name="common_no_browser_for_restricted_url">Kirish cheklangan. Hech qanday brauzer topilmadi.</string>
+    <string name="common_no_devices_found">Hech qanday qurilma topilmadi</string>
+    <string name="common_no_network">Mavjud emas: qurilma internetga ulanmagan</string>
+    <string name="common_no_thanks">Yo‘q, kerak emas</string>
+    <string name="common_not_now">Hozir emas</string>
+    <string name="common_off">O‘chiq</string>
+    <string name="common_offline">Siz internetga ulanmagansiz</string>
+    <string name="common_on">Yoniq</string>
+    <string name="common_open">Ochish</string>
+    <string name="common_open_on_phone">Telefonda ochish</string>
+    <string name="common_open_source_licenses">Ochiq kodli DT litsenziyalari</string>
+    <string name="common_pause">Pauza</string>
+    <string name="common_people_settings_title">Kontaktlar</string>
+    <string name="common_permissions_enable_in_settings">Sozlamalardan yoqish</string>
+    <string name="common_permissions_missing_end">Davom etish uchun, Sozlamalar > Ruxsatnomalar sahifasiga kirib, ro‘yxatdagi barcha obyektlarga ruxsat bering.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Yoqish uchun
+Sozlamalar >
+Ruxsatnomalar >
+Google Play xizmatlariga o‘ting"</string>
+    <string name="common_permissions_missing_start">Bu ilova to‘g‘ri ishlashi uchun Google Play xizmatlariga quyidagi ruxsatnomalar taqdim etilishi kerak:</string>
+    <string name="common_permissions_open_settings">Sozlamalarni ochish</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_play">Ijro</string>
+    <string name="common_privacy_policy">Maxfiylik siyosati</string>
+    <string name="common_privacy_policy_composed_string">Maxfiylik siyosati</string>
+    <string name="common_refresh">Yangilash</string>
+    <string name="common_remove">Olib tashlash</string>
+    <string name="common_reply">Javob berish</string>
+    <string name="common_restore">Qayta tiklash</string>
+    <string name="common_retry">Qayta urinish</string>
+    <string name="common_save">Saqlash</string>
+    <string name="common_saved">Saqlandi</string>
+    <string name="common_saving">Saqlanmoqda…</string>
+    <string name="common_search_settings_title">Qidiruv</string>
+    <string name="common_security_ootp_setting_title">Himoya kodi</string>
+    <string name="common_select">Tanlash</string>
+    <string name="common_send">Yuborish</string>
+    <string name="common_sending">Yuborilmoqda…</string>
+    <string name="common_set_up_nearby_device_settings_title">Yaqin-atrofdagi qurilmani sozlash</string>
+    <string name="common_settings">Sozlamalar</string>
+    <string name="common_share">Ulashish</string>
+    <string name="common_sign_in">Kirish</string>
+    <string name="common_signin_button_text">Kirish</string>
+    <string name="common_signin_button_text_long">Google orqali kirish</string>
+    <string name="common_skip">Tashlab ketish</string>
+    <string name="common_skip_fingerprint">Ekran qulfi</string>
+    <string name="common_something_went_wrong">Noma’lum xatolik yuz berdi</string>
+    <string name="common_system_info">Tizimga oid ma’lumot</string>
+    <string name="common_system_info_composed_string">hisob va tizimga oid ma’lumot</string>
+    <string name="common_take_photo_label">Suratga olish</string>
+    <string name="common_terms_of_service">Foydalanish shartlari</string>
+    <string name="common_terms_of_service_composed_string">Xizmat shartlari</string>
+    <string name="common_today">Bugun</string>
+    <string name="common_try_again">Qaytadan</string>
+    <string name="common_turn_on">Yoqish</string>
+    <string name="common_turn_on_bluetooth">Bluetooth aloqasini yoqish</string>
+    <string name="common_turn_on_nfc">NFC funksiyasini yoqish</string>
+    <string name="common_ui_confirm_deleting_button">O‘chirish</string>
+    <string name="common_ui_confirm_deleting_checkbox">Tushundim, baribir o‘chirilsin</string>
+    <string name="common_unknown">Noma’lum</string>
+    <string name="common_update">Yangilash</string>
+    <string name="common_url_load_unsuccessful_message">Android qurilmangiz internetga ulanmagan. Ushbu ma’lumotni hozir ko‘rish uchun biror veb-brauzer orqali %s veb-sahifasiga tashrif buyuring.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android qurilmangiz biror Wi-Fi tarmog‘iga ulanmagan. Ushbu ma’lumotni hozir ko‘rish uchun brauzer orqali %s havolasiga tashrif buyuring.</string>
+    <string name="common_usage_and_diagnostics">Foydalanish va tashxis</string>
+    <string name="common_view">Ko‘rish</string>
+    <string name="common_yesterday">Kecha</string>
+    <string name="continue_to_login_heading">Hisobingizga kiring.</string>
+    <string name="continue_to_login_text">Hisob ma’lumotlari taqdim etildi. Birinchi qurilmangizda hisobingizga kirish uchun davom ettiring.</string>
+    <string name="description_fingerprint_icon">Barmoq izi belgisi</string>
+    <string name="download_msg_error_invalid">Yuklab olish noto‘g‘ri sozlangan.</string>
+    <string name="download_msg_in_progress">Yuklab olish davom etmoqda.</string>
+    <string name="download_msg_not_allowed_space">Yuklab olish uchun xotirada joy yetarli emas.</string>
+    <string name="download_msg_pending">Yuklab olish kutib turibdi.</string>
+    <string name="download_notification_description">Buni %1$s so‘ragan.</string>
+    <string name="download_notification_title">Ko‘proq ma’lumotlar olinmoqda</string>
+    <string name="expand_button_title">Ekspert</string>
+    <string name="fido_ble_device_icon_content_description">Bluetooth qurilma aniqlandi</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Ulanish rejimiga o‘tganligiga ishonch hosil qilish uchun kalitdagi tugmani kamida 5 soniya bosib turing</string>
+    <string name="fido_ble_dont_see_your_key_hint">Kalitingiz ko‘rinmayaptimi?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Token qurilmada Bluetooth va joylashuv xizmatlari yoniq bo‘lsagina ishlaydi</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Token qurilmada Bluetooth yoniq bo‘lsagina ishlaydi</string>
+    <string name="fido_ble_enable_body_location_only">Token qurilmada joylashuv xizmatlari yoniq bo‘lsagina ishlaydi</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Bluetooth va Joylashuv xizmatlarini yoqish</string>
+    <string name="fido_ble_enable_title_location_only">Joylashuv xizmatlarini yoqish</string>
+    <string name="fido_ble_instructions_body">Kalitdan foydalanish uchun tugmani bosish kifoya</string>
+    <string name="fido_ble_locate_pin_body">Ulash PIN kodi odatda 4 yoki 6 raqamdan iborat bo‘ladi va kalitning orqasida joylashgan bo‘ladi. PIN kodni kiritishga tayyorlaning va davom ettiring.</string>
+    <string name="fido_ble_locate_pin_title">Bluetooth’ni ulash PIN kodini toping (token %1$s)</string>
+    <string name="fido_ble_pair_device_pairing">Tokeningiz ulanmoqda…</string>
+    <string name="fido_ble_pair_instructions_body">Hisobingizga kirishda foydalanish uchun kalitni bu qurilmaga ulang</string>
+    <string name="fido_ble_pair_instructions_title">Token ulansinmi?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Kalitda ulanish rejimini yoqing</string>
+    <string name="fido_ble_pairing_mode_body">Tokendagi tugmani kamida 5 soniya bosib turing</string>
+    <string name="fido_ble_pairing_mode_title">Ulanish rejimiga o‘tish</string>
+    <string name="fido_ble_select_device_body">Quyidagi ro‘yxatdan qurilmangizga ulash uchun tokenni tanlang. Nomi kalitning orqasiga yozilgan bo‘lishi mumkin.</string>
+    <string name="fido_ble_select_device_title">Tokenni tanlang</string>
+    <string name="fido_instructions_title">Tokendan foydalanishga ruxsat berilsinmi?</string>
+    <string name="fido_nfc_enable_body">Token qurilmada NFC yoniq bo‘lsagina ishlaydi</string>
+    <string name="fido_nfc_instructions_body">Kalitni qurilmaning orqasiga to tebranmaguncha tekkizib turing</string>
+    <string name="fido_paask_body">Yaqin-atrofdagi qurilmada Google hisobingizga kirilyapti</string>
+    <string name="fido_paask_footer">Bu yaqin-atrofdagi qurilmaga shifrlangan Bluetooth aloqasi yordamida hisobingizga kirishning kengaytirilgan himoyasi hisoblanadi.</string>
+    <string name="fido_paask_header">Yaqin-atrofdagi qurilmada hisobingizga kiryapsizmi?</string>
+    <string name="fido_paask_no_text">Bu men emasman</string>
+    <string name="fido_paask_yes_text">Ha, bu men</string>
+    <string name="fido_pair_another_security_key">Boshqa tokenni ulash</string>
+    <string name="fido_processing">Tokeningiz tasdiqlanmoqda…</string>
+    <string name="fido_transport_selection_bluetooth">Tokendan Bluetooth yordamida foydalanish</string>
+    <string name="fido_transport_selection_body">Tokenlar Bluetooth, NFC va USB bilan ishlaydi. Tokentdan qanday foydalanishni tanlang.</string>
+    <string name="fido_transport_selection_fingerprint">Tokendan barmoq izi yordamida foydalanish</string>
+    <string name="fido_transport_selection_nfc">Tokendan NFC yordamida foydalanish</string>
+    <string name="fido_transport_selection_title">Tokendan qanday foydalanishni tanlang</string>
+    <string name="fido_transport_selection_usb">Tokendan USB yordamida foydalanish</string>
+    <string name="fido_usb_instructions_body">Tokenni USB portga o‘zini yoki USB kabel orqali ulang. Tokendagi tugmani bosing.</string>
+    <string name="fido_use_ble_instead">Tokendan Bluetooth yordamida foydalaning</string>
+    <string name="fido_use_fp_instead">Tokendan barmoq izi yordamida foydalaning</string>
+    <string name="fido_use_nfc_instead">Tokendan NFC yordamida foydalaning</string>
+    <string name="fido_use_usb_instead">Tokendan USB yordamida foydalanish</string>
+    <string name="fido_welcome_body">Tokendan %1$s yordamida foydalanish shaxsiy ma’lumotlaringizni himoyalashga yordam beradi.</string>
+    <string name="fido_welcome_title">Tokendan %1$s yordamida foydalaning</string>
+    <string name="fingerprint_description">%1$s shaxsingizni aniqlash uchun barmoq izingizni tasdiqlang.</string>
+    <string name="fingerprint_no_imprints_description">%1$s shaxsingizni barmoq izingiz yordamida tasdiqlamoqchi, lekin bu qurilmada hali barmoq izingiz qo‘shilmagan.</string>
+    <string name="fingerprint_not_recognized">Barmoq izi aniqlanmadi. Qaytadan urining.</string>
+    <string name="fingerprint_success">Barmoq izi aniqlandi</string>
+    <string name="gcm_fallback_notification_channel_label">Har xil</string>
+    <string name="google_app_permissions_title">Ilovalar uchun ruxsatlar</string>
+    <string name="google_legal_title">Google huquqiy ma’lumotlari</string>
+    <string name="google_play_tos_title">Google Play Foydalanish shartlari</string>
+    <string name="google_plus_privacy_policy_title">Google Plus maxfiylik siyosati</string>
+    <string name="google_privacy_policy_title">Google maxfiylik siyosati</string>
+    <string name="google_terms_of_service_title">Foydalanish shartlari</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Ilovaga tarmoqning Wi-Fi hisobi ma’lumotlarini boshqa qurilmaga uzatishiga ruxsat berish.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi hisobi ma’lumotlarini uzatish</string>
+    <string name="no_screen_lock_description">Avval qurilmangizda ekran qulfini sozlashingiz lozim</string>
+    <string name="no_screen_lock_title">Telefoningizda ekran qulfi yo‘q</string>
+    <string name="notification_ticker">Kirish so‘rovi keldi</string>
+    <string name="open_source_activity_prompt_heading">Ilovani ochish</string>
+    <string name="open_source_activity_prompt_text">"Haqiqiylikni tekshirish jarayonini yakunlash uchun telefonda “SourceResponseActivity” ilovasini oching. "</string>
+    <string name="permgrouplab_calendar">Taqvim</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktlar</string>
+    <string name="permgrouplab_location">Joylashuv</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Tana sezgichlari</string>
+    <string name="permgrouplab_storage">Xotira</string>
+    <string name="permissions_not_granted_text">Ruxsatnomalar taqdim etish uchun qaytadan kiring.</string>
+    <string name="permissions_not_granted_title">Ruxsatnoma taqdim etilmagan.</string>
+    <string name="plus_manage_app_only_you_label">Faqat siz</string>
+    <string name="plus_network_unreliable">Server bilan ishonchli aloqa o‘rnatib bo‘lmadi.</string>
+    <string name="plus_oob_interstitial_loading_text">Bu bir necha daqiqa vaqt olishi mumkin.</string>
+    <string name="search_menu_title">Qidirish</string>
+    <string name="set_up">SOZLASH</string>
+    <string name="setupservices_additional_privacy_title">Maxfiylik haqida qo‘shimcha axborot</string>
+    <string name="setupservices_android_privacy_policy_title">Qo‘shimcha maxfiylik siyosati</string>
+    <string name="setupservices_chrome_privacy_title">Chrome maxfiylik eslatmasi</string>
+    <string name="setupservices_chrome_tos_title">Chrome xizmat shartlari</string>
+    <string name="setupservices_google_app_permissions_title">Ilovalar uchun ruxsatlar</string>
+    <string name="setupservices_google_legal_title">Google huquqiy ma’lumotlari</string>
+    <string name="setupservices_google_play_tos_title">Google Play xizmat shartlari</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus maxfiylik siyosati</string>
+    <string name="setupservices_google_privacy_policy_title">Google maxfiylik siyosati</string>
+    <string name="setupservices_google_services_agreement">Davom etish orqali siz bu qurilma Google, aloqa operatoringiz va qurilma ishlab chiqaruvchisidan dasturiy yangilanish va ilovalarni mobil internet orqali ham avtomatik ravishda yuklab olishi va o‘rnatishiga rozilik bildirgan hisoblanasiz. Ba’zi ilovalar ichki xaridlarni ham taklif etishlari mumkin. Ushbu ilovalarni xohlagan vaqtda o‘chirib tashlashingiz mumkin.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Ilovalarni o‘chirib tashlash uchun, Sozlamalar > Ilovalar yoki Ilovalar boshqaruvchisi menyusiga o‘ting. Kerakli ilovani tanlab (ilovani topish uchun o‘ng yoki chapga ekranni surish kerak bo‘lishi ham mumkin), “O‘chirib tashlash” yoki “O‘chirib qo‘yish” parametrini bosing.</string>
+    <string name="setupservices_google_services_agreement_korea">Shuningdek, oldindan yuklangan Google ilovalariga qurilmangizdagi axborot va funksiyalarga ruxsat berasiz. <annotation link="app_permissions">Bu sahifa</annotation> orqali ushbu ruxsatlardan qanday foydalanilishi haqida batafsil axborot oling.</string>
+    <string name="setupservices_google_services_agreement_title">Yangilanishlar va ilovalarni o‘rnating</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Qurilmangiz xotirasi deyarli to‘lib qolganda, joy bo‘shatish uchun zahiralangan rasm va videolar kabi keraksiz ma’lumotlarni tozalang.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Bu ma’lumotlar hisobingizdan o‘chib ketmaydi va onlayn boshqariladi. Bu funksiya va tozalangan ma’lumotlarni Sozlamalar > Xotira > Smart Xotira orqali ko‘rish mumkin.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Joy bo‘shatish</string>
+    <string name="setupservices_google_services_backup">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar va qurilma sozlamalari (jumladan, Wi-Fi parollari) kiradi.</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Zaxiralangan ma’lumotlar Google Drive xotirasidagi ajratilgan joyga ta’sir qilmaydi."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Ilovaga tegishli ma’lumotlar – bu, ilovalar tomonidan saqlangan (dasturchi o‘rnatgan sozlamalarga asoslanib) har qanday ma’lumot, shuningdek, kontaktlar, xabarlar va rasmlar kabi shaxsiy ma’lumotlar bo‘lishi ham mumkin.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Bu xizmatni Sozlamalar orqali o‘chirib qo‘yish mumkin.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Bu qurilmadagi surat va videolar Google Photos kutubxonasiga sinxronlanadi. Bunda istalgan qurilmangizdan ularni qidirish, tahrirlash, o‘chirib tashlash va ulashishingiz mumkin. Standart holatda Google Photos xizmatiga to‘liq sig‘imli surat va videolar yuklanadi.
+
+Zaxiralangan ma’lumotlar Google Drive xotirasidagi ajratilgan joyga ta’sir qilmaydi."</string>
+    <string name="setupservices_google_services_backup_title">Google Drive xizmatiga zaxiralash</string>
+    <string name="setupservices_google_services_backup_v23">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar, chaqiruvlar tarixi, kontaktlar va qurilma sozlamalari (jumladan, Wi-Fi parollari va ruxsatlar) kiradi.</string>
+    <string name="setupservices_google_services_backup_v26">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar, chaqiruvlar tarixi, kontaktlar va qurilma sozlamalari (jumladan, Wi-Fi parollari va ruxsatlar) hamda SMS xabarlar kiradi.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar, chaqiruvlar tarixi, kontaktlar va qurilma sozlamalari (jumladan, Wi-Fi parollari va ruxsatlar), suratlar, videolar hamda SMS xabarlar kiradi. Surat va videolar Google Photos kutubxonasiga sinxronlanadi va ulardan barcha xizmatlarda foydalanish mumkin.</string>
+    <string name="setupservices_google_services_data_policy">Ma’lumotlardan Google <annotation link="google_privacy">maxfiylik siyosatiga</annotation> muvofiq foydalaniladi.</string>
+    <string name="setupservices_google_services_data_policy_korea">Ma’lumotlardan Google <annotation link="google_privacy">maxfiylik siyosati</annotation> (jumladan, <annotation link="additional_privacy">shaxsiy ma’lumotlarni to‘plash, saqlash va foydalanish</annotation>) hamda <annotation link="location_tos">Joylashuv axborotidan foydalanish shartlariga</annotation> muvofiq foydalaniladi.</string>
+    <string name="setupservices_google_services_description">Qanday yoqish yoki keyinroq o‘chirib qo‘yish kabi har bir xizmatlarga tegishli ma’lumotlar haqida batafsil axborot olish uchun shu yerga bosing. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Ilova tafsilotlari, jumladan, ilova ichidagi xaridlarga oid ma’lumotlarni Google Play orqali topish mumkin. Ilovaga tegishli ma’lumotlar va sozlamalar Google hisobingizdan kirilgan qurilmalarga sinxronlanadi. 
+
+Darhol ochiladigan ilovalar "<a href="https://play.google.com/about/play-terms.html">Google Play xizmat shartlari</a>" tomonidan tartibga solinadi. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Batafsil</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">avola ustiga bossangiz, Google Play darhol ochiladigan ilova mavjudligini tekshiradi va uni o‘rnatmasdan ishga tushiradi. Bu turdagi ilovalar qurilmangizda vaqtinchalik saqlanadi.</string>
+    <string name="setupservices_google_services_instant_apps_title">Ilovalarni o‘rnatmasdan ishlating</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google joylashuvni aniqlash xizmati qurilmangiz joylashuvini bilish uchun Wi-Fi, mobil tarmoqlar va sensorlar kabi manbalardan foydalanadi.
+
+Qurilmangizda asosiy Joylashuv sozlamasini o‘chirib qo‘yish orqali Joylashuv parametrini faolsizlantirish mumkin. Shuningdek, joylashuv parametri orqali joylashuv axboroti uchun Wi-Fi va mobil tarmoqlardan foydalanish hamda sensorlarni o‘chirib qo‘yish mumkin."</string>
+    <string name="setupservices_google_services_location_sharing_title">Joylashuvni aniqlashga yordam bering</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Joylashuv axborotidan foydalanish</string>
+    <string name="setupservices_google_services_location_sharing_v28">Joylashuv axborotiga ruxsati bor ilova va xizmatlarga qurilmangizning joylashuv axborotidan foydalanishiga ruxsat bering. Google joylashuv haqidagi axborotni muntazam to‘plab borishi hamda undan anonim tarzda joylashuv aniqligi va joylashuv axborotiga asoslangan xizmatlarni yaxshilab boradi.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Ilova va xizmatlarga hatto Wi-Fi o‘chirilgan bo‘lsa ham qidirish uchun ruxsat bering.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Buni joylashuv sozlamalari orqali o‘chirib qo‘yishingiz mumkin.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Joylashuv aniqligini oshirish</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Qidirishga ruxsat berish</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Ilova va xizmatlarga, hatto Wi-Fi va Bluetooth o‘chirilgan bo‘lsa ham, ularga qidirish uchun ruxsat bering.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Ilova va xizmatlarga hatto Wi-Fi va Bluetooth funksiyalari o‘chiq bo‘lsa ham yaqin-atrofdagi qurilmalar signalini hamda Wi-Fi tarmoqlarni qidirish uchun ruxsat berish.</string>
+    <string name="setupservices_google_services_next_button_label">Roziman</string>
+    <string name="setupservices_google_services_play">Google Play takliflari va yangiliklaridan xabardor bo‘lib turishni xohlayman.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Zaxira va xotira</string>
+    <string name="setupservices_google_services_section_device_maintenance">Qurilma profilaktikasi</string>
+    <string name="setupservices_google_services_tos">Agar davom etsangiz, <annotation link="tos">Google xizmatidan foydalanish shartlariga</annotation> ham rozilik bildirgan hisoblanasiz.</string>
+    <string name="setupservices_google_services_tos_agree">“Roziman” tugmasini bosish orqali mazkur Google xizmatlari uchun yuqoridagi amallar bajarilishiga rozilik bildirgan hisoblanasiz.</string>
+    <string name="setupservices_google_services_tos_germany">Bu qurilmadan foydalanayotganingizda <annotation link="google_privacy">Maxfiylik siyosati</annotation> va <annotation link="tos">qo‘shimcha shartlar</annotation> qo‘llaniladi.</string>
+    <string name="setupservices_google_services_usage_reporting">Qurilma va ilovalardan foydalanish haqidagi hamda tashxis ma’lumotlarini avtomatik tarzda Google’ga yuborish orqali Android tizimini takomillashtirishga yordam bering. Ular batareya quvvatini uzoqroq vaqtga yetkazish, ilovalar unumdorligi va tarmoq aloqasi sifatini yaxshilash uchun ishlatiladi. Agar qo‘shimcha Veb-qidiruv va ilovalar tarixi yoqilgan bo‘lsa, bu ma’lumotlar hisobingizda saqlanadi, ularni Mening harakatlarim orqali boshqarishingiz mumkin.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Bunga qurilmangiz va undan qanday foydalanganligingiz haqidagi umumiy ma’lumotlar (jumladan, batareya quvvati darajasi, ilovalardan foydalanganlik, tarmoq aloqasining sifati) kiradi. Ushbu ma’lumotlardan Google mahsulotlari va xizmatlarini takomillashtirish uchun foydalaniladi. Ba’zi to‘plangan ma’lumotlar Android dasturchilar kabi hamkorlarimizga ham o‘z ilovalari va mahsulotlarini yanada yaxshilashga yordam beradi.
+
+Mazkur funksiyani o‘chirib qo‘yish tizim yangilanishlari va xavfsizlik kabi asosiy xizmatlarni olish uchun zarur bo‘lgan ma’lumotlarni yuborishga to‘sqinlik qilmaydi."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Mening harakatlarim sozlamalarini myactivity.google.com orqali yangilash mumkin.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Bu funksiyani Google sozlamalari orqali boshqarish mumkin. Menyudan “Foydalanish statistikasi va tashxis” bandini belgilang.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Bu funksiyani Sozlamalar > Google orqali boshqarish mumkin. Menyudan “Foydalanish statistikasi va tashxis” bandini belgilang.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Tizimga oid ma’lumotlar yuborilsin</string>
+    <string name="setupservices_google_services_wallpaper_permission">Jonli fon rasmlari qayerda ekanligingizga qarab almashib turishi uchun Google joylashuvni aniqlash xizmatini yoqing.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Jonli fon rasmlari uchun Google joylashuvni aniqlash xizmatini yoqish yoki o‘chirib qo‘yish uchun Sozlamalar > Ilovalar va bildirishnomalar > Ilova ma’lumotlari (qo‘shimcha menyuda) > Tizimni ko‘rsatish bandini bosib, Jonli axborot yoki Jonli Yer fon rasmlari menyusiga o‘tib, “Ruxsatnomalar” bo‘limiga kiring.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Fon rasmlariga joylashuvdan foydalanishga ruxsat berilsin</string>
+    <string name="setupservices_google_terms_of_service_title">Google xizmat shartlari</string>
+    <string name="setupservices_kids_google_services_agreement">Davom etish orqali siz bu qurilma Google, aloqa operatoringiz va qurilma ishlab chiqaruvchisidan dasturiy yangilanish va ilovalarni mobil internet orqali ham avtomatik ravishda yuklab olishi va o‘rnatishiga rozilik bildirgan hisoblanasiz. Ba’zi ilovalar ichki xaridlarni ham taklif etishlari mumkin. Ushbu ilovalarni xohlagan vaqtda o‘chirib tashlashingiz mumkin.</string>
+    <string name="setupservices_kids_google_services_backup">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar va qurilma sozlamalari (jumladan, Wi-Fi parollari) kiradi.</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Zaxiralangan ma’lumotlar farzandingiz Google Drive xotirasidagi ajratilgan joyga ta’sir qilmaydi."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Bu qurilmadagi surat va videolar farzandingiz Google Photos kutubxonasiga sinxronlanadi. Bunda farzandingiz istalgan qurilmasidan ularni qidirishi, tahrirlashi, o‘chirib tashlashi va ulashishi mumkin. Standart holatda Google Photos xizmatiga to‘liq sig‘imli surat va videolar yuklanadi.
+
+Zaxiralangan ma’lumotlar farzandingiz Google Drive xotirasidagi ajratilgan joyga ta’sir qilmaydi."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar, chaqiruvlar tarixi, kontaktlar va qurilma sozlamalari (jumladan, Wi-Fi parollari va ruxsatlar) kiradi.</string>
+    <string name="setupservices_kids_google_services_backup_v26">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar, chaqiruvlar tarixi, kontaktlar va qurilma sozlamalari (jumladan, Wi-Fi parollari va ruxsatlar) hamda SMS xabarlar kiradi.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Ma’lumotlarni osongina tiklang yoki istalgan vaqtda telefonlaringizni almashtiring. Zaxira nusxa ichiga ilovalar, ilovalarga tegishli ma’lumotlar, chaqiruvlar tarixi, kontaktlar va qurilma sozlamalari (jumladan, Wi-Fi parollari va ruxsatlar), suratlar, videolar hamda SMS xabarlar kiradi. Surat va videolar farzandingiz Google Photos kutubxonasiga sinxronlanadi va ulardan barcha xizmatlarda foydalanish mumkin.</string>
+    <string name="setupservices_kids_google_services_description">Ota-ona sifatida qanday yoqish yoki keyinroq o‘chirib qo‘yish kabi har bir xizmatlarga tegishli ma’lumotlar haqida batafsil axborot olish uchun shu yerga bosing. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google joylashuvni aniqlash xizmati bu qurilmaning joylashuvini bilish uchun Wi-Fi, mobil tarmoqlar va sensorlar kabi manbalardan foydalanadi.
+
+Bu qurilmada asosiy Joylashuv sozlamasini o‘chirib qo‘yish orqali Joylashuv parametrini faolsizlantirish mumkin. Shuningdek, joylashuv parametri orqali joylashuv axboroti uchun Wi-Fi va mobil tarmoqlardan foydalanish hamda sensorlarni o‘chirib qo‘yish mumkin."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Joylashuv axborotiga ruxsati bor ilova va xizmatlarga qurilmangizning joylashuv axborotidan foydalanishiga ruxsat bering. Google joylashuv haqidagi axborotni muntazam to‘plab borishi hamda undan anonim tarzda joylashuv aniqligi va joylashuv axborotiga asoslangan xizmatlarni yaxshilab boradi.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Qurilma va ilovalardan foydalanish haqidagi hamda tashxis ma’lumotlarini avtomatik tarzda Google’ga yuborish orqali Android tizimini takomillashtirishga yordam bering. Ushbu ma’lumotlardan farzandingiz shaxsini aniqlash uchun foydalanilmaydi. Ular batareya quvvatini uzoqroq vaqtga yetkazish, ilovalar unumdorligi va tarmoq aloqasi sifatini yaxshilash uchun ishlatiladi. Agar farzandingiz uchun qo‘shimcha veb-qidiruv va ilovalar tarixi yoqilgan bo‘lsa, bu ma’lumotlar farzandingiz hisobiga saqlanadi.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Bunga qurilma va undan qanday foydalanganlik haqidagi umumiy ma’lumotlar (jumladan, batareya quvvati darajasi, ilovalardan foydalanganlik, tarmoq aloqasining sifati) kiradi. Ushbu ma’lumotlardan Google mahsulotlari va xizmatlarini takomillashtirish uchun foydalaniladi. Ba’zi to‘plangan ma’lumotlar Android dasturchilar kabi hamkorlarimizga ham o‘z ilovalari va mahsulotlarini yanada yaxshilashga yordam beradi.
+
+Mazkur funksiyani o‘chirib qo‘yish tizim yangilanishlari va xavfsizlik kabi asosiy xizmatlarni olish uchun zarur bo‘lgan ma’lumotlarni yuborishga to‘sqinlik qilmaydi."</string>
+    <string name="setupservices_location_tos_title">Geoaxborotdan foydalanish shartlari</string>
+    <string name="sid_lsid_grant_detail">Seans identifikatori (SID) va mahalliy seans identifikatorining (LSID) cookie fayllari ham parollarga o‘xshab hisobingizni brauzerdan kelgan so‘rovlar bilan bog‘laydi. Ular hisobingizning barcha ma’lumotlariga kirish uchun to‘liq huquni ta’minlaydi. Ushbu fayllardan faqat brauzerlar foydalanishi mumkin.</string>
+    <string name="sid_lsid_grant_label">Google hisobingizning barcha ma’lumotlariga kirish uchun SID va LSID cookie fayllaridan foydalanish.</string>
+    <string name="smartdevice_action_copy">Nusxalash</string>
+    <string name="smartdevice_action_open_app">Ilovani ochish</string>
+    <string name="smartdevice_action_try_another_way">Boshqa usuldan foydalanish</string>
+    <string name="smartdevice_action_turn_on_location">Joylashuv xizmatlarini yoqish</string>
+    <string name="smartdevice_alert_disconnected_title">Qurilma bilan aloqa uzildi</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Zaxira hisobingiz qurilma administratori tomonidan boshqarilganligi uchun bu funksiyadan foydalana olmaysiz.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Funksiyadan foydalanib bo‘lmaydi</string>
+    <string name="smartdevice_alert_exit_setup_message">Haqiqatan ham ikkinchi qurilmangizni sozlashni to‘xtatmoqchimisiz?</string>
+    <string name="smartdevice_alert_exit_setup_title">Qurilmani sozlash to‘xtatilsinmi?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Qurilmangizni sozlash uchun kamida bitta Google hisobi kerak.</string>
+    <string name="smartdevice_alert_no_accounts_text">%s qurilmangizni sozlash uchun kamida bitta Google hisobi kerak.</string>
+    <string name="smartdevice_alert_no_accounts_title">Nusxalanadigan hech qanday hisob yo‘q</string>
+    <string name="smartdevice_alert_quit_button">Chiqish</string>
+    <string name="smartdevice_alert_restart_setup_button">Qaytadan sozlash</string>
+    <string name="smartdevice_alert_setup_incomplete">Sozlash tugallanmadi</string>
+    <string name="smartdevice_alert_start_over_button">Boshidan boshlash</string>
+    <string name="smartdevice_alert_work_profile_message">Ishchi hisoblarni nusxalab bo‘lmaydi. Boshqa Google hisoblari va ma’lumotlaringiz nusxalab bo‘lingandan keyin yangi qurilmangizga ishchi hisobni qo‘shish uchun Sozlamalardan foydalaning.</string>
+    <string name="smartdevice_alert_work_profile_title">Ishchi hisobni nusxalab bo‘lmaydi</string>
+    <string name="smartdevice_application_label">Qurilmani sozlash</string>
+    <string name="smartdevice_choose_device">Qurilmangizni tanlang</string>
+    <string name="smartdevice_companion_app_ready">%s ilovasi bu qurilmaga allaqachon o‘rnatilgan.</string>
+    <string name="smartdevice_connect_to_wifi">Qurilmangizni ulang</string>
+    <string name="smartdevice_connection_error">Boshqa qurilmangizga ulanishda muammo yuz berdi</string>
+    <string name="smartdevice_connection_error_title">Ulanib bo‘lmadi</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Qurilmangizga ulanmoqda…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google hisoblaringiz va boshqa hisoblarni nusxalang hamda Google Drive xizmatidagi zaxira nusxasini tiklang</string>
+    <string name="smartdevice_d2d_copy_account_text">Google hisoblaringizni nusxalang hamda Google Drive xizmatidagi zaxira nusxasini tiklang</string>
+    <string name="smartdevice_d2d_copy_account_title">Nusxalansinmi?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Barmoq izi aniqlanmadi</string>
+    <string name="smartdevice_d2d_fingerprint_title">Barmoq izingizni tasdiqlang</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Xavfsizlik maqsadida barmoq izingizni tasdiqlang. Google hisoblar, ilovalar va ma’lumotlar %s qurilmangizga nusxalanadi.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Qurilmani sozlashda davom etish uchun uni qulfdan chiqaring</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Xavfsizlik maqsadida, sozlashda davom etish uchun ekran qulfini oching</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Ikkinchi qurilmani sozlab bo‘lmadi, chunki qurilmangizda Bluetooth mavjud emas.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Xavfsizlik maqsadida, bu xususiyat o‘chirib qo‘yilgan. Ikkinchi qurilmangizda “Tashlab ketish” tugmasini bosing va sozlashda davom eting.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Yangi qurilmani sozlash</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Qurilmani sozlash</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 qurilmasini sozlash</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Qaytadan sozlashni boshlang hamda Google hisoblaringiz, ilova va ma’lumotlaringizni belgilangan qurilmaga nusxalash uchun ^1 qurilmangizni tanlang.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Kodni ko‘rmayapsizmi?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Yangi qurilmani cheklangan foydalanuvchi profilidan turib sozlab bo‘lmaydi.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Sozlashni %s qurilmangizda davom ettiring</string>
+    <string name="smartdevice_d2d_source_setup_success">Yana biroz kuting!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Eski Android qurilmadan ma’lumotlarni ko‘chirish</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Yaxshi, endi ushbu qurilmani sozlash uchun keyingi ko‘rsatmalarga amal qiling</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Boshqa qurilmangizdagi Google hisoblari, ilova va ma’lumotlarni nusxalang</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Hisoblar nusxalanmoqda…</string>
+    <string name="smartdevice_d2d_target_description">1. &lt;b>“&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>”&lt;/b> deng yoki “&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>” deb yozing va tasdiqlash tugmasini bosing&lt;br/>&lt;br/> 2. Ro‘yxatdan &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> ustiga bosing va ekrandagi ko‘rsatmalarga amal qiling</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Boshqa usulni sinab ko‘ring</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Ikkinchi qurilmangizda:&lt;br/>&lt;br/> 1. &lt;b>Google Sozlamalar&lt;/b> ilovasini oching&lt;br/>&lt;br/> 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Yaqin-atrofdagi qurilmani sozlash>%1$s&lt;/xliff:g>&lt;/b> bandini tanlang &lt;br/>&lt;br/> 3. Ro‘yxatdan &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> qurilmasini tanlang va ekrandagi ko‘rsatmalarga amal qiling</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Bu amallarni bajarib bo‘lmadi</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Google sozlamalarini oching</string>
+    <string name="smartdevice_d2d_target_help_text">Muammoga duch keldingizmi?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Topa olmayapsizmi?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Narigi qurilmangizda Google ilovasini oching</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google ilovasini oching</string>
+    <string name="smartdevice_d2d_target_instruction_title">Ikkinchi qurilmangizda</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google ilovasi barcha Android qurilmalarga oldindan o‘rnatilgan bo‘ladi. Barcha ilovalar ichidan yuqorida ko‘rsatilgan Google ikonkasini qidiring.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Bu kod ikkinchi qurilmangizdagi kodga mos kelishi kerak:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Bekor qilish</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Bu hisob yoki zaxiralangan ilovalar va ma’lumotlarni ushbu qurilmaga nusxalab bo‘lmaydi.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">OK</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Bu hisob o‘tkazib yuborilsinmi?</string>
+    <string name="smartdevice_d2d_target_title">Google ilovasida</string>
+    <string name="smartdevice_do_disclosure_generic">Ma’lumotlarni o‘tkazib bo‘lmadi</string>
+    <string name="smartdevice_do_unsupported_message">Boshqariladigan qurilmalardan ma’lumotlarni o‘tkazib bo‘lmaydi</string>
+    <string name="smartdevice_install_app">Ilovani o‘rnatish</string>
+    <string name="smartdevice_install_app_reason">Yangi %2$sni ushbu qurilmadan turib boshqarish uchun %1$s ilovasini o‘rnating</string>
+    <string name="smartdevice_look_for_other_device">Bu nomni boshqa qurilmadan qidiring</string>
+    <string name="smartdevice_magicwand_cancel_signin">Kirilmasin</string>
+    <string name="smartdevice_magicwand_confirm_signin">Kirish boshlandi</string>
+    <string name="smartdevice_magicwand_consent_detail">Boshqa qurilmada kirishni yakunlash uchun <b>Kirish</b> tugmasini bosing.</string>
+    <string name="smartdevice_magicwand_consent_title">Kirishni yakunlang</string>
+    <string name="smartdevice_magicwand_error_detail">Bu qurilmada Google hisobiga kirib bo‘lmadi.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Hisobingizga kirish uchun QR kodni skanerladingiz.
+
+Xavfsizligingiz uchun boshqa qurilmada aynan siz kirayotganingizni tasdiqlash uchun barmoq izingizni tasdiqlang."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Mazkur qo‘shimcha qadam bu xavfsiz qurilma ekanini tekshirishga yordam beradi.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Hisobingizga kirish uchun QR kodni skanerladingiz.
+
+Xavfsizligingiz uchun boshqa qurilmada aynan siz kirayotganingizni tasdiqlash uchun ekran qulfi grafik kalitini kiriting."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">brauzerda davom ettirish uchun</string>
+    <string name="smartdevice_magicwand_success_detail">Narigi qurilmangizda brauzerga qayting.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Bu shakllarni boshqa qurilmadan qidiring</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Shakllarni tasdiqlash</string>
+    <string name="smartdevice_problem_copying">Ma’lumotlarni boshqa qurilmangizga nusxalashda muammo yuz berdi</string>
+    <string name="smartdevice_problem_copying_title">Ma’lumotlardan nusxa olinmadi</string>
+    <string name="smartdevice_search_again">Yana qidirish</string>
+    <string name="smartdevice_searching_for_devices">Qurilmalar qidirilmoqda</string>
+    <string name="smartdevice_setup_info_installing_app">Ilova o‘rnatilmoqda…</string>
+    <string name="smartdevice_setup_intro_text">Ikkinchi qurilmangizni sozlash uchun telefoningizdagi Bluetooth va Wi-Fi aloqasidan foydalaniladi</string>
+    <string name="smartdevice_setup_intro_text_nfc">Ikkinchi qurilmangizni sozlash uchun telefoningizdagi Bluetoothdan foydalaniladi</string>
+    <string name="smartdevice_setup_intro_title">Boshlash</string>
+    <string name="smartdevice_setup_password_hint">Wi-Fi parolini kiriting</string>
+    <string name="smartdevice_setup_show_password">Parol berkitilmasin</string>
+    <string name="smartdevice_setup_title_verify_code">Tasdiqlash kodi</string>
+    <string name="smartdevice_target_hotphrase_instructions">Ikkinchi qurilmangizda &lt;b>“&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>” deng.&lt;/b>&lt;br/>&lt;br/> Yoki qidiruv oynasida &lt;b>“&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>”&lt;/b> deb yozing.</string>
+    <string name="smartdevice_type_typing_ok_google">Agar ovozli buyruq ishlamasa, qidiruv maydoniga matn kiriting. “&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>” deb yozing.</string>
+    <string name="smartdevice_verify_device">Qurilmani tekshiring</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Bu qurilmani sozlash uchun faqat ochiq va WPA/WPA2 bilan himoyalangan tarmoqlardan foydalanish mumkin</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Wi-Fi tarmog‘idan foydalanib bo‘lmayapti</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi tarmog‘ini qidirish uchun joylashuvni aniqlash xizmatini yoqing.
+
+Buni keyinroq Sozlamalar orqali o‘zgartirish mumkin."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi tarmoqlarini qidirib bo‘lmadi</string>
+    <string name="storage_management_wear_descriptive_text">Ilovalar taqiladigan qurilmaga ma’lumotlarni ko‘chirish uchun qurilmangiz xotirasidan foydalanadi.</string>
+    <string name="storage_management_wear_manage_size_label">Taqiladigan qurilma xotirasini boshqarish</string>
+    <string name="storage_management_wear_size_label">Taqiladigan qurilma xotirasi</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play xizmatlari, jumladan qidiruv tizimi va boshqa ma’lumotlarni saqlash uchun ishlatilgan joy.</string>
+    <string name="storage_managment_clear_all_data">Barcha ma’lumotlarni o‘chirish</string>
+    <string name="storage_managment_computing_size">Hisoblanmoqda…</string>
+    <string name="storage_managment_icing_size_label">Qidiruv indeksi xotirasi</string>
+    <string name="storage_managment_manage_icing_button">Qidiruv xotirasini boshqarish</string>
+    <string name="storage_managment_search_index_descriptive_text">Qidiruv tezroq ishlashi uchun qurilmangizdagi ilovalar qidiruv indeksidan foydalanishi mumkin.</string>
+    <string name="storage_managment_title">Google Play xizmatlari xotirasi</string>
+    <string name="storage_managment_total_size_label">Jami xotira</string>
+    <string name="suw_back_button_label">Orqaga</string>
+    <string name="suw_more_button_label">Yana</string>
+    <string name="suw_next_button_label">Keyingisi</string>
+    <string name="uncertified_notification_expired_content">Google ilova va xizmatlari endi bu qurilmada ishlamaydi. Batafsil axborot olish uchun bosing.</string>
+    <string name="uncertified_notification_expired_title">Registratsiya muddati tugadi</string>
+    <string name="uncertified_notification_expiring_title">Registratsiya muddati tugamoqda</string>
+    <string name="use_nearby_device_heading">Yaqin-atrofdagi qurilmalardan foydalanilsinmi?</string>
+    <string name="use_nearby_device_text">Hisob ma’lumotlariga ruxsat berish uchun yaqin-atrofdagi qurilmadan foydalanilsinmi?</string>
+    <string name="v7_preference_off">O‘CHIQ</string>
+    <string name="v7_preference_on">YONIQ</string>
+    <string name="verify_your_identity_description">%1$s shaxsingizni tasdiqlashi zarur.</string>
+    <string name="verify_your_identity_title">Shaxsingizni tasdiqlang</string>
+    <string name="waiting_for_account_info_text">Hisob ma’lumotlari kutilmoqda…</string>
+</resources>

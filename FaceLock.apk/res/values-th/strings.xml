@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีการอัปเดตสำหรับบริการ Google Play</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s ต้องการให้อัปเดตแอป Android Wear</string>
+    <string name="common_google_play_services_needs_enabling_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีบริการ Google Play เพื่อเปิดใช้งาน</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">ขอโดย %1$s</string>
+    <string name="common_google_play_services_install_title">รับบริการ Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในแท็บเล็ตของคุณ</string>
+    <string name="common_google_play_services_install_button">รับบริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_android_wear_update_title">อัปเดต Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_android_wear_update_text">%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตแอป Android Wear</string>
+    <string name="common_google_play_services_updating_title">กำลังอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</string>
+    <string name="common_google_play_services_network_error_title">ข้อผิดพลาดของเครือข่าย</string>
+    <string name="common_google_play_services_network_error_text">ต้องมีการเขื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play</string>
+    <string name="common_google_play_services_invalid_account_title">บัญชีไม่ถูกต้อง</string>
+    <string name="common_google_play_services_invalid_account_text">บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น</string>
+    <string name="common_google_play_services_unknown_issue">ปัญหาที่ไม่รู้จักของบริการ Google Play</string>
+    <string name="common_google_play_services_unsupported_title">บริการ Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ต้องใช้บริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน โปรดติดต่อผู้ผลิตเพื่อขอความช่วยเหลือ</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s ต้องใช้บริการ Google Play อย่างน้อย 1 บริการ ซึ่งไม่พร้อมใช้งานในปัจจุบัน โปรดติดต่อนักพัฒนาซอฟต์แวร์เพื่อขอความช่วยเหลือ</string>
+    <string name="common_google_play_services_sign_in_failed_title">การลงชื่อเข้าใช้ล้มเหลว</string>
+    <string name="common_google_play_services_sign_in_failed_text">เกิดข้อผิดพลาดในการลงชื่อเข้าใช้บัญชีที่ระบุ โปรดเลือกบัญชีอื่น</string>
+    <string name="app_name">ใบหน้าที่เชื่อถือได้</string>
+    <string name="trusted_face_service_app_name">บริการใบหน้าที่เชื่อถือได้</string>
+    <string name="receiver_app_name">ตัวรับการกระจายข้อมูลใบหน้าที่เชื่อถือได้</string>
+    <string name="intro_screen_title">เกี่ยวกับใบหน้าที่เชื่อถือได้</string>
+    <string name="intro_screen_header">ปลดล็อกโทรศัพท์โดยมองไปที่โทรศัพท์</string>
+    <string name="intro_screen_body_start">"ข้อควรจำ:
+"</string>
+    <string name="intro_screen_bullets">"การจับคู่ใบหน้ามีความปลอดภัยน้อยกว่ารูปแบบ, PIN หรือรหัสผ่าน
+
+บุคคลที่มีหน้าตาคล้ายคุณอาจปลดล็อกโทรศัพท์ของคุณได้
+
+ข้อมูลที่ใช้ในการจดจำใบหน้าของคุณจะเก็บไว้เป็นส่วนตัวในโทรศัพท์"</string>
+    <string name="intro_screen_continue_label">ตั้งค่า</string>
+    <string name="instructions_screen_title">เพิ่มใบหน้าที่เชื่อถือได้</string>
+    <string name="instructions_screen_header">เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด:</string>
+    <string name="instructions_screen_bullets">"หาพื้นที่ในอาคารที่ไม่สว่างหรือมืดเกินไป
+
+ถือโทรศัพท์ในระดับสายตา"</string>
+    <string name="instructions_screen_continue_label">ถัดไป</string>
+    <string name="enrollment_screen_title">เพิ่มใบหน้าที่เชื่อถือได้</string>
+    <string name="enrollment_screen_message_initializing">กำลังเริ่มต้น…</string>
+    <string name="enrollment_screen_message_initialization_error">ไม่สามารถเริ่มค้นหาใบหน้าของคุณ</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">ไม่ได้รับสิทธิ์ให้ใช้กล้องถ่ายรูป</string>
+    <string name="enrollment_screen_message_camera_error">กล้องไม่พร้อมใช้งาน</string>
+    <string name="enrollment_start_message">ให้ใบหน้าอยู่ภายในพื้นที่รอยประ</string>
+    <string name="enrollment_screen_message_instructions">ให้ส่วนบนของศีรษะและใต้คางของคุณอยู่ภายในพื้นที่วงกลม</string>
+    <string name="enrollment_screen_message_done">เพิ่มใบหน้าแล้ว</string>
+    <string name="enrollment_screen_status_no_face">แสดงใบหน้าของคุณ</string>
+    <string name="enrollment_screen_status_face_off_center">ไม่เห็นใบหน้าบางส่วนของคุณ</string>
+    <string name="enrollment_screen_status_missing_template">ไม่เห็นลักษณะเด่นของคุณ</string>
+    <string name="enrollment_screen_continue_label">ถัดไป</string>
+    <string name="enrollment_screen_done_label">เสร็จสิ้น</string>
+    <string name="enrollment_screen_talkback_preview_description">แสดงตัวอย่างจากกล้องถ่ายรูป</string>
+    <string name="enrollment_screen_talkback_face_added">เพิ่มใบหน้าแล้ว</string>
+    <string name="end_screen_title">ตั้งค่าเสร็จแล้ว!</string>
+    <string name="end_screen_body">หากต้องการปลดล็อกโทรศัพท์ เพียงเปิดหน้าจอและมองไปที่กล้อง</string>
+    <string name="end_screen_bullet_one_text">โทรศัพท์จะปลดล็อกทันทีที่จำคุณได้</string>
+    <string name="end_screen_bullet_two_text">หากอุปกรณ์ไม่รู้จักใบหน้าของคุณ ให้ปลดล็อกด้วยรูปแบบ, PIN หรือรหัสผ่านแทน</string>
+    <string name="end_screen_tip_text">เคล็ดลับ: ปรับปรุงการจับคู่ใบหน้าโดยการแสดงใบหน้าในรูปแบบต่างๆ</string>
+    <string name="end_screen_licenses_label">ใบอนุญาต</string>
+    <string name="end_screen_continue_label">เสร็จสิ้น</string>
+    <string name="add_to_setup_intro_screen_title">ปรับปรุงการจับคู่ใบหน้า</string>
+    <string name="add_to_setup_intro_screen_header">แสดงใบหน้าในหลายๆ รูปแบบ</string>
+    <string name="add_to_setup_intro_screen_body_start">"ตัวอย่าง:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"ในสภาวะแสงต่างๆ
+
+ใส่หรือไม่ใส่แว่นสายตา
+
+มีหรือไม่มีเครา
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">ถือโทรศัพท์ในระดับสายตา</string>
+    <string name="add_to_setup_intro_screen_continue_label">ถัดไป</string>
+    <string name="license_screen_title">ใบอนุญาต</string>
+    <string name="license_screen_header">ประกาศเกี่ยวกับโอเพนซอร์ส</string>
+    <string name="license_screen_continue_label">ตกลง</string>
+    <string name="license_screen_description">ฟีเจอร์ \"ใบหน้าที่เชื่อถือได้\" อาจใช้ไลบรารีโอเพนซอร์สต่อไปนี้บางส่วน ซึ่งได้รับอนุญาตภายใต้ใบอนุญาตด่านล่าง:</string>
+    <string name="license_screen_notices_header">ประกาศสำหรับไลบรารี:</string>
+    <string name="shared_cancel_label">ยกเลิก</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">การจดจำใบหน้ามีการเปลี่ยนแปลง โปรดเพิ่มใบหน้าที่เชื่อถือได้อีกครั้งเพื่อใช้งานต่อไป</string>
+</resources>

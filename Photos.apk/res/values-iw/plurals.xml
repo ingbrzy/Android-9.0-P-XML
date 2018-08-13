@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">הפריטים האלה גדולים מדי לאשפה של המכשיר. אם תמחק אותם, הם יוסרו לצמיתות מהמכשיר ומהחשבון שלך.</item>
+        <item quantity="one">הפריט הזה גדול מדי לאשפה של המכשיר. אם תמחק אותו, הוא יוסר לצמיתות מהמכשיר ומהחשבון שלך.</item>
+        <item quantity="two">הפריטים האלה גדולים מדי לאשפה של המכשיר. אם תמחק אותם, הם יוסרו לצמיתות מהמכשיר ומהחשבון שלך.</item>
+        <item quantity="many">הפריטים האלה גדולים מדי לאשפה של המכשיר. אם תמחק אותם, הם יוסרו לצמיתות מהמכשיר ומהחשבון שלך.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">‏%1$d פריטים נסרקו</item>
+        <item quantity="one">‏פריט %1$d נסרק</item>
+        <item quantity="two">‏%1$d פריטים נסרקו</item>
+        <item quantity="many">‏%1$d פריטים נסרקו</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">‏%1$d פריטים נבחרו</item>
+        <item quantity="one">‏פריט %1$d נבחר</item>
+        <item quantity="two">‏%1$d פריטים נבחרו</item>
+        <item quantity="many">‏%1$d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">גודל האלבום החדש יחרוג מהמגבלה הנוכחית של %1$d פריטים.</item>
+        <item quantity="one">גודל האלבום החדש יחרוג מהמגבלה הנוכחית של פריט אחד (%1$d).</item>
+        <item quantity="two">גודל האלבום החדש יחרוג מהמגבלה הנוכחית של %1$d פריטים.</item>
+        <item quantity="many">גודל האלבום החדש יחרוג מהמגבלה הנוכחית של %1$d פריטים.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">האלבום יכלול %1$d פריטים.</item>
+        <item quantity="one">האלבום יכלול פריט אחד (%1$d).</item>
+        <item quantity="two">האלבום יכלול %1$d פריטים.</item>
+        <item quantity="many">האלבום יכלול %1$d פריטים.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d מיקומים נוספו</item>
+        <item quantity="one">מיקום אחד (%d) נוסף</item>
+        <item quantity="two">%d מיקומים נוספו</item>
+        <item quantity="many">%d מיקומים נוספו</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d מיקומים</item>
+        <item quantity="one">מיקום אחד (%d)</item>
+        <item quantity="two">%d מיקומים</item>
+        <item quantity="many">%d מיקומים</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d מפות</item>
+        <item quantity="one">מפה אחת (%d)</item>
+        <item quantity="two">%d מפות</item>
+        <item quantity="many">%d מפות</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d מפות נוספו</item>
+        <item quantity="one">מפה אחת (%d) נוספה</item>
+        <item quantity="two">%d מפות נוספו</item>
+        <item quantity="many">%d מפות נוספו</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">מסיר את הפריטים מהאלבום הזה...</item>
+        <item quantity="one">מסיר את הפריט מהאלבום הזה...</item>
+        <item quantity="two">מסיר את הפריטים מהאלבום הזה...</item>
+        <item quantity="many">מסיר את הפריטים מהאלבום הזה...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d פריטים הוסרו</item>
+        <item quantity="one">פריט אחד (%d) הוסר</item>
+        <item quantity="two">%d פריטים הוסרו</item>
+        <item quantity="many">%d פריטים הוסרו</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">מסיר את התמונות מהאלבום הזה...</item>
+        <item quantity="one">מסיר את התמונה מהאלבום הזה...</item>
+        <item quantity="two">מסיר את התמונות מהאלבום הזה...</item>
+        <item quantity="many">מסיר את התמונות מהאלבום הזה...</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">מסיר את הסרטונים מהאלבום הזה...</item>
+        <item quantity="one">מסיר את הסרטון מהאלבום הזה...</item>
+        <item quantity="two">מסיר את הסרטונים מהאלבום הזה...</item>
+        <item quantity="many">מסיר את הסרטונים מהאלבום הזה...</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d פריטים</item>
+        <item quantity="one">%1$d פריט</item>
+        <item quantity="two">%1$d פריטים</item>
+        <item quantity="many">%1$d פריטים</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">%d פריט</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">כן, למחוק מהמכשיר (%d)</item>
+        <item quantity="one">כן, למחוק מהמכשיר (%d)</item>
+        <item quantity="two">כן, למחוק מהמכשיר (%d)</item>
+        <item quantity="many">כן, למחוק מהמכשיר (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">כן, למחוק את כולם מהמכשיר (%d)</item>
+        <item quantity="one">כן, למחוק את כולם מהמכשיר (%d)</item>
+        <item quantity="two">כן, למחוק את כולם מהמכשיר (%d)</item>
+        <item quantity="many">כן, למחוק את כולם מהמכשיר (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">העברה לאשפה (%d)</item>
+        <item quantity="one">העברה לאשפה (%d)</item>
+        <item quantity="two">העברה לאשפה (%d)</item>
+        <item quantity="many">העברה לאשפה (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d הועברו לארכיון</item>
+        <item quantity="one">%d פריט הועבר לארכיון</item>
+        <item quantity="two">%d הועברו לארכיון</item>
+        <item quantity="many">%d הועברו לארכיון</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d פריטים הוצאו מהארכיון</item>
+        <item quantity="one">%d פריט הוצא מהארכיון</item>
+        <item quantity="two">%d פריטים הוצאו מהארכיון</item>
+        <item quantity="many">%d פריטים הוצאו מהארכיון</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">%d פריט נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">מתבצעת העלאה של %d פריטים</item>
+        <item quantity="one">מתבצעת העלאה של פריט אחד (%d)</item>
+        <item quantity="two">מתבצעת העלאה של %d פריטים</item>
+        <item quantity="many">מתבצעת העלאה של %d פריטים</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">נותרו %d תמונות</item>
+        <item quantity="one">נותרה תמונה אחת (%d)</item>
+        <item quantity="two">נותרו %d תמונות</item>
+        <item quantity="many">נותרו %d תמונות</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">נותרו %d תמונות לגיבוי</item>
+        <item quantity="one">נותרה תמונה אחת (%d) לגיבוי</item>
+        <item quantity="two">נותרו %d תמונות לגיבוי</item>
+        <item quantity="many">נותרו %d תמונות לגיבוי</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d תמונות • %2$s</item>
+        <item quantity="one">תמונה אחת (%1$d) • %2$s</item>
+        <item quantity="two">%1$d תמונות • %2$s</item>
+        <item quantity="many">%1$d תמונות • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">רוצה לגבות %1$d פריטים?</item>
+        <item quantity="one">רוצה לגבות פריט אחד (%1$d)?</item>
+        <item quantity="two">רוצה לגבות %1$d פריטים?</item>
+        <item quantity="many">רוצה לגבות %1$d פריטים?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">%1$d פריטים בהעלאה</item>
+        <item quantity="one">פריט אחד (%1$d) בהעלאה</item>
+        <item quantity="two">%1$d פריטים בהעלאה</item>
+        <item quantity="many">%1$d פריטים בהעלאה</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d תמונות לא גובו</item>
+        <item quantity="one">תמונה אחת (%1$d) לא גובתה</item>
+        <item quantity="two">%1$d תמונות לא גובו</item>
+        <item quantity="many">%1$d תמונות לא גובו</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">מומלץ לגבות עוד %1$d פריטים</item>
+        <item quantity="one">מומלץ לגבות עוד פריט אחד (%1$d)</item>
+        <item quantity="two">מומלץ לגבות עוד %1$d פריטים</item>
+        <item quantity="many">מומלץ לגבות עוד %1$d פריטים</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">%d פריטים מועלים</item>
+        <item quantity="one">%d פריט מועלה</item>
+        <item quantity="two">%d פריטים מועלים</item>
+        <item quantity="many">%d פריטים מועלים</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">%d סרטונים מועלים</item>
+        <item quantity="one">%d סרטון מועלה</item>
+        <item quantity="two">%d סרטונים מועלים</item>
+        <item quantity="many">%d סרטונים מועלים</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d פריטים להעלאה</item>
+        <item quantity="one">%d פריט להעלאה</item>
+        <item quantity="two">%d פריטים להעלאה</item>
+        <item quantity="many">%d פריטים להעלאה</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d סרטונים להעלאה</item>
+        <item quantity="one">%d סרטון להעלאה</item>
+        <item quantity="two">%d סרטונים להעלאה</item>
+        <item quantity="many">%d סרטונים להעלאה</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">כל %d התמונות</item>
+        <item quantity="one">כל %d התמונות</item>
+        <item quantity="two">כל %d התמונות</item>
+        <item quantity="many">כל %d התמונות</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d תמונות לא גובו</item>
+        <item quantity="one">%d תמונה לא גובתה</item>
+        <item quantity="two">%d תמונות לא גובו</item>
+        <item quantity="many">%d תמונות לא גובו</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d פריטים נוספו</item>
+        <item quantity="one">פריט אחד (%1$d) נוסף</item>
+        <item quantity="two">%1$d פריטים נוספו</item>
+        <item quantity="many">%1$d פריטים נוספו</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">האלבום יכול להכיל רק %d פריטים.</item>
+        <item quantity="one">האלבום יכול להכיל רק פריט אחד (%d).</item>
+        <item quantity="two">האלבום יכול להכיל רק %d פריטים.</item>
+        <item quantity="many">האלבום יכול להכיל רק %d פריטים.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">אפשר לבחור %d פריטים לכל היותר.</item>
+        <item quantity="one">אפשר לבחור פריט אחד (%d) לכל היותר.</item>
+        <item quantity="two">אפשר לבחור %d פריטים לכל היותר.</item>
+        <item quantity="many">אפשר לבחור %d פריטים לכל היותר.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">צריך לבחור לפחות %d פריטים.</item>
+        <item quantity="one">צריך לבחור לפחות פריט אחד (%d).</item>
+        <item quantity="two">צריך לבחור לפחות %d פריטים.</item>
+        <item quantity="many">צריך לבחור לפחות %d פריטים.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">צריך לבחור פריטים בטווח של %d ימים.</item>
+        <item quantity="one">צריך לבחור פריטים בטווח של יום אחד (%d).</item>
+        <item quantity="two">צריך לבחור פריטים בטווח של %d ימים.</item>
+        <item quantity="many">צריך לבחור פריטים בטווח של %d ימים.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d פריטים נוספו</item>
+        <item quantity="one">פריט אחד (%d) נוסף</item>
+        <item quantity="two">%d פריטים נוספו</item>
+        <item quantity="many">%d פריטים נוספו</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני %d יום</item>
+        <item quantity="two">לפני %d ימים</item>
+        <item quantity="many">לפני %d ימים</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">%d שעות</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">לפני %d שעות</item>
+        <item quantity="one">לפני %d שעה</item>
+        <item quantity="two">לפני %d שעות</item>
+        <item quantity="many">לפני %d שעות</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d שבועות</item>
+        <item quantity="one">שבוע %d</item>
+        <item quantity="two">%d שבועות</item>
+        <item quantity="many">%d שבועות</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">לפני %d שבועות</item>
+        <item quantity="one">לפני %d שבוע</item>
+        <item quantity="two">לפני %d שבועות</item>
+        <item quantity="many">לפני %d שבועות</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">לפני %d דקות</item>
+        <item quantity="one">לפני %d דקה</item>
+        <item quantity="two">לפני %d דקות</item>
+        <item quantity="many">לפני %d דקות</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום %d</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">לפני %d ימים</item>
+        <item quantity="one">לפני %d יום</item>
+        <item quantity="two">לפני %d ימים</item>
+        <item quantity="many">לפני %d ימים</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">"‏ %1$d פריטים יוסרו מהמכשיר. אין מה לדאוג. הם גובו ואפשר להציג אותם ב'תמונות Google'."</item>
+        <item quantity="one">"‏ פריט אחד (%1$d) יוסר מהמכשיר. אין מה לדאוג. הוא גובה ואפשר להציג אותו ב'תמונות Google'."</item>
+        <item quantity="two">"‏ %1$d פריטים יוסרו מהמכשיר. אין מה לדאוג. הם גובו ואפשר להציג אותם ב'תמונות Google'."</item>
+        <item quantity="many">"‏ %1$d פריטים יוסרו מהמכשיר. אין מה לדאוג. הם גובו ואפשר להציג אותם ב'תמונות Google'."</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">הסרת %1$d פריטים מהמכשיר</item>
+        <item quantity="one">הסרת פריט אחד (%1$d) מהמכשיר</item>
+        <item quantity="two">הסרת %1$d פריטים מהמכשיר</item>
+        <item quantity="many">הסרת %1$d פריטים מהמכשיר</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">הסרת %1$d תמונות וסרטונים מהמכשיר</item>
+        <item quantity="one">הסרת תמונה אחת או סרטון אחד (%1$d) מהמכשיר</item>
+        <item quantity="two">הסרת %1$d תמונות וסרטונים מהמכשיר</item>
+        <item quantity="many">הסרת %1$d תמונות וסרטונים מהמכשיר</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">המחיקה של %1$d תמונות וסרטונים מקוריים מתבצעת</item>
+        <item quantity="one">המחיקה של תמונה מקורית אחת או סרטון מקורי אחד (%1$d) מתבצעת</item>
+        <item quantity="two">המחיקה של %1$d תמונות וסרטונים מקוריים מתבצעת</item>
+        <item quantity="many">המחיקה של %1$d תמונות וסרטונים מקוריים מתבצעת</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט אחד (%d)</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d כרטיסים חדשים</item>
+        <item quantity="one">כרטיס חדש אחד</item>
+        <item quantity="two">%d כרטיסים חדשים</item>
+        <item quantity="many">%d כרטיסים חדשים</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d פריטים נוספו</item>
+        <item quantity="one">פריט אחד (%d) נוסף</item>
+        <item quantity="two">%d פריטים נוספו</item>
+        <item quantity="many">%d פריטים נוספו</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d עדכונים</item>
+        <item quantity="one">%1$d עדכון</item>
+        <item quantity="two">%1$d עדכונים</item>
+        <item quantity="many">%1$d עדכונים</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d תגובות</item>
+        <item quantity="one">%1$d תגובה</item>
+        <item quantity="two">%1$d תגובות</item>
+        <item quantity="many">%1$d תגובות</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">שומר את הפריטים בספרייה...</item>
+        <item quantity="one">שומר את הפריט בספרייה...</item>
+        <item quantity="two">שומר את הפריטים בספרייה...</item>
+        <item quantity="many">שומר את הפריטים בספרייה...</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d פריטים נוספו</item>
+        <item quantity="one">פריט אחד (%d) נוסף</item>
+        <item quantity="two">%d פריטים נוספו</item>
+        <item quantity="many">%d פריטים נוספו</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">ניתן להוסיף רק עוד %d פריטים.</item>
+        <item quantity="one">ניתן להוסיף רק עוד %d פריט.</item>
+        <item quantity="two">ניתן להוסיף רק עוד %d פריטים.</item>
+        <item quantity="many">ניתן להוסיף רק עוד %d פריטים.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">מחיקת התיקייה ו-%d הפריטים שבה</item>
+        <item quantity="one">מחיקת התיקייה והפריט האחד (%d) שבה</item>
+        <item quantity="two">מחיקת התיקייה ו-%d הפריטים שבה</item>
+        <item quantity="many">מחיקת התיקייה ו-%d הפריטים שבה</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">כן, למחוק מהמכשיר (%d)</item>
+        <item quantity="one">כן, למחוק מהמכשיר (%d)</item>
+        <item quantity="two">כן, למחוק מהמכשיר (%d)</item>
+        <item quantity="many">כן, למחוק מהמכשיר (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">לא ניתן היה להעתיק %d פריטים</item>
+        <item quantity="one">לא ניתן היה להעתיק פריט אחד (%d)</item>
+        <item quantity="two">לא ניתן היה להעתיק %d פריטים</item>
+        <item quantity="many">לא ניתן היה להעתיק %d פריטים</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d פריטים הועתקו</item>
+        <item quantity="one">פריט אחד (%d) הועתק</item>
+        <item quantity="two">%d פריטים הועתקו</item>
+        <item quantity="many">%d פריטים הועתקו</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">לא ניתן היה להעביר %d פריטים</item>
+        <item quantity="one">לא ניתן היה להעביר פריט אחד (%d)</item>
+        <item quantity="two">לא ניתן היה להעביר %d פריטים</item>
+        <item quantity="many">לא ניתן היה להעביר %d פריטים</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d פריטים הועברו</item>
+        <item quantity="one">פריט אחד (%d) הועבר</item>
+        <item quantity="two">%d פריטים הועברו</item>
+        <item quantity="many">%d פריטים הועברו</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">רוצה להוסיף לאלבום משותף עם %1$d אנשים?</item>
+        <item quantity="one">רוצה להוסיף לאלבום משותף עם אדם אחד (%1$d)?</item>
+        <item quantity="two">רוצה להוסיף לאלבום משותף עם %1$d אנשים?</item>
+        <item quantity="many">רוצה להוסיף לאלבום משותף עם %1$d אנשים?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">רוצה להוסיף לאלבום משותף עם %1$s ועם %2$d אנשים נוספים?</item>
+        <item quantity="one">רוצה להוסיף לאלבום משותף עם %1$s ועם אדם אחד (%2$d) נוסף?</item>
+        <item quantity="two">רוצה להוסיף לאלבום משותף עם %1$s ועם %2$d אנשים נוספים?</item>
+        <item quantity="many">רוצה להוסיף לאלבום משותף עם %1$s ועם %2$d אנשים נוספים?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">רוצה להוסיף לאלבום משותף עם %1$s, %2$s ועם %3$d אנשים נוספים?</item>
+        <item quantity="one">רוצה להוסיף לאלבום משותף עם %1$s, %2$s ועם אדם אחד (%3$d) נוסף?</item>
+        <item quantity="two">רוצה להוסיף לאלבום משותף עם %1$s, %2$s ועם %3$d אנשים נוספים?</item>
+        <item quantity="many">רוצה להוסיף לאלבום משותף עם %1$s, %2$s ועם %3$d אנשים נוספים?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">רוצה לשלוח אל %1$s ואל %2$d אנשים נוספים?</item>
+        <item quantity="one">רוצה לשלוח אל %1$s ואל אדם אחד (%2$d) נוסף?</item>
+        <item quantity="two">רוצה לשלוח אל %1$s ואל %2$d אנשים נוספים?</item>
+        <item quantity="many">רוצה לשלוח אל %1$s ואל %2$d אנשים נוספים?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">רוצה לשלוח אל %1$s, %2$s ואל %3$d אנשים נוספים?</item>
+        <item quantity="one">רוצה לשלוח אל %1$s, %2$s ואל אדם אחד (%3$d) נוסף?</item>
+        <item quantity="two">רוצה לשלוח אל %1$s, %2$s ואל %3$d אנשים נוספים?</item>
+        <item quantity="many">רוצה לשלוח אל %1$s, %2$s ואל %3$d אנשים נוספים?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">תמונות של %d אנשים</item>
+        <item quantity="one">תמונות של אדם אחד (%d)</item>
+        <item quantity="two">תמונות של %d אנשים</item>
+        <item quantity="many">תמונות של %d אנשים</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">תמונות של %d קבוצות הפנים שנבחרו</item>
+        <item quantity="one">תמונות של קבוצת פנים אחת (%d) שנבחרה</item>
+        <item quantity="two">תמונות של %d קבוצות הפנים שנבחרו</item>
+        <item quantity="many">תמונות של %d קבוצות הפנים שנבחרו</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d פריטים נבחרו</item>
+        <item quantity="one">%d פריט נבחר</item>
+        <item quantity="two">%d פריטים נבחרו</item>
+        <item quantity="many">%d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d קבוצות פנים נבחרו</item>
+        <item quantity="one">קבוצת פנים אחת (%d) נבחרה</item>
+        <item quantity="two">%d קבוצות פנים נבחרו</item>
+        <item quantity="many">%d קבוצות פנים נבחרו</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">תמונות של %1$d קבוצות הפנים שנבחרו, מאז %2$s</item>
+        <item quantity="one">תמונות של קבוצת פנים אחת (%1$d) שנבחרה, מאז %2$s</item>
+        <item quantity="two">תמונות של %1$d קבוצות הפנים שנבחרו, מאז %2$s</item>
+        <item quantity="many">תמונות של %1$d קבוצות הפנים שנבחרו, מאז %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">תמונות של %d קבוצות הפנים שנבחרו</item>
+        <item quantity="one">תמונות של קבוצת פנים אחת (%d) שנבחרה</item>
+        <item quantity="two">תמונות של %d קבוצות הפנים שנבחרו</item>
+        <item quantity="many">תמונות של %d קבוצות הפנים שנבחרו</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d תמונות הוסרו</item>
+        <item quantity="one">תמונה אחת (%1$d) הוסרה</item>
+        <item quantity="two">%1$d תמונות הוסרו</item>
+        <item quantity="many">%1$d תמונות הוסרו</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">אפשר לבחור רק %d אנשים</item>
+        <item quantity="one">אפשר לבחור רק אדם אחד (%d)</item>
+        <item quantity="two">אפשר לבחור רק %d אנשים</item>
+        <item quantity="many">אפשר לבחור רק %d אנשים</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d עמודים נוספים</item>
+        <item quantity="one">עמוד נוסף אחד (%d)</item>
+        <item quantity="two">%d עמודים נוספים</item>
+        <item quantity="many">%d עמודים נוספים</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d עמודים</item>
+        <item quantity="one">עמוד אחד (%d)</item>
+        <item quantity="two">%d עמודים</item>
+        <item quantity="many">%d עמודים</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">צריך להוסיף עוד %d תמונות כדי לקנות את האלבום</item>
+        <item quantity="one">צריך להוסיף עוד תמונה אחת (%d) כדי לקנות את האלבום</item>
+        <item quantity="two">צריך להוסיף עוד %d תמונות כדי לקנות את האלבום</item>
+        <item quantity="many">צריך להוסיף עוד %d תמונות כדי לקנות את האלבום</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d תמונות נוספו</item>
+        <item quantity="one">%d תמונה נוספה</item>
+        <item quantity="two">%d תמונות נוספו</item>
+        <item quantity="many">%d תמונות נוספו</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">ייתכן שהתמונות נמחקו או שהשיתוף שלהן בוטל</item>
+        <item quantity="one">ייתכן שהתמונה נמחקה או שהשיתוף שלה בוטל</item>
+        <item quantity="two">ייתכן שהתמונות נמחקו או שהשיתוף שלהן בוטל</item>
+        <item quantity="many">ייתכן שהתמונות נמחקו או שהשיתוף שלהן בוטל</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d תמונות לא זמינות יותר</item>
+        <item quantity="one">%d תמונה לא זמינה יותר</item>
+        <item quantity="two">%d תמונות לא זמינות יותר</item>
+        <item quantity="many">%d תמונות לא זמינות יותר</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d תמונות הוסרו</item>
+        <item quantity="one">%d תמונה הוסרה</item>
+        <item quantity="two">%d תמונות הוסרו</item>
+        <item quantity="many">%d תמונות הוסרו</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d דפים נוספים</item>
+        <item quantity="one">דף אחד (%d) נוסף</item>
+        <item quantity="two">%d דפים נוספים</item>
+        <item quantity="many">%d דפים נוספים</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d עמודים</item>
+        <item quantity="one">%d עמוד</item>
+        <item quantity="two">%d עמודים</item>
+        <item quantity="many">%d עמודים</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">ניתן להדפיס רק %d תמונות, </item>
+        <item quantity="one">ניתן להדפיס רק תמונה אחת (%d), </item>
+        <item quantity="two">ניתן להדפיס רק %d תמונות, </item>
+        <item quantity="many">ניתן להדפיס רק %d תמונות, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">הוצעו לך %d תמונות</item>
+        <item quantity="one">הוצעה לך תמונה אחת (%d)</item>
+        <item quantity="two">הוצעו לך %d תמונות</item>
+        <item quantity="many">הוצעו לך %d תמונות</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d הצעות לתמונות</item>
+        <item quantity="one">הצעה אחת (%d) לתמונה</item>
+        <item quantity="two">%d הצעות לתמונות</item>
+        <item quantity="many">%d הצעות לתמונות</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">תמונות או סרטונים</item>
+        <item quantity="one">תמונה או סרטון</item>
+        <item quantity="two">תמונות או סרטונים</item>
+        <item quantity="many">תמונות או סרטונים</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">תמונות</item>
+        <item quantity="one">תמונה</item>
+        <item quantity="two">תמונות</item>
+        <item quantity="many">תמונות</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">סרטונים</item>
+        <item quantity="one">סרטון</item>
+        <item quantity="two">סרטונים</item>
+        <item quantity="many">סרטונים</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">מצאנו %d חיות מחמד</item>
+        <item quantity="one">מצאנו חיית מחמד אחת (%d)</item>
+        <item quantity="two">מצאנו %d חיות מחמד</item>
+        <item quantity="many">מצאנו %d חיות מחמד</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">בתמונות וגם %1$d מקומות</item>
+        <item quantity="one">בתמונות וגם %1$d מקום</item>
+        <item quantity="two">בתמונות וגם %1$d מקומות</item>
+        <item quantity="many">בתמונות וגם %1$d מקומות</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">בתמונות וגם %1$d דברים</item>
+        <item quantity="one">בתמונות וגם %1$d דבר</item>
+        <item quantity="two">בתמונות וגם %1$d דברים</item>
+        <item quantity="many">בתמונות וגם %1$d דברים</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">וגם %1$d מקומות ודברים נמצאו בתמונות</item>
+        <item quantity="one">וגם %1$d מקומות ודברים נמצאו בתמונות</item>
+        <item quantity="two">וגם %1$d מקומות ודברים נמצאו בתמונות</item>
+        <item quantity="many">וגם %1$d מקומות ודברים נמצאו בתמונות</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d אנשים נמצאו</item>
+        <item quantity="one">%1$d אדם נמצא</item>
+        <item quantity="two">%1$d אנשים נמצאו</item>
+        <item quantity="many">%1$d אנשים נמצאו</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d מקומות נמצאו</item>
+        <item quantity="one">%1$d מקום נמצא</item>
+        <item quantity="two">%1$d מקומות נמצאו</item>
+        <item quantity="many">%1$d מקומות נמצאו</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d דברים נמצאו</item>
+        <item quantity="one">%1$d דבר נמצא</item>
+        <item quantity="two">%1$d דברים נמצאו</item>
+        <item quantity="many">%1$d דברים נמצאו</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d תמונות</item>
+        <item quantity="one">%d תמונה</item>
+        <item quantity="two">%d תמונות</item>
+        <item quantity="many">%d תמונות</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">וגם %1$d מקומות</item>
+        <item quantity="one">וגם מקום אחד (%1$d)</item>
+        <item quantity="two">וגם %1$d מקומות</item>
+        <item quantity="many">וגם %1$d מקומות</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">וגם %1$d דברים</item>
+        <item quantity="one">וגם דבר אחד (%1$d)</item>
+        <item quantity="two">וגם %1$d דברים</item>
+        <item quantity="many">וגם %1$d דברים</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">וגם %1$d דברים ומקומות</item>
+        <item quantity="one">וגם דבר או מקום אחד (%1$d)</item>
+        <item quantity="two">וגם %1$d דברים ומקומות</item>
+        <item quantity="many">וגם %1$d דברים ומקומות</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">יש לך קבוצות תמונות של %1$d אנשים</item>
+        <item quantity="one">יש לך קבוצת תמונות של אדם אחד (%1$d)</item>
+        <item quantity="two">יש לך קבוצות תמונות של %1$d אנשים</item>
+        <item quantity="many">יש לך קבוצות תמונות של %1$d אנשים</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">מצאנו %1$d אנשים בתמונות</item>
+        <item quantity="one">מצאנו אדם אחד (%1$d) בתמונות</item>
+        <item quantity="two">מצאנו %1$d אנשים בתמונות</item>
+        <item quantity="many">מצאנו %1$d אנשים בתמונות</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">מצאנו %1$d מקומות בתמונות</item>
+        <item quantity="one">מצאנו מקום אחד (%1$d) בתמונות</item>
+        <item quantity="two">מצאנו %1$d מקומות בתמונות</item>
+        <item quantity="many">מצאנו %1$d מקומות בתמונות</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">מצאנו %1$d דברים בתמונות</item>
+        <item quantity="one">מצאנו דבר אחד (%1$d) בתמונות</item>
+        <item quantity="two">מצאנו %1$d דברים בתמונות</item>
+        <item quantity="many">מצאנו %1$d דברים בתמונות</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">יש לך קבוצות תמונות של %1$d דברים</item>
+        <item quantity="one">יש לך קבוצת תמונות של דבר אחד (%1$d)</item>
+        <item quantity="two">יש לך קבוצות תמונות של %1$d דברים</item>
+        <item quantity="many">יש לך קבוצות תמונות של %1$d דברים</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d פריטים נבחרו</item>
+        <item quantity="one">פריט אחד (%1$d) נבחר</item>
+        <item quantity="two">%1$d פריטים נבחרו</item>
+        <item quantity="many">%1$d פריטים נבחרו</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d נבחרו</item>
+        <item quantity="one">%d שבחרת</item>
+        <item quantity="two">%d נבחרו</item>
+        <item quantity="many">%d נבחרו</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d פריטים נוספו לאלבום</item>
+        <item quantity="one">פריט אחד (%d) נוסף לאלבום</item>
+        <item quantity="two">%d פריטים נוספו לאלבום</item>
+        <item quantity="many">%d פריטים נוספו לאלבום</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">%d פריטים בהעלאה</item>
+        <item quantity="one">פריט אחד (%d) בהעלאה</item>
+        <item quantity="two">%d פריטים בהעלאה</item>
+        <item quantity="many">%d פריטים בהעלאה</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d פריטים יועלו כשיהיה חיבור לאינטרנט</item>
+        <item quantity="one">פריט אחד (%d) יועלה כשיהיה חיבור לאינטרנט</item>
+        <item quantity="two">%d פריטים יועלו כשיהיה חיבור לאינטרנט</item>
+        <item quantity="many">%d פריטים יועלו כשיהיה חיבור לאינטרנט</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s ו-%2$d משתמשים נוספים</item>
+        <item quantity="one">%1$s ו-%2$d משתמש נוסף</item>
+        <item quantity="two">%1$s ו-%2$d משתמשים נוספים</item>
+        <item quantity="many">%1$s ו-%2$d משתמשים נוספים</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">%d פריט</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">רוצה להוסיף %d תמונות קשורות?</item>
+        <item quantity="one">רוצה להוסיף %d תמונה קשורה?</item>
+        <item quantity="two">רוצה להוסיף %d תמונות קשורות?</item>
+        <item quantity="many">רוצה להוסיף %d תמונות קשורות?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d תמונות חדשות</item>
+        <item quantity="one">%1$d תמונה חדשה</item>
+        <item quantity="two">%1$d תמונות חדשות</item>
+        <item quantity="many">%1$d תמונות חדשות</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s הוסיף/ה %2$d תמונות חדשות</item>
+        <item quantity="one">%1$s הוסיף/ה %2$d תמונה חדשה</item>
+        <item quantity="two">%1$s הוסיף/ה %2$d תמונות חדשות</item>
+        <item quantity="many">%1$s הוסיף/ה %2$d תמונות חדשות</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">מצאנו %1$d אנשים בתמונות שלך</item>
+        <item quantity="one">מצאנו אדם אחד (%1$d) בתמונות שלך</item>
+        <item quantity="two">מצאנו %1$d אנשים בתמונות שלך</item>
+        <item quantity="many">מצאנו %1$d אנשים בתמונות שלך</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">מצאנו %1$d מקומות בתמונות שלך</item>
+        <item quantity="one">מצאנו מקום אחד (%1$d) בתמונות שלך</item>
+        <item quantity="two">מצאנו %1$d מקומות בתמונות שלך</item>
+        <item quantity="many">מצאנו %1$d מקומות בתמונות שלך</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">מצאנו %1$d דברים בתמונות שלך</item>
+        <item quantity="one">מצאנו דבר אחד (%1$d) בתמונות שלך</item>
+        <item quantity="two">מצאנו %1$d דברים בתמונות שלך</item>
+        <item quantity="many">מצאנו %1$d דברים בתמונות שלך</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">לא ניתן למחוק את הפריטים</item>
+        <item quantity="one">לא ניתן למחוק את הפריט</item>
+        <item quantity="two">לא ניתן למחוק את הפריטים</item>
+        <item quantity="many">לא ניתן למחוק את הפריטים</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">אי אפשר למחוק %d פריטים</item>
+        <item quantity="one">אי אפשר למחוק %d פריט</item>
+        <item quantity="two">אי אפשר למחוק %d פריטים</item>
+        <item quantity="many">אי אפשר למחוק %d פריטים</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">אי אפשר למחוק לנצח %d פריטים</item>
+        <item quantity="one">אי אפשר למחוק לנצח %d פריט</item>
+        <item quantity="two">אי אפשר למחוק לנצח %d פריטים</item>
+        <item quantity="many">אי אפשר למחוק לנצח %d פריטים</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">מוחק את הפריטים לנצח...</item>
+        <item quantity="one">מוחק את הפריט לנצח...</item>
+        <item quantity="two">מוחק את הפריטים לנצח...</item>
+        <item quantity="many">מוחק את הפריטים לנצח...</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d פריטים נמחקו לנצח</item>
+        <item quantity="one">%d פריט נמחק לנצח</item>
+        <item quantity="two">%d פריטים נמחקו לנצח</item>
+        <item quantity="many">%d פריטים נמחקו לנצח</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d פריטים נמחקו מהמכשיר</item>
+        <item quantity="one">פריט %d נמחק מהמכשיר</item>
+        <item quantity="two">%d פריטים נמחקו מהמכשיר</item>
+        <item quantity="many">%d פריטים נמחקו מהמכשיר</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">משחזר את הפריטים…</item>
+        <item quantity="one">משחזר את הפריט...</item>
+        <item quantity="two">משחזר את הפריטים…</item>
+        <item quantity="many">משחזר את הפריטים…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">אי אפשר לשחזר %d פריטים</item>
+        <item quantity="one">אי אפשר לשחזר %d פריט</item>
+        <item quantity="two">אי אפשר לשחזר %d פריטים</item>
+        <item quantity="many">אי אפשר לשחזר %d פריטים</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d פריטים שוחזרו מהאשפה</item>
+        <item quantity="one">%d פריט שוחזר מהאשפה</item>
+        <item quantity="two">%d פריטים שוחזרו מהאשפה</item>
+        <item quantity="many">%d פריטים שוחזרו מהאשפה</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">למחוק את הפריטים לצמיתות?</item>
+        <item quantity="one">למחוק את הפריט לצמיתות?</item>
+        <item quantity="two">למחוק את הפריטים לצמיתות?</item>
+        <item quantity="many">למחוק את הפריטים לצמיתות?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">%d פריטים יימחקו. להמשיך?</item>
+        <item quantity="one">פריט אחד (%d) יימחק. להמשיך?</item>
+        <item quantity="two">%d פריטים יימחקו. להמשיך?</item>
+        <item quantity="many">%d פריטים יימחקו. להמשיך?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">מחיקה של %d פריטים לתמיד</item>
+        <item quantity="one">מחיקה של פריט אחד (%d) לתמיד</item>
+        <item quantity="two">מחיקה של %d פריטים לתמיד</item>
+        <item quantity="many">מחיקה של %d פריטים לתמיד</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">"‏נשארו עוד %d ימים עד שתוקף הגרסה יפוג. כדי להמשיך להשתמש ב'תמונות Google' צריך לעדכן את האפליקציה. מומלץ לעשות זאת בהקדם."</item>
+        <item quantity="one">"‏נשאר עוד יום אחד עד שתוקף הגרסה יפוג. כדי להמשיך להשתמש ב'תמונות Google' צריך לעדכן את האפליקציה. מומלץ לעשות זאת בהקדם."</item>
+        <item quantity="two">"‏נשארו עוד %d ימים עד שתוקף הגרסה יפוג. כדי להמשיך להשתמש ב'תמונות Google' צריך לעדכן את האפליקציה. מומלץ לעשות זאת בהקדם."</item>
+        <item quantity="many">"‏נשארו עוד %d ימים עד שתוקף הגרסה יפוג. כדי להמשיך להשתמש ב'תמונות Google' צריך לעדכן את האפליקציה. מומלץ לעשות זאת בהקדם."</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">%d פריטים בהעלאה</item>
+        <item quantity="one">פריט אחד (%d) בהעלאה</item>
+        <item quantity="two">%d פריטים בהעלאה</item>
+        <item quantity="many">%d פריטים בהעלאה</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d פריטים יועלו כשיהיה חיבור לאינטרנט</item>
+        <item quantity="one">פריט אחד (%d) יועלה כשיהיה חיבור לאינטרנט</item>
+        <item quantity="two">%d פריטים יועלו כשיהיה חיבור לאינטרנט</item>
+        <item quantity="many">%d פריטים יועלו כשיהיה חיבור לאינטרנט</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">‏%d פריטים יועלו כשיהיה חיבור ל-Wi-Fi</item>
+        <item quantity="one">‏פריט אחד (%d) יועלה כשיהיה חיבור ל-Wi-Fi</item>
+        <item quantity="two">‏%d פריטים יועלו כשיהיה חיבור ל-Wi-Fi</item>
+        <item quantity="many">‏%d פריטים יועלו כשיהיה חיבור ל-Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">‏כדי לגבות את הפריטים האלה תנצל כ-%s מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+        <item quantity="one">‏כדי לגבות את הפריט הזה תנצל כ-%s מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+        <item quantity="two">‏כדי לגבות את הפריטים האלה תנצל כ-%s מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+        <item quantity="many">‏כדי לגבות את הפריטים האלה תנצל כ-%s מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">‏הגיבוי של הפריטים האלה ינצל חלק מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+        <item quantity="one">‏הגיבוי של הפריט הזה ינצל חלק מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+        <item quantity="two">‏הגיבוי של הפריטים האלה ינצל חלק מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+        <item quantity="many">‏הגיבוי של הפריטים האלה ינצל חלק מחבילת הגלישה שלך. כדי לא לנצל את חבילת הגלישה, התחבר לרשת Wi-Fi.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">מעלה... %d נותרו</item>
+        <item quantity="one">מעלה... %d נותר</item>
+        <item quantity="two">מעלה... %d נותרו</item>
+        <item quantity="many">מעלה... %d נותרו</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d קבצים</item>
+        <item quantity="one">%d קובץ</item>
+        <item quantity="two">%d קבצים</item>
+        <item quantity="many">%d קבצים</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s תמונות</item>
+        <item quantity="one">תמונה %s</item>
+        <item quantity="two">%s תמונות</item>
+        <item quantity="many">%s תמונות</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s פריטים</item>
+        <item quantity="one">פריט %s</item>
+        <item quantity="two">%s פריטים</item>
+        <item quantity="many">%s פריטים</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s סרטונים</item>
+        <item quantity="one">סרטון %s</item>
+        <item quantity="two">%s סרטונים</item>
+        <item quantity="many">%s סרטונים</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">בחר תמונות</item>
+        <item quantity="one">בחר תמונה</item>
+        <item quantity="two">בחר תמונות</item>
+        <item quantity="many">בחר תמונות</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">בחירת פריטים</item>
+        <item quantity="one">בחירת פריט</item>
+        <item quantity="two">בחירת פריטים</item>
+        <item quantity="many">בחירת פריטים</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">בחר סרטונים</item>
+        <item quantity="one">בחר סרטון</item>
+        <item quantity="two">בחר סרטונים</item>
+        <item quantity="many">בחר סרטונים</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">ו-%d אנשים נוספים</item>
+        <item quantity="one">ואדם אחד (%d) נוסף</item>
+        <item quantity="two">ו-%d אנשים נוספים</item>
+        <item quantity="many">ו-%d אנשים נוספים</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d שיטות ליצירת קשר</item>
+        <item quantity="one">%1$s. שיטה %2$d ליצירת קשר</item>
+        <item quantity="two">%1$s. %2$d שיטות ליצירת קשר</item>
+        <item quantity="many">%1$s. %2$d שיטות ליצירת קשר</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d חברים</item>
+        <item quantity="one">חבר אחד (%d)</item>
+        <item quantity="two">%d חברים</item>
+        <item quantity="many">%d חברים</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">בחרת %d</item>
+        <item quantity="one">בחרת %d</item>
+        <item quantity="two">בחרת %d</item>
+        <item quantity="many">בחרת %d</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">נבחרו %1$d חברים מתוך %2$d</item>
+        <item quantity="one">נבחר חבר אחד (%1$d) מתוך %2$d</item>
+        <item quantity="two">נבחרו %1$d חברים מתוך %2$d</item>
+        <item quantity="many">נבחרו %1$d חברים מתוך %2$d</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d חברים נבחרו</item>
+        <item quantity="one">נבחר חבר אחד (%d)</item>
+        <item quantity="two">%d חברים נבחרו</item>
+        <item quantity="many">%d חברים נבחרו</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">האשפה במכשיר מלאה. אם תמחק את הפריטים האלה, הם יוסרו לצמיתות מהמכשיר ומהחשבון שלך.</item>
+        <item quantity="one">האשפה במכשיר מלאה. אם תמחק את הפריט הזה, הוא יוסר לצמיתות מהמכשיר ומהחשבון שלך.</item>
+        <item quantity="two">האשפה במכשיר מלאה. אם תמחק את הפריטים האלה, הם יוסרו לצמיתות מהמכשיר ומהחשבון שלך.</item>
+        <item quantity="many">האשפה במכשיר מלאה. אם תמחק את הפריטים האלה, הם יוסרו לצמיתות מהמכשיר ומהחשבון שלך.</item>
+    </plurals>
+</resources>

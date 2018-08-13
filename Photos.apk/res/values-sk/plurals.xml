@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Tieto položky sú príliš veľké a nezmestia sa do koša vášho zariadenia. Ak ich odstránite, natrvalo budú odstránené z vášho zariadenia aj účtu.</item>
+        <item quantity="one">Táto položka je príliš veľká a nezmestí sa do koša vášho zariadenia. Ak ju odstránite, natrvalo bude odstránená z vášho zariadenia aj účtu.</item>
+        <item quantity="few">Tieto položky sú príliš veľké a nezmestia sa do koša vášho zariadenia. Ak ich odstránite, natrvalo budú odstránené z vášho zariadenia aj účtu.</item>
+        <item quantity="many">Tieto položky sú príliš veľké a nezmestia sa do koša vášho zariadenia. Ak ich odstránite, natrvalo budú odstránené z vášho zariadenia aj účtu.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d naskenovaných položiek</item>
+        <item quantity="one">%1$d naskenovaná položka</item>
+        <item quantity="few">%1$d naskenované položky</item>
+        <item quantity="many">%1$d items scanned</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d vybratých položiek</item>
+        <item quantity="one">%1$d vybratá položka</item>
+        <item quantity="few">%1$d vybraté položky</item>
+        <item quantity="many">%1$d items selected</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Nová veľkosť albumu by presahovala aktuálny limit, ktorý predstavuje %1$d položiek.</item>
+        <item quantity="one">Nová veľkosť albumu by presahovala aktuálny limit, ktorý predstavuje %1$d položku.</item>
+        <item quantity="few">Nová veľkosť albumu by presahovala aktuálny limit, ktorý predstavuje %1$d položky.</item>
+        <item quantity="many">New album size would have been larger than current limit of %1$d items.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Album by obsahoval %1$d položiek.</item>
+        <item quantity="one">Album by obsahoval %1$d položku.</item>
+        <item quantity="few">Album by obsahoval %1$d položky.</item>
+        <item quantity="many">Album would have %1$d items.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">Bolo pridaných %d polôh</item>
+        <item quantity="one">Bola pridaná %d poloha</item>
+        <item quantity="few">Boli pridané %d polohy</item>
+        <item quantity="many">Bolo pridaných niekoľko (%d) polôh</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d polôh</item>
+        <item quantity="one">%d poloha</item>
+        <item quantity="few">%d polohy</item>
+        <item quantity="many">%d polohy</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d máp</item>
+        <item quantity="one">%d mapa</item>
+        <item quantity="few">%d mapy</item>
+        <item quantity="many">%d mapy</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">Bolo pridaných %d máp</item>
+        <item quantity="one">Bola pridaná %d mapa</item>
+        <item quantity="few">Boli pridané %d mapy</item>
+        <item quantity="many">Bolo pridaných niekoľko (%d) máp</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Odstraňujú sa položky z tohto albumu…</item>
+        <item quantity="one">Odstraňuje sa položka z tohto albumu…</item>
+        <item quantity="few">Odstraňujú sa položky z tohto albumu…</item>
+        <item quantity="many">Odstraňujú sa položky z tohto albumu…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">Bolo odstránených %d položiek</item>
+        <item quantity="one">Bola odstránená %d položka</item>
+        <item quantity="few">Boli odstránené %d položky</item>
+        <item quantity="many">%d items removed</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Odstraňujú sa fotky z tohto albumu…</item>
+        <item quantity="one">Odstraňuje sa fotka z tohto albumu…</item>
+        <item quantity="few">Odstraňujú sa fotky z tohto albumu…</item>
+        <item quantity="many">Odstraňujú sa fotky z tohto albumu…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Odstraňujú sa videá z tohto albumu…</item>
+        <item quantity="one">Odstraňuje sa video z tohto albumu…</item>
+        <item quantity="few">Odstraňujú sa videá z tohto albumu…</item>
+        <item quantity="many">Odstraňujú sa videá z tohto albumu…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d položiek</item>
+        <item quantity="one">%1$d položka</item>
+        <item quantity="few">%1$d položky</item>
+        <item quantity="many">%1$d položky</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d items</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Odstrániť zo zariadenia (%d)</item>
+        <item quantity="one">Odstrániť zo zariadenia (%d)</item>
+        <item quantity="few">Odstrániť zo zariadenia (%d)</item>
+        <item quantity="many">Odstrániť zo zariadenia (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Odstrániť všetky zo zariadenia (%d)</item>
+        <item quantity="one">Odstrániť všetky zo zariadenia (%d)</item>
+        <item quantity="few">Odstrániť všetky zo zariadenia (%d)</item>
+        <item quantity="many">Odstrániť všetky zo zariadenia (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Presunúť do koša (%d)</item>
+        <item quantity="one">Presunúť do koša (%d)</item>
+        <item quantity="few">Presunúť do koša (%d)</item>
+        <item quantity="many">Presunúť do koša (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d položiek bolo archivovaných</item>
+        <item quantity="one">%d položka bola archivovaná</item>
+        <item quantity="few">%d položky boli archivované</item>
+        <item quantity="many">%d archived</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d položiek bolo obnovených z archívu</item>
+        <item quantity="one">%d položka bola obnovená z archívu</item>
+        <item quantity="few">%d položky boli obnovené z archívu</item>
+        <item quantity="many">%d unarchived</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d vybratých</item>
+        <item quantity="one">%d vybratá</item>
+        <item quantity="few">%d vybraté</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Nahráva sa %d položiek</item>
+        <item quantity="one">Nahráva sa %d položka</item>
+        <item quantity="few">Nahrávajú sa %d položky</item>
+        <item quantity="many">Uploading %d items</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">Zostáva %d fotiek</item>
+        <item quantity="one">Zostáva %d fotka</item>
+        <item quantity="few">Zostávajú %d fotky</item>
+        <item quantity="many">%d photos left</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">Zostáva zálohovať %d fotiek</item>
+        <item quantity="one">Zostáva zálohovať %d fotku</item>
+        <item quantity="few">Zostáva zálohovať %d fotky</item>
+        <item quantity="many">%d photos left to back up</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d fotiek • %2$s</item>
+        <item quantity="one">%1$d fotka • %2$s</item>
+        <item quantity="few">%1$d fotky • %2$s</item>
+        <item quantity="many">Niekoľko (%1$d) fotiek • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Chcete zálohovať %1$d položiek?</item>
+        <item quantity="one">Chcete zálohovať %1$d položku?</item>
+        <item quantity="few">Chcete zálohovať %1$d položky?</item>
+        <item quantity="many">Back up %1$d items?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Nahráva sa %1$d položiek</item>
+        <item quantity="one">Nahráva sa %1$d položka</item>
+        <item quantity="few">Nahrávajú sa %1$d položky</item>
+        <item quantity="many">Uploading %1$d items</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d fotiek nebolo zálohovaných</item>
+        <item quantity="one">%1$d fotka nebola zálohovaná</item>
+        <item quantity="few">%1$d fotky neboli zálohované</item>
+        <item quantity="many">Niekoľko (%1$d) fotiek nebolo zálohovaných</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Uložte si %1$d položiek do bezpečia</item>
+        <item quantity="one">Uložte si %1$d položku do bezpečia</item>
+        <item quantity="few">Uložte si %1$d položky do bezpečia</item>
+        <item quantity="many">Uložte si niekoľko (%1$d) položiek do bezpečia</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Nahráva sa %d položiek</item>
+        <item quantity="one">Nahráva sa %d položka</item>
+        <item quantity="few">Nahrávajú sa %d položky</item>
+        <item quantity="many">Nahráva sa niekoľko (%d) položiek</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Nahráva sa %d videí</item>
+        <item quantity="one">Nahráva sa %d video</item>
+        <item quantity="few">Nahrávajú sa %d videá</item>
+        <item quantity="many">Nahráva sa niekoľko (%d) videí</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d položiek na nahratie</item>
+        <item quantity="one">%d položka na nahratie</item>
+        <item quantity="few">%d položky na nahratie</item>
+        <item quantity="many">%d položky na nahratie</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d videí na nahratie</item>
+        <item quantity="one">%d video na nahratie</item>
+        <item quantity="few">%d videá na nahratie</item>
+        <item quantity="many">%d videa na nahratie</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Všetkých %d fotiek</item>
+        <item quantity="one">Všetky fotky (%d)</item>
+        <item quantity="few">Všetky %d fotky</item>
+        <item quantity="many">All %d photos</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d fotiek nebolo zálohovaných</item>
+        <item quantity="one">%d fotka nebola zálohovaná</item>
+        <item quantity="few">%d fotky neboli zálohované</item>
+        <item quantity="many">Niekoľko (%d) fotiek nebolo zálohovaných</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">Pridaných bolo %1$d položiek</item>
+        <item quantity="one">Pridaná bola %1$d položka</item>
+        <item quantity="few">Pridané boli %1$d položky</item>
+        <item quantity="many">Pridaných bolo niekoľko (%1$d) položiek</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Do tohto albumu sa zmestí najviac %d položiek.</item>
+        <item quantity="one">Do tohto albumu sa zmestí najviac %d položka.</item>
+        <item quantity="few">Do tohto albumu sa zmestia najviac %d položky.</item>
+        <item quantity="many">Do tohto albumu sa zmestí najviac %d položky.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Vyberte najviac %d položiek.</item>
+        <item quantity="one">Vyberte najviac %d položku.</item>
+        <item quantity="few">Vyberte najviac %d položky.</item>
+        <item quantity="many">Vyberte najviac %d položky.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Vyberte aspoň %d položiek.</item>
+        <item quantity="one">Vyberte aspoň %d položku.</item>
+        <item quantity="few">Vyberte aspoň %d položky.</item>
+        <item quantity="many">Vyberte aspoň %d položky.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Vyberte položky v %d-dňovom rozsahu.</item>
+        <item quantity="one">Vyberte položky v %d-dňovom rozsahu.</item>
+        <item quantity="few">Vyberte položky v %d-dňovom rozsahu.</item>
+        <item quantity="many">Vyberte položky v %d-dňovom rozsahu.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">Bolo pridaných %d položiek</item>
+        <item quantity="one">Bola pridaná %d položka</item>
+        <item quantity="few">Boli pridané %d položky</item>
+        <item quantity="many">%d items added</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">Pred %d dňami</item>
+        <item quantity="one">Pred %d dňom</item>
+        <item quantity="few">Pred %d dňami</item>
+        <item quantity="many">Pred niekoľkými (%d) dňami</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">pred %d hodinami</item>
+        <item quantity="one">pred %d hodinou</item>
+        <item quantity="few">pred %d hodinami</item>
+        <item quantity="many">pred niekoľkými hodinami (%d)</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d týž.</item>
+        <item quantity="one">%d týž.</item>
+        <item quantity="few">%d týž.</item>
+        <item quantity="many">%d týž.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">pred %d týždňami</item>
+        <item quantity="one">pred %d týždňom</item>
+        <item quantity="few">pred %d týždňami</item>
+        <item quantity="many">pred niekoľkými týždňami (%d)</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">pred %d minútami</item>
+        <item quantity="one">pred %d minútou</item>
+        <item quantity="few">pred %d minútami</item>
+        <item quantity="many">pred niekoľkými minútami (%d)</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+        <item quantity="few">%d d.</item>
+        <item quantity="many">%d d.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred %d dňom</item>
+        <item quantity="few">pred %d dňami</item>
+        <item quantity="many">pred niekoľkými dňami (%d)</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d položiek bude odstránených zo zariadenia. Buďte bez obáv, zostanú vo Fotkách Google.</item>
+        <item quantity="one">%1$d položka bude odstránená zo zariadenia. Buďte bez obáv, zostane vo Fotkách Google.</item>
+        <item quantity="few">%1$d položky budú odstránené zo zariadenia. Buďte bez obáv, zostanú vo Fotkách Google.</item>
+        <item quantity="many">"%1$d items will be removed from your device. Don't worry, they will remain in Google Photos."</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Odstrániť zo zariadenia %1$d položiek</item>
+        <item quantity="one">Odstrániť zo zariadenia %1$d položku</item>
+        <item quantity="few">Odstrániť zo zariadenia %1$d položky</item>
+        <item quantity="many">Remove %1$d items from device</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Odstráňte %1$d  fotiek a videí zo zariadenia</item>
+        <item quantity="one">Odstráňte %1$d fotku alebo video zo zariadenia</item>
+        <item quantity="few">Odstráňte %1$d fotky a videá zo zariadenia</item>
+        <item quantity="many">Remove %1$d photos &amp; videos from device</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Odstraňuje sa %1$d pôvodných fotiek a videí</item>
+        <item quantity="one">Odstraňuje sa %1$d pôvodná fotka alebo video</item>
+        <item quantity="few">Odstraňujú sa %1$d pôvodné fotky a videá</item>
+        <item quantity="many">Removing %1$d original photos &amp; videos</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">%d položky</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d nových kariet</item>
+        <item quantity="one">1 nová karta</item>
+        <item quantity="few">%d nové karty</item>
+        <item quantity="many">%d nových kariet</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">Bolo pridaných %d položiek</item>
+        <item quantity="one">Bola pridaná %d položka</item>
+        <item quantity="few">Boli pridané %d položky</item>
+        <item quantity="many">%d items added</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d noviniek</item>
+        <item quantity="one">%1$d novinka</item>
+        <item quantity="few">%1$d novinky</item>
+        <item quantity="many">%1$d updates</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d komentárov</item>
+        <item quantity="one">%1$d komentár</item>
+        <item quantity="few">%1$d komentáre</item>
+        <item quantity="many">Niekoľko (%1$d) komentárov</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Položky sa ukladajú do knižnice…</item>
+        <item quantity="one">Položka sa ukladá do knižnice…</item>
+        <item quantity="few">Položky sa ukladajú do knižnice…</item>
+        <item quantity="many">Položky sa ukladajú do knižnice…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">Bolo pridaných %d položiek</item>
+        <item quantity="one">Bola pridaná %d položka</item>
+        <item quantity="few">Boli pridané %d položky</item>
+        <item quantity="many">%d items added</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Môžete pridať už len %d ďalších položiek.</item>
+        <item quantity="one">Môžete pridať už len %d ďalšiu položku.</item>
+        <item quantity="few">Môžete pridať už len %d ďalšie položky.</item>
+        <item quantity="many">Môžete pridať už len niekoľko (%d) ďalších položiek.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Odstránenie priečinka a %d položiek v ňom</item>
+        <item quantity="one">Odstránenie priečinka a %d položky v ňom</item>
+        <item quantity="few">Odstránenie priečinka a %d položiek v ňom</item>
+        <item quantity="many">Odstránenie priečinka a niekoľkých (%d) položiek v ňom</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Odstrániť zo zariadenia (%d)</item>
+        <item quantity="one">Odstrániť zo zariadenia (%d)</item>
+        <item quantity="few">Odstrániť zo zariadenia (%d)</item>
+        <item quantity="many">Odstrániť zo zariadenia (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Pri kopírovaní %d položiek došlo k problému</item>
+        <item quantity="one">Pri kopírovaní %d položky došlo k problému</item>
+        <item quantity="few">Pri kopírovaní %d položiek došlo k problému</item>
+        <item quantity="many">Pri kopírovaní niekoľkých (%d) položiek došlo k problému</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d položiek bolo skopírovaných</item>
+        <item quantity="one">%d položka bola skopírovaná</item>
+        <item quantity="few">%d položky boli skopírované</item>
+        <item quantity="many">Niekoľko (%d) položiek bolo skopírovaných</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Pri presúvaní %d položiek došlo k problému</item>
+        <item quantity="one">Pri presúvaní %d položky došlo k problému</item>
+        <item quantity="few">Pri presúvaní %d položiek došlo k problému</item>
+        <item quantity="many">Pri presúvaní niekoľkých (%d) položiek došlo k problému</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d položiek bolo presunutých</item>
+        <item quantity="one">%d položka bola presunutá</item>
+        <item quantity="few">%d položky boli presunuté</item>
+        <item quantity="many">Niekoľko (%d) položiek bolo presunutých</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Pridať do albumu zdieľaného s(o) %1$d ľuďmi?</item>
+        <item quantity="one">Pridať do albumu zdieľaného s %1$d osobou?</item>
+        <item quantity="few">Pridať do albumu zdieľaného s(o) %1$d ľuďmi?</item>
+        <item quantity="many">Pridať do albumu zdieľaného s(o) %1$d ľuďmi?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Pridať do albumu zdieľaného s používateľom %1$s a %2$d ďalšími?</item>
+        <item quantity="one">Pridať do albumu zdieľaného s používateľom %1$s a %2$d ďalším?</item>
+        <item quantity="few">Pridať do albumu zdieľaného s používateľom %1$s a %2$d ďalšími?</item>
+        <item quantity="many">Pridať do albumu zdieľaného s používateľom %1$s a %2$d ďalšími?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Pridať do albumu zdieľaného s používateľmi %1$s, %2$s a %3$d ďalšími?</item>
+        <item quantity="one">Pridať do albumu zdieľaného s používateľmi %1$s, %2$s a %3$d ďalším?</item>
+        <item quantity="few">Pridať do albumu zdieľaného s používateľmi %1$s, %2$s a %3$d ďalšími?</item>
+        <item quantity="many">Pridať do albumu zdieľaného s používateľmi %1$s, %2$s a %3$d ďalšími?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Odoslať používateľovi %1$s a %2$d ďalším?</item>
+        <item quantity="one">Odoslať používateľovi %1$s a %2$d ďalšiemu?</item>
+        <item quantity="few">Odoslať používateľovi %1$s a %2$d ďalším?</item>
+        <item quantity="many">Odoslať používateľovi %1$s a %2$d ďalším?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Odoslať používateľom %1$s, %2$s a %3$d ďalším?</item>
+        <item quantity="one">Odoslať používateľom %1$s, %2$s a %3$d ďalšiemu?</item>
+        <item quantity="few">Odoslať používateľom %1$s, %2$s a %3$d ďalším?</item>
+        <item quantity="many">Odoslať používateľom %1$s, %2$s a %3$d ďalším?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Fotky %d ľudí</item>
+        <item quantity="one">Fotky %d osoby</item>
+        <item quantity="few">Fotky %d ľudí</item>
+        <item quantity="many">Fotky niekoľkých (%d) ľudí</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Fotky %d vybratých tvárí</item>
+        <item quantity="one">Fotky %d vybratej tváre</item>
+        <item quantity="few">Fotky %d vybratých tvárí</item>
+        <item quantity="many">Fotky niekoľkých (%d) vybratých tvárí</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d vybratých</item>
+        <item quantity="one">%d vybratá</item>
+        <item quantity="few">%d vybraté</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">Bolo vybratých %d tvárí</item>
+        <item quantity="one">Bola vybratá %d tvár</item>
+        <item quantity="few">Boli vybraté %d tváre</item>
+        <item quantity="many">Bolo vybratých niekoľko (%d) tvárí</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Fotky %1$d vybratých tvárí od %2$s</item>
+        <item quantity="one">Fotky %1$d vybratej tváre od %2$s</item>
+        <item quantity="few">Fotky %1$d vybratých tvárí od %2$s</item>
+        <item quantity="many">Fotky niekoľkých (%1$d) vybratých tvárí od %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Fotky %d vybratých tvárí</item>
+        <item quantity="one">Fotky %d vybratej tváre</item>
+        <item quantity="few">Fotky %d vybratých tvárí</item>
+        <item quantity="many">Fotky niekoľkých (%d) vybratých tvárí</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">Bolo odstránených %1$d fotiek</item>
+        <item quantity="one">Bola odstránená %1$d fotka</item>
+        <item quantity="few">Boli odstránené %1$d fotky</item>
+        <item quantity="many">%1$d photos removed</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Vyberte len %d ľudí</item>
+        <item quantity="one">Vyberte len %d osobu</item>
+        <item quantity="few">Vyberte len %d ľudí</item>
+        <item quantity="many">Vyberte len niekoľko (%d) ľudí</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d strán navyše</item>
+        <item quantity="one">%d strana navyše</item>
+        <item quantity="few">%d strany navyše</item>
+        <item quantity="many">%d strany navyše</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d strán</item>
+        <item quantity="one">%d strana</item>
+        <item quantity="few">%d strany</item>
+        <item quantity="many">%d strany</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Pred nákupom treba pridať ešte %d fotiek</item>
+        <item quantity="one">Pred nákupom treba pridať ešte %d fotku</item>
+        <item quantity="few">Pred nákupom treba pridať ešte %d fotky</item>
+        <item quantity="many">Add %d more photos to buy</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">Bolo pridaných %d fotiek</item>
+        <item quantity="one">Bola pridaná %d fotka</item>
+        <item quantity="few">Boli pridané %d fotky</item>
+        <item quantity="many">%d photos added</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Fotky mohli byť odstránené alebo sa mohli prestať zdieľať</item>
+        <item quantity="one">Fotka mohla byť odstránená alebo sa mohla prestať zdieľať</item>
+        <item quantity="few">Fotky mohli byť odstránené alebo sa mohli prestať zdieľať</item>
+        <item quantity="many">Fotky mohli byť odstránené alebo sa mohli prestať zdieľať</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d fotiek už nie je k dispozícii</item>
+        <item quantity="one">%d fotka už nie je k dispozícii</item>
+        <item quantity="few">%d fotky už nie sú k dispozícii</item>
+        <item quantity="many">Niekoľko (%d) fotiek už nie je k dispozícii</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">Bolo odstránených %d fotiek</item>
+        <item quantity="one">Bola odstránená %d fotka</item>
+        <item quantity="few">Boli odstránené %d fotky</item>
+        <item quantity="many">%d photos removed</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d strán navyše</item>
+        <item quantity="one">%d strana navyše</item>
+        <item quantity="few">%d strany navyše</item>
+        <item quantity="many">%d strany navyše</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d strán</item>
+        <item quantity="one">%d strana</item>
+        <item quantity="few">%d strany</item>
+        <item quantity="many">%d strany</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Vytlačiť možno iba %d fotiek, </item>
+        <item quantity="one">Vytlačiť možno iba %d fotku, </item>
+        <item quantity="few">Vytlačiť možno iba %d fotky, </item>
+        <item quantity="many">Vytlačiť možno iba niekoľko (%d) fotiek, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">bolo vám navrhnutých %d fotiek</item>
+        <item quantity="one">bola vám navrhnutá %d fotka</item>
+        <item quantity="few">boli vám navrhnuté %d fotky</item>
+        <item quantity="many">bolo vám navrhnutých niekoľko (%d) fotiek</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d navrhovaných fotiek</item>
+        <item quantity="one">%d navrhovaná fotka</item>
+        <item quantity="few">%d navrhované fotky</item>
+        <item quantity="many">Niekoľko (%d) navrhovaných fotiek</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">fotiek alebo videí</item>
+        <item quantity="one">fotku alebo video</item>
+        <item quantity="few">fotky alebo videá</item>
+        <item quantity="many">fotky alebo videa</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">fotiek</item>
+        <item quantity="one">fotku</item>
+        <item quantity="few">fotky</item>
+        <item quantity="many">fotky</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">videí</item>
+        <item quantity="one">video</item>
+        <item quantity="few">videá</item>
+        <item quantity="many">videa</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">Našlo sa %d zvieratiek</item>
+        <item quantity="one">Našlo sa %d zvieratko</item>
+        <item quantity="few">Našli sa %d zvieratká</item>
+        <item quantity="many">%d pets found</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Plus %1$d miest vo vašich fotkách</item>
+        <item quantity="one">Plus %1$d miesto vo vašich fotkách</item>
+        <item quantity="few">Plus %1$d miesta vo vašich fotkách</item>
+        <item quantity="many">Plus niekoľko (%1$d) miest vo vašich fotkách</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Plus %1$d vecí vo vašich fotkách</item>
+        <item quantity="one">Plus %1$d vec vo vašich fotkách</item>
+        <item quantity="few">Plus %1$d veci vo vašich fotkách</item>
+        <item quantity="many">Plus niekoľko (%1$d) vecí vo vašich fotkách</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">A %1$d miest a vecí na vašich fotkách</item>
+        <item quantity="one">A %1$d miesta a veci na vašich fotkách</item>
+        <item quantity="few">A %1$d miesta a veci na vašich fotkách</item>
+        <item quantity="many">Plus %1$d places &amp; things in your photos</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">Bolo nájdených %1$d ľudí</item>
+        <item quantity="one">Bola nájdená %1$d osoba</item>
+        <item quantity="few">Boli nájdení %1$d ľudia</item>
+        <item quantity="many">Bolo nájdených niekoľko (%1$d) ľudí</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">Bolo nájdených %1$d miest</item>
+        <item quantity="one">Bolo nájdené %1$d miesto</item>
+        <item quantity="few">Boli nájdené %1$d miesta</item>
+        <item quantity="many">Bolo nájdených niekoľko (%1$d) miest</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">Bolo nájdených %1$d vecí</item>
+        <item quantity="one">Bola nájdená %1$d vec</item>
+        <item quantity="few">Boli nájdené %1$d veci</item>
+        <item quantity="many">Bolo nájdených niekoľko (%1$d) vecí</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d fotiek</item>
+        <item quantity="one">%d fotka</item>
+        <item quantity="few">%d fotky</item>
+        <item quantity="many">Niekoľko fotiek (%d)</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">A ešte %1$d miest</item>
+        <item quantity="one">A ešte %1$d miesto</item>
+        <item quantity="few">A ešte %1$d miesta</item>
+        <item quantity="many">A ešte niekoľko (%1$d) miest</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">A ešte %1$d vecí</item>
+        <item quantity="one">A ešte %1$d vec</item>
+        <item quantity="few">A ešte %1$d veci</item>
+        <item quantity="many">A ešte niekoľko (%1$d) vecí</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">A ešte %1$d vecí a miest</item>
+        <item quantity="one">A ešte %1$d vec a miesto</item>
+        <item quantity="few">A ešte %1$d veci a miesta</item>
+        <item quantity="many">A ešte niekoľko (%1$d) vecí a miest</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Pozrite sa na %1$d ľudí z vašich fotiek</item>
+        <item quantity="one">Pozrite sa na %1$d osobu z vašich fotiek</item>
+        <item quantity="few">Pozrite sa na %1$d ľudí z vašich fotiek</item>
+        <item quantity="many">Pozrite sa na niekoľko (%1$d) ľudí z vašich fotiek</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">Bolo nájdených %1$d ľudí</item>
+        <item quantity="one">Bola nájdená %1$d osoba</item>
+        <item quantity="few">Boli nájdení %1$d ľudia</item>
+        <item quantity="many">Bolo nájdených niekoľko (%1$d) ľudí</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">Bolo nájdených %1$d miest</item>
+        <item quantity="one">Bolo nájdené %1$d miesto</item>
+        <item quantity="few">Boli nájdené %1$d miesta</item>
+        <item quantity="many">Bolo nájdených niekoľko (%1$d) miest</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">Bolo nájdených %1$d vecí</item>
+        <item quantity="one">Bola nájdená %1$d vec</item>
+        <item quantity="few">Boli nájdené %1$d veci</item>
+        <item quantity="many">Bolo nájdených niekoľko (%1$d) vecí</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Pozrite sa na %1$d vecí z vašich fotiek</item>
+        <item quantity="one">Pozrite sa na %1$d vec z vašich fotiek</item>
+        <item quantity="few">Pozrite sa na %1$d veci z vašich fotiek</item>
+        <item quantity="many">Pozrite sa na niekoľko (%1$d) vecí z vašich fotiek</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">Bolo vybratých %1$d položiek</item>
+        <item quantity="one">Bola vybratá %1$d položka</item>
+        <item quantity="few">Boli vybraté %1$d položky</item>
+        <item quantity="many">Boli vybraté položky (%1$d)</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d vybratých položiek</item>
+        <item quantity="one">%d vybratá položka</item>
+        <item quantity="few">%d vybraté položky</item>
+        <item quantity="many">Niekoľko (%d) vybratých položiek</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d položiek bolo pridaných do albumu</item>
+        <item quantity="one">%d položka bola pridaná do albumu</item>
+        <item quantity="few">%d položky boli pridané do albumu</item>
+        <item quantity="many">Niekoľko položiek (%d) bolo pridaných do albumu</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Nahráva sa %d položiek</item>
+        <item quantity="one">Nahráva sa %d položka</item>
+        <item quantity="few">Nahrávajú sa %d položky</item>
+        <item quantity="many">Uploading %d items</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d položiek bude nahratých po pripojení</item>
+        <item quantity="one">%d položka bude nahratá po pripojení</item>
+        <item quantity="few">%d položky budú nahraté po pripojení</item>
+        <item quantity="many">Niekoľko (%d) položiek bude nahratých po pripojení</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s a %2$d ďalších</item>
+        <item quantity="one">%1$s a %2$d ďalší</item>
+        <item quantity="few">%1$s a %2$d ďalší</item>
+        <item quantity="many">%1$s &amp; %2$d others</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d položiek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="few">%d položky</item>
+        <item quantity="many">Niekoľko (%d) položiek</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Chcete pridať %d súvisiacich fotiek?</item>
+        <item quantity="one">Chcete pridať %d súvisiacu fotku?</item>
+        <item quantity="few">Chcete pridať %d súvisiace fotky?</item>
+        <item quantity="many">Add %d related photos?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d nových fotiek</item>
+        <item quantity="one">%1$d nová fotka</item>
+        <item quantity="few">%1$d nové fotky</item>
+        <item quantity="many">%1$d new photos</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s pridal(a) %2$d nových fotiek</item>
+        <item quantity="one">%1$s pridal(a) %2$d novú fotku</item>
+        <item quantity="few">%1$s pridal(a) %2$d nové fotky</item>
+        <item quantity="many">%1$s added %2$d new photos</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">Na vašich fotkách bolo nájdených %1$d osôb</item>
+        <item quantity="one">Na vašich fotkách bola nájdená %1$d osoba</item>
+        <item quantity="few">Na vašich fotkách boli nájdené %1$d osoby</item>
+        <item quantity="many">Na vašich fotkách bolo nájdených niekoľko (%1$d) osôb</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">Na vašich fotkách bolo nájdených %1$d miest</item>
+        <item quantity="one">Na vašich fotkách bolo nájdené %1$d miesto</item>
+        <item quantity="few">Na vašich fotkách boli nájdené %1$d miesta</item>
+        <item quantity="many">Na vašich fotkách bolo nájdených niekoľko (%1$d) miest</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">Na vašich fotkách bolo nájdených %1$d vecí</item>
+        <item quantity="one">Na vašich fotkách bola nájdená %1$d vec</item>
+        <item quantity="few">Na vašich fotkách boli nájdené %1$d veci</item>
+        <item quantity="many">Na vašich fotkách bolo nájdených niekoľko (%1$d) vecí</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Položky sa nedajú odstrániť</item>
+        <item quantity="one">Položka sa nedá odstrániť</item>
+        <item quantity="few">Položky sa nedajú odstrániť</item>
+        <item quantity="many">Položky sa nedajú odstrániť</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d položiek sa nedá natrvalo odstrániť</item>
+        <item quantity="one">%d položka sa nedá odstrániť</item>
+        <item quantity="few">%d položky sa nedajú odstrániť</item>
+        <item quantity="many">Niekoľko (%d) položiek sa nedá natrvalo odstrániť</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d položiek sa nedá natrvalo odstrániť</item>
+        <item quantity="one">%d položka sa nedá natrvalo odstrániť</item>
+        <item quantity="few">%d položky sa nedajú natrvalo odstrániť</item>
+        <item quantity="many">Niekoľko (%d) položiek sa nedá natrvalo odstrániť</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Natrvalo sa odstraňujú položky…</item>
+        <item quantity="one">Natrvalo sa odstraňuje položka…</item>
+        <item quantity="few">Natrvalo sa odstraňujú položky…</item>
+        <item quantity="many">Natrvalo sa odstraňujú položky…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d položiek bolo natrvalo odstránených</item>
+        <item quantity="one">%d položka bola natrvalo odstránená</item>
+        <item quantity="few">%d položky boli natrvalo odstránené</item>
+        <item quantity="many">Niekoľko (%d) položiek bolo natrvalo odstránených</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d položiek bolo odstránených zo zariadenia</item>
+        <item quantity="one">%d položka bola odstránená zo zariadenia</item>
+        <item quantity="few">%d položky boli odstránené zo zariadenia</item>
+        <item quantity="many">Niekoľko (%d) položiek bolo odstránených zo zar.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Obnovujú sa položky…</item>
+        <item quantity="one">Obnovuje sa položka…</item>
+        <item quantity="few">Obnovujú sa položky…</item>
+        <item quantity="many">Obnovujú sa položky…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d položiek sa nedá obnoviť</item>
+        <item quantity="one">%d položka sa nedá obnoviť</item>
+        <item quantity="few">%d položky sa nedajú obnoviť</item>
+        <item quantity="many">Niekoľko (%d) položiek sa nedá obnoviť</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d položiek bolo obnovených z koša</item>
+        <item quantity="one">%d položka bola obnovená z koša</item>
+        <item quantity="few">%d položky boli obnovené z koša</item>
+        <item quantity="many">Niekoľko (%d) položiek bolo obnovených z koša</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Natrvalo odstrániť položky?</item>
+        <item quantity="one">Natrvalo odstrániť položku?</item>
+        <item quantity="few">Natrvalo odstrániť položky?</item>
+        <item quantity="many">Natrvalo odstrániť položky?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Odstrániť %d položiek?</item>
+        <item quantity="one">Odstrániť %d položku?</item>
+        <item quantity="few">Odstrániť %d položky?</item>
+        <item quantity="many">Odstrániť %d položky?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Natrvalo odstrániť %d položiek</item>
+        <item quantity="one">Natrvalo odstrániť %d položku</item>
+        <item quantity="few">Natrvalo odstrániť %d položky</item>
+        <item quantity="many">Natrvalo odstrániť niekoľko (%d) položiek</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Platnosť tejto verzie uplynie o %d dní. Ak chcete pokračovať v používaní Fotiek Google, aktualizujte si aplikáciu.</item>
+        <item quantity="one">Platnosť tejto verzie uplynie o 1 deň. Ak chcete pokračovať v používaní Fotiek Google, aktualizujte si aplikáciu.</item>
+        <item quantity="few">Platnosť tejto verzie uplynie o %d dni. Ak chcete pokračovať v používaní Fotiek Google, aktualizujte si aplikáciu.</item>
+        <item quantity="many">Platnosť tejto verzie uplynie o %d dňa. Ak chcete pokračovať v používaní Fotiek Google, aktualizujte si aplikáciu.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Nahráva sa %d položiek</item>
+        <item quantity="one">Nahráva sa %d položka</item>
+        <item quantity="few">Nahrávajú sa %d položky</item>
+        <item quantity="many">Uploading %d items</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d položiek bude nahraných po pripojení</item>
+        <item quantity="one">%d položka bude nahraná po pripojení</item>
+        <item quantity="few">%d položky budú nahrané po pripojení</item>
+        <item quantity="many">%d items will upload when connected</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d položiek bude nahraných po pripojení k sieti Wi-Fi</item>
+        <item quantity="one">%d položka bude nahraná po pripojení k sieti Wi-Fi</item>
+        <item quantity="few">%d položky budú nahrané po pripojení k sieti Wi-Fi</item>
+        <item quantity="many">%d items will upload when connected to Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Na zálohovanie týchto položiek sa použije približne %s dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+        <item quantity="one">Na zálohovanie tejto položky sa použije približne %s dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+        <item quantity="few">Na zálohovanie týchto položiek sa použije približne %s dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+        <item quantity="many">Na zálohovanie týchto položiek sa použije približne %s dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Pri zálohovaní týchto položiek sa spotrebuje časť vašich dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+        <item quantity="one">Pri zálohovaní tejto položky sa spotrebuje časť vašich dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+        <item quantity="few">Pri zálohovaní týchto položiek sa spotrebuje časť vašich dát. Ak sa chcete vyhnúť spotrebe dát, pripojte sa k sieti Wi‑Fi.</item>
+        <item quantity="many">Backing up these items will use some of your data. Connect to Wi‑Fi to avoid using data.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Nahráva sa… Zostáva %d súborov</item>
+        <item quantity="one">Nahráva sa… Zostáva %d súbor</item>
+        <item quantity="few">Nahráva sa… Zostávajú %d súbory</item>
+        <item quantity="many">Nahráva sa… Zostáva niekoľko (%d) súborov</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d súborov</item>
+        <item quantity="one">%d súbor</item>
+        <item quantity="few">%d súbory</item>
+        <item quantity="many">%d súboru</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s fotiek</item>
+        <item quantity="one">%s fotka</item>
+        <item quantity="few">%s fotky</item>
+        <item quantity="many">%s fotiek</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s položiek</item>
+        <item quantity="one">%s položka</item>
+        <item quantity="few">%s položky</item>
+        <item quantity="many">%s položiek</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s videí</item>
+        <item quantity="one">%s video</item>
+        <item quantity="few">%s videá</item>
+        <item quantity="many">%s videí</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Výber fotiek</item>
+        <item quantity="one">Výber fotky</item>
+        <item quantity="few">Výber fotiek</item>
+        <item quantity="many">Výber fotiek</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Vyberte položky</item>
+        <item quantity="one">Vyberte položku</item>
+        <item quantity="few">Vyberte položky</item>
+        <item quantity="many">Select items</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Výber videí</item>
+        <item quantity="one">Výber videa</item>
+        <item quantity="few">Výber videí</item>
+        <item quantity="many">Výber videí</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">a %d ďalších osôb</item>
+        <item quantity="one">a %d ďalšia osoba</item>
+        <item quantity="few">a %d ďalšie osoby</item>
+        <item quantity="many">and %d others</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d spôsobov kontaktovania</item>
+        <item quantity="one">%1$s. %2$d spôsob kontaktovania</item>
+        <item quantity="few">%1$s. %2$d spôsoby kontaktovania</item>
+        <item quantity="many">%1$s. %2$d contact methods</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d členov</item>
+        <item quantity="one">%d člen</item>
+        <item quantity="few">%d členovia</item>
+        <item quantity="many">Niekoľko (%d) členov</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d vybratých spôsobov</item>
+        <item quantity="one">%d vybratý spôsob</item>
+        <item quantity="few">%d vybraté spôsoby</item>
+        <item quantity="many">%d selected</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">Bolo vybratých %1$d z %2$d členov</item>
+        <item quantity="one">Bol vybratý %1$d člen z %2$d</item>
+        <item quantity="few">Boli vybratí %1$d z %2$d členov</item>
+        <item quantity="many">Bolo vybratých niekoľko (%1$d) z %2$d členov</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">Bolo vybratých %d členov</item>
+        <item quantity="one">Bol vybratý %d člen</item>
+        <item quantity="few">Boli vybratí %d členovia</item>
+        <item quantity="many">Bolo vybratých niekoľko (%d) členov</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Kôš vášho zariadenia je plný. Ak tieto položky odstránite, natrvalo budú odstránené z vášho zariadenia aj účtu.</item>
+        <item quantity="one">Kôš vášho zariadenia je plný. Ak túto položku odstránite, natrvalo bude odstránená z vášho zariadenia aj účtu.</item>
+        <item quantity="few">Kôš vášho zariadenia je plný. Ak tieto položky odstránite, natrvalo budú odstránené z vášho zariadenia aj účtu.</item>
+        <item quantity="many">Kôš vášho zariadenia je plný. Ak tieto položky odstránite, natrvalo budú odstránené z vášho zariadenia aj účtu.</item>
+    </plurals>
+</resources>

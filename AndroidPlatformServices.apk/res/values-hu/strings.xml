@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="account_blocked_title">Fiók letiltva</string>
+    <string name="account_level_title">Fiókművelet szükséges</string>
+    <string name="account_removed_notification_text">A(z) %1$s fiók el lett távolítva, mert az eszközkezelés nem lett befejezve</string>
+    <string name="account_removed_notification_title">Fiók eltávolítva</string>
+    <string name="android_privacy_policy_title">További adatvédelmi irányelvek</string>
+    <string name="app_level_title">Bejelentkezési kérelem</string>
+    <string name="app_level_title_secondary">%s bejelentkezési kérelme</string>
+    <string name="audience_selection_done">Kész</string>
+    <string name="auth_account_already_has_gmail">Ennél a fióknál már be van állítva a Gmail.</string>
+    <string name="auth_account_content_provider_label">A Google-fiók adatai</string>
+    <string name="auth_account_module_display_name">Google-fiók</string>
+    <string name="auth_account_removed_default_description">Az eszközkezelés beállítása nem fejeződött be. %1$s</string>
+    <string name="auth_account_removed_default_title">Beállítás megszakítva</string>
+    <string name="auth_account_removed_dm_bad_result_description">Az eszközkezelés beállítását nem lehetett befejezni. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Domainje megköveteli a mobileszközök kezelését, de a funkció nem támogatott ezen az eszközön. Próbáljon meg másik fiókot használni.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Az eszközkezelés nem támogatott</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Az eszközkezelés telepítése során hiba történt. %1$s</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Beállítás megszakítva</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Csak egy kezelt fiók engedélyezett ezen az eszközön. Kérdéseivel forduljon a szervezete rendszergazdájához.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Már létezik kezelt fiók</string>
+    <string name="auth_account_settings_title">Fiókbeállítások</string>
+    <string name="auth_account_setup_title">Google-fiók</string>
+    <string name="auth_account_start_over_and_signin_again">Kezdje elölről, és jelentkezzen be újra.</string>
+    <string name="auth_account_state_sync_title">Fiókállapot szinkronizálása</string>
+    <string name="auth_allow_external_site_access">Legyen folyamatos hozzáférése a(z) %s adataihoz.</string>
+    <string name="auth_app_permission_ok_footnote">Ha folytatja, engedélyezi az alkalmazás és a Google számára, hogy felhasználják az Önnel kapcsolatos adatokat a saját Általános Szerződési Feltételeiknek és adatvédelmi irányelveiknek megfelelően.</string>
+    <string name="auth_cant_add_work_account_message">Ezt a típusú fiókot az Ön szervezete kezeli.</string>
+    <string name="auth_captcha_instructions">Írja be az itt látható szöveget:</string>
+    <string name="auth_captcha_title">Írja be a CAPTCHA-kódot</string>
+    <string name="auth_common_downloading">Letöltés…</string>
+    <string name="auth_common_go_back">Visszalépés</string>
+    <string name="auth_common_switch_accounts">Váltás fiókok között</string>
+    <string name="auth_communicating_message">Eszköze kapcsolatba lép a Google rendszerével azért, hogy információkat mentsen az Ön fiókjába. Ez akár 5 percig is eltarthat.</string>
+    <string name="auth_confirm_creds_sync_title">Hitelesítési adatok állapota</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Zárolás és igazolás</string>
+    <string name="auth_d2d_source_copy_notice">Átmásolja a fiókokat és adatokat másik eszközére?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Az igazolást követően a rendszer bekapcsolja a Bluetooth-t, hogy az eszközök kommunikálni tudjanak egymással.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Az igazolást követően az eszközök Bluetooth-on keresztül fognak kapcsolódni.</string>
+    <string name="auth_d2d_source_lock_notice">A folytatáshoz a képernyő zárolva lesz, és az igazolási művelet részeként fel kell majd oldania azt.</string>
+    <string name="auth_d2d_source_no_accounts_toast">A Tap &amp; Go nem használható, mert nincs fiók ezen az eszközön.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">A Tap &amp; Go nem használható, mert a Bluetooth nem áll rendelkezésre eszközén.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">A rendszer bekapcsolja a Bluetooth-t, hogy az eszközök kommunikálhassanak egymással.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Ehhez Bluetooth szükséges.</string>
+    <string name="auth_d2d_source_notification_title">A Tap &amp; Go művelet befejeződött</string>
+    <string name="auth_d2d_source_restricted_user_toast">A Koppintás és visszaállítás nem működik korlátozott felhasználói profilból.</string>
+    <string name="auth_d2d_source_title">Fiókok visszaállítása</string>
+    <string name="auth_d2d_source_unknown_device_name">Ismeretlen eszköz</string>
+    <string name="auth_d2d_target_tap_progress_message">A folytatáshoz koppintson a másik eszközön az OK lehetőségre</string>
+    <string name="auth_d2d_target_unlock_progress_message">Ellenőrizze másik eszközét</string>
+    <string name="auth_d2d_target_wait_progress_message">Fiókok és adatok lekérése…</string>
+    <string name="auth_device_management_download_app_icon">%s alkalmazásikon</string>
+    <string name="auth_device_management_download_description">A fiókhoz mobileszköz-kezelésre van szükség. Telepítse a(z) ^1 alkalmazást a fiók használatához szükséges biztonsági irányelvek betartatásához.</string>
+    <string name="auth_device_management_download_description_kids">Ha szeretné hozzáadni a fiókot ehhez az eszközhöz, előbb telepítse a következőt: <b>^1</b>". A(z) 
+
+^1 alkalmazás segít Önnek beállítani ezt az eszközt gyermeke számára."</string>
+    <string name="auth_device_management_download_failed_message">Az alkalmazás nélkül is folytathatja a beállítást</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Az eszközkezelő telepítése nem sikerült. A fiókot eltávolítjuk. Próbálkozzon újra később.</string>
+    <string name="auth_device_management_download_failed_title">Sikertelen alkalmazásletöltés</string>
+    <string name="auth_device_management_download_not_updated_message">A jelenlegi verzióval is folytathatja a beállítást</string>
+    <string name="auth_device_management_download_paused">Szüneteltetve</string>
+    <string name="auth_device_management_download_progress">Letöltés…</string>
+    <string name="auth_device_management_download_skip_message">A fiók eszközkezelést igényel. Folytatja nélküle?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">A fiók hozzáadásához eszközkezelésre van szükség. Szeretné újrakezdeni másik fiókkal?</string>
+    <string name="auth_device_management_go_back">Visszalépés</string>
+    <string name="auth_device_management_screenlock_description">Ha szeretne hozzáférni a munkahelyi fiókjához ezen az eszközön, be kell állítania egy lezárási képernyőt. Ezt a szervezete mobileszközökre érvényes házirendje írja elő.</string>
+    <string name="auth_device_management_screenlock_skip_message">A fiók használatához be kell állítani egy képernyőzárat. Szeretné újrakezdeni egy másik fiókkal?</string>
+    <string name="auth_device_management_setup_work_profile_description">"A munkaprofil elkülöníti a munkahelyi alkalmazásokat. A profilt az Ön szervezete kezeli.
+
+A beállítás befejezéséhez szüksége lesz a rendszergazdától kapott kódra. A rendszergazda kezelőeszközt tölt le és használ az Ön munkaprofiljának kezeléséhez."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"A munkaprofil elkülöníti a munkahelyi alkalmazásokat. A profilt az Ön szervezete kezeli.
+
+A rendszergazda kezelőeszközt tölt le és használ az Ön munkaprofiljának kezeléséhez."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">A munkaprofil beállítása</string>
+    <string name="auth_device_management_start_description">A fiókhoz mobileszköz-kezelésre van szükség. Ha rákoppint a Tovább lehetőségre, a(z) ^1 alkalmazás segít betartatni a fiók használatához szükséges biztonsági irányelveket.</string>
+    <string name="auth_device_management_start_description_kids">Ha szeretné hozzáadni a fiókot ehhez az eszközhöz, használja a következőt: <b>^1</b>". A(z) 
+
+^1 alkalmazás segít Önnek beállítani ezt az eszközt gyermeke számára."</string>
+    <string name="auth_device_management_title">Eszközkezelés</string>
+    <string name="auth_device_management_update_description">A fiókhoz mobileszköz-kezelésre van szükség. Ahhoz, hogy megfeleljen a fiókra vonatkozó biztonsági irányelveknek, telepítenie kell a(z) ^1 alkalmazás újabb verzióját.</string>
+    <string name="auth_device_management_update_description_kids">Ha szeretné hozzáadni a fiókot ehhez az eszközhöz, előbb telepítse a(z) <b>^1</b>" legfrissebb verzióját. A(z) 
+
+^1 alkalmazás segít Önnek beállítani ezt az eszközt gyermeke számára."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> nem használ Gmailt.</string>
+    <string name="auth_error_account_disabled">"Ez a fiók le van tiltva. 
+
+(A részletekért keresse fel egy böngészőben a http://google.com/accounts webhelyet.)"</string>
+    <string name="auth_error_account_not_verified">"Ez a fiók még nincs igazolva. Nyissa meg az e-mailt, majd kattintson a linkre a fiók igazolásához. 
+
+(A fiókadatok visszaállításához keresse fel a http://www.google.com/accounts/recovery webhelyet a számítógépén.)"</string>
+    <string name="auth_error_bad_password">A jelszó túl gyenge, vagy érvénytelen karaktereket tartalmaz. Próbálja újra.</string>
+    <string name="auth_error_bad_username">Érvénytelen felhasználónév.</string>
+    <string name="auth_error_generic_server_error">"Hiba történt a Google szervereivel való kommunikáció során. 
+
+Próbálja újra később."</string>
+    <string name="auth_error_invalid_second_factor">Használjon alkalmazásfüggő jelszót fiókja normál jelszava helyett.</string>
+    <string name="auth_error_login_failed">"A felhasználónév és jelszó nem egyezik. Próbálja újra.
+
+A fiókadatok helyreállításához látogasson el a google.com/accounts/recovery/ címre."</string>
+    <string name="auth_error_needs_browser">A fiókhozzáféréshez be kell jelentkeznie az interneten. Koppintson a Tovább gombra a böngészővel történő bejelentkezés megkezdéséhez.</string>
+    <string name="auth_error_no_network">"Nincs hálózati kapcsolat. 
+
+Ez átmeneti probléma is lehet. Próbálja újra, vagy csatlakozzon egy másik Wi-Fi-hálózathoz."</string>
+    <string name="auth_error_not_logged_in">A felhasználó nincs bejelentkezve.</string>
+    <string name="auth_error_username_unavailable">A felhasználónév nem érhető el.</string>
+    <string name="auth_existing_account_error_text">Már van egy ^1 fiók ezen az androidos eszközön.</string>
+    <string name="auth_existing_account_error_title">A fiók már létezik.</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Nem lehet bejelentkezni az eszközre, mert nemrég módosult a jelszó. Kérjük, várjon a módosítástól számítva 24 órát, majd próbáljon meg újra bejelentkezni.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Az eszközvédelmi funkciók nem fognak működni.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Ha az utolsó Google-fiókot is áthelyezi személyes profiljából, azzal letiltja a lopásvédelmi funkciókat. Ha később újra aktiválni szeretné azokat, hozzáadhat egy másik fiókot.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Biztos benne?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Áthelyezi a fiókot a munkaprofilba?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Ismeretlen hiba miatt nem sikerült bejelentkezni az eszközre. Kérjük, próbálkozzon másik fiókkal, vagy próbáljon meg 24 óra elteltével újra bejelentkezni.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Kérjük, jelentkezzen be az egyik tulajdonosi fiókkal ezen az eszközön</string>
+    <string name="auth_field_cant_be_blank">A mező nem lehet üres.</string>
+    <string name="auth_frp_add_account_no">Új fiók használata</string>
+    <string name="auth_frp_add_account_prompt">Az eszközön található előző Google-fiók ellenőrzése sikeres. Hozzáadhatja eszközéhez a(z) ^1 fiókot, vagy új fiókot is használhat.</string>
+    <string name="auth_frp_add_account_yes">Előző fiók felvétele</string>
+    <string name="auth_frp_device_managed_label">Ezt az eszközt beállítása szerint az Ön szervezete kezeli.</string>
+    <string name="auth_frp_download_management_app_label">A beállítás folytatásához eszközkezelő alkalmazást kell letöltenie.</string>
+    <string name="auth_frp_enter_device_credentials_label">Váltás adminisztrátori üzemmódra</string>
+    <string name="auth_frp_install_dpc_error">A kezelőalkalmazás telepítése nem sikerült. Ha kihagyja ezt a lépést, akkor az eszköz nem lesz felügyelt.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">A kezelőalkalmazás telepítése nem sikerült. Ellenőrizze a hálózati kapcsolatot, majd próbálja újra később.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Inkább a Google-fiókomat használom</string>
+    <string name="auth_frp_preadd_lkscreen_text">Eszközén visszaállították a gyári alapértékeket; az eszközt a korábban megadott titkos adatokkal oldhatja fel.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Gyárialapérték-visszaállítási védelem</string>
+    <string name="auth_frp_start_reenroll_device_title">Munkahelyi eszköz</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Nem lehet hozzáférni ehhez a fiókhoz. Győződjön meg arról, hogy eszköze betartja a szervezetnél érvényes biztonsági irányelveket. Ha továbbra is megjelenik ez a hibaüzenet, lépjen kapcsolatba a szervezet rendszergazdájával.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Fiókhiba</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Domainjén a mobileszközök kezelésére van szükség. Telepítse a Google Apps Device Policy alkalmazást a(z)  "<b>^1</b> fiók használatához szükséges biztonsági irányelvek betartatásának érdekében.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Letöltés</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" csak betűket,
+számokat és pontokat tartalmazhat."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> nem tartalmaz betűket.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> 6-nál kevesebb vagy 30-nál több karakterből áll.</string>
+    <string name="auth_gls_is_not_available">A(z) <b>^1</b> felhasználónév nem áll rendelkezésre.</string>
+    <string name="auth_gls_name_checking_info_title">Adatok ellenőrzése…</string>
+    <string name="auth_gls_sync_item_title">%s szinkronizálása</string>
+    <string name="auth_gls_third_party_activity_download_message">" A(z)  "<b>^1</b> fiókot olyan eszközhöz vagy munkaprofilhoz kell hozzáadni, amelyet szervezete felügyel. Kérjük, ennek végrehajtásához kövesse a rendszergazda utasításait.</string>
+    <string name="auth_google_title_logo">Google embléma</string>
+    <string name="auth_invalid_login_character">Érvénytelen karakter. Csak a következők engedélyezettek: 0–9, a–z, A–Z és pont (.).</string>
+    <string name="auth_invalid_password_character">Érvénytelen karakter a jelszóban.</string>
+    <string name="auth_invalid_username">A megadott szöveg nem egy érvényes felhasználónév.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Hibás jelszót adott meg, vagy a fiókja megváltozott. Írja be újra a jelszót. Ha elfelejtette jelszavát, és vissza szeretné állítani fiókját, kattintson <annotation id="help_url">ide</annotation>.</string>
+    <string name="auth_login_task_title">Bejelentkezés</string>
+    <string name="auth_login_title">E-mail-cím és jelszó beírása</string>
+    <string name="auth_minutemaid_ssl_error">"Hiba történt a következőhöz való csatlakozáskor:  %s."</string>
+    <string name="auth_network_unreliable_help">Ez lehet ideiglenes probléma, de lehet, hogy androidos eszközén nem érhető el adatszolgáltatás. Ha a probléma továbbra is fennáll, hívja az ügyfélszolgálatot.</string>
+    <string name="auth_no_network">Nincs hálózati kapcsolat.</string>
+    <string name="auth_no_network_help">Ez lehet ideiglenes probléma, de lehet, hogy androidos eszközén nem érhető el adatszolgáltatás. Próbálkozzon újra a mobil- vagy Wi-Fi hálózathoz való csatlakozást követően.</string>
+    <string name="auth_no_network_help_wifi_only">Lehet, hogy a probléma csak ideiglenes. Próbálkozzon újra, vagy csatlakozzon egy másik Wi-Fi hálózathoz.</string>
+    <string name="auth_otp_error">Hiba történt a biztonsági kód létrehozásakor.</string>
+    <string name="auth_otp_explained_paragraph">Ha elfelejtette jelszavát, vagy nem a megszokott módon jelentkezik be, fiókjának védelme érdekében a Google biztonsági kódot kérhet Öntől. Használja fel most, vagy igényeljen újat.</string>
+    <string name="auth_otp_header_message">Mikor használjam fel ezt a kódot bejelentkezéshez?</string>
+    <string name="auth_otp_no_accounts_available_message">Ezen az eszközön nincs beállítva fiók.</string>
+    <string name="auth_otp_progress_dialog_message">Biztonsági kód létrehozása.</string>
+    <string name="auth_otp_ten_digit_code_header">Biztonsági kódok</string>
+    <string name="auth_otp_ten_digit_explaination">Ha elfelejti jelszavát, vagy új eszközről vagy helyszínről jelentkezik be, akkor szükség lehet ezen kódok megadására Google-fiókja védelmének elősegítéséhez.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Ezek a kódok a küldéstől számított 15 perc múlva, illetve a felhasználás után lejárnak. A kódokat csak olyan weboldalon adja meg, amelynek URL-je így kezdődik: „https://accounts.google.com/”.</string>
+    <string name="auth_otp_ten_digit_usage_header">Mikor használhatók a kódok?</string>
+    <string name="auth_otp_ten_digits_code1">1. kód</string>
+    <string name="auth_otp_ten_digits_code2">2. kód</string>
+    <string name="auth_password">Jelszó</string>
+    <string name="auth_plus_audience_selection_description_acl">MEGOSZTÁS</string>
+    <string name="auth_plus_info_fragment_app_name">A(z) %s alkalmazás kéri:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">A(z) %2$s eszköz „%1$s” alkalmazása a következőt szeretné:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Kibővített körei</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Kijelölt körök</string>
+    <string name="auth_plus_scope_fragment_public_label">Bárki az interneten</string>
+    <string name="auth_pre_factory_reset_title">Saját Google-fiók megjegyzése</string>
+    <string name="auth_relogin_activity_title">Írja be újra a jelszót</string>
+    <string name="auth_remove_account_start_over">Újrakezdés</string>
+    <string name="auth_request_accounts_list">Megjeleníti az eszközön használt Google-fiókok listáját.</string>
+    <string name="auth_scope_more_details">További információ</string>
+    <string name="auth_server_error">Probléma merült fel a Google szervereivel való kommunikáció során.</string>
+    <string name="auth_server_error_help">Próbálja újra később.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Fiók hozzáadva</string>
+    <string name="auth_setup_wizard_account_added_description">Fiókját hozzáadtuk. Kérjük, lépjen tovább, és adja meg a Google Services-beállításokat</string>
+    <string name="auth_setup_wizard_services_activity_title">Google-szolgáltatások</string>
+    <string name="auth_setup_wizard_title">Beállításvarázsló</string>
+    <string name="auth_show_error_title">Hiba</string>
+    <string name="auth_sign_in_agreement">A belépéssel elfogadja a <annotation id="google_privacy">Google</annotation> adatvédelmi irányelveit és annak <annotation id="android_privacy">kiegészítéseit</annotation>.</string>
+    <string name="auth_sign_in_browser">Bejelentkezés böngészőn keresztül</string>
+    <string name="auth_sign_in_with_google_account_short">Bejelentkezés Google-fiókjával</string>
+    <string name="auth_submission_error_text">Hiba történt, próbálja újra.</string>
+    <string name="auth_submission_title">Sajnáljuk…</string>
+    <string name="auth_ui_activity_authenticating">Hitelesítés...</string>
+    <string name="auth_ui_activity_title">Bejelentkezés a Google-fiókba</string>
+    <string name="auth_ui_activity_title_browser_signin">Bejelentkezés</string>
+    <string name="auth_ui_add_account_title">Fiók beállítása</string>
+    <string name="auth_uncertified_notification_description"><b>Az eszközt megvásárló felhasználók:</b>"
+Az eszköz gyártója Google-tanúsítvány nélkül Google-alkalmazásokat és -szolgáltatásokat telepített előre az eszközre. Lépjen kapcsolatba az eszköz gyártójával, és kérjen tanúsítvánnyal rendelkező eszközt. További információt a g.co/AndroidCertifiedDevice oldalon talál.
+
+"<b>Licenccel nem rendelkező gyártók:</b>"
+Google-alkalmazások és -szolgáltatások terjesztéséhez Google-licencre van szükség. Jelentkezhet a g.co/AndroidGMSContact oldalon.
+
+"<b>Licencelt gyártók:</b>"
+Ha a fejlesztés során Google-alkalmazásokat szeretne használni, regisztrálja az eszközt. Ha további információra van szüksége, lépjen kapcsolatba Google üzletfejlesztési vezetőjével.
+
+"<b>Egyedi ROM-felhasználók:</b>"
+Ha egyedi ROM-mal kívánja használni a Google-alkalmazásokat és -szolgáltatásokat, regisztrálja az eszközt. További információt a g.co/apps-custom oldalon talál."</string>
+    <string name="auth_uncertified_notification_title">Az eszköz nem rendelkezik Google-tanúsítvánnyal</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_work_authenticator_label">Kezelt fiók</string>
+    <string name="authorization_dialog">Hitelesítési párbeszédpanel</string>
+    <string name="chrome_privacy_title">Chrome -- Adatvédelmi közlemény</string>
+    <string name="chrome_tos_title">Chrome - Általános Szerződési Feltételek</string>
+    <string name="close_button_label">Bezárás</string>
+    <string name="common_accept">Elfogadás</string>
+    <string name="common_add">Hozzáadás</string>
+    <string name="common_add_account_label">Fiók hozzáadása</string>
+    <string name="common_ads_settings_title">Hirdetések</string>
+    <string name="common_agree">Elfogadás</string>
+    <string name="common_app_name">Google Play-szolgáltatások</string>
+    <string name="common_application_info">Alkalmazásadatok</string>
+    <string name="common_application_info_composed_string">alkalmazásadatok</string>
+    <string name="common_asm_google_account_title">Google-fiók</string>
+    <string name="common_asm_manage_google_account_title">Google-fiók kezelése</string>
+    <string name="common_asm_preferences_settings_title">Fiókbeállítások</string>
+    <string name="common_asm_privacy_settings_title">Adatvédelmi beállítások</string>
+    <string name="common_asm_security_settings_title">Bejelentkezés és biztonság</string>
+    <string name="common_back">Vissza</string>
+    <string name="common_battery">Akkumulátor</string>
+    <string name="common_block">Letiltás</string>
+    <string name="common_cancel">Mégse</string>
+    <string name="common_cannot_start_hangouts_security_exception">Nem indítható el a Hangouts (engedélyhiba).</string>
+    <string name="common_car_permission_desc">Hozzáférés az autós szolgáltatáshoz.</string>
+    <string name="common_car_permission_label">Autós szolgáltatás</string>
+    <string name="common_card">Kártya</string>
+    <string name="common_chips_label_empty_circles">Nincsenek körök</string>
+    <string name="common_chips_label_extended_circles">Tágabb körök</string>
+    <string name="common_chips_label_only_you">Csak Ön</string>
+    <string name="common_chips_label_public">Nyilvános</string>
+    <string name="common_chips_label_your_circles">Körei</string>
+    <string name="common_choose_account_label">Válasszon fiókot</string>
+    <string name="common_confirm_screen_lock_title">Adja meg a képernyőzárat</string>
+    <string name="common_connect">Csatlakozás</string>
+    <string name="common_connected">Csatlakoztatva</string>
+    <string name="common_connected_apps_settings_title">Társított alkalmazások</string>
+    <string name="common_connecting">Csatlakozás…</string>
+    <string name="common_continue">Folytatás</string>
+    <string name="common_disabled">Letiltva</string>
+    <string name="common_disagree">Elutasítás</string>
+    <string name="common_disconnect">Szétkapcsolás</string>
+    <string name="common_dismiss">Bezárás</string>
+    <string name="common_done">Kész</string>
+    <string name="common_edit">Szerkesztés</string>
+    <string name="common_email">E-mail</string>
+    <string name="common_fingerprint_hint">Érintse meg az érzékelőt</string>
+    <string name="common_fitness_settings_title">Google Fitnesz</string>
+    <string name="common_from">Feladó:</string>
+    <string name="common_games_settings_title">Play Játékok</string>
+    <string name="common_get_started">Kezdő lépések</string>
+    <string name="common_google_play_services_enable_button">Engedélyezés</string>
+    <string name="common_google_play_services_enable_text">"A(z) %1$s alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string name="common_google_play_services_enable_title">Google Play-szolgáltatások engedélyezése</string>
+    <string name="common_google_play_services_error_dialog_title">Hiba</string>
+    <string name="common_google_play_services_install_button">Telepítés</string>
+    <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
+    <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-szolgáltatások elérhetősége</string>
+    <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+    <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
+    <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
+    <string name="common_google_play_services_update_button">Frissítés</string>
+    <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+    <string name="common_google_play_services_update_title">A Google Play-szolgáltatások frissítése</string>
+    <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</string>
+    <string name="common_google_play_services_updating_title">A Google Play-szolgáltatások frissülnek</string>
+    <string name="common_google_play_services_wear_update_text">A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">A telepített Google Play-szolgáltatások architektúrája nem megfelelő.</string>
+    <string name="common_google_play_services_wrong_architecture_text">A Google Play-szolgáltatások telepítése olyan architektúrával (%1$s) történt, amely eltér eszköze architektúrájától (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Nem megfelelő architektúra</string>
+    <string name="common_google_settings">Google-beállítások</string>
+    <string name="common_google_settings_account">Fiók</string>
+    <string name="common_google_settings_credentials_title">Smart Lock jelszavakhoz</string>
+    <string name="common_got_it">Rendben</string>
+    <string name="common_install">Telepítés</string>
+    <string name="common_learn_more">További információ</string>
+    <string name="common_list_apps_menu_help">Súgó</string>
+    <string name="common_list_apps_menu_help_and_feedback">Súgó és visszajelzés</string>
+    <string name="common_loading">Betöltés…</string>
+    <string name="common_location_settings_title">Helyadatok</string>
+    <string name="common_login_activity_task_title">Bejelentkezés…</string>
+    <string name="common_login_error_title">Sikertelen bejelentkezés</string>
+    <string name="common_magictether_settings_title">Azonnali internetmegosztás</string>
+    <string name="common_maps_settings_title">Térkép és Koordináták</string>
+    <string name="common_mdm_feature_name">Készülékkereső</string>
+    <string name="common_missing_url_viewer">Hiányzik a megjelenítő egy külső URL megtekintéséhez.</string>
+    <string name="common_more">Több</string>
+    <string name="common_more_options">További opciók</string>
+    <string name="common_mute_notification">Értesítés némítása</string>
+    <string name="common_network_unavailable">Nincs internetkapcsolat</string>
+    <string name="common_networking_settings_title">Hálózatok</string>
+    <string name="common_never">Soha</string>
+    <string name="common_next">Tovább</string>
+    <string name="common_no_browser_for_restricted_url">Korlátozott hozzáférés. Nem található böngésző.</string>
+    <string name="common_no_devices_found">Nem található eszköz</string>
+    <string name="common_no_network">Nem érhető el, mert az eszköz offline állapotú.</string>
+    <string name="common_no_thanks">Nem, köszönöm</string>
+    <string name="common_not_now">Most nem</string>
+    <string name="common_off">Ki</string>
+    <string name="common_offline">Offline állapotban van</string>
+    <string name="common_on">Bekapcsolva</string>
+    <string name="common_open">Megnyitás</string>
+    <string name="common_open_on_phone">Megnyitás a telefonon</string>
+    <string name="common_open_source_licenses">Nyílt forráskódú licencek</string>
+    <string name="common_pause">Szüneteltetés</string>
+    <string name="common_people_settings_title">Névjegyek</string>
+    <string name="common_permissions_enable_in_settings">Engedélyezés a Beállítások között</string>
+    <string name="common_permissions_missing_end">A folytatáshoz nyissa meg a Beállítások > Engedélyek lehetőséget, majd engedélyezze a felsorolásban lévő összes elemet.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Az engedélyezéshez lépjen a 
+Beállítások >
+Engedélyek >
+Google Play-szolgáltatások lehetőséghez."</string>
+    <string name="common_permissions_missing_start">Ez az alkalmazás csak akkor működik, ha engedélyezi a Google Play-szolgáltatások számára a következőkhöz való hozzáférést:</string>
+    <string name="common_permissions_open_settings">Beállítások megnyitása</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_play">Lejátszás</string>
+    <string name="common_privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="common_privacy_policy_composed_string">Adatvédelmi irányelvek</string>
+    <string name="common_refresh">Frissítés</string>
+    <string name="common_remove">Eltávolítás</string>
+    <string name="common_reply">Válasz</string>
+    <string name="common_restore">Visszaállítás</string>
+    <string name="common_retry">Újra</string>
+    <string name="common_save">Mentés</string>
+    <string name="common_saved">Mentve</string>
+    <string name="common_saving">Mentés…</string>
+    <string name="common_search_settings_title">Keresés</string>
+    <string name="common_security_ootp_setting_title">Biztonsági kód</string>
+    <string name="common_select">Kiválasztás</string>
+    <string name="common_send">Küldés</string>
+    <string name="common_sending">Küldés…</string>
+    <string name="common_set_up_nearby_device_settings_title">Közeli eszköz beállítása</string>
+    <string name="common_settings">Beállítások</string>
+    <string name="common_share">Megosztás</string>
+    <string name="common_sign_in">Bejelentkezés</string>
+    <string name="common_signin_button_text">Bejelentkezés</string>
+    <string name="common_signin_button_text_long">Bejelentkezés Google-fiókkal</string>
+    <string name="common_skip">Kihagyás</string>
+    <string name="common_skip_fingerprint">Képernyőzár használata</string>
+    <string name="common_something_went_wrong">Valamilyen hiba történt</string>
+    <string name="common_system_info">Rendszer-információ</string>
+    <string name="common_system_info_composed_string">fiók- és rendszer-információk</string>
+    <string name="common_take_photo_label">Fotó készítése</string>
+    <string name="common_terms_of_service">Szerződési Feltételek</string>
+    <string name="common_terms_of_service_composed_string">Általános Szerződési Feltételek</string>
+    <string name="common_today">Ma</string>
+    <string name="common_try_again">Újra</string>
+    <string name="common_turn_on">Bekapcsolás</string>
+    <string name="common_turn_on_bluetooth">Bluetooth bekapcsolása</string>
+    <string name="common_turn_on_nfc">NFC bekapcsolása</string>
+    <string name="common_ui_confirm_deleting_button">Törlés</string>
+    <string name="common_ui_confirm_deleting_checkbox">Értem, és törlöm</string>
+    <string name="common_unknown">Ismeretlen</string>
+    <string name="common_update">Frissítés</string>
+    <string name="common_url_load_unsuccessful_message">Android-eszköze nem csatlakozik adatszolgáltatáshoz. Az információ megtekintéséhez egy böngésző segítségével látogasson el a következő címre: %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android-eszköze nem csatlakozik Wi-Fi-hálózathoz. Az információ megtekintéséhez egy böngésző segítségével látogasson el a következő címre: %s.</string>
+    <string name="common_usage_and_diagnostics">Használat és diagnosztika</string>
+    <string name="common_view">Megtekintés</string>
+    <string name="common_yesterday">Tegnap</string>
+    <string name="continue_to_login_heading">Kérjük, jelentkezzen be.</string>
+    <string name="continue_to_login_text">Hitelesítési adatok megadva. Jelentkezzen be első eszközén.</string>
+    <string name="description_fingerprint_icon">Ujjlenyomatikon</string>
+    <string name="download_msg_error_invalid">A letöltés konfigurálása helytelen volt.</string>
+    <string name="download_msg_in_progress">A letöltés folyamatban van.</string>
+    <string name="download_msg_not_allowed_space">Nincs elegendő hely a letöltés végrehajtásához.</string>
+    <string name="download_msg_pending">A letöltés függőben van.</string>
+    <string name="download_notification_description">A(z) %1$s kérte ezt.</string>
+    <string name="download_notification_title">További adatok lekérése</string>
+    <string name="expand_button_title">Speciális</string>
+    <string name="fido_ble_device_icon_content_description">Bluetooth-eszköz észlelve</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Tartsa nyomva a kulcson található gombot legalább 5 másodpercig, hogy az eszköz biztosan párosítási módban legyen</string>
+    <string name="fido_ble_dont_see_your_key_hint">Nem látja a kulcsát?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">A Biztonsági hardverkulcs csak akkor működik, ha a Bluetooth és a helyadatok be vannak kapcsolva az eszközön</string>
+    <string name="fido_ble_enable_body_bluetooth_only">A Biztonsági hardverkulcs csak akkor működik, ha a Bluetooth be van kapcsolva az eszközön</string>
+    <string name="fido_ble_enable_body_location_only">A Biztonsági hardverkulcs csak akkor működik, ha a helyadatok be vannak kapcsolva az eszközön</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Bluetooth és helyadatok bekapcsolása</string>
+    <string name="fido_ble_enable_title_location_only">Helyadatok bekapcsolása</string>
+    <string name="fido_ble_instructions_body">A legtöbb kulcs használatához elég rákoppintania a gombra</string>
+    <string name="fido_ble_locate_pin_body">A párosítási PIN-kód általában 4 vagy 6 jegyű szám, amely a kulcs hátulján lehet. Folytassa, ha készen áll a PIN-kód megadására.</string>
+    <string name="fido_ble_locate_pin_title">Keresse meg a kulcs (%1$s) Bluetooth-párosítására szolgáló PIN-kódot</string>
+    <string name="fido_ble_pair_device_pairing">Biztonsági hardverkulcs párosítása…</string>
+    <string name="fido_ble_pair_instructions_body">Párosítsa a kulcsot ezzel az eszközzel, hogy használhassa a fiókjával</string>
+    <string name="fido_ble_pair_instructions_title">Készen áll a biztonsági hardverkulcs párosítására?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Állítsa vissza kulcsot párosítási módba</string>
+    <string name="fido_ble_pairing_mode_body">Tartsa nyomva a biztonsági hardverkulcson található gombot legalább 5 másodpercig</string>
+    <string name="fido_ble_pairing_mode_title">Párosítás megkezdése</string>
+    <string name="fido_ble_select_device_body">Az alábbi listából válassza ki az eszközzel párosítani kívánt biztonsági hardverkulcsot. Előfordulhat, hogy a kulcs neve az eszköz hátulján található.</string>
+    <string name="fido_ble_select_device_title">Válassza ki biztonsági hardverkulcsot</string>
+    <string name="fido_instructions_title">Engedélyezi a biztonsági hardverkulcs használatát?</string>
+    <string name="fido_nfc_enable_body">A biztonsági hardverkulcs csak akkor működik, ha az eszközön be van kapcsolva az NFC.</string>
+    <string name="fido_nfc_instructions_body">Tartsa a hardverkulcsot az eszköz hátlapjához, amíg a rezgés meg nem szűnik</string>
+    <string name="fido_paask_body">Közeli eszköz próbál bejelentkezni az Ön Google-fiókjába</string>
+    <string name="fido_paask_chip">felhasznalo@gmail.com</string>
+    <string name="fido_paask_footer">Ez egy továbbfejlesztett bejelentkezési védelmi funkció, amely egy közeli eszköz titkosított Bluetooth-kapcsolatát használja.</string>
+    <string name="fido_paask_header">Közeli eszközön próbál bejelentkezni?</string>
+    <string name="fido_paask_no_text">Nem, nem én voltam</string>
+    <string name="fido_paask_yes_text">Igen, én voltam</string>
+    <string name="fido_pair_another_security_key">Másik biztonsági hardverkulcs párosítása</string>
+    <string name="fido_processing">Biztonsági hardverkulcs ellenőrzése…</string>
+    <string name="fido_transport_selection_bluetooth">Hardverkulcs használata Bluetooth-szal</string>
+    <string name="fido_transport_selection_body">A biztonsági hardverkulcsok Bluetooth, NFC és USB segítségével működnek. Válassza ki, hogyan szeretné használni a hardverkulcsot.</string>
+    <string name="fido_transport_selection_fingerprint">Biztonsági hardverkulcs használata ujjlenyomattal</string>
+    <string name="fido_transport_selection_nfc">Hardverkulcs használata NFC-vel</string>
+    <string name="fido_transport_selection_title">Válassza ki, hogyan kívánja használni a biztonsági hardverkulcsot</string>
+    <string name="fido_transport_selection_usb">Biztonsági hardverkulcs használata USB-vel</string>
+    <string name="fido_usb_instructions_body">Csatlakoztassa a biztonsági hardverkulcsot az USB-porthoz, vagy csatlakoztassa USB-kábellel. Ha a hardverkulcs rendelkezik gombbal vagy aranylemezzel, érintse meg.</string>
+    <string name="fido_use_ble_instead">A biztonsági hardverkulcs használata Bluetooth-szal</string>
+    <string name="fido_use_fp_instead">A biztonsági hardverkulcs használata ujjlenyomattal</string>
+    <string name="fido_use_nfc_instead">A biztonsági hardverkulcs használata NFC-vel</string>
+    <string name="fido_use_usb_instead">A biztonsági hardverkulcs használata USB-vel</string>
+    <string name="fido_welcome_body">A biztonsági hardverkulcs és a(z) %1$s együttes használata segít megvédeni privát adatait.</string>
+    <string name="fido_welcome_title">Használja biztonsági hardverkulcsát a következővel: %1$s</string>
+    <string name="fingerprint_description">Erősítse meg ujjlenyomatát, hogy %1$s ellenőrizhesse, valóban Ön-e az.</string>
+    <string name="fingerprint_no_imprints_description">%1$s ujjlenyomata alapján szeretné ellenőrizni személyazonosságát, de Ön még nem adta hozzá ehhez az eszközhöz.</string>
+    <string name="fingerprint_not_recognized">Az ujjlenyomat nem ismerhető fel. Próbálja újra</string>
+    <string name="fingerprint_success">Ujjlenyomat beazonosítva</string>
+    <string name="gcm_fallback_notification_channel_label">Egyéb</string>
+    <string name="google_app_permissions_title">Alkalmazásengedélyek</string>
+    <string name="google_legal_title">Google – jogi szabályozás</string>
+    <string name="google_play_tos_title">A Google Play Ált. Szerződési Feltételei</string>
+    <string name="google_plus_privacy_policy_title">Google Plusz -- Adatvédelmi irányelvek</string>
+    <string name="google_privacy_policy_title">A Google adatvédelmi irányelvei</string>
+    <string name="google_terms_of_service_title">Google Általános Szerződési Feltételek</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Az alkalmazás átadhatja a Wi-Fi-hálózat hitelesítési adatait másik eszköznek.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi hitelesítési adatainak átadása</string>
+    <string name="no_screen_lock_description">Először be kell állítania a képernyőzárat az eszközön</string>
+    <string name="no_screen_lock_title">Nincs képernyőzár a telefonon</string>
+    <string name="notification_ticker">Hozzáférési kérelem</string>
+    <string name="open_source_activity_prompt_heading">Alkalmazás megnyitása</string>
+    <string name="open_source_activity_prompt_text">"A hitelesítési folyamat befejezéséhez nyissa meg a(z) SourceResponseActivity alkalmazást telefonján. "</string>
+    <string name="permgrouplab_calendar">Naptár</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Névjegyek</string>
+    <string name="permgrouplab_location">Helyadatok</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Testérzékelők</string>
+    <string name="permgrouplab_sms">SMS-üzenetek</string>
+    <string name="permgrouplab_storage">Tárolás</string>
+    <string name="permissions_not_granted_text">Az engedélyek megadásához jelentkezzen be újra.</string>
+    <string name="permissions_not_granted_title">Az engedélyek nincsenek megadva.</string>
+    <string name="plus_manage_app_only_you_label">Csak Ön</string>
+    <string name="plus_network_unreliable">Nem lehet megbízható kapcsolatot létrehozni a szerverrel.</string>
+    <string name="plus_oob_interstitial_loading_text">Ez eltarthat néhány percig.</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="set_up">BEÁLLÍTÁS</string>
+    <string name="setupservices_additional_privacy_title">További adatvédelmi információk</string>
+    <string name="setupservices_android_privacy_policy_title">További adatvédelmi irányelvek</string>
+    <string name="setupservices_chrome_privacy_title">Chrome Adatvédelmi közlemény</string>
+    <string name="setupservices_chrome_tos_title">Chrome Általános Szerződési Feltételek</string>
+    <string name="setupservices_google_app_permissions_title">Alkalmazásengedélyek</string>
+    <string name="setupservices_google_legal_title">Google – jogi szabályozás</string>
+    <string name="setupservices_google_play_tos_title">Google Play ÁSZF</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google+ Adatvédelmi irányelvek</string>
+    <string name="setupservices_google_privacy_policy_title">Google Adatvédelmi irányelvek</string>
+    <string name="setupservices_google_services_agreement">Ha továbblép, azzal elfogadja, hogy az eszköz automatikusan letölthet és telepíthet frissítéseket és alkalmazásokat a Google-tól, az Ön szolgáltatójától és az eszköz gyártójától, akár mobiladat-kapcsolaton keresztül is. Egyes alkalmazások alkalmazáson belüli vásárlásokat kínálhatnak. Ezeket az alkalmazásokat bármikor eltávolíthatja.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Az alkalmazások eltávolításához lépjen a Beállítások > Alkalmazások menüpontra, vagy az Alkalmazáskezelőbe. Ezt követően koppintson arra az alkalmazásra, amelyet el szeretne távolítani (előfordulhat, hogy úgy találja meg az alkalmazást, hogy gyorsan jobbra vagy balra csúsztatja az ujját), majd koppintson az Eltávolítás vagy a Letiltás gombra.</string>
+    <string name="setupservices_google_services_agreement_korea">Ezennel beleegyezik, és engedélyt ad az eszközre előtelepített Google-alkalmazások számára, hogy hozzáférjenek az eszköz adataihoz és funkcióihoz. Az engedélyek felhasználásáról <annotation link="app_permissions">ezen az oldalon</annotation> talál további információt.</string>
+    <string name="setupservices_google_services_agreement_title">Alkalmazások és frissítések telepítése</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Ha telefonjának tárhelye már majdnem megtelt, helyet szabadíthat fel bizonyos adatok, például olyan fotók és videók törlésével, amelyekről készült biztonsági másolat.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Ha rendelkezik internetkapcsolattal, ezekhez az adatokhoz továbbra is hozzáférhet. Ezt a funkciót és az eltávolítandó tartalmak körét a Beállítások > Tárhely > Intelligens tárhely menüpontban kezelheti.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Tárhely felszabadítása</string>
+    <string name="setupservices_google_services_backup">Bármikor könnyedén visszaállíthatja eszköze adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat és az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat) tartalmazza.</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+A biztonsági másolat adatmennyisége nem számít bele a Drive-tárhelykvótába."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Alkalmazásadat lehet az alkalmazás által mentett bármilyen adat (a fejlesztő által megadott beállításoktól függően) – akár bizalmas adat (például névjegy, üzenet vagy fotó) is.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Ezt a szolgáltatást bármikor kikapcsolhatja a Beállításokban.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Az eszköz fotói és videói szinkronizálódnak az Ön Google Fotók-könyvtárába, így bármelyik eszközén kereshet köztük, szerkesztheti, törölheti és megoszthatja őket. Alapértelmezés szerint a rendszer teljes felbontású fotókat és videókat tölt fel a Google Fotók szolgáltatásba.
+
+A biztonsági másolat adatmennyisége nem számít bele a Drive-tárhelykvótába."</string>
+    <string name="setupservices_google_services_backup_title">Biztonsági mentés a Google Drive-ra</string>
+    <string name="setupservices_google_services_backup_v23">Bármikor könnyedén visszaállíthatja eszköze adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat, a híváslistát, a névjegyeket és az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat és az engedélyeket) tartalmazza.</string>
+    <string name="setupservices_google_services_backup_v26">Bármikor könnyedén visszaállíthatja eszköze adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat, a híváslistát, a névjegyeket, az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat és az engedélyeket), valamint az SMS-eket tartalmazza.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Bármikor könnyedén visszaállíthatja eszköze adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat, a híváslistát, a névjegyeket, az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat és az engedélyeket), a fotókat, a videókat és az SMS-eket tartalmazza. A fotók és videók az Ön Google Fotók-könyvtárába szinkronizálódnak, így minden szolgáltatásban rendelkezésre állnak.</string>
+    <string name="setupservices_google_services_data_policy">Az adatok felhasználása a Google <annotation link="google_privacy">Adatvédelmi irányelveinek</annotation> megfelelően történik.</string>
+    <string name="setupservices_google_services_data_policy_korea">Az adatok felhasználása a Google <annotation link="google_privacy">Adatvédelmi irányelveinek</annotation> (beleértve a <annotation link="additional_privacy">személyes adatok begyűjtését, tárolását és felhasználását</annotation>), illetve a <annotation link="location_tos">Tartózkodási helyre vonatkozó Általános Szerződési Feltételeknek</annotation> megfelelően történik.</string>
+    <string name="setupservices_google_services_description">Ha további információra kíváncsi az egyes szolgáltatásokkal kapcsolatban (például arra, hogy hogyan lehet később be- vagy kikapcsolni őket), koppintson rájuk. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Az alkalmazásokkal kapcsolatos részletes adatokat – beleértve az alkalmazáson belüli vásárlásokat is – a Play Áruházban találja. Az alkalmazásadatok és -beállítások szinkronizálódnak az összes olyan eszközön, amelyen bejelentkezik Google-fiókjával. 
+
+Az azonnali alkalmazások használatára a "<a href="https://play.google.com/about/play-terms.html">Google Play Általános Szerződési Feltételek</a>" vonatkoznak. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">További információ</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Amikor rákoppint valamelyik linkre, a Google Play ellenőrzi, hogy van-e rendelkezésre álló azonnali alkalmazás, majd telepítés nélkül futtatja. Eszköze csak ideiglenesen tárolja az azonnali alkalmazásokat.</string>
+    <string name="setupservices_google_services_instant_apps_title">Alkalmazások használata telepítés nélkül</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"A Google helyszolgáltatása olyan információforrásokat használ az eszköz helyének meghatározására, mint a Wi-Fi- és mobilhálózatok, valamint az érzékelők.
+
+A helyszolgáltatás kikapcsolásához kapcsolja ki eszköze fő „Hely” beállítását. Emellett a helybeállításoknál kikapcsolhatja a Wi-Fi- és mobilhálózatok, illetve az érzékelők használatát a helyadatok meghatározásához."</string>
+    <string name="setupservices_google_services_location_sharing_title">Segítség helymeghatározáshoz</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Helyadatok használata</string>
+    <string name="setupservices_google_services_location_sharing_v28">Engedélyezze a helymeghatározási jogosultsággal rendelkező alkalmazások és szolgáltatások számára, hogy eszköze helyadatait használják. A Google a pontosság javítása és a helyalapú szolgáltatások továbbfejlesztése érdekében rendszeresen gyűjthet és felhasználhat névtelenített helyadatokat.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Engedélyezi az alkalmazásoknak és szolgáltatásoknak, hogy a Wi-Fi-t kikapcsolt állapotban is használhassák helymeghatározási célokra.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">A funkciót a helybeállítások között kapcsolhatja ki.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">A hely pontosságának javítása</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Keresés engedélyezése</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Engedélyezi az alkalmazásoknak és a szolgáltatásoknak, hogy Wi-Fi- és Bluetooth-jelet keressenek akkor is, amikor ezek a beállítások ki vannak kapcsolva.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Engedélyezi az alkalmazásoknak és a szolgáltatásoknak, hogy Wi-Fi-hálózatokat és közeli eszközöket keressenek bármikor (még akkor is, ha a Wi-Fi vagy a Bluetooth ki van kapcsolva).</string>
+    <string name="setupservices_google_services_next_button_label">Elfogadom</string>
+    <string name="setupservices_google_services_play">Naprakész szeretnék lenni a Google Play híreivel és ajánlataival kapcsolatban.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Biztonsági másolat és tárhely</string>
+    <string name="setupservices_google_services_section_device_maintenance">Eszközkarbantartás</string>
+    <string name="setupservices_google_services_tos">Ha továbblép, azzal elfogadja a <annotation link="tos">Google Általános Szerződési Feltételeket</annotation> is.</string>
+    <string name="setupservices_google_services_tos_agree">Az „Elfogadom” gombra kattintva elfogadja az ezen Google-szolgáltatásokkal kapcsolatos, fent részletezett feldolgozási folyamatot.</string>
+    <string name="setupservices_google_services_tos_germany">Miközben az eszközt használja, betartjuk <annotation link="google_privacy">adatvédelmi irányelveinket</annotation>, és előfordulhat, hogy <annotation link="tos">további feltételek</annotation> is vonatkoznak ránk ezzel kapcsolatban.</string>
+    <string name="setupservices_google_services_usage_reporting">Segítsen az Android-élmény továbbfejlesztésében azzal, hogy automatikusan diagnosztikai, valamint eszköz- és alkalmazáshasználati adatokat küld a Google-nak. Ezek az adatok segítenek az akkumulátor-üzemidő, az alkalmazásstabilitás, a hálózati kapcsolat és sok más jellemző javításában. Ha bekapcsolta az Internetes és alkalmazástevékenységek funkciót, a rendszer tárolja ezeket az információkat a fiókjában, Ön pedig a Saját tevékenységek oldalon kezelheti őket.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Általános információ az eszközről és annak használatáról (például az akkumulátor töltöttségi szintjéről, az alkalmazáshasználatról és a hálózati kapcsolatokról). Az adatokat arra használjuk fel, hogy mindenki számára továbbfejlesszük a Google termékeit és szolgáltatásait. Bizonyos összesített adatok partnereinket, például az Android-fejlesztőket is segítik az alkalmazások és a termékek továbbfejlesztésében.
+
+A funkció kikapcsolása nem gátolja eszközét abban, hogy elküldje a nélkülözhetetlen szolgáltatásokhoz, például a rendszerfrissítésekhez és a biztonság megőrzéséhez szükséges információkat."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">A Saját tevékenységek beállításait a myactivity.google.com webhelyen módosíthatja.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">A funkciót a Google Beállításokban kezelheti. Válassza a Használat és diagnosztika menüpontot.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">A funkciót a Beállítások > Google menüben kezelheti. Válassza a Használat és diagnosztika menüpontot.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Rendszeradatok küldése</string>
+    <string name="setupservices_google_services_wallpaper_permission">Engedélyezheti, hogy a Google élő háttérképei a Google helyszolgáltatásainak igénybevételével tükrözzék aktuális tartózkodási helyét.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">A következő helyen engedélyezheti vagy tilthatja le az élő háttérképek hozzáférését a Google helyszolgáltatásaihoz: Beállítások > Alkalmazások és értesítések > Alkalmazásinformáció. A további elemeket tartalmazó menüben koppintson a Rendszer megjelenítése > Adatokon alapuló élő háttérképek/Élő háttérképek a Földről > Engedélyek lehetőségre.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">A háttérképek használhatják a helyadatokat</string>
+    <string name="setupservices_google_terms_of_service_title">Google Általános Szerződési Feltételek</string>
+    <string name="setupservices_kids_google_services_agreement">Ha továbblép, azzal elfogadja, hogy az eszköz automatikusan letölthet és telepíthet frissítéseket és alkalmazásokat a Google-tól, az Ön szolgáltatójától és az eszköz gyártójától, akár mobiladat-kapcsolaton keresztül is. Egyes alkalmazások alkalmazáson belüli vásárlásokat kínálhatnak. Ezeket az alkalmazásokat bármikor eltávolíthatja.</string>
+    <string name="setupservices_kids_google_services_backup">Bármikor könnyedén visszaállíthatja telefonja adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat és az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat) tartalmazza.</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+A biztonsági másolat adatmennyisége nem számít bele gyermeke Drive-tárhelykvótájába."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Az eszközön található fotók és videók gyermeke Google Fotók-könyvtárba szinkronizálódnak, így ő bármelyik eszközén kereshet közöttük, illetve szerkesztheti, törölheti és megoszthatja őket. Alapértelmezés szerint a rendszer teljes felbontású fotókat és videókat tölt fel a Google Fotók szolgáltatásba.
+
+A biztonsági másolat adatmennyisége nem számít bele gyermeke Drive-tárhelykvótájába."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Bármikor könnyedén visszaállíthatja telefonja adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat, a híváslistát, a névjegyeket és az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat és az engedélyeket) tartalmazza.</string>
+    <string name="setupservices_kids_google_services_backup_v26">Bármikor könnyedén visszaállíthatja telefonja adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat, a híváslistát, a névjegyeket, az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat és az engedélyeket), valamint az SMS-eket tartalmazza.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Bármikor könnyedén visszaállíthatja telefonja adatait, illetve lecserélheti telefonját. A biztonsági másolat az alkalmazásokat, az alkalmazásadatokat, a híváslistát, a névjegyeket, az eszközbeállításokat (beleértve a Wi‑Fi-jelszavakat és az engedélyeket), a fotókat, a videókat és az SMS-eket tartalmazza. A fotók és videók gyermeke Google Fotók-könyvtárába szinkronizálódnak, így minden szolgáltatásban rendelkezésre állnak.</string>
+    <string name="setupservices_kids_google_services_description">Ha szülőként további információra kíváncsi az egyes szolgáltatásokkal kapcsolatban (például arra, hogy hogyan lehet később be- vagy kikapcsolni őket), koppintson rájuk. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"A Google helyszolgáltatása olyan információforrásokat használ az eszköz helyének meghatározására, mint a Wi-Fi- és mobilhálózatok, valamint az érzékelők.
+
+A helyszolgáltatás kikapcsolásához kapcsolja ki eszköze fő „Hely” beállítását. Emellett a helybeállításoknál kikapcsolhatja a Wi-Fi- és a mobilhálózatok, illetve az érzékelők használatát a tartózkodási hely meghatározásához."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Engedélyezze a helymeghatározási jogosultsággal rendelkező alkalmazások és szolgáltatások számára, hogy használják az eszköz helyadatait. A Google a pontosság javítása és a helyalapú szolgáltatások továbbfejlesztése érdekében rendszeresen gyűjthet és felhasználhat névtelenített helyadatokat.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Segítsen az Android továbbfejlesztésében azzal, hogy automatikusan diagnosztikai, valamint eszköz- és alkalmazáshasználati adatokat küld a Google-nak. A Google nem használja fel ezeket az Ön gyermekének azonosítására, azonban az adatok segítenek az akkumulátor-üzemidő, az alkalmazásstabilitás, a hálózati kapcsolat és sok más jellemző javításában. Ha a további Internetes és alkalmazástevékenységek be vannak kapcsolva a gyermekénél, akkor ezeket az információkat a gyermek fiókjában tároljuk.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Általános információ az eszközről és annak használatáról (például az akkumulátor töltöttségi szintjéről, az alkalmazáshasználatról és a hálózati kapcsolatokról). Az adatokat arra használjuk fel, hogy mindenki számára továbbfejlesszük a Google termékeit és szolgáltatásait. Bizonyos összesített adatok partnereinket, például az Android-fejlesztőket is segítik az alkalmazások és a termékek továbbfejlesztésében.
+
+A funkció kikapcsolása nem gátolja eszközét abban, hogy elküldje a nélkülözhetetlen szolgáltatásokhoz, például a rendszerfrissítésekhez és a biztonság megőrzéséhez szükséges információkat."</string>
+    <string name="setupservices_location_tos_title">Tartózkodási helyre vonatkozó ÁSZF</string>
+    <string name="sid_lsid_grant_detail">A jelszavakhoz hasonlóan a munkamenet-azonosító (Session Identification, SID) és a helyimunkamenet-azonosító (Local Session Identification, LSID) cookie-k az Ön adatait egy böngészőtől érkező kérelmek egész sorához társítják. Ezek teljes hozzáférést biztosítanak az Ön összes fiókadatához. Szabályszerűen csak böngészők használhatják ezeket a cookie-kat.</string>
+    <string name="sid_lsid_grant_label">SID és LSID cookie-k használata az Ön Google-fiókjában található összes adat eléréséhez.</string>
+    <string name="smartdevice_action_copy">Másolás</string>
+    <string name="smartdevice_action_open_app">Alkalmazás megnyitása</string>
+    <string name="smartdevice_action_try_another_way">Másik mód</string>
+    <string name="smartdevice_action_turn_on_location">Helyadatok engedélyezése</string>
+    <string name="smartdevice_alert_disconnected_title">Eszköz leválasztva</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Sajnos nem használhatja ezt a funkciót, mert a biztonsági mentésekhez használt fiókot az eszköz rendszergazdája kezeli.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">A funkció nem áll rendelkezésre</string>
+    <string name="smartdevice_alert_exit_setup_message">Biztosan kilépsz a másik eszköz-beállítási folyamatából?</string>
+    <string name="smartdevice_alert_exit_setup_title">Kilépsz a beállítási folyamatból?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Az eszköz beállításához legalább egy Google-fiókra van szükséged.</string>
+    <string name="smartdevice_alert_no_accounts_text">Az eszköz (%s) beállításához legalább egy Google-fiókra van szükséged.</string>
+    <string name="smartdevice_alert_no_accounts_title">Nincs másolható fiók</string>
+    <string name="smartdevice_alert_quit_button">Kilépés</string>
+    <string name="smartdevice_alert_restart_setup_button">Beállítás újraindítása</string>
+    <string name="smartdevice_alert_setup_incomplete">A telepítés megszakadt</string>
+    <string name="smartdevice_alert_start_over_button">Újrakezdés</string>
+    <string name="smartdevice_alert_work_profile_message">A munkahelyi fiókokat még nem lehet átmásolni. A másik Google-fiók és az adatok átmásolása után nyissa meg a Beállítások menüt új eszközén, és adja hozzá munkahelyi fiókját.</string>
+    <string name="smartdevice_alert_work_profile_title">Nem sikerült átmásolni a munkahelyi fiókot</string>
+    <string name="smartdevice_application_label">Eszközbeállítás</string>
+    <string name="smartdevice_choose_device">Válaszd ki az eszközöd</string>
+    <string name="smartdevice_companion_app_ready">A(z) %s alkalmazás már telepítve van ezen az eszközön.</string>
+    <string name="smartdevice_connect_to_wifi">Csatlakoztasd az eszközödet</string>
+    <string name="smartdevice_connection_error">Hiba történt a másik eszközhöz való kapcsolódás közben</string>
+    <string name="smartdevice_connection_error_title">Nem sikerült kapcsolódni</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Csatlakozás az eszközödhöz…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google- és egyéb fiókjainak másolása és a Google Drive biztonsági másolat visszaállítása (ha van)</string>
+    <string name="smartdevice_d2d_copy_account_text">Google-fiókjainak másolása és a Google Drive biztonsági másolat visszaállítása (ha létezik ilyen)</string>
+    <string name="smartdevice_d2d_copy_account_title">Elindítod a másolást?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Nem sikerült felismerni</string>
+    <string name="smartdevice_d2d_fingerprint_title">Adja meg ujjlenyomatát</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Biztonsági okokból adja meg ujjlenyomatát. Google-fiókjait, alkalmazásait és adatait átmásoljuk a következő eszközre: %s</string>
+    <string name="smartdevice_d2d_lockscreen_description">Oldja fel a zárolást az eszköz beállításának folytatásához</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">A beállítás folytatásához biztonsági okokból meg kell adnia eszköze képernyőzárát</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Nem állítható be másik eszköz, mert a Bluetooth nem érhető el az eszközödön.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Biztonsági okokból ez a funkció le lett tiltva. Koppints az eszközödön a Kihagyás elemre, és folytasd a beállítást.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Új eszköz beállítása</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Eszközbeállítás</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 beállítása</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Indítsd újra a beállítást, és válaszd ki az eszközödet (^1) a Google-fiókjaid, alkalmazásaid és adatait átmásolásához.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Nem látod a kódot?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Nem állítható be új eszköz korlátozott felhasználói profilból.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Folytassa a beállítást a(z) %s eszközön</string>
+    <string name="smartdevice_d2d_source_setup_success">Majdnem kész!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Másolás másik Android-eszközről</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Rendben, most kövesd a lépéseket az eszköz beállításához</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Fiókok, alkalmazások és adatok másolása a másik eszközről</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Fiókok másolása…</string>
+    <string name="smartdevice_d2d_target_description">1. Mondja azt, hogy &lt;b>„&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>”&lt;/b>, vagy írja be, hogy „&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>”, és koppintson a megerősítéshez&lt;br/>&lt;br/> 2. Koppintson a(z) &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> elemre a listában, majd kövesse a képernyőn megjelenő utasításokat</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Próbálja meg ezt</string>
+    <string name="smartdevice_d2d_target_google_settings_description">A másik eszközön:&lt;br/>&lt;br/> 1. Nyissa meg a &lt;b>Google Beállítások&lt;/b> alkalmazást&lt;br/>&lt;br/> 2. Válassza a következőt: &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Koppintson a következőre a listában: &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>, és kövesse a képernyőn megjelenő utasításokat</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Nem lehet végrehajtani ezeket a lépéseket</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">A Beállítások használata</string>
+    <string name="smartdevice_d2d_target_help_text">Problémába ütközött?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Nem találod?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Másik eszközén nyissa meg a Google-alkalmazást</string>
+    <string name="smartdevice_d2d_target_instruction_description">Nyisd meg a Google alkalmazást.</string>
+    <string name="smartdevice_d2d_target_instruction_title">A másik eszközödön</string>
+    <string name="smartdevice_d2d_target_other_device_description">A Google alkalmazás előre telepítve van az összes Android-eszközre. Tekintse meg az összes alkalmazást, majd keresse meg a fenti Google ikont.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">A kódnak meg kell egyeznie a másik eszközön lévő kóddal:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Nincs kihagyás</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">A beállítás során a rendszer nem másolja át a fiókot, az alkalmazásokat és az adatokat az eszközre.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Kihagyás</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Kihagyod ezt a fiókot?</string>
+    <string name="smartdevice_d2d_target_title">A Google alkalmazásban</string>
+    <string name="smartdevice_do_disclosure_generic">Nem lehet átvinni az adatokat</string>
+    <string name="smartdevice_do_unsupported_message">Kezelt eszközökről nem lehet adatokat átvinni</string>
+    <string name="smartdevice_install_app">Az alkalmazás telepítése</string>
+    <string name="smartdevice_install_app_reason">Az alkalmazás (%1$s) letöltését követően az új eszközt (%2$s) erről az eszközről vezérelheted és kezelheted</string>
+    <string name="smartdevice_look_for_other_device">Ezt a nevet keresse a másik eszközön</string>
+    <string name="smartdevice_magicwand_cancel_signin">Bejelentkezés leállítása</string>
+    <string name="smartdevice_magicwand_confirm_signin">Bejelentkezési folyamat elindítva</string>
+    <string name="smartdevice_magicwand_consent_detail">Koppintson a <b>Bejelentkezés</b> elemre a másik eszközön való bejelentkezés befejezéséhez.</string>
+    <string name="smartdevice_magicwand_consent_title">Bejelentkezési folyamat befejezése</string>
+    <string name="smartdevice_magicwand_error_detail">Hiba történt, így a Google nem tudta bejelentkeztetni erről a telefonról.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"QR-kódot olvasott be a fiókba való bejelentkezéshez.
+
+Saját biztonsága érdekében adja meg ujjlenyomatát, hogy meggyőződhessünk arról, Ön jelentkezik be a másik eszközön."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Ez a plusz lépés segít annak ellenőrzésében, hogy biztonságos eszközt használ.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"QR-kódot olvasott be a fiókba való bejelentkezéshez.
+
+Saját biztonsága érdekében adja meg a képernyőzár mintáját, hogy meggyőződhessünk arról, Ön jelentkezik be a másik eszközön."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">a böngészőbe való továbblépéshez</string>
+    <string name="smartdevice_magicwand_success_detail">Használja a másik eszközén található böngészőt.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Ezeket az alakzatokat keresse a másik eszközén</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Alakzatok ellenőrzése</string>
+    <string name="smartdevice_problem_copying">Hiba történt a másik eszközre történő adatmásolás közben</string>
+    <string name="smartdevice_problem_copying_title">Az adatok másolása nem sikerült</string>
+    <string name="smartdevice_search_again">Keresés újra</string>
+    <string name="smartdevice_searching_for_devices">Eszközkeresés</string>
+    <string name="smartdevice_setup_info_installing_app">Az alkalmazás telepítése…</string>
+    <string name="smartdevice_setup_intro_text">A másik eszköz beállításához a rendszer az Ön telefonja Bluetooth- vagy Wi-Fi-kapcsolatát használja</string>
+    <string name="smartdevice_setup_intro_text_nfc">A másik eszköz beállításához a rendszer az Ön telefonja Bluetooth-kapcsolatát használja</string>
+    <string name="smartdevice_setup_intro_title">Első lépések</string>
+    <string name="smartdevice_setup_password_hint">Írd be a Wi-Fi-jelszót</string>
+    <string name="smartdevice_setup_show_password">Jelszó megjelenítése</string>
+    <string name="smartdevice_setup_title_verify_code">Ellenőrzőkód</string>
+    <string name="smartdevice_target_hotphrase_instructions">Mondja a másik eszközén, hogy &lt;b>„&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>”.&lt;/b>&lt;br/>&lt;br/> Vagy írja be a keresőmezőbe, hogy &lt;b>„&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>”&lt;/b>.</string>
+    <string name="smartdevice_type_typing_ok_google">Ha a hangalapú utasítás nem működik, gépeljen a keresőmezőbe. Írja be azt, hogy „&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>”</string>
+    <string name="smartdevice_verify_device">Eszköz igazolása</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Az eszköz csak nyitott és WPA/WPA2-hálózatokkal állítható be.</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Nem használható W-Fi-hálózat.</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi kereséséhez kapcsolja be a Helyszolgáltatásokat.
+
+Ezt később bármikor módosíthatja a Beállításokban."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">A Wi-Fi-hálózatok keresése nem lehetséges</string>
+    <string name="storage_management_wear_descriptive_text">Az alkalmazások az eszköz tárhelyét használják az adatok hordható eszközre történő másolásához.</string>
+    <string name="storage_management_wear_manage_size_label">Hordható eszköz tárhelyének kezelése</string>
+    <string name="storage_management_wear_size_label">Hordható eszköz tárhelye</string>
+    <string name="storage_managment_all_storage_descriptive_text">A Google Play-szolgáltatások által használt összes adatmennyiség, beleértve a keresőmotort és egyéb adatokat.</string>
+    <string name="storage_managment_clear_all_data">Az összes adat törlése</string>
+    <string name="storage_managment_computing_size">Számítás...</string>
+    <string name="storage_managment_icing_size_label">Keresési adatok</string>
+    <string name="storage_managment_manage_icing_button">Keresési adatok kezelése</string>
+    <string name="storage_managment_search_index_descriptive_text">Az alkalmazások számára elérhető keresőmotorral gyorsítjuk meg eszközén a keresést.</string>
+    <string name="storage_managment_title">A Google Play-szolgáltatások tárhelye</string>
+    <string name="storage_managment_total_size_label">Teljes tárhely</string>
+    <string name="suw_back_button_label">Vissza</string>
+    <string name="suw_more_button_label">Továbbiak</string>
+    <string name="suw_next_button_label">Következő</string>
+    <string name="uncertified_notification_expired_content">A Google-alkalmazások és -szolgáltatások a továbbiakban nem működnek ezen az eszközön. Koppintson, ha további információra van szüksége.</string>
+    <string name="uncertified_notification_expired_title">Lejárt regisztráció</string>
+    <string name="uncertified_notification_expiring_title">Lejáró regisztráció</string>
+    <string name="use_nearby_device_heading">Közeli eszközt szeretne használni?</string>
+    <string name="use_nearby_device_text">Közeli eszközt szeretne használni a hitelesítéshez?</string>
+    <string name="v7_preference_off">KI</string>
+    <string name="v7_preference_on">BE</string>
+    <string name="verify_your_identity_description">A(z) %1$s ellenőrizni szeretné az Ön személyazonosságát.</string>
+    <string name="verify_your_identity_title">Személyazonosság igazolása</string>
+    <string name="waiting_for_account_info_text">Várakozás a fiókadatokra…</string>
+</resources>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s không phải là địa chỉ email hợp lệ.</item>
+        <item quantity="one">%s không phải là địa chỉ email hợp lệ.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">Thêm các tệp này sẽ chia sẻ các tệp đó với tất cả những người có thể truy cập thư mục được chia sẻ %1$s</item>
+        <item quantity="one">Thêm tệp này sẽ chia sẻ tệp này với tất cả những người có thể truy cập thư mục được chia sẻ %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Thêm các tệp và thư mục này sẽ chia sẻ chúng với tất cả những người có thể truy cập thư mục được chia sẻ %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">Thêm các thư mục này sẽ chia sẻ các thư mục đó với tất cả những người có thể truy cập thư mục được chia sẻ %1$s</item>
+        <item quantity="one">Thêm thư mục này sẽ chia sẻ thư mục đó với tất cả những người có thể truy cập thư mục được chia sẻ %1$s</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">Chia sẻ những tệp này?</item>
+        <item quantity="one">Chia sẻ tệp này?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Chia sẻ những tệp và thư mục này?</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">Chia sẻ những thư mục này?</item>
+        <item quantity="one">Chia sẻ thư mục này?</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d thư mục được cập nhật. Màu được đặt thành %2$s.</item>
+        <item quantity="one">%1$d thư mục được cập nhật. Màu được đặt thành %2$s.</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">Hết hạn sau %1$d ngày</item>
+        <item quantity="one">Hết hạn sau %1$d ngày</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">Đã xóa các dữ liệu sao lưu.</item>
+        <item quantity="one">Đã xóa dữ liệu sao lưu.</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%d cột.</item>
+        <item quantity="one">%d cột.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">%d cột cố định.</item>
+        <item quantity="one">%d cột cố định.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">%d hàng cố định.</item>
+        <item quantity="one">%d hàng cố định.</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%d hàng.</item>
+        <item quantity="one">%d hàng.</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">Không thể tải xuống các mục</item>
+        <item quantity="one">Không tải được mục xuống</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">%1$d / %2$d mục sẽ được tải xuống. Hãy xem thông báo để biết thêm chi tiết</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d mục sẽ được tải xuống. Hãy xem thông báo để biết thêm chi tiết</item>
+        <item quantity="one">%1$d mục sẽ được tải xuống. Hãy xem thông báo để biết thêm chi tiết</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">Không thể tải xuống %1$s mục</item>
+        <item quantity="one">Không thể tải xuống %1$s mục</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d mục khác</item>
+        <item quantity="one">%1$d mục khác</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d trong tổng số %2$d mục tải xuống không thành công</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">Bạn đang di chuyển một số mục ra khỏi thư mục được chia sẻ, vì vậy mọi người sẽ mất quyền truy cập vào những mục này.</item>
+        <item quantity="one">Bạn đang di chuyển một mục ra khỏi thư mục được chia sẻ, vì vậy mọi người sẽ mất quyền truy cập vào mục này.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">Bạn đang chuyển một số mục ra khỏi Drive nhóm nên mọi người sẽ mất quyền truy cập vào những mục này.</item>
+        <item quantity="one">Bạn đang chuyển một mục ra khỏi Drive nhóm nên mọi người sẽ mất quyền truy cập vào mục này.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">Di chuyển những tệp này cũng sẽ chia sẻ chúng với những ai có thể truy cập thư mục dùng chung %1$s</item>
+        <item quantity="one">Di chuyển tệp này cũng sẽ chia sẻ nó với những ai có thể truy cập thư mục dùng chung %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">Di chuyển những tệp và thư mục này cũng sẽ chia sẻ chúng với những ai có thể truy cập thư mục dùng chung %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">Di chuyển những thư mục này cũng sẽ chia sẻ chúng với những ai có thể truy cập thư mục dùng chung %1$s</item>
+        <item quantity="one">Di chuyển thư mục này cũng sẽ chia sẻ nó với những ai có thể truy cập thư mục dùng chung %1$s</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">Chia sẻ những tệp này?</item>
+        <item quantity="one">Chia sẻ tệp này?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">Chia sẻ những tệp và thư mục này?</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">Chia sẻ những thư mục này?</item>
+        <item quantity="one">Chia sẻ thư mục này?</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">Bạn không sở hữu một số mục. Bạn không thể di chuyển các mục đó vào Drive nhóm.</item>
+        <item quantity="one">Bạn không sở hữu mục này. Bạn không thể di chuyển mục này vào Drive nhóm.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">Bạn không có quyền di chuyển một số mục ra khỏi thư mục của chúng.</item>
+        <item quantity="one">Bạn không có quyền di chuyển mục này ra khỏi thư mục của mục.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" hiện có thể truy cập các mục.</item>
+        <item quantity="one">%1$s \"%2$s\" hiện có thể truy cập mục.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">%1$d mục được di chuyển đến Drive nhóm.</item>
+        <item quantity="one">1 mục được di chuyển đến Drive nhóm.</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s mục tác vụ</item>
+        <item quantity="one">%1$s mục tác vụ</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s lượt đề cập chưa được trả lời</item>
+        <item quantity="one">%1$s lượt đề cập chưa được trả lời</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s đề xuất</item>
+        <item quantity="one">%1$s đề xuất</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s việc cần làm</item>
+        <item quantity="one">%1$s việc cần làm</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d / %2$s hiện khả dụng ngoại tuyến.</item>
+        <item quantity="one">%1$d / %2$s hiện khả dụng ngoại tuyến.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Tất cả %1$d tệp đều khả dụng ngoại tuyến.</item>
+        <item quantity="one">%1$d tệp hiện khả dụng ngoại tuyến.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">Đặt %1$d tệp khả dụng ngoại tuyến.</item>
+        <item quantity="one">Đặt %1$d tệp khả dụng ngoại tuyến.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d tệp</item>
+        <item quantity="one">%1$d tệp</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">Đã tạm dừng tải xuống, đang chờ Wi-Fi..</item>
+        <item quantity="one">Đã tạm dừng tải xuống, đang chờ Wi-Fi..</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">Đã tạm dừng tải xuống %1$d.</item>
+        <item quantity="one">Đã tạm dừng tải xuống %1$d.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">%1$d mục sẽ được chuyển vào Thùng rác. Tác vụ này cũng sẽ xóa các mục này khỏi Google Photos.</item>
+        <item quantity="one">Một mục sẽ được chuyển vào Thùng rác. Tác vụ này cũng sẽ xóa mục này khỏi Google Photos.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s Mục theo dõi</item>
+        <item quantity="one">%1$s Mục theo dõi</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s Mục theo dõi</item>
+        <item quantity="one">%1$s Mục theo dõi</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">Đã nhận xét về %1$d tệp</item>
+        <item quantity="one">Đã nhận xét về một tệp</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">Đã nhận xét về %1$d tệp</item>
+        <item quantity="one">Đã nhận xét về một tệp</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">Đã nhận xét về tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">Đã tạo %1$d mục</item>
+        <item quantity="one">Đã tạo một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">Đã tạo %1$d mục</item>
+        <item quantity="one">Đã tạo một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">Đã tạo tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">Đã tạo thư mục này</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">Đã chỉnh sửa %1$d mục</item>
+        <item quantity="one">Đã chỉnh sửa một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">Đã chỉnh sửa %1$d mục</item>
+        <item quantity="one">Đã chỉnh sửa một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">Đã chỉnh sửa tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">Đã xóa vĩnh viễn %1$d mục</item>
+        <item quantity="one">Đã xóa vĩnh viễn một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">Đã chuyển %1$d mục đến:</item>
+        <item quantity="one">Đã chuyển một mục đến:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">Đã chuyển %1$d mục đến:</item>
+        <item quantity="one">Đã chuyển một mục đến:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">Đã chuyển %1$d mục</item>
+        <item quantity="one">Đã chuyển một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">Đã chuyển %1$d mục</item>
+        <item quantity="one">Đã chuyển một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">Đã chuyển tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">Đã chuyển tệp này đến:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">Đã chuyển thư mục này</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">Đã chuyển thư mục này đến:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">Đã đổi tên %1$d mục</item>
+        <item quantity="one">Đã đổi tên một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">Đã đổi tên %1$d mục</item>
+        <item quantity="one">Đã đổi tên một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">Đã đổi tên tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">Đã đổi tên thư mục này</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">Đã chia sẻ %1$d mục</item>
+        <item quantity="one">Đã chia sẻ một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">Đã chia sẻ %1$d mục</item>
+        <item quantity="one">Đã chia sẻ một mục</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">Đã chia sẻ tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">Đã chia sẻ thư mục này</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">Đã chuyển %1$d mục vào thùng rác</item>
+        <item quantity="one">Đã chuyển một mục vào thùng rác</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">Đã chuyển %1$d mục vào thùng rác</item>
+        <item quantity="one">Đã chuyển một mục vào thùng rác</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">Đã xóa tệp này</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">Đã xóa thư mục này</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">Đã tải %1$d mục lên</item>
+        <item quantity="one">Đã tải một mục lên</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">Đã tải %1$d mục lên</item>
+        <item quantity="one">Đã tải một mục lên</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">Đã tải tệp này lên</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">Đã tải thư mục này lên</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s và %2$d người khác</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d tệp sẽ được chuyển tới Thùng rác %2$s và sẽ bị xóa vĩnh viễn sau 30 ngày.</item>
+        <item quantity="one">Tệp này sẽ được chuyển đến Thùng rác %2$s và bị xóa vĩnh viễn sau 30 ngày</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d thư mục sẽ được chuyển tới Thùng rác %2$s và sẽ bị xóa vĩnh viễn sau 30 ngày.</item>
+        <item quantity="one">Thư mục sẽ được chuyển tới Thùng rác %2$s và sẽ bị xóa vĩnh viễn sau 30 ngày</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d mục sẽ được chuyển tới Thùng rác %2$s và sẽ bị xóa vĩnh viễn sau 30 ngày.</item>
+        <item quantity="one">Mục sẽ được chuyển tới Thùng rác %2$s và sẽ bị xóa vĩnh viễn sau 30 ngày</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">%1$d tệp này sẽ bị &lt;b>xóa vĩnh viễn với mọi người.&lt;/b> Bạn không thể hoàn tác thao tác này.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">%1$d tệp này sẽ bị xóa vĩnh viễn. Bạn không thể hoàn tác tác vụ này.</item>
+        <item quantity="one">Tệp này sẽ bị xóa vĩnh viễn. Bạn không thể hoàn tác tác vụ này.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d mục</item>
+        <item quantity="one">%1$d mục</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">Đã chọn %1$d mục</item>
+        <item quantity="one">Đã chọn %1$d mục</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">Đã bỏ chọn %1$d mục</item>
+        <item quantity="one">Đã bỏ chọn %1$d mục</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">%d mục sẽ khả dụng ngoại tuyến</item>
+        <item quantity="one">1 mục sẽ khả dụng ngoại tuyến</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">Đã gắn dấu sao %1$d mục</item>
+        <item quantity="one">Đã gắn dấu sao 1 mục</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">%1$d mục không còn khả dụng ngoại tuyến</item>
+        <item quantity="one">1 mục không còn khả dụng ngoại tuyến</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">Đã bỏ gắn dấu sao %1$d mục</item>
+        <item quantity="one">Đã bỏ gắn dấu sao 1 mục</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">Đã khôi phục %1$d mục</item>
+        <item quantity="one">Đã khôi phục 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">Đã khôi phục %1$d mục</item>
+        <item quantity="one">Đã khôi phục 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">Đã xóa %1$d mục khỏi \"%2$s\"</item>
+        <item quantity="one">Đã xóa 1 mục khỏi \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">Đã xóa %1$d mục khỏi thư mục</item>
+        <item quantity="one">Đã xóa 1 mục khỏi thư mục</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">Đã xóa %1$d mục</item>
+        <item quantity="one">Đã xóa 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">Đã chuyển lại %1$d mục</item>
+        <item quantity="one">Đã chuyển lại 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">Đã chuyển lại %1$d mục về thùng rác</item>
+        <item quantity="one">Đã chuyển lại 1 mục về thùng rác</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">Đã đưa %1$d mục trở lại thùng rác</item>
+        <item quantity="one">Đã đưa 1 mục trở lại thùng rác</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">Đã xóa %1$d mục</item>
+        <item quantity="one">Đã bị xóa 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">Đã thêm %1$d mục vào \"%2$s\"</item>
+        <item quantity="one">Đã thêm 1 mục vào \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">Đã thêm %1$d mục</item>
+        <item quantity="one">Đã thêm 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">Đã khôi phục và thêm %1$d mục vào \"%2$s\"</item>
+        <item quantity="one">Đã khôi phục và thêm 1 mục vào \"%2$s\"</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">Đã di chuyển %1$d mục đến \"%2$s\".</item>
+        <item quantity="one">Đã di chuyển 1 mục đến \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">Đã di chuyển %1$d mục</item>
+        <item quantity="one">Đã di chuyển 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">Đã khôi phục và di chuyển %1$d mục đến \"%2$s\".</item>
+        <item quantity="one">Đã khôi phục và di chuyển 1 mục đến \"%2$s\".</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">Đã khôi phục %1$d mục.</item>
+        <item quantity="one">Đã khôi phục 1 mục</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">Đã khôi phục %1$d mục vào \"%2$s\".</item>
+        <item quantity="one">Đã khôi phục 1 mục vào \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">Gửi tệp bằng</item>
+        <item quantity="one">Gửi tệp bằng</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d người hiện có thể truy cập</item>
+        <item quantity="one">Một người hiện có thể xem</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s và %2$d người khác hiện có thể truy cập</item>
+        <item quantity="one">%1$s và một người khác hiện có thể truy cập</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d người hiện có thể thêm nhận xét</item>
+        <item quantity="one">Một người hiện có thể thêm nhận xét</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s và %2$d người khác hiện có thể thêm nhận xét</item>
+        <item quantity="one">%1$s và một người khác hiện có thể thêm nhận xét</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d người hiện có thể chỉnh sửa</item>
+        <item quantity="one">Một người hiện có thể chỉnh sửa</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s và %2$d người khác hiện có thể chỉnh sửa</item>
+        <item quantity="one">%1$s và một người khác hiện có thể chỉnh sửa</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d người hiện có thể xem</item>
+        <item quantity="one">Một người hiện có thể xem</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s và %2$d người khác hiện có thể xem</item>
+        <item quantity="one">%1$s và một người khác hiện có thể xem</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">Bộ nhở Drive sẽ hết hạn sau %1$d ngày</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">Đã thêm %1$d người vào Drive nhóm</item>
+        <item quantity="one">Đã thêm một người vào Drive nhóm</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">Đã thêm %2$s và %3$d người khác vào %1$s</item>
+        <item quantity="one">Đã thêm %2$s và một người khác vào %1$s</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d thành viên</item>
+        <item quantity="zero">Không có thành viên nào</item>
+        <item quantity="one">1 thành viên</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">Tiếp tục tất cả ngay bây giờ</item>
+        <item quantity="one">Tiếp tục ngay bây giờ</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">Đã hủy lịch tải lên %1$d tệp.</item>
+        <item quantity="one">Đã hủy lịch tải lên %1$d tệp.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Không thể lên lịch cho %1$d tệp để tải lên.</item>
+        <item quantity="one">Không thể lên lịch cho %1$d tệp để tải lên.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d tệp đã được tải lên.</item>
+        <item quantity="one">%1$d tệp đã được tải lên.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">Không thể tải lên %1$d / %2$d tệp.</item>
+        <item quantity="one">Không thể tải lên %1$d / %2$d tệp.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">Đang tải lên %1$d tệp.</item>
+        <item quantity="one">Đang tải lên %1$d tệp.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">Đã tạm dừng tải lên, đang chờ Wi-Fi..</item>
+        <item quantity="one">Đã tạm dừng tải lên, đang chờ Wi-Fi..</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">Đã tạm dừng tải lên %1$d.</item>
+        <item quantity="one">Đã tạm dừng tải lên %1$d.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">Đang chuẩn bị %1$d tệp để tải lên.</item>
+        <item quantity="one">Đang chuẩn bị %1$d tệp để tải lên.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d tệp của bạn đang được tải lên: %2$s</item>
+        <item quantity="one">%1$d tệp của bạn đang được tải lên: %2$s</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">Bộ lọc</item>
+        <item quantity="one">Bộ lọc</item>
+    </plurals>
+</resources>

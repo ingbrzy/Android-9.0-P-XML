@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="account_blocked_title">Účet byl zablokován</string>
+    <string name="account_level_title">Vyžadována akce s účtem</string>
+    <string name="account_removed_notification_text">Účet %1$s byl odebrán, protože nebyla dokončena správa zařízení</string>
+    <string name="account_removed_notification_title">Účet byl odebrán</string>
+    <string name="android_privacy_policy_title">Další zásady ochrany soukromí</string>
+    <string name="app_level_title">Požadavek na přihlášení</string>
+    <string name="app_level_title_secondary">Požadavek přihlášení od %s</string>
+    <string name="audience_selection_done">Hotovo</string>
+    <string name="auth_account_already_has_gmail">Účet již službu Gmail obsahuje.</string>
+    <string name="auth_account_content_provider_label">Údaje účtu Google</string>
+    <string name="auth_account_module_display_name">Účty Google</string>
+    <string name="auth_account_removed_default_description">Správa zařízení nebyla dokončena. %1$s</string>
+    <string name="auth_account_removed_default_title">Nastavování zrušeno</string>
+    <string name="auth_account_removed_dm_bad_result_description">Správu zařízení nebylo možné dokončit. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Vaše doména vyžaduje správu mobilních zařízení, která ale v tomto zařízení není podporována. Zkuste použít jiný účet.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Správa zařízení nepodporována</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Správa zařízení se nenainstalovala správně. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Potíže při instalaci</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Nastavování zrušeno</string>
+    <string name="auth_account_removed_restricted_by_admin_description">V tomto zařízení může být jen jeden spravovaný účet. V případě dotazů vám pomůže administrátor organizace.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Spravovaný účet již existuje</string>
+    <string name="auth_account_settings_title">Nastavení účtu</string>
+    <string name="auth_account_setup_title">Účet Google</string>
+    <string name="auth_account_start_over_and_signin_again">Začněte znovu a přihlaste se.</string>
+    <string name="auth_account_state_sync_title">Synchronizace stavu účtu</string>
+    <string name="auth_allow_external_site_access">Mít neustálý přístup k vašim datům na webu %s</string>
+    <string name="auth_app_permission_ok_footnote">Pokud budete pokračovat, povolíte tím aplikaci a společnosti Google používat vaše informace v souladu s příslušnými smluvními podmínkami a zásadami ochrany soukromí.</string>
+    <string name="auth_cant_add_work_account_message">Tento typ účtu je spravován vaší organizací.</string>
+    <string name="auth_captcha_instructions">Zadejte text, který vidíte zde:</string>
+    <string name="auth_captcha_title">Musíte zadat obrázek CAPTCHA</string>
+    <string name="auth_common_downloading">Stahování…</string>
+    <string name="auth_common_go_back">Zpět</string>
+    <string name="auth_common_switch_accounts">Přepnout účty</string>
+    <string name="auth_communicating_message">Zařízení kontaktuje servery Google, aby uložilo informace do vašeho účtu. Může to trvat až 5 minut.</string>
+    <string name="auth_confirm_creds_sync_title">Stav identifikačních údajů</string>
+    <string name="auth_d2d_source_alert_title">Nastavení dotykem</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Uzamknout a ověřit</string>
+    <string name="auth_d2d_source_copy_notice">Kopírovat účty a data do druhého zařízení?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Po ověření bude zapnut Bluetooth, aby zařízení mohla komunikovat.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Po ověření se zařízení propojí pomocí rozhraní Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Budete-li pokračovat, obrazovka se uzamkne a z důvodu ověření ji budete muset znovu odemknout.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Nastavení dotykem nelze provést, protože v zařízení nejsou přidány žádné účty.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Nastavení dotykem nelze provést, protože v zařízení není k dispozici rozhraní Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Aby zařízení mohla komunikovat, bude zapnuto rozhraní Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Tato funkce používá Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Nastavení dotykem dokončeno</string>
+    <string name="auth_d2d_source_restricted_user_toast">V omezeném uživatelském profilu nelze použít Obnovení přiložením.</string>
+    <string name="auth_d2d_source_title">Obnovení účtů</string>
+    <string name="auth_d2d_source_unknown_device_name">Neznámé zařízení</string>
+    <string name="auth_d2d_tap_and_go">Nastavení dotykem</string>
+    <string name="auth_d2d_target_tap_progress_message">Chcete-li pokračovat, ve druhém zařízení klepněte na OK.</string>
+    <string name="auth_d2d_target_title">Nastavení dotykem</string>
+    <string name="auth_d2d_target_unlock_progress_message">Zkontrolujte své další zařízení</string>
+    <string name="auth_d2d_target_wait_progress_message">Získávání účtů a dat...</string>
+    <string name="auth_device_management_download_app_icon">Ikona aplikace %s</string>
+    <string name="auth_device_management_download_description">Tento účet vyžaduje správu mobilního zařízení. Nainstalujte aplikaci ^1, která zajistí dodržování zásad zabezpečení vyžadovaných účtem.</string>
+    <string name="auth_device_management_download_description_kids">Chcete-li do tohoto zařízení přidat účet, nejprve nainstalujte aplikaci <b>^1</b>". 
+
+Aplikace ^1 vám pomůže s nastavením zařízení vašeho dítěte."</string>
+    <string name="auth_device_management_download_failed_message">V nastavování lze pokračovat i bez této aplikace</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Správu zařízení se nepodařilo nainstalovat. Tento účet bude odstraněn. Zkuste to později.</string>
+    <string name="auth_device_management_download_failed_title">Aplikaci nelze stáhnout</string>
+    <string name="auth_device_management_download_not_updated_message">V nastavování lze pokračovat i se stávající verzí</string>
+    <string name="auth_device_management_download_paused">Pozastaveno</string>
+    <string name="auth_device_management_download_progress">Stahování…</string>
+    <string name="auth_device_management_download_skip_message">Tento účet vyžaduje správu zařízení. Chcete pokračovat bez ní?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Přidání tohoto účtu vyžaduje správu zařízení. Chcete začít znovu s použitím jiného účtu?</string>
+    <string name="auth_device_management_go_back">Přejít zpět</string>
+    <string name="auth_device_management_screenlock_description">Chcete-li na tomto zařízení používat svůj pracovní účet, musíte nastavit zámek obrazovky. Vyžadují to zásady vaší organizace pro mobilní zařízení.</string>
+    <string name="auth_device_management_screenlock_skip_message">Tento účet vyžaduje zabezpečení v podobě zámku obrazovky. Chcete začít znovu s použitím jiného účtu?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Pracovní profil je spravován vaší organizací a obsahuje pracovní aplikace oddělené od ostatního obsahu.
+
+K dokončení nastavení budete potřebovat kód od administrátora IT. Stáhne se nástroj pro správu, pomocí kterého bude administrátor IT váš pracovní profil spravovat."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Pracovní profil je spravován vaší organizací a obsahuje pracovní aplikace oddělené od ostatního obsahu.
+
+Stáhne se nástroj pro správu, pomocí kterého bude administrátor IT váš pracovní profil spravovat."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Nastavení pracovního profilu</string>
+    <string name="auth_device_management_start_description">Tento účet vyžaduje správu mobilního zařízení. Po klepnutí na tlačítko Další vám aplikace ^1 pomůže zajistit dodržování zásad zabezpečení vyžadovaných pro účet.</string>
+    <string name="auth_device_management_start_description_kids">Chcete-li do tohoto zařízení přidat účet, použijte aplikaci <b>^1</b>". 
+
+Aplikace ^1 vám pomůže s nastavením zařízení vašeho dítěte."</string>
+    <string name="auth_device_management_title">Správa zařízení</string>
+    <string name="auth_device_management_update_description">Tento účet vyžaduje správu mobilního zařízení. Za účelem zajištění souladu se zásadami zabezpečení účtu je třeba nainstalovat novou verzi aplikace ^1.</string>
+    <string name="auth_device_management_update_description_kids">Chcete-li do tohoto zařízení přidat účet, nejprve nainstalujte nejnovější verzi aplikace <b>^1</b>". 
+
+Aplikace ^1 vám pomůže s nastavením zařízení vašeho dítěte."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> nepoužívá Gmail.</string>
+    <string name="auth_error_account_disabled">"Tento účet byl deaktivován. 
+
+ (Další informace najdete na adrese http://google.com/accounts.)"</string>
+    <string name="auth_error_account_not_verified">"Tento účet nebyl ověřen. Zkontrolujte svůj e-mail a kliknutím na příslušný odkaz účet ověřte. 
+
+(Chcete-li znovu získat informace o svém účtu, přejděte v počítači na stránku http://google.com/accounts/recovery.)"</string>
+    <string name="auth_error_bad_password">Heslo je příliš slabé nebo obsahuje neplatné znaky. Zkuste to znovu.</string>
+    <string name="auth_error_bad_username">Neplatné uživatelské jméno.</string>
+    <string name="auth_error_generic_server_error">"Při komunikaci se servery Google došlo k potížím. 
+
+Zkuste to znovu později."</string>
+    <string name="auth_error_invalid_second_factor">Namísto běžného hesla účtu použijte heslo pro konkrétní aplikaci.</string>
+    <string name="auth_error_login_failed">"Uživatelské jméno a heslo si neodpovídají. Zkuste to znovu.
+
+Chcete-li obnovit údaje účtu, přejděte na adresu google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Chcete-li mít přístup k účtu, je potřeba se přihlásit na webu. Klepnutím na Další spustíte přihlášení v prohlížeči.</string>
+    <string name="auth_error_no_network">"Není k dispozici připojení k síti. 
+
+Mohlo by se jednat o dočasný problém. Zkuste to znovu nebo se připojte k jiné síti Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">Uživatel není přihlášen.</string>
+    <string name="auth_error_username_unavailable">Toto uživatelské jméno není k dispozici.</string>
+    <string name="auth_existing_account_error_text">Účet ^1 již v tomto zařízení Android existuje.</string>
+    <string name="auth_existing_account_error_title">Účet již existuje</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Do zařízení se nelze přihlásit, protože se nedávno změnilo heslo. Zkuste se přihlásit znovu 24 hodin po změně hesla.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Již nebudou fungovat funkce ochrany zařízení.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Pokud poslední účet Google v zařízení přesunete z osobního profilu, v zařízení budou deaktivovány funkce ochrany proti krádeži. Budete-li je později chtít opět aktivovat, můžete do zařízení přidat další účet.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Jste si jisti?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Chcete účet přesunout do pracovního profilu?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Do zařízení se nelze přihlásit z důvodu neznámé chyby. Použijte jiný účet nebo se zkuste přihlásit znovu za 24 hodin.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Přihlaste se pomocí účtu některého z vlastníků zařízení</string>
+    <string name="auth_field_cant_be_blank">Pole nesmí být prázdné.</string>
+    <string name="auth_frp_add_account_no">Použít nový účet</string>
+    <string name="auth_frp_add_account_prompt">Předchozí účet Google v tomto zařízení byl ověřen. Přidejte účet ^1 zpět do zařízení nebo použijte nový účet.</string>
+    <string name="auth_frp_add_account_yes">Přidat předchozí</string>
+    <string name="auth_frp_device_managed_label">V tomto zařízení bylo nastaveno, že bude spravováno vaší organizací.</string>
+    <string name="auth_frp_download_management_app_label">Chcete-li pokračovat v nastavení, musíte si stáhnout aplikaci pro správu zařízení.</string>
+    <string name="auth_frp_enter_device_credentials_label">Přepnout na režim administrátora</string>
+    <string name="auth_frp_install_dpc_error">Instalace aplikace pro správu se nezdařila. Pokud se rozhodnete tento krok přeskočit, zařízení nebude spravováno.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Instalace aplikace pro správu se nezdařila. Zkontrolujte připojení k síti a zkuste to znovu.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Použít účet Google</string>
+    <string name="auth_frp_preadd_lkscreen_text">Zařízení bylo obnoveno do továrního nastavení. Můžete ho odemknout pomocí předchozího tajného klíče.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Ochrana po obnovení továrního nastavení</string>
+    <string name="auth_frp_start_reenroll_device_title">Vaše pracovní zařízení</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Přístup k tomuto účtu není možný. Zkontrolujte, zda je zařízení v souladu s bezpečnostními zásadami vaší organizace. Pokud se tato chyba zobrazuje i nadále, kontaktujte administrátora organizace.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Chyba účtu</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Doména vyžaduje správu mobilního zařízení. Nainstalujte prosím aplikaci Google Apps Device Policy, která zajistí dodržování zásad zabezpečení vyžadovaných účtem  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Stáhnout</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" může obsahovat pouze písmena,
+číslice a tečky."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> neobsahuje žádná písmena.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> obsahuje méně než 6 nebo více než 30 znaků.</string>
+    <string name="auth_gls_is_not_available">Uživatelské jméno <b>^</b> není k dispozici.</string>
+    <string name="auth_gls_name_checking_info_title">Ověřování údajů…</string>
+    <string name="auth_gls_sync_item_title">Synchronizace aplikace %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Účet  "<b>^1</b> je třeba přidat do zařízení nebo pracovního profilu spravovaného vaší organizací. Chcete-li to provést, postupujte podle pokynů, které vám poskytne administrátor IT.</string>
+    <string name="auth_google_title_logo">Logo Google</string>
+    <string name="auth_invalid_login_character">Neplatný znak. Povolené znaky jsou 0–9, a–z, A–Z a tečky.</string>
+    <string name="auth_invalid_password_character">Heslo obsahuje neplatný znak.</string>
+    <string name="auth_invalid_username">Zadaný text není platné uživatelské jméno.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Zadali jste nesprávné heslo nebo se váš účet změnil. Zadejte heslo znovu. Pokud jste heslo zapomněli a potřebujete obnovit účet, klikněte <annotation id="help_url">sem</annotation>.</string>
+    <string name="auth_login_task_title">Přihlašování</string>
+    <string name="auth_login_title">Zadejte e-mail a heslo</string>
+    <string name="auth_minutemaid_ssl_error">"Při připojování k serveru  %s došlo k problému."</string>
+    <string name="auth_network_unreliable_help">Může se jednat o dočasný problém, nebo pro zařízení Android nejsou zprovozněny datové služby. Pokud problém přetrvá, zavolejte zákaznickou podporu.</string>
+    <string name="auth_no_network">Nejste připojeni k síti.</string>
+    <string name="auth_no_network_help">Může se jednat o dočasný problém nebo pro zařízení Android nejsou zprovozněny datové služby. Zkuste to znovu, až budete připojeni k mobilní síti, nebo se připojte k síti Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Může se jednat o dočasný problém. Zkuste to znovu nebo se připojte k jiné síti Wi-Fi.</string>
+    <string name="auth_otp_error">Při generování bezpečnostního kódu se vyskytl problém.</string>
+    <string name="auth_otp_explained_paragraph">Pokud zapomenete heslo nebo váš způsob přihlášení bude vypadat neobvykle, Google vás může za účelem ochrany účtu požádat o zadání bezpečnostního kódu. Použijte jej teď nebo se vraťte pro nový.</string>
+    <string name="auth_otp_header_message">Kdy tento kód použijete k přihlášení</string>
+    <string name="auth_otp_no_accounts_available_message">V tomto zařízení není nakonfigurován žádný účet.</string>
+    <string name="auth_otp_progress_dialog_message">Probíhá generování bezpečnostního kódu.</string>
+    <string name="auth_otp_ten_digit_code_header">Vaše bezpečnostní kódy</string>
+    <string name="auth_otp_ten_digit_explaination">Pokud zapomenete heslo nebo se budete přihlašovat z nového zařízení či místa, za účelem ochrany vašeho účtu Google můžete být požádáni o zadání jednoho nebo obou těchto kódů.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Platnost těchto kódů vyprší 15 minut po vygenerování, nebo jakmile je použijete. Zadávejte je pouze na stránkách, jejichž adresa URL začíná řetězcem https://accounts.google.com/.</string>
+    <string name="auth_otp_ten_digit_usage_header">Kdy kódy použít</string>
+    <string name="auth_otp_ten_digits_code1">Kód 1</string>
+    <string name="auth_otp_ten_digits_code2">Kód 2</string>
+    <string name="auth_password">Heslo</string>
+    <string name="auth_plus_audience_selection_description_acl">SDÍLET S</string>
+    <string name="auth_plus_info_fragment_app_name">%s požaduje tato oprávnění:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">Aplikace %1$s v zařízení %2$s požaduje následující oprávnění:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Vaše rozšířené kruhy</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Vybrané kruhy</string>
+    <string name="auth_plus_scope_fragment_public_label">Kdokoli na webu</string>
+    <string name="auth_pre_factory_reset_title">Zapamatovat účet Google</string>
+    <string name="auth_relogin_activity_title">Zadejte heslo znovu</string>
+    <string name="auth_remove_account_start_over">Začít znovu</string>
+    <string name="auth_request_accounts_list">Zobrazit seznam účtů Google v tomto zařízení.</string>
+    <string name="auth_scope_more_details">Další informace</string>
+    <string name="auth_server_error">"Při komunikaci  se servery Google došlo k potížím."</string>
+    <string name="auth_server_error_help">Zkuste to znovu později.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Účet byl přidán</string>
+    <string name="auth_setup_wizard_account_added_description">Účet byl přidán. Pokračujte nastavením možností služeb Google.</string>
+    <string name="auth_setup_wizard_services_activity_title">Služby Google</string>
+    <string name="auth_setup_wizard_title">Průvodce nastavením</string>
+    <string name="auth_show_error_title">Chyba</string>
+    <string name="auth_sign_in_agreement">Přihlášením vyjadřujete souhlas se zásadami ochrany soukromí společnosti <annotation id="google_privacy">Google</annotation> a s <annotation id="android_privacy">dodatečnými</annotation> zásadami ochrany soukromí.</string>
+    <string name="auth_sign_in_browser">Přihlásit pomocí prohlížeče</string>
+    <string name="auth_sign_in_with_google_account_short">Přihlaste se pomocí účtu Google:</string>
+    <string name="auth_submission_error_text">Došlo k chybě. Zkuste to znovu.</string>
+    <string name="auth_submission_title">Je nám líto…</string>
+    <string name="auth_ui_activity_authenticating">Ověřování…</string>
+    <string name="auth_ui_activity_title">Přihlášení do Googlu</string>
+    <string name="auth_ui_activity_title_browser_signin">Přihlašování</string>
+    <string name="auth_ui_add_account_title">Nastavení účtu</string>
+    <string name="auth_uncertified_notification_description"><b>Uživatelé, kteří toto zařízení zakoupili:</b>"
+Výrobce do tohoto zařízení předem nahrál aplikace a služby od Googlu, aniž by k tomu od společnosti Google získal certifikaci. Kontaktujte výrobce zařízení a požádejte jej o certifikované zařízení. Další informace naleznete na stránce g.co/AndroidCertifiedDevice.
+
+"<b>Nelicencovaní výrobci:</b>"
+K distribuci aplikací a služeb od Googlu potřebujete licenci od společnosti Google. Můžete o ni požádat na stránce g.co/AndroidGMSContact.
+
+"<b>Licencovaní výrobci:</b>"
+Chcete-li při vývoji používat aplikace a služby od Googlu, musíte zařízení zaregistrovat. Další informace vám poskytne manažer společnosti Google pro obchodní rozvoj.
+
+"<b>Uživatelé vlastních pamětí ROM:</b>"
+Chcete-li aplikace a služby od Googlu používat s vlastní pamětí ROM, musíte toto zařízení zaregistrovat. Další informace naleznete na stránce g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Zařízení není certifikováno Googlem</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_work_authenticator_label">Spravovaný účet</string>
+    <string name="authorization_dialog">Dialog autorizace</string>
+    <string name="chrome_privacy_title">Oznámení o ochraně soukromí v Chromu</string>
+    <string name="chrome_tos_title">Smluvní podmínky aplikace Chrome</string>
+    <string name="close_button_label">Zavřít</string>
+    <string name="common_accept">Přijmout</string>
+    <string name="common_add">Přidat</string>
+    <string name="common_add_account_label">Přidat účet</string>
+    <string name="common_ads_settings_title">Reklamy</string>
+    <string name="common_agree">Souhlasím</string>
+    <string name="common_app_name">Služby Google Play</string>
+    <string name="common_application_info">Informace o aplikaci</string>
+    <string name="common_application_info_composed_string">informace o aplikaci</string>
+    <string name="common_asm_google_account_title">Účet Google</string>
+    <string name="common_asm_manage_google_account_title">Spravovat váš účet Google</string>
+    <string name="common_asm_preferences_settings_title">Nastavení účtu</string>
+    <string name="common_asm_privacy_settings_title">Osobní údaje a soukromí</string>
+    <string name="common_asm_security_settings_title">Přihlášení a zabezpečení</string>
+    <string name="common_back">Zpět</string>
+    <string name="common_battery">Baterie</string>
+    <string name="common_block">Blokovat</string>
+    <string name="common_cancel">Zrušit</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts nebylo možné spustit (chyba oprávnění).</string>
+    <string name="common_car_permission_desc">Přístup ke službě auta.</string>
+    <string name="common_car_permission_label">Služba auta</string>
+    <string name="common_card">Karta</string>
+    <string name="common_chips_label_empty_circles">Žádné kruhy</string>
+    <string name="common_chips_label_extended_circles">Rozšířené kruhy</string>
+    <string name="common_chips_label_only_you">Pouze vy</string>
+    <string name="common_chips_label_public">Veřejné</string>
+    <string name="common_chips_label_your_circles">Vaše kruhy</string>
+    <string name="common_choose_account_label">Vybrat účet</string>
+    <string name="common_confirm_screen_lock_title">Potvrďte zámek obrazovky</string>
+    <string name="common_connect">Připojit</string>
+    <string name="common_connected">Připojeno</string>
+    <string name="common_connected_apps_settings_title">Připojené aplikace</string>
+    <string name="common_connecting">Připojování…</string>
+    <string name="common_continue">Pokračovat</string>
+    <string name="common_disabled">Vypnuto</string>
+    <string name="common_disagree">Nesouhlasím</string>
+    <string name="common_disconnect">Odpojit</string>
+    <string name="common_dismiss">Zavřít</string>
+    <string name="common_done">Hotovo</string>
+    <string name="common_edit">Upravit</string>
+    <string name="common_email">E-mail</string>
+    <string name="common_fingerprint_hint">Dotykový senzor</string>
+    <string name="common_from">Od:</string>
+    <string name="common_games_settings_title">Hry Play</string>
+    <string name="common_get_started">Začínáme</string>
+    <string name="common_google_play_services_enable_button">Povolit</string>
+    <string name="common_google_play_services_enable_text">Ke spuštění aplikace %1$s je třeba aktivovat služby Google Play.</string>
+    <string name="common_google_play_services_enable_title">Aktivace služeb Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Chyba</string>
+    <string name="common_google_play_services_install_button">Instalovat</string>
+    <string name="common_google_play_services_install_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v zařízení nemáte.</string>
+    <string name="common_google_play_services_install_title">Instalace služeb Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnost služeb Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Chyba služeb Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Aplikace %1$s má potíže se službami Google Play. Zkuste to prosím znovu.</string>
+    <string name="common_google_play_services_unsupported_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které v tomto zařízení nejsou podporovány.</string>
+    <string name="common_google_play_services_update_button">Aktualizovat</string>
+    <string name="common_google_play_services_update_text">Ke spuštění aplikace %1$s je třeba aktualizovat služby Google Play.</string>
+    <string name="common_google_play_services_update_title">Aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_updating_text">Ke spuštění aplikace %1$s jsou potřeba služby Google Play, které jsou právě aktualizovány.</string>
+    <string name="common_google_play_services_updating_title">Probíhá aktualizace služeb Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Je vyžadována nová verze služeb Google Play. Nová verze se brzy sama nainstaluje.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Služby Google Play byly nainstalovány s chybnou architekturou.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Byly nainstalovány služby Google Play s architekturou (%1$s), která se neshoduje s architekturou zařízení (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Nesprávná architektura</string>
+    <string name="common_google_settings">Nastavení Google</string>
+    <string name="common_google_settings_account">Účet</string>
+    <string name="common_google_settings_credentials_title">Smart Lock na hesla</string>
+    <string name="common_got_it">Rozumím</string>
+    <string name="common_install">Instalovat</string>
+    <string name="common_learn_more">Další informace</string>
+    <string name="common_list_apps_menu_help">Nápověda</string>
+    <string name="common_list_apps_menu_help_and_feedback">Nápověda a zpětná vazba</string>
+    <string name="common_loading">Načítání…</string>
+    <string name="common_location_settings_title">Poloha</string>
+    <string name="common_login_activity_task_title">Přihlašování…</string>
+    <string name="common_login_error_title">Přihlášení se nezdařilo</string>
+    <string name="common_magictether_settings_title">Dynamický tethering</string>
+    <string name="common_maps_settings_title">Mapy a Latitude</string>
+    <string name="common_mdm_feature_name">Najdi moje zařízení</string>
+    <string name="common_missing_url_viewer">Chybí nástroj k zobrazení externí adresy URL.</string>
+    <string name="common_more">Více</string>
+    <string name="common_more_options">Další možnosti</string>
+    <string name="common_mute_notification">Vypnout oznámení</string>
+    <string name="common_network_unavailable">Žádné připojení k internetu</string>
+    <string name="common_networking_settings_title">Sítě</string>
+    <string name="common_never">Nikdy</string>
+    <string name="common_next">Další</string>
+    <string name="common_no_browser_for_restricted_url">Přístup omezen. Nebyl nalezen žádný prohlížeč.</string>
+    <string name="common_no_devices_found">Žádná zařízení nebyla nalezena</string>
+    <string name="common_no_network">Nedostupné, protože je zařízení offline</string>
+    <string name="common_no_thanks">Ne, děkuji</string>
+    <string name="common_not_now">Teď ne</string>
+    <string name="common_off">Vypnuto</string>
+    <string name="common_offline">Nejste připojeni k internetu</string>
+    <string name="common_on">Zapnuto</string>
+    <string name="common_open">Otevřít</string>
+    <string name="common_open_on_phone">Otevřít v telefonu</string>
+    <string name="common_open_source_licenses">Licence open source</string>
+    <string name="common_pause">Pozastavit</string>
+    <string name="common_people_settings_title">Kontakty</string>
+    <string name="common_permissions_enable_in_settings">Povolit v Nastavení</string>
+    <string name="common_permissions_missing_end">Chcete-li pokračovat, otevřete Nastavení a v sekci Oprávnění povolte všechny uvedené položky.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Chcete-li služby aktivovat, přejděte do 
+Nastavení >
+Oprávnění >
+Služby Google Play"</string>
+    <string name="common_permissions_missing_start">Ke spuštění této aplikace je třeba povolit žádost služeb Google Play o přístup k následujícím funkcím:</string>
+    <string name="common_permissions_open_settings">Otevřít nastavení</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_play">Přehrát</string>
+    <string name="common_privacy_policy">Zásady ochrany soukromí</string>
+    <string name="common_privacy_policy_composed_string">Zásady ochrany soukromí</string>
+    <string name="common_refresh">Obnovit</string>
+    <string name="common_remove">Odstranit</string>
+    <string name="common_reply">Odpovědět</string>
+    <string name="common_restore">Obnovit</string>
+    <string name="common_retry">Zkusit znovu</string>
+    <string name="common_save">Uložit</string>
+    <string name="common_saved">Uloženo</string>
+    <string name="common_saving">Ukládání…</string>
+    <string name="common_search_settings_title">Vyhledávání</string>
+    <string name="common_security_ootp_setting_title">Bezpečnostní kód</string>
+    <string name="common_select">Vybrat</string>
+    <string name="common_send">Odeslat</string>
+    <string name="common_sending">Odesílání...</string>
+    <string name="common_set_up_nearby_device_settings_title">Nastavení zařízení v okolí</string>
+    <string name="common_settings">Nastavení</string>
+    <string name="common_share">Sdílet</string>
+    <string name="common_sign_in">Přihlásit se</string>
+    <string name="common_signin_button_text">Přihlásit se</string>
+    <string name="common_signin_button_text_long">Přihlásit se k účtu Google</string>
+    <string name="common_skip">Přeskočit</string>
+    <string name="common_skip_fingerprint">Použít zámek obrazovky</string>
+    <string name="common_something_went_wrong">Něco se pokazilo</string>
+    <string name="common_system_info">Informace o systému</string>
+    <string name="common_system_info_composed_string">informace o vašem účtu a systému</string>
+    <string name="common_take_photo_label">Vyfotit</string>
+    <string name="common_terms_of_service">Smluvní podmínky</string>
+    <string name="common_terms_of_service_composed_string">Smluvní podmínky</string>
+    <string name="common_today">Dnes</string>
+    <string name="common_try_again">Zkusit znovu</string>
+    <string name="common_turn_on">Zapnout</string>
+    <string name="common_turn_on_bluetooth">Zapnout Bluetooth</string>
+    <string name="common_turn_on_nfc">Zapnout NFC</string>
+    <string name="common_ui_confirm_deleting_button">Smazat</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ano, smazat</string>
+    <string name="common_unknown">Neznámé</string>
+    <string name="common_update">Aktualizovat</string>
+    <string name="common_url_load_unsuccessful_message">Zařízení Android není připojeno k datové službě. Chcete-li zobrazit tyto informace, přejděte ve webovém prohlížeči na adresu %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Zařízení Android není připojeno k síti Wi-Fi. Chcete-li tyto informace zobrazit, přejděte ve webovém prohlížeči na adresu %s.</string>
+    <string name="common_usage_and_diagnostics">Využití a diagnostika</string>
+    <string name="common_view">Zobrazit</string>
+    <string name="common_yesterday">Včera</string>
+    <string name="continue_to_login_heading">Přihlaste se prosím.</string>
+    <string name="continue_to_login_text">Identifikační údaje byly uděleny. Přihlaste se k prvnímu zařízení.</string>
+    <string name="description_fingerprint_icon">Ikona otisku prstu</string>
+    <string name="download_msg_error_invalid">Stažení bylo nakonfigurováno nesprávně.</string>
+    <string name="download_msg_in_progress">Stahování probíhá.</string>
+    <string name="download_msg_not_allowed_space">Ke stažení není k dispozici dostatek místa.</string>
+    <string name="download_msg_pending">Stahování čeká na vyřízení.</string>
+    <string name="download_notification_description">Toto požaduje balíček %1$s.</string>
+    <string name="download_notification_title">Načítání dalších dat</string>
+    <string name="expand_button_title">Rozšířené</string>
+    <string name="fido_ble_device_icon_content_description">Bylo zjištěno zařízení Bluetooth</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Podržte tlačítko na klíči po dobu alespoň 5 sekund a přejděte tak do režimu párování.</string>
+    <string name="fido_ble_dont_see_your_key_hint">Klíč nemůžete najít?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Bezpečnostní klíč funguje, pouze když je v zařízení zapnuto Bluetooth a určování polohy</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Bezpečnostní klíč funguje, pouze když je v zařízení zapnuto Bluetooth</string>
+    <string name="fido_ble_enable_body_location_only">Bezpečnostní klíč funguje, pouze když je v zařízení zapnuto určování polohy</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Zapnout Bluetooth a určování polohy</string>
+    <string name="fido_ble_enable_title_location_only">Zapnout určování polohy</string>
+    <string name="fido_ble_instructions_body">Většinu klíčů lze použít klepnutím na tlačítko</string>
+    <string name="fido_ble_locate_pin_body">Kód PIN pro párování má obvykle 4 nebo 6 číslic a bývá uveden na zadní části klíče. Pokračujte, až budete připraveni zadat kód PIN.</string>
+    <string name="fido_ble_locate_pin_title">Vyhledejte kód PIN pro párování klíče %1$s přes Bluetooth</string>
+    <string name="fido_ble_pair_device_pairing">Párování bezpečnostního klíče...</string>
+    <string name="fido_ble_pair_instructions_body">Spárujte klíč s tímto zařízením, abyste jej mohli používat se svým účtem.</string>
+    <string name="fido_ble_pair_instructions_title">Jste připraveni spárovat bezpečnostní klíč?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Přepněte klíč zpět do režimu párování</string>
+    <string name="fido_ble_pairing_mode_body">Podržte tlačítko na bezpečnostním klíči po dobu alespoň 5 sekund.</string>
+    <string name="fido_ble_pairing_mode_title">Přechod do režimu párování</string>
+    <string name="fido_ble_select_device_body">V seznamu níže vyberte bezpečnostní klíč, který chcete se zařízením spárovat. Název bývá vytištěn na zadní straně klíče.</string>
+    <string name="fido_ble_select_device_title">Vyberte bezpečnostní klíč</string>
+    <string name="fido_instructions_title">Povolit použití bezpečnostního klíče?</string>
+    <string name="fido_nfc_enable_body">Bezpečnostní klíč funguje, když je v zařízení zapnutá funkce NFC</string>
+    <string name="fido_nfc_instructions_body">Přiložte klíč celou plochou k zadní straně zařízení, dokud zařízení nepřestane vibrovat.</string>
+    <string name="fido_paask_body">Zařízení v okolí se pokouší přihlásit k vašemu účtu Google</string>
+    <string name="fido_paask_chip">uzivatel@gmail.com</string>
+    <string name="fido_paask_footer">Toto je rozšířená ochrana při přihlašování, která funguje na principu šifrovaného připojení Bluetooth k zařízení v okolí.</string>
+    <string name="fido_paask_header">Pokoušíte se přihlásit ze zařízení v okolí?</string>
+    <string name="fido_paask_no_text">Ne, nejsem to já</string>
+    <string name="fido_paask_yes_text">Ano, jsem to já</string>
+    <string name="fido_pair_another_security_key">Spárovat jiný bezpečnostní klíč</string>
+    <string name="fido_processing">Ověřování bezpečnostního klíče...</string>
+    <string name="fido_transport_selection_bluetooth">Používat bezpečnostní klíč s rozhraním Bluetooth</string>
+    <string name="fido_transport_selection_body">Bezpečnostní klíče fungují s rozhraními Bluetooth, NFC a USB. Určete, jakým způsobem chcete klíč používat.</string>
+    <string name="fido_transport_selection_fingerprint">Používat bezpečnostní klíč s otiskem prstu</string>
+    <string name="fido_transport_selection_nfc">Používat bezpečnostní klíč s funkcí NFC</string>
+    <string name="fido_transport_selection_title">Určete, jakým způsobem chcete bezpečnostní klíč používat</string>
+    <string name="fido_transport_selection_usb">Používat bezpečnostní klíč s rozhraním USB</string>
+    <string name="fido_usb_instructions_body">Zapojte bezpečnostní klíč do portu USB nebo jej připojte pomocí kabelu USB. Pokud je klíč opatřen tlačítkem nebo zlatým diskem, teď na něj klepněte.</string>
+    <string name="fido_use_ble_instead">Používat bezpečnostní klíč s rozhraním Bluetooth</string>
+    <string name="fido_use_fp_instead">Používat bezpečnostní klíč s otiskem prstu</string>
+    <string name="fido_use_nfc_instead">Používat bezpečnostní klíč s funkcí NFC</string>
+    <string name="fido_use_usb_instead">Používejte bezpečnostní klíč s rozhraním USB</string>
+    <string name="fido_welcome_body">Používejte bezpečnostní klíč s %1$s a pomozte tak ochránit svá soukromá data.</string>
+    <string name="fido_welcome_title">Použití bezpečnostního klíče s %1$s</string>
+    <string name="fingerprint_description">%1$s potřebuje ověřit vaši identitu. Použijte otisk prstu.</string>
+    <string name="fingerprint_no_imprints_description">%1$s chce ověřit vaši identitu pomocí otisku prstu, ale žádný otisk jste do tohoto zařízení zatím nepřidali.</string>
+    <string name="fingerprint_not_recognized">Otisk nerozpoznán. Zkuste to znovu.</string>
+    <string name="fingerprint_success">Otisk rozpoznán</string>
+    <string name="gcm_fallback_notification_channel_label">Různé</string>
+    <string name="google_app_permissions_title">Oprávnění aplikací</string>
+    <string name="google_legal_title">Právní informace společnosti Google</string>
+    <string name="google_play_tos_title">Smluvní podmínky služby Google Play</string>
+    <string name="google_plus_privacy_policy_title">Osobní údaje ve službě Google Plus</string>
+    <string name="google_privacy_policy_title">Zásady ochrany soukromí společnosti Google</string>
+    <string name="google_terms_of_service_title">Smluvní podmínky Google</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Povolit aplikaci přenos přihlašovacích údajů k sítím Wi-Fi do jiného zařízení.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Přenos přihlaš. údajů k sítím Wi-Fi</string>
+    <string name="no_screen_lock_description">V zařízení bude nutné nejprve nastavit zámek obrazovky</string>
+    <string name="no_screen_lock_title">V telefonu není zámek obrazovky</string>
+    <string name="notification_ticker">Požadován přístup</string>
+    <string name="open_source_activity_prompt_heading">Spustit aplikaci</string>
+    <string name="open_source_activity_prompt_text">"Chcete-li proces ověření dokončit, v telefonu spusťte aplikaci SourceResponseActivity. "</string>
+    <string name="permgrouplab_calendar">Kalendář</string>
+    <string name="permgrouplab_camera">Fotoaparát</string>
+    <string name="permgrouplab_contacts">Kontakty</string>
+    <string name="permgrouplab_location">Poloha</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Tělesné senzory</string>
+    <string name="permgrouplab_storage">Úložiště</string>
+    <string name="permissions_not_granted_text">Chcete-li udělit oprávnění, znovu se přihlaste.</string>
+    <string name="permissions_not_granted_title">Oprávnění nebyla udělena.</string>
+    <string name="plus_manage_app_only_you_label">Pouze vy</string>
+    <string name="plus_network_unreliable">Nelze navázat spolehlivé připojení k serveru.</string>
+    <string name="plus_oob_interstitial_loading_text">Může to trvat několik minut.</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="set_up">NASTAVIT</string>
+    <string name="setupservices_additional_privacy_title">Další informace o ochraně soukromí</string>
+    <string name="setupservices_android_privacy_policy_title">Další zásady ochrany soukromí</string>
+    <string name="setupservices_chrome_privacy_title">Oznámení o ochraně soukromí v Chromu</string>
+    <string name="setupservices_chrome_tos_title">Smluvní podmínky aplikace Chrome</string>
+    <string name="setupservices_google_app_permissions_title">Oprávnění aplikací</string>
+    <string name="setupservices_google_legal_title">Právní informace společnosti Google</string>
+    <string name="setupservices_google_play_tos_title">Smluvní podmínky služby Google Play</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Zásady ochrany soukromí ve službě Google Plus</string>
+    <string name="setupservices_google_privacy_policy_title">Zásady ochrany soukromí Google</string>
+    <string name="setupservices_google_services_agreement">Pokračováním vyjadřujete souhlas s tím, že toto zařízení může také automaticky stahovat a instalovat aktualizace a aplikace od společnosti Google, operátora a výrobce zařízení, a v případě potřeby při tom smí používat mobilní datové připojení. Některé z těchto aplikací mohou nabízet nákupy v aplikaci. Tyto aplikace můžete kdykoliv odstranit.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Chcete-li odstranit aplikace, přejděte do Nastavení > Aplikace nebo Správce aplikací. Poté klepněte na aplikaci, kterou chcete odinstalovat (možná bude třeba aplikacemi listovat doprava či doleva). Následně klepněte na Odinstalovat nebo Deaktivovat.</string>
+    <string name="setupservices_google_services_agreement_korea">Dále poskytujete předem načteným aplikacím od Googlu oprávnění k přístupu k údajům a funkcím ve vašem zařízení. Další informace o využití těchto oprávnění naleznete na <annotation link="app_permissions">této stránce</annotation>.</string>
+    <string name="setupservices_google_services_agreement_title">Instalace aktualizací a aplikací</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Když bude úložiště telefonu téměř plné, uvolní se místo odstraněním některých dat (např. zálohovaných fotek a videí).</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">K těmto datům budete mít přístup, když budete připojeni k internetu. Tuto funkci a obsah k odstranění můžete spravovat v Nastavení > Úložiště > Chytré úložiště.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Uvolnit místo</string>
+    <string name="setupservices_google_services_backup">Kdykoliv můžete snadno obnovit svá data nebo přejít na jiný telefon. Záloha zahrnuje aplikace, data aplikací a nastavení zařízení (včetně hesel k sítím Wi-Fi).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Zálohovaná data se do kvóty úložiště na Disku nezapočítávají."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Tuto možnost můžete vypnout v Nastavení.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Fotky a videa na tomto zařízení se synchronizují s vaší knihovnou ve Fotkách Google, abyste je mohli vyhledávat, upravovat, mazat a sdílet ze všech svých zařízení. Ve výchozím nastavení jsou do Fotek Google nahrávány fotky a videa v plném rozlišení.
+
+Zálohovaná data se do kvóty úložiště na Disku nezapočítávají."</string>
+    <string name="setupservices_google_services_backup_title">Zálohovat na Disk Google</string>
+    <string name="setupservices_google_services_backup_v23">Kdykoliv můžete snadno obnovit svá data nebo přejít na jiný telefon. Záloha zahrnuje aplikace, data aplikací, historii volání, kontakty a nastavení zařízení (včetně hesel k sítím Wi-Fi a oprávnění).</string>
+    <string name="setupservices_google_services_backup_v26">Kdykoliv můžete snadno obnovit svá data nebo přejít na jiný telefon. Záloha zahrnuje aplikace, data aplikací, historii volání, kontakty, nastavení zařízení (včetně hesel k sítím Wi-Fi a oprávnění) a SMS.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Kdykoliv můžete snadno obnovit svá data nebo přejít na jiný telefon. Záloha zahrnuje aplikace, data aplikací, historii volání, kontakty a nastavení zařízení (včetně hesel k sítím Wi-Fi a oprávnění), fotky, videa a SMS. Fotky a videa se synchronizují do knihovny Fotek Google a můžete je používat na všech zařízeních.</string>
+    <string name="setupservices_google_services_data_policy">Údaje budou využívány v souladu se <annotation link="google_privacy">zásadami ochrany soukromí</annotation> společnosti Google.</string>
+    <string name="setupservices_google_services_data_policy_korea">Údaje budou využívány v souladu se <annotation link="google_privacy">zásadami ochrany soukromí</annotation> společnosti Google (včetně <annotation link="additional_privacy">shromažďování, ukládání a využití osobních údajů</annotation>) a <annotation link="location_tos">smluvními podmínkami služeb určování polohy</annotation>.</string>
+    <string name="setupservices_google_services_description">Klepnutím zobrazíte další informace o jednotlivých službách, např. jak je později zapnout nebo vypnout. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Podrobnosti o aplikaci, včetně nákupů v aplikaci naleznete v Obchodu Play. Data aplikací a nastavení se budou synchronizovat do zařízení, kde jste přihlášeni pomocí účtu Google. 
+
+Na používání okamžitých aplikací se vztahují "<a href="https://play.google.com/about/play-terms.html">smluvní podmínky služby Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Další informace</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Když klepnete na odkaz, Google Play zkontroluje, zda je k dispozici okamžitá aplikace, a spustí ji bez instalace. Okamžité aplikace jsou v zařízení uloženy dočasně.</string>
+    <string name="setupservices_google_services_instant_apps_title">Aplikace použitelné bez instalace</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Služby určování polohy Google používají zdroje, jako jsou sítě Wi-Fi, mobilní sítě a senzory, pomocí kterých se snaží odhadnout polohu vašeho zařízení.
+
+Určování polohy můžete vypnout tím, že v zařízení deaktivujete hlavní nastavení polohy. V nastavení polohy můžete také vypnout používání sítí Wi-Fi, mobilních sítí a senzorů k určování polohy."</string>
+    <string name="setupservices_google_services_location_sharing_title">Usnadněte aplikacím určování polohy</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Použít polohu</string>
+    <string name="setupservices_google_services_location_sharing_v28">Povolte aplikacím a službám s oprávněním pro přístup k poloze využívat polohu vašeho zařízení. Google může pravidelně shromažďovat údaje o poloze a anonymně je používat ke zlepšování přesnosti polohy a služeb založených na poloze.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Povolte aplikacím a službám vyhledávat sítě Wi-Fi, i když bude připojení Wi-Fi vypnuto.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Tuto možnost můžete vypnout v nastavení polohy.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Zvýšit přesnost určování polohy</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Povolit vyhledávání</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Povolte aplikacím a službám vyhledávat signály Wi-Fi a Bluetooth, i když budou tato nastavení vypnuta.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Povolte aplikacím a službám vždy vyhledávat sítě Wi-Fi a zařízení v okolí (i když budou Wi-Fi a Bluetooth vypnuté).</string>
+    <string name="setupservices_google_services_next_button_label">Souhlasím</string>
+    <string name="setupservices_google_services_play">Informujte mě o novinkách a nabídkách z Google Play.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Zálohování a úložiště</string>
+    <string name="setupservices_google_services_section_device_maintenance">Údržba zařízení</string>
+    <string name="setupservices_google_services_tos">Pokud budete pokračovat, vyjádříte tím souhlas také se <annotation link="tos">smluvními podmínkami společnosti Google</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">Kliknutím na Souhlasím vyjadřujete souhlas s výše popsaným zpracováním údajů pro tyto služby Google.</string>
+    <string name="setupservices_google_services_tos_germany">Když používáte toto zařízení, dodržujeme naše <annotation link="google_privacy">zásady ochrany soukromí</annotation> a <annotation link="tos">další podmínky</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">Pomozte se zlepšením prostředí Androidu tím, že budete do Googlu automaticky odesílat diagnostická data a údaje o využití. Pomohou nám prodloužit životnost baterie, zvýšit stabilitu aplikací, zlepšit připojení k sítím apod. Pokud jste zapnuli další Aktivitu na webu a v aplikacích, uvedené údaje se uloží ve vašem účtu a budete je moci spravovat na stránce Moje aktivita.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Toto jsou obecné informace o vašem zařízení a způsobu jeho používání (např. stav baterie, využití aplikací a připojení k sítím). Data budou využívána k vylepšení služeb a aplikací Google pro všechny uživatele. Některé souhrnné informace pomohou s vylepšením aplikací a služeb také našim partnerům, například vývojářům Androidu.
+
+Vypnutí této funkce nemá vliv na schopnost zařízení odesílat informace, které potřebuje pro základní služby, jako jsou aktualizace systému a zabezpečení."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Nastavení Mojí aktivity lze změnit na adrese myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Tuto funkci můžete ovládat v Nastavení Google. Stačí v nabídce vybrat možnost Využití a diagnostika.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Tuto funkci můžete ovládat v Nastavení > Google. Stačí v nabídce vybrat možnost Využití a diagnostika.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Odesílání údajů o systému</string>
+    <string name="setupservices_google_services_wallpaper_permission">Povolte živým tapetám Google přístup ke službě určování polohy Google, aby mohly reagovat na vaši polohu.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Přístup ke službě určování polohy Google živým tapetám povolíte tak, že přejdete na Nastavení > Aplikace a oznámení > Informace o aplikaci. V rozbalovací nabídce klepněte na Zobrazit systém > Živé tapety – data nebo Živé tapety – Země > Oprávnění.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Umožněte tapetám používat údaj o poloze</string>
+    <string name="setupservices_google_terms_of_service_title">Smluvní podmínky společnosti Google</string>
+    <string name="setupservices_kids_google_services_agreement">Pokračováním vyjadřujete souhlas s tím, že toto zařízení může také automaticky stahovat a instalovat aktualizace a aplikace od společnosti Google, operátora a výrobce zařízení, a v případě potřeby při tom smí používat mobilní datové připojení. Některé z těchto aplikací mohou nabízet nákupy v aplikaci. Tyto aplikace můžete kdykoliv odstranit.</string>
+    <string name="setupservices_kids_google_services_backup">Telefon můžete kdykoli snadno obnovit nebo přejít na jiný. Záloha zahrnuje aplikace, data aplikací a nastavení zařízení (včetně hesel k sítím Wi-Fi).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Zálohovaná data se vašemu dítěti do kvóty úložiště na Disku nezapočítávají."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Fotky a videa z tohoto zařízení se synchronizují do knihovny Fotek Google vašeho dítěte, kde je dítě bude moci vyhledávat, upravovat, mazat a sdílet z libovolného zařízení. Ve výchozím nastavení jsou do Fotek Google nahrávány fotky a videa v plném rozlišení.
+
+Zálohovaná data se vašemu dítěti do kvóty úložiště na Disku nezapočítávají."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Telefon můžete kdykoli snadno obnovit nebo přejít na jiný. Záloha zahrnuje aplikace, data aplikací, historii volání, kontakty a nastavení zařízení (včetně hesel k sítím Wi-Fi a oprávnění).</string>
+    <string name="setupservices_kids_google_services_backup_v26">Telefon můžete kdykoli snadno obnovit nebo přejít na jiný. Záloha zahrnuje aplikace, data aplikací, historii volání, kontakty a nastavení zařízení (včetně hesel k sítím Wi-Fi a oprávnění) a SMS.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Telefon můžete kdykoli snadno obnovit nebo přejít na jiný. Záloha zahrnuje aplikace, data aplikací, historii volání, kontakty a nastavení zařízení (včetně hesel k sítím Wi-Fi a oprávnění), fotky, videa a SMS. Fotky a videa se synchronizují do knihovny Fotek Google vašeho dítěte a lze je používat v různých službách.</string>
+    <string name="setupservices_kids_google_services_description">Jakožto rodič můžete klepnutím zobrazit další informace o jednotlivých službách, např. jak je později zapnout nebo vypnout. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Služby určování polohy Google používají zdroje, jako jsou sítě Wi-Fi, mobilní sítě a senzory, pomocí kterých se snaží odhadnout polohu tohoto zařízení.
+
+Určování polohy můžete vypnout tím, že v zařízení deaktivujete hlavní nastavení polohy. V nastavení polohy můžete také vypnout používání sítí Wi-Fi, mobilních sítí a senzorů k určování polohy."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Povolte aplikacím a službám s oprávněním pro přístup k poloze využívat polohu tohoto zařízení. Google může pravidelně shromažďovat údaje o poloze a anonymně je používat ke zlepšování přesnosti polohy a služeb založených na poloze.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Pomozte se zlepšením prostředí Android tím, že budete do Googlu automaticky odesílat diagnostické údaje a údaje o využití zařízení a aplikací. Tyto údaje nebudou používány ke zjištění totožnosti vašeho dítěte. Pomohou nám prodloužit životnost baterie, zvýšit stabilitu aplikací, zlepšit připojení k sítím apod. Bude-li mít dítě zapnutou ještě Aktivitu na webu a v aplikacích, budou tyto údaje ukládány do účtu dítěte.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Toto jsou obecné informace o tomto zařízení a způsobu jeho používání (např. stav baterie, využití aplikací a připojení k sítím). Data budou využívána k vylepšení služeb a aplikací Google pro všechny uživatele. Některé souhrnné informace pomohou s vylepšením aplikací a služeb také našim partnerům, například vývojářům Androidu.
+
+Vypnutí této funkce nemá vliv na schopnost zařízení odesílat informace, které potřebuje pro základní služby, jako jsou aktualizace systému a zabezpečení."</string>
+    <string name="setupservices_location_tos_title">Smluvní podmínky služeb určování polohy</string>
+    <string name="sid_lsid_grant_detail">Soubory cookie pro identifikaci relace (SID) a místní relace (LSID) slouží podobně jako heslo k přiřazení vaší identity k sérii požadavků prohlížeče. Tyto soubory umožňují úplný přístup ke všem datům v účtu. Tyto soubory mohou legitimně využívat pouze prohlížeče.</string>
+    <string name="sid_lsid_grant_label">Používání souborů cookie SID a LSID k získání přístupu ke všem datům v účtu Google</string>
+    <string name="smartdevice_action_copy">Kopírovat</string>
+    <string name="smartdevice_action_open_app">Do aplikace</string>
+    <string name="smartdevice_action_try_another_way">Zkusit to jinak</string>
+    <string name="smartdevice_action_turn_on_location">Zapnout určování polohy</string>
+    <string name="smartdevice_alert_disconnected_title">Zařízení bylo odpojeno</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Tuto funkci bohužel nemůžete použít, protože záložní účet je spravován administrátorem zařízení.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Funkce není k dispozici</string>
+    <string name="smartdevice_alert_exit_setup_message">Opravdu chcete ukončit nastavování svého druhého zařízení?</string>
+    <string name="smartdevice_alert_exit_setup_title">Ukončit nastavování zařízení?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">K nastavení zařízení potřebujete alespoň jeden účet Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">K nastavení zařízení %s potřebujete alespoň jeden účet Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Žádné účty ke kopírování</string>
+    <string name="smartdevice_alert_quit_button">Ukončit</string>
+    <string name="smartdevice_alert_restart_setup_button">Restartovat nastavení</string>
+    <string name="smartdevice_alert_setup_incomplete">Nastavení nebylo dokončeno</string>
+    <string name="smartdevice_alert_start_over_button">Začít znovu</string>
+    <string name="smartdevice_alert_work_profile_message">Pracovní účty zatím nelze kopírovat. Až zkopírujete ostatní účty a data Google, přejděte v novém zařízení do Nastavení a přidejte pracovní účet.</string>
+    <string name="smartdevice_alert_work_profile_title">Pracovní účty nelze kopírovat</string>
+    <string name="smartdevice_application_label">Nastavení zařízení</string>
+    <string name="smartdevice_choose_device">Vyberte zařízení</string>
+    <string name="smartdevice_companion_app_ready">Aplikace %s je v tomto zařízení již nainstalována.</string>
+    <string name="smartdevice_connect_to_wifi">Připojte zařízení</string>
+    <string name="smartdevice_connection_error">Při připojování ke druhém zařízení došlo k problému</string>
+    <string name="smartdevice_connection_error_title">Nelze se připojit</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Připojování k vašemu zařízení…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Zkopírovat vaše účty Google i další účty a obnovit zálohu z Disku Google, je-li k dispozici</string>
+    <string name="smartdevice_d2d_copy_account_text">Zkopírovat vaše účty Google a obnovit zálohu z Disku Google, je-li k dispozici</string>
+    <string name="smartdevice_d2d_copy_account_title">Kopírovat do druhého zařízení?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Nerozpoznáno</string>
+    <string name="smartdevice_d2d_fingerprint_title">Zadejte otisk prstu</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Z bezpečnostních důvodů použijte svůj otisk prstu. Vaše účty Google, aplikace a data budou zkopírovány do zařízení %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Aby nastavení zařízení mohlo pokračovat, odemkněte jej</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Z bezpečnostních důvodů budete moci v nastavování pokračovat až poté, co zadáte zámek obrazovky.</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Druhé zařízení není možné nastavit, protože vaše zařízení nemá k dispozici Bluetooth.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Tato funkce byla z bezpečnostních důvodů vypnuta. Klepněte na svém druhém zařízení na možnost Přeskočit a pokračujte v nastavení.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Nastavení nového zařízení</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Nastavení zařízení</string>
+    <string name="smartdevice_d2d_source_notification_title">Nastavování zařízení ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Restartujte nastavení a vyberte své zařízení ^1, aby byly vaše účty Google, aplikace a data kopírovány do správného zařízení.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Nevidíte kód?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Nové zařízení není možné nastavit z omezeného uživatelského profilu.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Pokračujte v nastavování na zařízení %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Téměř hotovo!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Zkopírujte data z jiného zařízení Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, pokračovat v nastavení tohoto zařízení</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Kopírovat vaše účty Google, aplikace a data z jiného zařízení</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Kopírování účtů…</string>
+    <string name="smartdevice_d2d_target_description">1. Řekněte &lt;b>„&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>“&lt;/b> nebo napište „&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>“ a klepnutím příkaz potvrďte.&lt;br/>&lt;br/> 2. V seznamu klepněte na &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> a postupujte podle pokynů na obrazovce.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Zkuste to jinak</string>
+    <string name="smartdevice_d2d_target_google_settings_description">V druhém zařízení postupujte takto:&lt;br/>&lt;br/> 1. Spusťte aplikaci &lt;b>Nastavení Google&lt;/b>.&lt;br/>&lt;br/> 2. Vyberte &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Nastavení zařízení v okolí>%1$s&lt;/xliff:g>&lt;/b>. &lt;br/>&lt;br/> 3. V seznamu klepněte na zařízení &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> a pokračujte podle pokynů na obrazovce.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Postup nelze dokončit</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Použijte aplikaci Nastavení</string>
+    <string name="smartdevice_d2d_target_help_text">Máte potíže?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Nemůžete ji najít?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">V druhém zařízení spusťte aplikaci Google</string>
+    <string name="smartdevice_d2d_target_instruction_description">Spusťte aplikaci Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">Na druhém zařízení</string>
+    <string name="smartdevice_d2d_target_other_device_description">Veškerá zařízení Android již aplikaci Google mají předinstalovanou. Zobrazte všechny aplikace a potom najděte výše uvedenou ikonu Google.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Tento kód by měl odpovídat kódu na vašem druhém zařízení:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Nepřeskakovat</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Tento účet a zálohované aplikace nebudou zkopírovány do tohoto zařízení.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Přeskočit</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Přeskočit tento účet?</string>
+    <string name="smartdevice_d2d_target_title">V aplikaci Google</string>
+    <string name="smartdevice_do_disclosure_generic">Data nelze přenést</string>
+    <string name="smartdevice_do_unsupported_message">Data ze spravovaných zařízení nelze přenést</string>
+    <string name="smartdevice_install_app">Nainstalujte si aplikaci</string>
+    <string name="smartdevice_install_app_reason">Pokud chcete své nové zařízení %2$s ovládat a spravovat z tohoto zařízení, nainstalujte si aplikaci %1$s</string>
+    <string name="smartdevice_look_for_other_device">Tento název vyhledejte ve druhém zařízení</string>
+    <string name="smartdevice_magicwand_cancel_signin">Nepřihlašovat se</string>
+    <string name="smartdevice_magicwand_confirm_signin">Bylo zahájeno přihlašování</string>
+    <string name="smartdevice_magicwand_consent_detail">Dokončete přihlašování do jiného zařízení klepnutím na <b>Přihlásit se</b>.</string>
+    <string name="smartdevice_magicwand_consent_title">Dokončete přihlašování</string>
+    <string name="smartdevice_magicwand_error_detail">Přihlášení k účtu Google z tohoto telefonu se z nějakého důvodu nezdařilo.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Naskenovali jste QR kód za účelem přihlášení k účtu.
+
+Z bezpečnostních důvodů pomocí otisku prstu potvrďte, že se do jiného zařízení přihlašujete vy."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Tento krok navíc pomáhá ověřit, že se jedná o zabezpečené zařízení.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Naskenovali jste QR kód za účelem přihlášení k účtu.
+
+Z bezpečnostních důvodů pomocí gesta zámku obrazovky potvrďte, že se do jiného zařízení přihlašujete vy."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">a pokračujte do prohlížeče</string>
+    <string name="smartdevice_magicwand_success_detail">Vraťte se do prohlížeče na svém druhém zařízení.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Ve druhém zařízení vyhledejte tyto tvary</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Ověření tvarů</string>
+    <string name="smartdevice_problem_copying">Při kopírování dat do druhého zařízení došlo k problému</string>
+    <string name="smartdevice_problem_copying_title">Data nelze zkopírovat</string>
+    <string name="smartdevice_search_again">Hledat znovu</string>
+    <string name="smartdevice_searching_for_devices">Vyhledávání zařízení</string>
+    <string name="smartdevice_setup_google_app_trigger">Nastavit zařízení</string>
+    <string name="smartdevice_setup_info_installing_app">Instalace aplikace…</string>
+    <string name="smartdevice_setup_intro_text">Při nastavování druhého zařízení se použije Bluetooth vašeho telefonu a vaše data připojení Wi-Fi</string>
+    <string name="smartdevice_setup_intro_text_nfc">Při nastavování druhého zařízení se použije Bluetooth vašeho telefonu</string>
+    <string name="smartdevice_setup_intro_title">Začínáme</string>
+    <string name="smartdevice_setup_password_hint">Zadejte heslo k síti Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Zobrazit heslo</string>
+    <string name="smartdevice_setup_title_verify_code">Ověřit kód</string>
+    <string name="smartdevice_target_hotphrase_instructions">Směrem ke druhém zařízení řekněte &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> Případně do vyhledávacího pole zadejte &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b>.</string>
+    <string name="smartdevice_type_typing_ok_google">Pokud hlasový příkaz nefunguje, napište ho prosím do vyhledávacího pole. Zadejte &lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>.</string>
+    <string name="smartdevice_verify_device">Ověření zařízení</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Pro konfiguraci tohoto zařízení lze použít pouze otevřené sítě a sítě WPA/WPA2</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Síť Wi-Fi nelze použít</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Chcete-li vyhledat sítě Wi-Fi, zapněte určování polohy.
+
+Určování polohy můžete kdykoliv změnit v Nastavení."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Sítě Wi-Fi nelze vyhledat</string>
+    <string name="storage_management_wear_descriptive_text">Aplikace ke zkopírování dat do přenosné aplikace používají úložiště vašeho zařízení.</string>
+    <string name="storage_management_wear_manage_size_label">Spravovat přenosné úložiště</string>
+    <string name="storage_management_wear_size_label">Přenosné úložiště</string>
+    <string name="storage_managment_all_storage_descriptive_text">Celková velikost dat využitých službami Google Play, včetně vyhledávače a dalších údajů.</string>
+    <string name="storage_managment_clear_all_data">Vymazat všechna data</string>
+    <string name="storage_managment_computing_size">Probíhá výpočet…</string>
+    <string name="storage_managment_icing_size_label">Data vyhledávání</string>
+    <string name="storage_managment_manage_icing_button">Spravovat data vyhledávání</string>
+    <string name="storage_managment_search_index_descriptive_text">Ve vašem zařízení zrychlujeme vyhledávání tím, že aplikacím poskytujeme vyhledávač, který mohou používat.</string>
+    <string name="storage_managment_title">Úložiště služeb Google Play</string>
+    <string name="storage_managment_total_size_label">Celková velikost úložiště</string>
+    <string name="suw_back_button_label">Zpět</string>
+    <string name="suw_more_button_label">Další</string>
+    <string name="suw_next_button_label">Další</string>
+    <string name="uncertified_notification_expired_content">Služby a aplikace Google již v tomto zařízení nefungují. Klepnutím zobrazíte další informace.</string>
+    <string name="uncertified_notification_expired_title">Platnost registrace skončila</string>
+    <string name="uncertified_notification_expiring_title">Končí platnost registrace</string>
+    <string name="use_nearby_device_heading">Použít zařízení v okolí?</string>
+    <string name="use_nearby_device_text">Chcete k poskytnutí identifikačních údajů použít zařízení v okolí?</string>
+    <string name="v7_preference_off">VYP</string>
+    <string name="v7_preference_on">ZAP</string>
+    <string name="verify_your_identity_description">%1$s potřebuje ověřit vaši identitu.</string>
+    <string name="verify_your_identity_title">Ověření identity</string>
+    <string name="waiting_for_account_info_text">Čekání na informace o účtu…</string>
+</resources>

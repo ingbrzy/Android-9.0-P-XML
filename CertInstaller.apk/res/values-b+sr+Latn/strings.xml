@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Program za instaliranje sertifikata</string>
+    <string name="pick_file_title">Izbor sertifikata</string>
+    <string name="pkcs12_password_dialog_title">Izdvajanje sertifikata</string>
+    <string name="extracting_pkcs12">Izdvajanje...</string>
+    <string name="pkcs12_file_password_dialog_title">Izdvajanje iz datoteke %s</string>
+    <string name="name_credential_dialog_title">Imenovanje sertifikata</string>
+    <string name="credential_name">Naziv sertifikata:</string>
+    <string name="credential_password">Unesite lozinku da biste izdvojili sertifikate.</string>
+    <string name="credential_info">Paket obuhvata:</string>
+    <string name="p12_description">Sertifikati u PKCS12 skladištu za ključ.</string>
+    <string name="one_userkey">ključ za jednog korisnika</string>
+    <string name="one_usercrt">sertifikat za jednog korisnika</string>
+    <string name="one_cacrt">jedan CA sertifikat</string>
+    <string name="n_cacrts">%d CA sertifikati</string>
+    <string name="password_error">Unesite tačnu lozinku.</string>
+    <string name="password_empty_error">Unesite lozinku.</string>
+    <string name="name_empty_error">Unesite ime.</string>
+    <string name="name_char_error">Unesite ime sastavljeno samo od slova i brojeva.</string>
+    <string name="unable_to_save_cert">Nije moguće sačuvati sertifikat. Skladište akreditiva nije omogućeno ili nije pravilno pokrenuto.</string>
+    <string name="cert_not_saved">Sertifikat nije instaliran.</string>
+    <string name="no_cert_to_saved">Nema sertifikata za instaliranje.</string>
+    <string name="invalid_cert">Sertifikat je nevažeći.</string>
+    <string name="cert_is_added">%s je instaliran.</string>
+    <string name="cert_too_large_error">Instalacija nije moguća jer je sertifikat prevelik.</string>
+    <string name="cert_missing_error">Instalacija nije moguća jer nije moguće pronaći datoteku sertifikata.</string>
+    <string name="cert_read_error">Instalacija nije moguća jer nije moguće čitati datoteku sertifikata.</string>
+    <string name="no_cert_file_found">U USB memoriji nije pronađena nijedna datoteka sa sertifikatom.</string>
+    <string name="sdcard_not_present">USB memorija nije dostupna.</string>
+    <string name="only_primary_user_allowed">Samo vlasnik ovog uređaja može da instalira sertifikate.</string>
+    <string name="credential_usage_label">Korišćenje akreditiva:</string>
+    <string name="certificate_capabilities_warning">Napomena: Izdavalac ovog sertifikata može da nadgleda sav saobraćaj do i sa uređaja.</string>
+    <string name="wifi_title">Profil za Wi-Fi</string>
+    <string name="wifi_detail_title">Detalji za %s</string>
+    <string name="wifi_detail_label">Detalji</string>
+    <string name="wifi_install_label">Instaliraj</string>
+    <string name="wifi_installing_label">Instalira se</string>
+    <string name="wifi_cancel_label">Otkaži</string>
+    <string name="wifi_dismiss_label">Odbaci</string>
+    <string name="wifi_no_config">Ništa</string>
+    <string name="wifi_config_text">"Naziv: %1$s
+Puno ime domena: %2$s
+Konzorcijumi za roming: %3$s
+Imenovana oblast: %4$s
+Metod potvrde autentičnosti: EAP-%5$s
+"</string>
+    <string name="wifi_ttls_config_text">"Korisničko ime: %s
+"</string>
+    <string name="wifi_tls_config_text">"Sertifikat klijenta:
+%1$s
+Ključ: %2$s
+"</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_trust_config_text">"Pouzdani sertifikat:
+%s
+"</string>
+    <string name="install_done_title">Akreditiv je instaliran</string>
+    <string name="install_done">Akreditiv za %1$s je dodat u sačuvane Wi-Fi mreže.</string>
+    <string name="done_label">GOTOVO</string>
+    <string name="wifi_installer_detail">Instalirajte akreditiv za Wi-Fi da biste se povezali na mreže dostupne preko %1$s.</string>
+    <string name="wifi_installer_download_error">Postoje problemi u preuzetoj datoteci i ona ne može da se instalira. Proverite da li ste datoteku preuzeli iz odgovarajućeg izvora.</string>
+    <string name="wifi_installer_fail">Instaliranje akreditiva za Wi-Fi nije moguće. Pokušajte da ponovo preuzmete datoteku.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Instalacija je otkazana</string>
+    <string name="wifi_installer_fail_title">Nije moguće instalirati</string>
+    <string name="wifi_installer_fail_no_wifi">Uključite Wi-Fi i pokušajte ponovo.</string>
+</resources>

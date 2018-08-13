@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">수신자 %s명</item>
+        <item quantity="one">수신자 1명</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">수신자 ^1명이 암호화를 지원하지 않는 서비스를 사용합니다. 암호화를 사용하지 않는 경우 전송 중에 다른 사람이 내 메일을 볼 수도 있습니다. ^2</item>
+        <item quantity="one">^1님이 암호화를 지원하지 않는 서비스를 사용합니다. 암호화를 사용하지 않는 경우 전송 중에 다른 사람이 내 메일을 볼 수도 있습니다. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">^1 및 기타 도메인에서 이 메일을 보낼 때 암호화를 지원하지 않았습니다. ^2</item>
+        <item quantity="one">^1에서 이 메일을 보낼 때 암호화를 지원하지 않았습니다. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">이 대화 %1$d개를 보관처리하시겠습니까?</item>
+        <item quantity="one">이 대화를 보관처리하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">이 대화 %1$d개를 삭제하시겠습니까?</item>
+        <item quantity="one">이 대화를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">이 대화 %1$d개의 임시보관 메일을 삭제하시겠습니까?</item>
+        <item quantity="one">이 대화에서 임시보관 메일을 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">대화 &lt;b>%1$d&lt;/b>개를 보관처리함</item>
+        <item quantity="one">대화 &lt;b>%1$d&lt;/b>개를 보관처리함</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">대화 &lt;b>%1$d&lt;/b>개를 삭제함</item>
+        <item quantity="one">대화 &lt;b>%1$d&lt;/b>개를 삭제함</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">라벨을 변경했습니다.</item>
+        <item quantity="one">라벨을 변경했습니다.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개가 받은편지함으로 이동함</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개가 받은편지함으로 이동함</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">대화 &lt;b>%1$d&lt;/b>개를 숨김</item>
+        <item quantity="one">대화 &lt;b>%1$d&lt;/b>개를 숨김</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">대화 &lt;b>%1$d&lt;/b>개를 중요하지 않음으로 표시함</item>
+        <item quantity="one">대화 &lt;b>%1$d&lt;/b>개를 중요하지 않음으로 표시함</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">대화 &lt;b>%1$d&lt;/b>개의 스팸해제를 요청함</item>
+        <item quantity="one">대화 &lt;b>%1$d&lt;/b>개의 스팸해제를 요청함</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개를 읽은 상태로 표시함</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개를 읽은 상태로 표시함</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b>개 대화 %2$s에 다시 알림</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>개 대화 %2$s에 다시 알림</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">대화 &lt;b>%1$d&lt;/b>개를 스팸으로 신고함</item>
+        <item quantity="one">대화 &lt;b>%1$d&lt;/b>개를 스팸으로 신고함</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d개가 스팸 및 수신 거부로 보고되었습니다.</item>
+        <item quantity="one">%1$d개가 스팸 및 수신 거부로 보고되었습니다.</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">다시 알림 &lt;b>%1$d&lt;/b>개 해제됨</item>
+        <item quantity="one">다시 알림 &lt;b>%1$d&lt;/b>개 해제됨</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">대화 %1$d개에 표시된 별표를 취소 중</item>
+        <item quantity="one">대화 %1$d개에 표시된 별표를 취소 중</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d일마다</item>
+        <item quantity="one">매일</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">이 메일은 스팸으로 표시됩니다. 이 &lt;b>%2$d명의 발신자&lt;/b>가 보내는 비슷한 유형의 메일을 더 이상 받지 않으시겠습니까?%1$s</item>
+        <item quantity="one">이 메일은 스팸으로 표시됩니다. %1$s님이 보내는 비슷한 유형의 메일을 더 이상 받지 않으시겠습니까?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">임시보관 메일</item>
+        <item quantity="one">임시보관 메일</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">대화 %1$s개가 완전히 삭제됩니다.</item>
+        <item quantity="one">대화 %1$s개가 완전히 삭제됩니다.</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d회</item>
+        <item quantity="one">; 1회</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">내가 드라이브에서 삽입한 파일에 액세스할 수 있는 권한이 수신자에게 없을 수 있습니다. 이 경우 Google 드라이브 내에서 파일을 공유해야 할 수 있습니다.</item>
+        <item quantity="one">내가 드라이브에서 삽입한 파일에 액세스할 수 있는 권한이 수신자에게 없을 수 있습니다. 이 경우 Google 드라이브 내에서 파일을 공유해야 할 수 있습니다.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">참고: 일부 수신자의 경우 여전히 이 파일에 액세스할 수 있는 권한이 없을 수 있습니다. 이 경우 Google 드라이브 내에서 이 파일을 공유해야 할 수 있습니다.</item>
+        <item quantity="one">참고: 일부 수신자의 경우 여전히 이 파일에 액세스할 수 있는 권한이 없을 수 있습니다. 이 경우 Google 드라이브 내에서 이 파일을 공유해야 할 수 있습니다.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"이 파일을 소유하고 있는 Google Apps 조직에 속하지 않은 수신자(&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>)와 이 파일이 공유됩니다."</item>
+        <item quantity="one">이 파일을 소유하고 있는 Google Apps 조직에 속하지 않은 수신자(&lt;br>&lt;b>%1$s&lt;/b>&lt;br>)와 파일이 공유됩니다.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">수신자 ^1명이 암호화를 지원하지 않는 서비스를 사용합니다. 암호화가 없으면 메일이 전송되는 동안 읽을 수 있습니다. ^2</item>
+        <item quantity="one">^1님이 암호화를 지원하지 않는 서비스를 사용합니다. 암호화가 없으면 메일이 전송되는 동안 읽을 수 있습니다. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d개월마다</item>
+        <item quantity="one">매월</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">새 메일 %1$d개</item>
+        <item quantity="one">새 메일 %1$d개</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">새 메일 %1$d개</item>
+        <item quantity="one">새 메일 %1$d개</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">첨부파일 %1$d개</item>
+        <item quantity="one">첨부파일 %1$d개</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">메일 %1$d개</item>
+        <item quantity="one">메일 %1$d개</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">캘린더가 공유되지 않음</item>
+        <item quantity="one">캘린더가 공유되지 않음</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">반복 횟수 %d번</item>
+        <item quantity="one">반복 횟수 %d번</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d일마다</item>
+        <item quantity="one">%d일마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d개월마다</item>
+        <item quantity="one">%d개월마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d주마다</item>
+        <item quantity="one">%d주마다</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d년마다</item>
+        <item quantity="one">%d년마다</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">검색결과 %d개 로드됨</item>
+        <item quantity="one">검색결과 %d개 로드됨</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">이전 메일 %1$d개 펼치기</item>
+        <item quantity="one">이전 메일 펼치기</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">%d일 전에 다시 알림이 설정됨</item>
+        <item quantity="one">%d일 전에 다시 알림이 설정됨</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">%d시간 전에 다시 알림이 설정됨</item>
+        <item quantity="one">%d시간 전에 다시 알림이 설정됨</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">%d개월 전에 다시 알림이 설정됨</item>
+        <item quantity="one">%d개월 전에 다시 알림이 설정됨</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">%d주 전에 다시 알림이 설정됨</item>
+        <item quantity="one">%d주 전에 다시 알림이 설정됨</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">%d년 전에 다시 알림이 설정됨</item>
+        <item quantity="one">%d년 전에 다시 알림이 설정됨</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">이전 메일 %1$d개 펼침</item>
+        <item quantity="one">이전 메일 1개 펼침</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d일</item>
+        <item quantity="one">1일</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">연결 시 지난 %1$d일 동안의 메일을 다운로드</item>
+        <item quantity="one">연결 시 지난 1일 동안의 메일을 다운로드</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">지난 %1$d일</item>
+        <item quantity="one">지난 1일</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">마감일 - %1$s - 할 일 %2$d개</item>
+        <item quantity="one">마감일 - %1$s - 할 일 %2$d개</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">일</item>
+        <item quantity="one">일</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d주마다 %2$s에</item>
+        <item quantity="one">매주 %2$s에</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d년마다</item>
+        <item quantity="one">매년</item>
+    </plurals>
+</resources>

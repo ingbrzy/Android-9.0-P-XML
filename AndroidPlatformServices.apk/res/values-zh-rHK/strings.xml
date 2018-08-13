@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">瀏覽主頁</string>
+    <string name="abc_action_bar_up_description">向上瀏覽</string>
+    <string name="abc_action_menu_overflow_description">更多選項</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">顯示全部</string>
+    <string name="abc_activitychooserview_choose_application">選擇應用程式</string>
+    <string name="abc_capital_off">關閉</string>
+    <string name="abc_capital_on">開啟</string>
+    <string name="abc_search_hint">搜尋…</string>
+    <string name="abc_searchview_description_clear">清除查詢</string>
+    <string name="abc_searchview_description_query">搜尋查詢</string>
+    <string name="abc_searchview_description_search">搜尋</string>
+    <string name="abc_searchview_description_submit">提交查詢</string>
+    <string name="abc_searchview_description_voice">語音搜尋</string>
+    <string name="abc_shareactionprovider_share_with">分享對象</string>
+    <string name="abc_shareactionprovider_share_with_application">使用「%s」分享</string>
+    <string name="abc_toolbar_collapse_description">收合</string>
+    <string name="account_blocked_title">帳戶已被封鎖</string>
+    <string name="account_level_title">需要帳戶操作</string>
+    <string name="account_removed_notification_text">裝置管理未完成，%1$s 已移除</string>
+    <string name="account_removed_notification_title">帳戶已移除</string>
+    <string name="android_privacy_policy_title">其他私隱權政策</string>
+    <string name="app_level_title">登入要求</string>
+    <string name="app_level_title_secondary">%s 提出登入要求</string>
+    <string name="audience_selection_done">完成</string>
+    <string name="auth_account_already_has_gmail">帳戶已建立 Gmail。</string>
+    <string name="auth_account_content_provider_label">Google 帳戶資料</string>
+    <string name="auth_account_module_display_name">Google 帳戶</string>
+    <string name="auth_account_removed_default_description">未完成裝置管理功能設定。%1$s</string>
+    <string name="auth_account_removed_default_title">已取消設定</string>
+    <string name="auth_account_removed_dm_bad_result_description">無法完成裝置管理功能設定。%1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">您的網域需要流動裝置管理，但這部裝置不支援此功能。請嘗試使用其他帳戶。</string>
+    <string name="auth_account_removed_dm_not_supported_title">不支援裝置管理</string>
+    <string name="auth_account_removed_dm_setup_failed_description">未正確安裝裝置管理功能。%1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">安裝時發生問題</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">已取消設定</string>
+    <string name="auth_account_removed_restricted_by_admin_description">此裝置只能有一個客戶帳戶。如有任何問題，請聯絡您機構的管理員。</string>
+    <string name="auth_account_removed_restricted_by_admin_title">客戶帳戶已存在</string>
+    <string name="auth_account_settings_title">帳戶設定</string>
+    <string name="auth_account_setup_title">Google 帳戶</string>
+    <string name="auth_account_start_over_and_signin_again">請重新開始並再次登入帳戶。</string>
+    <string name="auth_account_state_sync_title">帳戶狀態同步</string>
+    <string name="auth_allow_external_site_access">可持續存取您在 %s 的資料</string>
+    <string name="auth_app_permission_ok_footnote">如果繼續，即表示您允許這個應用程式和 Google 根據各自的服務條款和私隱權政策使用您的資料。</string>
+    <string name="auth_cant_add_work_account_message">此類型的帳戶由您的機構管理。</string>
+    <string name="auth_captcha_instructions">輸入這裡顯示的文字：</string>
+    <string name="auth_captcha_title">要輸入 Captcha</string>
+    <string name="auth_common_downloading">正在下載…</string>
+    <string name="auth_common_go_back">返回</string>
+    <string name="auth_common_switch_accounts">切換帳戶</string>
+    <string name="auth_communicating_message">您的裝置正在聯絡 Google，以將資料儲存到您的帳戶。這最多需時 5 分鐘。</string>
+    <string name="auth_confirm_creds_sync_title">憑證狀態</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">上鎖並驗證</string>
+    <string name="auth_d2d_source_copy_notice">要複製帳戶和資料到您的其他裝置嗎？</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">驗證後，藍牙將啟用，以便您的裝置透過藍牙通訊。</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">驗證後，您的裝置將透過藍牙連接。</string>
+    <string name="auth_d2d_source_lock_notice">如果繼續，您的螢幕將上鎖，您需要解鎖才能驗證。</string>
+    <string name="auth_d2d_source_no_accounts_toast">此裝置尚未設定帳戶，因此無法使用 Tap &amp; Go 功能。</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">裝置不支援藍牙，因此無法使用 Tap &amp; Go 功能。</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">藍牙將啟用，以便您的裝置透過藍牙通訊。</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">這樣做會啟用藍牙。</string>
+    <string name="auth_d2d_source_notification_title">Tap &amp; Go 完成</string>
+    <string name="auth_d2d_source_restricted_user_toast">無法透過受限的使用者設定檔執行感應還原。</string>
+    <string name="auth_d2d_source_title">還原帳戶</string>
+    <string name="auth_d2d_source_unknown_device_name">不明裝置</string>
+    <string name="auth_d2d_target_tap_progress_message">如要繼續，請在另一部裝置上輕按 [確定]</string>
+    <string name="auth_d2d_target_unlock_progress_message">檢查您的其他裝置</string>
+    <string name="auth_d2d_target_wait_progress_message">正在取得帳戶及資料…</string>
+    <string name="auth_device_management_download_app_icon">「%s」應用程式圖示</string>
+    <string name="auth_device_management_download_description">您必須設定流動裝置管理功能，才能使用此帳戶。請安裝「^1」應用程式，以執行帳戶要求的安全政策。</string>
+    <string name="auth_device_management_download_description_kids">如要在此裝置上新增帳戶，請先安裝「<b>^1</b>"」。
+
+「^1」可協助您為子女設定此裝置。"</string>
+    <string name="auth_device_management_download_failed_message">即使您無法使用此應用程式，仍可繼續設定</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">無法安裝裝置管理應用程式。系統將移除此帳戶，請稍後再試。</string>
+    <string name="auth_device_management_download_failed_title">無法下載應用程式</string>
+    <string name="auth_device_management_download_not_updated_message">您仍可使用目前的版本繼續設定</string>
+    <string name="auth_device_management_download_paused">已暫停</string>
+    <string name="auth_device_management_download_progress">正在下載…</string>
+    <string name="auth_device_management_download_skip_message">您必須設定裝置管理功能，才能使用此帳戶。要略過或取消設定，並繼續操作嗎？</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">您必須設定裝置管理功能，才能新增此帳戶。要使用另一個帳戶重新開始嗎？</string>
+    <string name="auth_device_management_go_back">返回</string>
+    <string name="auth_device_management_screenlock_description">根據您機構的流動裝置政策，如要在此裝置存取工作帳戶，您需要設定螢幕鎖定功能。</string>
+    <string name="auth_device_management_screenlock_skip_message">這個帳戶需要啟用螢幕鎖定功能。您要切換至另一個帳戶嗎？</string>
+    <string name="auth_device_management_setup_work_profile_description">"您的工作設定檔是由您機構所管理，可讓工作應用程式保持獨立。
+
+如要完成設定，您必須向 IT 管理員取得代碼。IT 管理員將下載及使用管理工具以管理您的工作設定檔。"</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"您的工作設定檔是由您機構所管理，可讓工作應用程式保持獨立。
+
+IT 管理員將下載及使用管理工具以管理您的工作設定檔。"</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">設定您的工作設定檔</string>
+    <string name="auth_device_management_start_description">您必須設定流動裝置管理功能，才能使用此帳戶。輕按 [下一步] 後，「^1」應用程式便會協助您執行帳戶要求的安全政策。</string>
+    <string name="auth_device_management_start_description_kids">如要在此裝置上新增帳戶，請使用「<b>^1</b>"」。
+
+「^1」可協助您為子女設定此裝置。"</string>
+    <string name="auth_device_management_title">裝置管理</string>
+    <string name="auth_device_management_update_description">您必須設定流動裝置管理功能，才能使用此帳戶。為符合與此帳戶關聯的安全政策規定，您必須安裝新版的「^1」應用程式。</string>
+    <string name="auth_device_management_update_description_kids">如要在此裝置上新增帳戶，請先安裝最新版的「<b>^1</b>"」。
+
+「^1」可協助您為子女設定此裝置。"</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> 並未使用 Gmail。</string>
+    <string name="auth_error_account_disabled">"這個帳戶已被停用。
+
+(如要瞭解詳情，請使用瀏覽器前往 http://google.com/accounts。)"</string>
+    <string name="auth_error_account_not_verified">"這個帳戶尚未通過驗證。請檢查您的電子郵件，並使用內附連結完成帳戶驗證。
+
+(如要復原帳戶資訊，請在電腦上前往 http://www.google.com/accounts/recovery)。"</string>
+    <string name="auth_error_bad_password">密碼強度太弱或包含無效的字元。請再試一次。</string>
+    <string name="auth_error_bad_username">使用者名稱無效。</string>
+    <string name="auth_error_generic_server_error">"與 Google 伺服器連線時發生問題。
+
+請稍後再試。"</string>
+    <string name="auth_error_invalid_second_factor">使用應用程式專用密碼，而非一般帳戶密碼。</string>
+    <string name="auth_error_login_failed">"您的使用者名稱和密碼不符，請再試一次。
+
+如要復原帳戶資訊，請前往 google.com/accounts/recovery/。"</string>
+    <string name="auth_error_needs_browser">您必須在網上登入，方可存取您的帳戶。輕按 [繼續] 即可啟動瀏覽器並登入。</string>
+    <string name="auth_error_no_network">"您沒有網絡連線。
+
+這可能是暫時性問題。請重試或連至其他 Wi-Fi 網絡。"</string>
+    <string name="auth_error_not_logged_in">使用者尚未登入。</string>
+    <string name="auth_error_username_unavailable">使用者名稱無法使用。</string>
+    <string name="auth_existing_account_error_text">這部 Android 裝置中已經有 ^1 帳戶。</string>
+    <string name="auth_existing_account_error_title">帳戶已存在</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">最近已變更密碼，因此無法登入裝置。請於密碼變更後 24 小時再次嘗試登入。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">裝置保護功能將無法使用。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">如將裝置的最後一個 Google 帳戶從個人檔案中移除，裝置防盜功能便會停用。之後如要重新啟用功能，在裝置上新增另一個帳戶即可。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">您確定嗎？</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">將帳戶移至工作檔案？</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">發生不明錯誤，因此無法登入裝置。請嘗試登入另一個帳戶，或於 24 小時後再次嘗試登入。</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">請使用此裝置的其中一個擁有者帳戶登入</string>
+    <string name="auth_field_cant_be_blank">欄位不能留空。</string>
+    <string name="auth_frp_add_account_no">使用新帳戶</string>
+    <string name="auth_frp_add_account_prompt">此裝置先前的 Google 帳戶已通過驗證。您可將 ^1 重新加入此裝置，也可以使用新帳戶。</string>
+    <string name="auth_frp_add_account_yes">加入先前的帳戶</string>
+    <string name="auth_frp_device_managed_label">此裝置已設定由您的機構管理。</string>
+    <string name="auth_frp_download_management_app_label">您必須下載裝置管理應用程式，才能繼續完成設定程序。</string>
+    <string name="auth_frp_enter_device_credentials_label">切換至管理員模式</string>
+    <string name="auth_frp_install_dpc_error">無法安裝管理應用程式。如果您略過此步驟，將無法管理此裝置。</string>
+    <string name="auth_frp_install_dpc_recoverable_error">無法安裝管理應用程式。請檢查網絡連線，然後再試一次。</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">改用我的 Google 帳戶</string>
+    <string name="auth_frp_preadd_lkscreen_text">您的裝置已回復原廠設定，您可以使用先前的密碼解鎖裝置。</string>
+    <string name="auth_frp_preadd_lkscreen_title">回復原廠設定保護</string>
+    <string name="auth_frp_start_reenroll_device_title">您的裝置已啟動</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">無法存取此帳戶。請確定您的裝置符合您機構的安全政策。若您仍然看到此錯誤訊息，請聯絡您機構的管理員。</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">帳戶錯誤</string>
+    <string name="auth_gls_dmagent_activity_download_message">" 您的網域需要流動裝置管理，請安裝「Google Apps 裝置政策」應用程式，以執行帳戶  "<b>^1</b> 所要求的安全政策。</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">下載</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" 只能包含英文字母、
+數字和點號。"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> 並未包含任何字母。</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> 少於 6 個字元或超過 30 個字元。</string>
+    <string name="auth_gls_is_not_available">使用者名稱 <b>^1</b> 無法使用。</string>
+    <string name="auth_gls_name_checking_info_title">正在檢查資料…</string>
+    <string name="auth_gls_sync_item_title">保持%s同步</string>
+    <string name="auth_gls_third_party_activity_download_message">" 必須將帳戶  "<b>^1</b> 新增至由您組織管理的裝置或工作設定檔。請按照您 IT 管理員提供的指示完成操作。</string>
+    <string name="auth_google_title_logo">Google 商標</string>
+    <string name="auth_invalid_login_character">無效字元。只允許使用 0-9、a-z、A-Z 和句點。</string>
+    <string name="auth_invalid_password_character">密碼字元無效。</string>
+    <string name="auth_invalid_username">您輸入的使用者名稱無效。</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">您所輸入的密碼不正確，或者您的帳戶已變更。請重新輸入您的密碼。如果您忘記密碼，並需要復原帳戶，請按一下<annotation id="help_url">這裡</annotation>。</string>
+    <string name="auth_login_task_title">登入緊</string>
+    <string name="auth_login_title">輸入電郵地址和密碼</string>
+    <string name="auth_minutemaid_ssl_error">"連線至  %s 時發生問題。"</string>
+    <string name="auth_network_unreliable_help">這可能是暫時性問題，也可能是您的 Android 裝置無法使用數據服務。如果問題持續發生，請與客戶服務中心聯絡。</string>
+    <string name="auth_no_network">沒有網絡連線。</string>
+    <string name="auth_no_network_help">這可能是暫時性問題，也可能是您的 Android 裝置無法使用數據服務。請在連接流動網絡後再試一次，或者連接到 Wi-Fi 網絡。</string>
+    <string name="auth_no_network_help_wifi_only">這可能是暫時性問題，請再試一次，或連接其他 Wi-Fi 網絡。</string>
+    <string name="auth_otp_error">產生安全碼時發生問題。</string>
+    <string name="auth_otp_explained_paragraph">如果您忘記密碼或登入方式與平時不同，Google 可能會要求您輸入安全碼以確保帳戶安全。您可以立即使用或稍後返回取得新的安全碼。</string>
+    <string name="auth_otp_header_message">可使用此安全碼登入的情況</string>
+    <string name="auth_otp_no_accounts_available_message">尚未在這個裝置上設定帳戶。</string>
+    <string name="auth_otp_progress_dialog_message">產生安全碼。</string>
+    <string name="auth_otp_ten_digit_code_header">您的安全碼</string>
+    <string name="auth_otp_ten_digit_explaination">如果您忘記密碼，或正在從新裝置或位置登入帳戶，系統可能會要求您提供這兩個或其中一個驗證碼，以保護您的 Google 帳戶。</string>
+    <string name="auth_otp_ten_digit_phishing_warning">這些安全碼會在 15 分鐘後或使用後失效。請務必只在網址開頭為「https://accounts.google.com/」的網頁上使用這些安全碼。</string>
+    <string name="auth_otp_ten_digit_usage_header">使用安全碼的時機</string>
+    <string name="auth_otp_ten_digits_code1">安全碼 1</string>
+    <string name="auth_otp_ten_digits_code2">安全碼 2</string>
+    <string name="auth_password">密碼</string>
+    <string name="auth_plus_audience_selection_description_acl">分享對象</string>
+    <string name="auth_plus_info_fragment_app_name">「%s」要求以下權限：</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%2$s 裝置上的「%1$s」要求以下權限：</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">您的延伸社交圈</string>
+    <string name="auth_plus_scope_fragment_mixed_label">已選取的社交圈</string>
+    <string name="auth_plus_scope_fragment_public_label">網絡上的所有人</string>
+    <string name="auth_pre_factory_reset_title">記住您的 Google 帳戶</string>
+    <string name="auth_relogin_activity_title">再次輸入密碼</string>
+    <string name="auth_remove_account_start_over">重新開始</string>
+    <string name="auth_request_accounts_list">獲取裝置上的 Google 帳戶清單。</string>
+    <string name="auth_scope_more_details">更多資訊</string>
+    <string name="auth_server_error">與 Google 伺服器連線時發生問題。</string>
+    <string name="auth_server_error_help">請稍後再試。</string>
+    <string name="auth_setup_wizard_account_added_activity_title">已新增帳戶</string>
+    <string name="auth_setup_wizard_account_added_description">已新增您的帳戶。請繼續選取 Google 服務選項</string>
+    <string name="auth_setup_wizard_services_activity_title">Google 服務</string>
+    <string name="auth_setup_wizard_title">設定精靈</string>
+    <string name="auth_show_error_title">發生錯誤</string>
+    <string name="auth_sign_in_agreement">登入即表示您同意《<annotation id="google_privacy">Google</annotation> 私隱權政策》和<annotation id="android_privacy">其他私隱權政策</annotation>。</string>
+    <string name="auth_sign_in_browser">瀏覽器登入畫面</string>
+    <string name="auth_sign_in_with_google_account_short">使用您的 Google 帳戶登入</string>
+    <string name="auth_submission_error_text">發生錯誤，請再試一次。</string>
+    <string name="auth_submission_title">很抱歉…</string>
+    <string name="auth_ui_activity_authenticating">正在認證…</string>
+    <string name="auth_ui_activity_title">登入 Google</string>
+    <string name="auth_ui_activity_title_browser_signin">登入</string>
+    <string name="auth_ui_add_account_title">帳戶設定</string>
+    <string name="auth_uncertified_notification_description"><b>已購買此裝置的使用者：</b>"
+裝置製造商已預先載入未經 Google 認證的 Google 應用程式和服務。請聯絡製造商，並要求對方提供經 Google 認證的裝置。前往 g.co/AndroidCertifiedDevice 瞭解詳情。
+
+"<b>未獲授權的製造商：</b>"
+您需要 Google 授權才能發佈 Google 應用程式和服務。請前往 g.co/AndroidGMSContact 申請授權。
+
+"<b>已獲授權的製造商：</b>"
+如要在開發期間使用 Google 應用程式和服務，必須先註冊此裝置。請聯絡您的 Google 業務發展經理以瞭解詳情。
+
+"<b>自訂 ROM 的使用者：</b>"
+如要配合自訂 ROM 使用 Google 應用程式和服務，必須先註冊此裝置。前往 g.co/apps-custom 瞭解詳情。"</string>
+    <string name="auth_uncertified_notification_title">裝置未經 Google 認證</string>
+    <string name="auth_username">電郵</string>
+    <string name="auth_work_authenticator_label">受管理的帳戶</string>
+    <string name="authorization_dialog">授權對話框</string>
+    <string name="chrome_privacy_title">Chrome 私隱權聲明</string>
+    <string name="chrome_tos_title">Chrome 服務條款</string>
+    <string name="close_button_label">關閉</string>
+    <string name="common_accept">接受</string>
+    <string name="common_add">新增</string>
+    <string name="common_add_account_label">新增帳戶</string>
+    <string name="common_ads_settings_title">廣告</string>
+    <string name="common_agree">同意</string>
+    <string name="common_app_name">Google Play 服務</string>
+    <string name="common_application_info">應用程式資料</string>
+    <string name="common_application_info_composed_string">應用程式資料</string>
+    <string name="common_asm_google_account_title">Google 帳戶</string>
+    <string name="common_asm_manage_google_account_title">管理您的 Google 帳戶</string>
+    <string name="common_asm_preferences_settings_title">帳戶偏好設定</string>
+    <string name="common_asm_privacy_settings_title">個人資料及私隱權</string>
+    <string name="common_asm_security_settings_title">登入及安全性</string>
+    <string name="common_back">返回</string>
+    <string name="common_battery">電池</string>
+    <string name="common_block">封鎖</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_cannot_start_hangouts_security_exception">無法開始 Hangouts (權限錯誤)。</string>
+    <string name="common_car_permission_desc">存取汽車服務。</string>
+    <string name="common_car_permission_label">汽車服務</string>
+    <string name="common_card">付款卡</string>
+    <string name="common_chips_label_empty_circles">沒有社交圈</string>
+    <string name="common_chips_label_extended_circles">延伸社交圈</string>
+    <string name="common_chips_label_only_you">只限自己</string>
+    <string name="common_chips_label_public">公開</string>
+    <string name="common_chips_label_your_circles">您的社交圈</string>
+    <string name="common_choose_account_label">選擇帳戶</string>
+    <string name="common_confirm_screen_lock_title">請解除螢幕鎖定</string>
+    <string name="common_connect">連接</string>
+    <string name="common_connected">已連線</string>
+    <string name="common_connected_apps_settings_title">已連結的應用程式</string>
+    <string name="common_connecting">正在連接…</string>
+    <string name="common_continue">繼續</string>
+    <string name="common_disabled">已停用</string>
+    <string name="common_disagree">不同意</string>
+    <string name="common_disconnect">解除連接</string>
+    <string name="common_dismiss">關閉</string>
+    <string name="common_done">完成</string>
+    <string name="common_edit">編輯</string>
+    <string name="common_email">電郵</string>
+    <string name="common_fingerprint_hint">輕觸感應器</string>
+    <string name="common_from">寄件者：</string>
+    <string name="common_games_settings_title">Play 遊戲</string>
+    <string name="common_get_started">開始</string>
+    <string name="common_google_play_services_enable_button">啟用</string>
+    <string name="common_google_play_services_enable_text">您必須啟用 Google Play 服務，方可執行「%1$s」。</string>
+    <string name="common_google_play_services_enable_title">啟用 Google Play 服務</string>
+    <string name="common_google_play_services_error_dialog_title">錯誤</string>
+    <string name="common_google_play_services_install_button">安裝</string>
+    <string name="common_google_play_services_install_text">您的裝置尚未安裝 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_install_title">安裝 Google Play 服務</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 服務的適用範圍</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 服務錯誤</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」存取 Google Play 服務時發生問題。請稍後再試一次。</string>
+    <string name="common_google_play_services_unsupported_text">您的裝置不支援 Google Play 服務，因此無法執行「%1$s」。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必須更新「Google Play 服務」，才能執行 %1$s。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服務</string>
+    <string name="common_google_play_services_updating_text">正在更新 Google Play 服務，更新完成後方可執行「%1$s」。</string>
+    <string name="common_google_play_services_updating_title">正在更新 Google Play 服務</string>
+    <string name="common_google_play_services_wear_update_text">需要使用新版本的 Google Play 服務。更新會即將自動開始。</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">已安裝架構錯誤的「Google Play 服務」。</string>
+    <string name="common_google_play_services_wrong_architecture_text">安裝「Google Play 服務」的架構為 %1$s，但與裝置架構 (%2$s) 不乎。</string>
+    <string name="common_google_play_services_wrong_architecture_title">架構錯誤</string>
+    <string name="common_google_settings">Google 設定</string>
+    <string name="common_google_settings_account">帳戶</string>
+    <string name="common_google_settings_credentials_title">Smart Lock 密碼</string>
+    <string name="common_got_it">知道了</string>
+    <string name="common_install">安裝</string>
+    <string name="common_learn_more">瞭解詳情</string>
+    <string name="common_list_apps_menu_help">說明</string>
+    <string name="common_list_apps_menu_help_and_feedback">說明和意見反映</string>
+    <string name="common_loading">正在載入…</string>
+    <string name="common_location_settings_title">位置</string>
+    <string name="common_login_activity_task_title">正在登入…</string>
+    <string name="common_login_error_title">無法登入</string>
+    <string name="common_magictether_settings_title">即時網絡共享</string>
+    <string name="common_maps_settings_title">地圖與定位</string>
+    <string name="common_mdm_feature_name">尋找我的裝置</string>
+    <string name="common_missing_url_viewer">缺少顯示外部網址的檢視器。</string>
+    <string name="common_more">更多</string>
+    <string name="common_more_options">更多選項</string>
+    <string name="common_mute_notification">忽略通知</string>
+    <string name="common_network_unavailable">沒有互聯網連線</string>
+    <string name="common_networking_settings_title">網絡</string>
+    <string name="common_never">永不</string>
+    <string name="common_next">繼續</string>
+    <string name="common_no_browser_for_restricted_url">限制存取。找不到瀏覽器。</string>
+    <string name="common_no_devices_found">找不到裝置</string>
+    <string name="common_no_network">由於裝置處於離線狀態，因此無法使用</string>
+    <string name="common_no_thanks">不用了，謝謝</string>
+    <string name="common_not_now">暫時不要</string>
+    <string name="common_off">關閉</string>
+    <string name="common_offline">您已離線</string>
+    <string name="common_ok">確定</string>
+    <string name="common_on">已開啟</string>
+    <string name="common_open">開啟</string>
+    <string name="common_open_on_phone">在手機開啟</string>
+    <string name="common_open_source_licenses">開放原始碼授權</string>
+    <string name="common_pause">暫停</string>
+    <string name="common_people_settings_title">通訊錄</string>
+    <string name="common_permissions_enable_in_settings">在「設定」中啟用</string>
+    <string name="common_permissions_missing_end">如要繼續，請開啟「設定」，然後前往「權限」，並允許存取清單上的項目。</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+如要啟用，請前往
+「設定」>
+「權限」>
+「Google Play 服務」"</string>
+    <string name="common_permissions_missing_start">您必須允許「Google Play 服務」存取以下項目，此應用程式方可正常運作：</string>
+    <string name="common_permissions_open_settings">開啟「設定」</string>
+    <string name="common_phone">電話</string>
+    <string name="common_play">播放</string>
+    <string name="common_privacy_policy">私隱權政策</string>
+    <string name="common_privacy_policy_composed_string">私隱權政策</string>
+    <string name="common_refresh">重新整理</string>
+    <string name="common_remove">移除</string>
+    <string name="common_reply">回覆</string>
+    <string name="common_restore">還原</string>
+    <string name="common_retry">重試</string>
+    <string name="common_save">儲存</string>
+    <string name="common_saved">已儲存</string>
+    <string name="common_saving">正在儲存…</string>
+    <string name="common_search_settings_title">搜尋</string>
+    <string name="common_security_ootp_setting_title">安全碼</string>
+    <string name="common_select">選取</string>
+    <string name="common_send">發送</string>
+    <string name="common_sending">正在傳送…</string>
+    <string name="common_set_up_nearby_device_settings_title">設定附近的裝置</string>
+    <string name="common_settings">設定</string>
+    <string name="common_share">分享</string>
+    <string name="common_sign_in">登入</string>
+    <string name="common_signin_button_text">登入</string>
+    <string name="common_signin_button_text_long">透過 Google 登入</string>
+    <string name="common_skip">略過</string>
+    <string name="common_skip_fingerprint">使用螢幕鎖定</string>
+    <string name="common_something_went_wrong">發生問題</string>
+    <string name="common_system_info">系統資訊</string>
+    <string name="common_system_info_composed_string">帳戶和系統資料</string>
+    <string name="common_take_photo_label">拍照</string>
+    <string name="common_terms_of_service">服務條款</string>
+    <string name="common_terms_of_service_composed_string">服務條款</string>
+    <string name="common_today">今天</string>
+    <string name="common_try_again">再試一次</string>
+    <string name="common_turn_on">開啟</string>
+    <string name="common_turn_on_bluetooth">開啟藍牙</string>
+    <string name="common_turn_on_nfc">開啟 NFC</string>
+    <string name="common_ui_confirm_deleting_button">刪除</string>
+    <string name="common_ui_confirm_deleting_checkbox">我明白並要刪除</string>
+    <string name="common_unknown">不明</string>
+    <string name="common_update">更新</string>
+    <string name="common_url_load_unsuccessful_message">您的 Android 裝置並未連接數據服務。如要立即查看這項資訊，請用瀏覽器前往 %s。</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">您的 Android 裝置並未連線至 Wi-Fi 網絡。如要現在查看這項資料，請使用網絡瀏覽器前往 %s。</string>
+    <string name="common_usage_and_diagnostics">使用情況與診斷</string>
+    <string name="common_view">查看</string>
+    <string name="common_yesterday">昨天</string>
+    <string name="continue_to_login_heading">請登入。</string>
+    <string name="continue_to_login_text">已授予憑證。請在您的第一部裝置上繼續登入。</string>
+    <string name="description_fingerprint_icon">指紋圖示</string>
+    <string name="download_msg_error_invalid">下載設定不正確。</string>
+    <string name="download_msg_in_progress">正在下載。</string>
+    <string name="download_msg_not_allowed_space">空間不足，無法下載。</string>
+    <string name="download_msg_pending">正在等待開始下載。</string>
+    <string name="download_notification_description">%1$s 要求這項資料。</string>
+    <string name="download_notification_title">正在擷取更多資料</string>
+    <string name="expand_button_title">進階</string>
+    <string name="fido_ble_device_icon_content_description">找到藍牙裝置</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">按住密鑰上的按鈕最少 5 秒，以確定裝置已進入配對模式</string>
+    <string name="fido_ble_dont_see_your_key_hint">看不到密鑰嗎？</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">您必須開啟裝置的藍牙功能和位置資訊服務，才能使用「安全密鑰」</string>
+    <string name="fido_ble_enable_body_bluetooth_only">您必須開啟裝置的藍牙功能，才能使用「安全密鑰」</string>
+    <string name="fido_ble_enable_body_location_only">您必須開啟裝置的位置資訊服務，才能使用「安全密鑰」</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">開啟藍牙和位置資訊功能</string>
+    <string name="fido_ble_enable_title_location_only">開啟位置資訊功能</string>
+    <string name="fido_ble_instructions_body">對於大部分密鑰，您只需輕按按鈕</string>
+    <string name="fido_ble_locate_pin_body">配對 PIN 碼一般為 4 或 6 位數字，且可能印於密鑰背面。準備好輸入 PIN 碼時即可繼續。</string>
+    <string name="fido_ble_locate_pin_title">為您的密鑰 (%1$s) 尋找藍牙配對 PIN 碼</string>
+    <string name="fido_ble_pair_device_pairing">正在配對您的「安全密鑰」…</string>
+    <string name="fido_ble_pair_instructions_body">將密鑰配對至此裝置，以便在裝置上使用帳戶</string>
+    <string name="fido_ble_pair_instructions_title">準備好配對「安全密鑰」嗎？</string>
+    <string name="fido_ble_pairing_failure_dialog_message">讓密鑰再次進入配對模式</string>
+    <string name="fido_ble_pairing_mode_body">按住「安全密鑰」上的按鈕最少 5 秒</string>
+    <string name="fido_ble_pairing_mode_title">進入配對模式</string>
+    <string name="fido_ble_select_device_body">在下方清單中選擇您想與裝置配對的「安全密鑰」。您可以在密鑰背面找到密鑰名稱。</string>
+    <string name="fido_ble_select_device_title">選擇您的「安全密鑰」</string>
+    <string name="fido_instructions_title">要允許使用您的「安全密鑰」嗎？</string>
+    <string name="fido_nfc_enable_body">裝置的 NFC 開啟後，方可使用「安全密鑰」</string>
+    <string name="fido_nfc_instructions_body">將密鑰保持平直並靠近裝置背面，直至密鑰停止震動</string>
+    <string name="fido_paask_body">附近的裝置正在嘗試使用您的 Google 帳戶登入</string>
+    <string name="fido_paask_footer">此加強型登入保護功能會使用加密藍牙與附近裝置連線。</string>
+    <string name="fido_paask_header">您正嘗試登入附近的裝置嗎？</string>
+    <string name="fido_paask_no_text">否，這不是我</string>
+    <string name="fido_paask_yes_text">是，這是我本人</string>
+    <string name="fido_pair_another_security_key">配對另一個「安全密鑰」</string>
+    <string name="fido_processing">正在驗證您的「安全密鑰」…</string>
+    <string name="fido_transport_selection_bluetooth">透過藍牙使用「安全密鑰」</string>
+    <string name="fido_transport_selection_body">「安全密鑰」可配合藍牙、NFC 和 USB使用。請選擇您要如何使用密鑰。</string>
+    <string name="fido_transport_selection_fingerprint">透過指紋使用「安全密鑰」</string>
+    <string name="fido_transport_selection_nfc">透過 NFC 使用「安全密鑰」</string>
+    <string name="fido_transport_selection_title">選擇使用「安全密鑰」的方法</string>
+    <string name="fido_transport_selection_usb">透過 USB 使用「安全密鑰」</string>
+    <string name="fido_usb_instructions_body">將「安全密鑰」連接至 USB 連接埠，或使用 USB 連接線連接「安全密鑰」。如果您的密鑰有按鈕或金色光碟圖案按鈕，請立即輕按該按鈕。</string>
+    <string name="fido_use_ble_instead">透過藍牙使用「安全密鑰」</string>
+    <string name="fido_use_fp_instead">透過指紋使用您的「安全密鑰」</string>
+    <string name="fido_use_nfc_instead">透過 NFC 使用「安全密鑰」</string>
+    <string name="fido_use_usb_instead">透過 USB 使用您的「安全密鑰」</string>
+    <string name="fido_welcome_body">透過%1$s使用「安全密鑰」有助保護您的私人資料。</string>
+    <string name="fido_welcome_title">透過%1$s使用「安全密鑰」</string>
+    <string name="fingerprint_description">確認您的指紋，方便%1$s驗證您的身分。</string>
+    <string name="fingerprint_no_imprints_description">%1$s想透過指紋驗證您的身分，但您尚未在此裝置上新增指紋。</string>
+    <string name="fingerprint_not_recognized">無法辨識指紋，請再試一次</string>
+    <string name="fingerprint_success">已辨識指紋</string>
+    <string name="gcm_fallback_notification_channel_label">其他</string>
+    <string name="google_app_permissions_title">應用程式權限</string>
+    <string name="google_legal_title">Google 法律條款</string>
+    <string name="google_play_tos_title">Google Play 服務條款</string>
+    <string name="google_plus_privacy_policy_title">Google+ 私隱權政策</string>
+    <string name="google_privacy_policy_title">Google 私隱權政策</string>
+    <string name="google_terms_of_service_title">Google 服務條款</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">允許應用程式將網絡的 Wi-Fi 憑證轉移至其他裝置。</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">轉移 Wi-Fi 憑證</string>
+    <string name="no_screen_lock_description">您必須先在裝置上設定螢幕鎖定</string>
+    <string name="no_screen_lock_title">您的手機未設定螢幕鎖定</string>
+    <string name="notification_ticker">已要求存取權</string>
+    <string name="open_source_activity_prompt_heading">開啟應用程式</string>
+    <string name="open_source_activity_prompt_text">"在您的手機開啟 SourceResponseActivity 以完成驗證程序。 "</string>
+    <string name="permgrouplab_calendar">日曆</string>
+    <string name="permgrouplab_camera">相機</string>
+    <string name="permgrouplab_contacts">通訊錄</string>
+    <string name="permgrouplab_location">位置</string>
+    <string name="permgrouplab_microphone">麥克風</string>
+    <string name="permgrouplab_phone">電話</string>
+    <string name="permgrouplab_sensors">人體感應器</string>
+    <string name="permgrouplab_sms">短訊</string>
+    <string name="permgrouplab_storage">儲存空間</string>
+    <string name="permissions_not_granted_text">如要授權，請再次登入。</string>
+    <string name="permissions_not_granted_title">尚未授權。</string>
+    <string name="plus_manage_app_only_you_label">只限自己</string>
+    <string name="plus_network_unreliable">無法與伺服器建立穩定的連線。</string>
+    <string name="plus_oob_interstitial_loading_text">這個程序可能需時幾分鐘。</string>
+    <string name="search_menu_title">搜尋</string>
+    <string name="set_up">設定</string>
+    <string name="setupservices_additional_privacy_title">其他私隱權資訊</string>
+    <string name="setupservices_android_privacy_policy_title">其他私隱權政策</string>
+    <string name="setupservices_chrome_privacy_title">Chrome 私隱權聲明</string>
+    <string name="setupservices_chrome_tos_title">Chrome 服務條款</string>
+    <string name="setupservices_google_app_permissions_title">應用程式權限</string>
+    <string name="setupservices_google_legal_title">Google 法律條款</string>
+    <string name="setupservices_google_play_tos_title">Google Play 服務條款</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google+ 私隱權政策</string>
+    <string name="setupservices_google_privacy_policy_title">Google 私隱權政策</string>
+    <string name="setupservices_google_services_agreement">如繼續操作，即表示您亦允許此裝置自動下載和安裝來自 Google、您的流動網絡供應商和裝置製造商的更新內容和應用程式，當中可能會使用流動數據，部分這些應用程式可能會提供應用程式內購買。您可以隨時移除這些應用程式。</string>
+    <string name="setupservices_google_services_agreement_dialog_text">如要移除應用程式，請前往 [設定] > [應用程式] 或 [應用程式管理員]，輕按您想解除安裝的應用程式 (您可能需要向左或向右輕掃，才能找到該應用程式)，再輕按 [解除安裝] 或 [停用]。</string>
+    <string name="setupservices_google_services_agreement_korea">您亦在此同意和授權預載的 Google 應用程式存取裝置上的資料及功能。如要進一步瞭解這些權限的使用情況，請瀏覽<annotation link="app_permissions">此網頁</annotation>。</string>
+    <string name="setupservices_google_services_agreement_title">安裝更新和應用程式</string>
+    <string name="setupservices_google_services_automatic_storage_manager">當手機的儲存空間即將用盡時，您可以移除部分資料 (例如已備份的相片和影片)，以釋出儲存空間。</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">連接至網絡後，您仍然可以存取這些資料。如要控制此功能及指定要移除的內容，請前往 [設定] > [儲存空間] > [智能儲存空間]。</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">釋放空間</string>
+    <string name="setupservices_google_services_backup">隨時輕鬆還原您的資料或轉用手機。您的備份包括應用程式、應用程式資料和裝置設定 (包括 Wi-Fi 密碼)。</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+備份資料將不會佔用您的「雲端硬碟」儲存空間配額。"</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">應用程式資料泛指應用程式根據開發人員設定所儲存的任何資料，可能包括聯絡人、訊息和相片這類敏感資料。</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">您可以在「設定」中關閉此服務。</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+此裝置上的相片和影片會同步至您的「Google 相片庫」，以便您可以在任何裝置上搜尋、編輯、刪除和分享這些內容。根據預設，系統會將完整解像度的相片和影片上載至「Google 相片」。
+
+備份資料將不會佔用您的「雲端硬碟」儲存空間配額。"</string>
+    <string name="setupservices_google_services_backup_title">備份至 Google 雲端硬碟</string>
+    <string name="setupservices_google_services_backup_v23">隨時輕鬆還原您的資料或轉用手機。您的備份包括應用程式、應用程式資料、通話記錄、通訊錄和裝置設定 (包括 Wi-Fi 密碼和權限)。</string>
+    <string name="setupservices_google_services_backup_v26">隨時輕鬆還原您的資料或轉用手機。您的備份包括應用程式、應用程式資料、通話記錄、通訊錄、裝置設定 (包括 Wi-Fi 密碼和權限) 和短訊。</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">隨時輕鬆還原您的資料或轉用手機。您的備份包括應用程式、應用程式資料、通話記錄、通訊錄、裝置設定 (包括 Wi-Fi 密碼和權限)、相片、影片和短訊。相片和影片會同步至您的「Google 相片庫」，並可在不同服務中使用。</string>
+    <string name="setupservices_google_services_data_policy">我們會根據 Google 的《<annotation link="google_privacy">私隱權政策</annotation>》使用相關資料。</string>
+    <string name="setupservices_google_services_data_policy_korea">我們會根據 Google 的《<annotation link="google_privacy">私隱權政策</annotation>》(包括 <annotation link="additional_privacy">個人資料的收集、儲存及使用方式</annotation>) 和《<annotation link="location_tos">定位服務條款</annotation>》使用相關資料。</string>
+    <string name="setupservices_google_services_description">輕按即可進一步瞭解每項服務詳情 (例如稍後啟用或停用服務的方法)。^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"您可以前往「Play 商店」查看應用程式的詳細資料 (包括應用程式內購買項目)。應用程式的資料和設定會同步至已登入 Google 帳戶的裝置。
+
+使用「即時應用程式」時須受《"<a href="https://play.google.com/about/play-terms.html">Google Play 服條款 條款</a>"》管限。
+"<a href="https://support.google.com/googleplay/?p=instant_apps">瞭解詳情</a>。</string>
+    <string name="setupservices_google_services_instant_apps_summary">輕按連結後，Google Play 會檢查系統是否有無需安裝的「即時應用程式」可執行。「即時應用程式」會暫時儲存在您的裝置中。</string>
+    <string name="setupservices_google_services_instant_apps_title">直接使用應用程式，無需安裝</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google 的位置資訊服務會使用 Wi-Fi、流動網絡和感應器等來源，以便估計您裝置的所在位置。
+
+關閉您裝置的主要位置資訊設定，即可關閉位置資訊服務。您也可以在位置資訊設定中關閉使用 Wi‑Fi、流動網絡和感應器確定位置的功能。"</string>
+    <string name="setupservices_google_services_location_sharing_title">協助應用程式確定位置資訊</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">使用位置資訊服務</string>
+    <string name="setupservices_google_services_location_sharing_v28">允許具備位置資訊存取權的應用程式和服務使用您裝置的位置資訊。Google 可能會定期收集位置資訊，並以匿名方式使用這些資訊，以提高位置資訊的精確度及改善適地性服務。</string>
+    <string name="setupservices_google_services_location_wireless_scan">允許應用程式和服務掃瞄 Wi‑Fi (即使 Wi-Fi 已關閉)。</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">您可以在位置設定中關閉這項功能。</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">提高位置資訊精確度</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">允許掃瞄</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">允許應用程式和服務掃瞄 Wi‑Fi 和藍牙訊號 (即使這些設定已關閉)。</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">允許應用程式和服務隨時掃瞄 Wi‑Fi 網絡和附近的裝置 (即使 Wi-Fi 或藍牙已關閉)。</string>
+    <string name="setupservices_google_services_next_button_label">我同意</string>
+    <string name="setupservices_google_services_play">我想收到 Google Play 的最新資訊和優惠。</string>
+    <string name="setupservices_google_services_section_backup_and_storage">備份和儲存空間</string>
+    <string name="setupservices_google_services_section_device_maintenance">裝置維護</string>
+    <string name="setupservices_google_services_tos">如繼續操作，即表示您亦同意《<annotation link="tos">Google 服務條款</annotation>》。</string>
+    <string name="setupservices_google_services_tos_agree">按一下 [我同意] 按鈕即表示您同意上述的 Google 服務處理程序。</string>
+    <string name="setupservices_google_services_tos_germany">當您使用此裝置時，Google 會遵守其《<annotation link="google_privacy">私隱權政策</annotation>》，並受<annotation link="tos">額外條款</annotation>約束。</string>
+    <string name="setupservices_google_services_usage_reporting">自動傳送診斷和裝置/應用程式使用資料至 Google，協助改善您的 Android 體驗。這有助改善電池使用時間、應用程式穩定性、網絡連線等。如果您開啟「網絡和應用程式活動」，這些資料便會儲存至您的帳戶中，您可以在「我的活動」中管理這些資料。</string>
+    <string name="setupservices_google_services_usage_reporting_details">"這個選項會提供裝置的一般資料和使用情况 (例如電量、應用程式使用情況和網絡連線情況)。這些資料將會用來改善 Google 的各項產品和服務，讓所有使用者受惠。部分彙整資料還能協助我們的合作夥伴 (例如 Android 開發人員) 改良應用程式和產品。
+
+即使關閉此功能，您的裝置仍然可以傳送基本服務 (例如系統更新與安全性) 所需的資料。"</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">您可以前往 myactivity.google.com 更新「我的活動」設定。</string>
+    <string name="setupservices_google_services_usage_reporting_settings">如要控制此功能，請前往「Google 設定」，然後從選單中選取 [使用情況與診斷]。</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">如要控制此功能，請前往 [設定] > [Google]，然後從選單中選取 [使用情況與診斷]。</string>
+    <string name="setupservices_google_services_usage_reporting_title">傳送系統資料</string>
+    <string name="setupservices_google_services_wallpaper_permission">允許「Google 動態桌布」存取 Google 位置資訊服務，以便根據您的所在位置作出回應。</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">您可以為「動態桌布」開啟或關閉 Google 的位置資訊服務存取權，方法如下：前往 [設定] > [應用程式與通知] > [應用程式資料]。在展開式選單中輕按 [顯示系統] > [動態資料桌布或動態地球桌布] > [權限]。</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">讓桌布使用位置資訊</string>
+    <string name="setupservices_google_terms_of_service_title">Google 服務條款</string>
+    <string name="setupservices_kids_google_services_agreement">如繼續操作，即表示您亦允許此裝置自動下載和安裝來自 Google、您的流動網絡供應商和裝置製造商的更新內容和應用程式，當中可能會使用流動數據，部分這些應用程式可能會提供應用程式內購買。您可以隨時移除這些應用程式。</string>
+    <string name="setupservices_kids_google_services_backup">隨時輕鬆還原資料或轉用手機。此備份包括應用程式、應用程式資料和裝置設定 (包括 Wi-Fi 密碼)。</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+備份資料將不會佔用您子女的「雲端硬碟」儲存空間配額。"</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+此裝置上的相片和影片會同步至您子女的「Google 相片庫」，以便您可以在任何裝置上搜尋、編輯、刪除和分享這些內容。根據預設，系統會將完整解像度的相片和影片上載至「Google 相片」。
+
+備份資料將不會佔用您子女的雲端硬碟儲存空間配額。"</string>
+    <string name="setupservices_kids_google_services_backup_v23">隨時輕鬆還原資料或轉用手機。此備份包括應用程式、應用程式資料、通話記錄、通訊錄和裝置設定 (包括 Wi-Fi 密碼和權限)。</string>
+    <string name="setupservices_kids_google_services_backup_v26">隨時輕鬆還原資料或轉用手機。此備份包括應用程式、應用程式資料、通話記錄、通訊錄、裝置設定 (包括 Wi-Fi 密碼和權限) 和短訊。</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">隨時輕鬆還原資料或轉用手機。此備份包括應用程式、應用程式資料、通話記錄、通訊錄、裝置設定 (包括 Wi-Fi 密碼和權限)、相片、影片和短訊。相片和影片會同步至您子女的「Google 相片庫」，並可在不同服務中使用。</string>
+    <string name="setupservices_kids_google_services_description">作為家長，您只需輕按即可進一步瞭解每項服務詳情 (例如稍後啟用或停用服務的方法)。^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google 的位置資訊服務會使用 Wi-Fi、流動網絡和感應器等來源，以便估計此裝置的所在位置。
+
+關閉此裝置的主要位置資訊設定，即可關閉位置資訊服務。您也可以在位置資訊設定中關閉使用 Wi‑Fi、流動網絡和感應器確定位置的功能。"</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">允許具備位置資訊存取權的應用程式和服務使用此裝置的位置資訊。Google 可能會定期收集位置資訊，並以匿名方式使用這些資訊，以提高位置資訊的精確度及改善適地性服務。</string>
+    <string name="setupservices_kids_google_services_usage_reporting">自動將診斷和裝置與應用程式的使用資料傳送至 Google，協助改善 Android 服務。這些資料有助延長電池壽命、改善應用程式穩定性和網絡連線等，而不會用作識別您子女的身分。如果您為子女開啟其他「網絡和應用程式活動」，這項資料會儲存在您子女的帳戶中。</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"這個選項會提供裝置的一般資料和使用情况 (例如電量、應用程式使用情況和網絡連線情況)。這些資料將會用來改善 Google 的各項產品和服務，讓所有使用者受惠。部分彙整資料還能協助我們的合作夥伴 (例如 Android 開發人員) 改良其應用程式和產品。
+
+即使關閉此功能，您的裝置仍然可以傳送基本服務 (例如系統更新與安全性) 所需的資料。"</string>
+    <string name="setupservices_location_tos_title">定位服務條款</string>
+    <string name="sid_lsid_grant_detail">工作階段識別 (SID) 和本機工作階段識別 (LSID) Cookie 就像密碼一樣，會將您的身分與瀏覽器發出的多個要求聯繫。這兩種 Cookie 可以存取您帳戶的所有資料，但只有瀏覽器才可以合法使用這些 Cookie。</string>
+    <string name="sid_lsid_grant_label">使用 SID 和 LSID Cookie 存取您所有的 Google 帳戶資料。</string>
+    <string name="smartdevice_action_copy">複製</string>
+    <string name="smartdevice_action_open_app">開啟應用程式</string>
+    <string name="smartdevice_action_try_another_way">嘗試其他方法</string>
+    <string name="smartdevice_action_turn_on_location">開啟「位置」</string>
+    <string name="smartdevice_alert_disconnected_title">裝置已中斷連線</string>
+    <string name="smartdevice_alert_dm_backup_account_message">很抱歉，您的備份帳戶由裝置管理員管理，因此無法使用此功能。</string>
+    <string name="smartdevice_alert_dm_backup_account_title">無法使用功能</string>
+    <string name="smartdevice_alert_exit_setup_message">是否確定要離開另一部裝置的設定？</string>
+    <string name="smartdevice_alert_exit_setup_title">離開裝置設定？</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">如要設定裝置，你需要最少一個 Google 帳戶。</string>
+    <string name="smartdevice_alert_no_accounts_text">如要設定你的 %s，你需要最少一個 Google 帳戶。</string>
+    <string name="smartdevice_alert_no_accounts_title">沒有可複製的帳戶</string>
+    <string name="smartdevice_alert_quit_button">結束</string>
+    <string name="smartdevice_alert_restart_setup_button">重新啟動設定程序</string>
+    <string name="smartdevice_alert_setup_incomplete">尚未完成設定</string>
+    <string name="smartdevice_alert_start_over_button">重新開始</string>
+    <string name="smartdevice_alert_work_profile_message">仍然無法複製工作帳戶。複製其他 Google 帳戶和資料後，請在新裝置上前往「設定」以新增工作帳戶。</string>
+    <string name="smartdevice_alert_work_profile_title">無法複製工作帳戶</string>
+    <string name="smartdevice_application_label">裝置設定</string>
+    <string name="smartdevice_choose_device">選擇你的裝置</string>
+    <string name="smartdevice_companion_app_ready">此裝置已安裝「%s」應用程式。</string>
+    <string name="smartdevice_connect_to_wifi">連接你的裝置</string>
+    <string name="smartdevice_connection_error">連線至其他裝置時發生問題</string>
+    <string name="smartdevice_connection_error_title">無法連線</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">正在連接你的裝置…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">複製您的 Google 帳戶和其他帳戶，並還原您的「Google 雲端硬碟」備份內容 (如有)</string>
+    <string name="smartdevice_d2d_copy_account_text">複製您的 Google 帳戶，並還原您的「Google 雲端硬碟」備份內容 (如有)</string>
+    <string name="smartdevice_d2d_copy_account_title">要複製到另一部裝置嗎？</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">無法識別</string>
+    <string name="smartdevice_d2d_fingerprint_title">請確認您的指紋</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">基於保安理由，請確認您的指紋。您的 Google 帳戶、應用程式和資料將會複製至 %s。</string>
+    <string name="smartdevice_d2d_lockscreen_description">無法繼續設定你的裝置</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">為安全起見，您需要解除螢幕鎖定才能繼續設定</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">你的裝置不設藍牙功能，因此無法設定另一部裝置。</string>
+    <string name="smartdevice_d2d_source_disabled_text">為安全起見，此功能經已停用。請在另一部裝置上輕觸 [略過]，然後繼續設定。</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">設定新裝置</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">裝置設定</string>
+    <string name="smartdevice_d2d_source_notification_title">^1設定</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">重新啟動設定程序，並選取你的^1以確保你將「Google 帳戶」、應用程式和資料複製到正確的裝置。</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">看不到代碼嗎？</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">無法使用受限制的使用者個人檔案設定新裝置。</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">在您的 %s 上繼續設定</string>
+    <string name="smartdevice_d2d_source_setup_success">快完成了！</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">從其他 Android 裝置複製</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">好的，按照後續步驟設定此裝置</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">從另一部裝置複製你的「Google 帳戶」、應用程式和資料</string>
+    <string name="smartdevice_d2d_target_copying_accounts">正在複製帳戶…</string>
+    <string name="smartdevice_d2d_target_description">1. 說出「&lt;xliff:g id=ok_google>^1&lt;/xliff:g>，&lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>」&lt;b>&lt;/b>或輸入「&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>」，然後輕按裝置確認&lt;br/>&lt;br/> 2. 輕觸清單上的 [&lt;xliff:g id=device_name>^3&lt;/xliff:g>]&lt;b>&lt;/b>，然後按照螢幕上的指示操作</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">嘗試改用這個方法</string>
+    <string name="smartdevice_d2d_target_google_settings_description">在另一部裝置上：&lt;br/>&lt;br/> 1. 開啟「&lt;b>Google 設定&lt;/b>」應用程式&lt;br/>&lt;br/> 2. 選取 [&lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b>]&lt;br/>&lt;br/> 3. 輕觸清單上的 [&lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>]，然後按照螢幕上的指引執行</string>
+    <string name="smartdevice_d2d_target_google_settings_link">無法完成這些步驟</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">使用「設定」</string>
+    <string name="smartdevice_d2d_target_help_text">遇到問題嗎？</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">找不到嗎？</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">在您的其他裝置上開啟 Google 應用程式</string>
+    <string name="smartdevice_d2d_target_instruction_description">開啟 Google 應用程式</string>
+    <string name="smartdevice_d2d_target_instruction_title">在另一部裝置上</string>
+    <string name="smartdevice_d2d_target_other_device_description">所有 Android 裝置均已預先安裝 Google app。請查看所有應用程式，然後找出上方顯示的 Google 圖示。</string>
+    <string name="smartdevice_d2d_target_pin_code_description">此代碼應與另一部裝置上的代碼相同：</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">不要略過</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">設定程式不會複製這個帳戶、已備份應用程式和資料到這部裝置。</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">略過此步驟</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">要略過這個帳戶嗎？</string>
+    <string name="smartdevice_d2d_target_title">在 Google 應用程式中</string>
+    <string name="smartdevice_do_disclosure_generic">無法轉移資料</string>
+    <string name="smartdevice_do_unsupported_message">無法從受管理的裝置轉移資料</string>
+    <string name="smartdevice_install_app">安裝應用程式</string>
+    <string name="smartdevice_install_app_reason">取得 %1$s 應用程式，即可透過這部裝置控制和管理你的新 %2$s</string>
+    <string name="smartdevice_look_for_other_device">在您的其他裝置上尋找此名稱</string>
+    <string name="smartdevice_magicwand_cancel_signin">不登入</string>
+    <string name="smartdevice_magicwand_confirm_signin">開始登入</string>
+    <string name="smartdevice_magicwand_consent_detail">輕按 [登入] 即可完成登入其他裝置的程序。</string>
+    <string name="smartdevice_magicwand_consent_title">完成登入程序</string>
+    <string name="smartdevice_magicwand_error_detail">發生錯誤，您無法在此手機上登入 Google 帳戶。</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"您已透過掃瞄二維條碼登入帳戶。
+
+為安全起見，請確認指紋以證明在其他裝置上登入的是您本人。"</string>
+    <string name="smartdevice_magicwand_lockscreen_description">這個額外步驟可協助確保裝置安全。</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"您已透過掃瞄二維條碼登入帳戶。
+
+為安全起見，請輸入螢幕鎖定圖案以證明在其他裝置上登入的是您本人。"</string>
+    <string name="smartdevice_magicwand_selectaccount_description">以繼續前往您的瀏覽器</string>
+    <string name="smartdevice_magicwand_success_detail">請在其他裝置上返回瀏覽器。</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">在您的其他裝置上尋找這些圖形</string>
+    <string name="smartdevice_pairing_verify_shapes_title">驗證圖形</string>
+    <string name="smartdevice_problem_copying">複製資料至其他裝置時發生問題</string>
+    <string name="smartdevice_problem_copying_title">無法複製資料</string>
+    <string name="smartdevice_search_again">再次搜尋</string>
+    <string name="smartdevice_searching_for_devices">正在搜尋裝置</string>
+    <string name="smartdevice_setup_google_app_trigger">設定我嘅裝置</string>
+    <string name="smartdevice_setup_info_installing_app">正在安裝應用程式…</string>
+    <string name="smartdevice_setup_intro_text">系統會使用您手機的藍牙和 Wi-Fi 數據來設定其他裝置</string>
+    <string name="smartdevice_setup_intro_text_nfc">系統會使用您手機的藍牙來設定其他裝置</string>
+    <string name="smartdevice_setup_intro_title">開始使用</string>
+    <string name="smartdevice_setup_password_hint">輸入 WiFi 密碼</string>
+    <string name="smartdevice_setup_show_password">顯示密碼</string>
+    <string name="smartdevice_setup_title_verify_code">驗證代碼</string>
+    <string name="smartdevice_target_hotphrase_instructions">請在您裝置的搜尋框上說出&lt;b>“&lt;xliff:g id=ok_google>^1&lt;/xliff:g>，&lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>。”&lt;/b>&lt;br/>&lt;br/>，或输入&lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b>。</string>
+    <string name="smartdevice_type_typing_ok_google">如果語音指令無法正常運作，請嘗試在搜尋框中輸入指令。請輸入「&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>」</string>
+    <string name="smartdevice_verify_device">驗證裝置</string>
+    <string name="smartdevice_wifi_cannot_connect_description">只可使用開放網絡和 WPA/WPA2 網絡來設定這部裝置</string>
+    <string name="smartdevice_wifi_cannot_connect_title">無法使用 WiFi 網絡</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"如要搜尋 Wi-Fi，請開啟「位置」。
+
+您可以稍後隨時前往「設定」變更這項設定。"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">無法搜尋 Wi-Fi 網絡</string>
+    <string name="storage_management_wear_descriptive_text">應用程式會使用您的裝置儲存空間，將資料複製至穿戴式裝置。</string>
+    <string name="storage_management_wear_manage_size_label">管理穿戴式裝置儲存空間</string>
+    <string name="storage_management_wear_size_label">穿戴式裝置儲存空間</string>
+    <string name="storage_managment_all_storage_descriptive_text">「Google Play 服務」的資料總用量 (包括搜尋引擎和其他資料) 。</string>
+    <string name="storage_managment_clear_all_data">清除所有資料</string>
+    <string name="storage_managment_computing_size">正在計算…</string>
+    <string name="storage_managment_icing_size_label">搜尋數據</string>
+    <string name="storage_managment_manage_icing_button">管理搜尋數據</string>
+    <string name="storage_managment_search_index_descriptive_text">我們為您的 Apps 提供搜尋引擎，以加快您在裝置上搜尋。</string>
+    <string name="storage_managment_title">「Google Play 服務」儲存空間</string>
+    <string name="storage_managment_total_size_label">總儲存空間</string>
+    <string name="summary_collapsed_preference_list">%1$s，%2$s</string>
+    <string name="suw_back_button_label">返回</string>
+    <string name="suw_more_button_label">更多</string>
+    <string name="suw_next_button_label">下一步</string>
+    <string name="uncertified_notification_expired_content">無法繼續在此裝置上使用 Google 應用程式和服務。輕按即可瞭解詳情。</string>
+    <string name="uncertified_notification_expired_title">註冊已到期</string>
+    <string name="uncertified_notification_expiring_title">註冊即將到期</string>
+    <string name="use_nearby_device_heading">要使用附近的裝置嗎？</string>
+    <string name="use_nearby_device_text">您要使用附近的裝置授予憑證嗎？</string>
+    <string name="v7_preference_off">關閉</string>
+    <string name="v7_preference_on">開啟</string>
+    <string name="verify_your_identity_description">「%1$s」需要驗證您的身分。</string>
+    <string name="verify_your_identity_title">驗證您的身分</string>
+    <string name="waiting_for_account_info_text">正在等待帳戶資料…</string>
+</resources>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s נמענים</item>
+        <item quantity="one">נמען אחד</item>
+        <item quantity="two">%s נמענים</item>
+        <item quantity="many">%s נמענים</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 נמענים משתמשים בשירותים שאינם תומכים בהצפנה. ללא הצפנה, אנשים אחרים יוכלו לראות את ההודעה שלך במהלך השליחה. ^2</item>
+        <item quantity="one">^1 משתמש/ת בשירות שאינו תומך בהצפנה. ללא הצפנה, אנשים אחרים יוכלו לראות את ההודעה שלך במהלך השליחה. ^2</item>
+        <item quantity="two">^1 נמענים משתמשים בשירותים שאינם תומכים בהצפנה. ללא הצפנה, אנשים אחרים יוכלו לראות את ההודעה שלך במהלך השליחה. ^2</item>
+        <item quantity="many">^1 נמענים משתמשים בשירותים שאינם תומכים בהצפנה. ללא הצפנה, אנשים אחרים יוכלו לראות את ההודעה שלך במהלך השליחה. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">הדומיין ^1 ודומיינים נוספים לא תמכו בהצפנה כאשר ההודעה הזו נשלחה. ^2</item>
+        <item quantity="one">הדומיין ^1 לא תמך בהצפנה כאשר ההודעה הזו נשלחה. ^2</item>
+        <item quantity="two">הדומיין ^1 ודומיינים נוספים לא תמכו בהצפנה כאשר ההודעה הזו נשלחה. ^2</item>
+        <item quantity="many">הדומיין ^1 ודומיינים נוספים לא תמכו בהצפנה כאשר ההודעה הזו נשלחה. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">האם להעביר את %1$d השיחות האלה לארכיון?</item>
+        <item quantity="one">האם להעביר את השיחה הזו לארכיון?</item>
+        <item quantity="two">האם להעביר את %1$d השיחות האלה לארכיון?</item>
+        <item quantity="many">האם להעביר את %1$d השיחות האלה לארכיון?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">האם למחוק את %1$d השיחות האלה?</item>
+        <item quantity="one">האם למחוק את השיחה הזו?</item>
+        <item quantity="two">האם למחוק את %1$d השיחות האלה?</item>
+        <item quantity="many">האם למחוק את %1$d השיחות האלה?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">האם למחוק טיוטות מ-%1$dהשיחות האלה?</item>
+        <item quantity="one">האם למחוק טיוטות מהשיחה הזו?</item>
+        <item quantity="two">האם למחוק טיוטות מ-%1$dהשיחות האלה?</item>
+        <item quantity="many">האם למחוק טיוטות מ-%1$d השיחות האלה?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> הועברו לארכיון</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> הועברה לארכיון</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> הועברו לארכיון</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> הועברו לארכיון</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> נמחקו</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> נמחקה</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> נמחקו</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> נמחקו</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">הועברו לתוויות אחרות.</item>
+        <item quantity="one">הועברה לתווית אחרת.</item>
+        <item quantity="two">הועברו לתוויות אחרות.</item>
+        <item quantity="many">הועברו לתוויות אחרות.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> הועברו לתיבת הדואר הנכנס</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> הועברה לתיבת הדואר הנכנס</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> הועברו לתיבת הדואר הנכנס</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> הועברו לתיבת הדואר הנכנס</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> הושתקו</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> הושתקה</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> הושתקו</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> הושתקו</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> סומנו כשיחות לא חשובות</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> סומנה כשיחה לא חשובה</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> סומנו כשיחות לא חשובות</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> סומנו כשיחות לא חשובות</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> דווחו כשיחות שאינן ספאם</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> דווחה כשיחה שאינה ספאם</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> דווחו כשיחות שאינן ספאם</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> דווחו כשיחות שאינן ספאם</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> סומנו כפריטים שנקראו</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> סומן כפריט שנקרא</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> סומנו כפריטים שנקראו</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> סומנו כפריטים שנקראו</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> סומנו לטיפול בהמשך %2$s</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> סומנה לטיפול בהמשך %2$s</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> סומנו לטיפול בהמשך %2$s</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> סומנו לטיפול בהמשך %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">‏&lt;b>%1$d&lt;/b> דווחו כספאם</item>
+        <item quantity="one">‏&lt;b>%1$d&lt;/b> דווחה כספאם</item>
+        <item quantity="two">‏&lt;b>%1$d&lt;/b> דווחו כספאם</item>
+        <item quantity="many">‏&lt;b>%1$d&lt;/b> דווחו כספאם</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d דיווחו כספאם וביטלו את הרישום</item>
+        <item quantity="one">%1$d דיווח כספאם וביטל את הרישום</item>
+        <item quantity="two">%1$d דיווחו כספאם וביטלו את הרישום</item>
+        <item quantity="many">%1$d דיווחו כספאם וביטלו את הרישום</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">‏הסימון של &lt;b>%1$d&lt;/b> פריטים לטיפול בהמשך בוטל</item>
+        <item quantity="one">‏הסימון של פריט אחד (&lt;b>%1$d&lt;/b>) לטיפול בהמשך בוטל</item>
+        <item quantity="two">‏הסימון של &lt;b>%1$d&lt;/b> פריטים לטיפול בהמשך בוטל</item>
+        <item quantity="many">‏הסימון של &lt;b>%1$d&lt;/b> פריטים לטיפול בהמשך בוטל</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">מסיר כוכב מ-%1$d שיחות.</item>
+        <item quantity="one">מסיר כוכב משיחה %1$d.</item>
+        <item quantity="two">מסיר כוכב מ-%1$d שיחות.</item>
+        <item quantity="many">מסיר כוכב מ-%1$d שיחות.</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">כל יום</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">‏ההודעות יסומנו כספאם. האם ברצונך להפסיק לקבל הודעות דומות גם מ-&lt;b>%2$d השולחים&lt;/b> האלה?%1$s</item>
+        <item quantity="one">ההודעה תסומן כספאם. האם ברצונך להפסיק לקבל הודעות דומות גם מ-%1$s?</item>
+        <item quantity="two">‏ההודעות יסומנו כספאם. האם ברצונך להפסיק לקבל הודעות דומות גם מ-&lt;b>%2$d השולחים&lt;/b> האלה?%1$s</item>
+        <item quantity="many">‏ההודעות יסומנו כספאם. האם ברצונך להפסיק לקבל הודעות דומות גם מ-&lt;b>%2$d השולחים&lt;/b> האלה?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">טיוטות</item>
+        <item quantity="one">טיוטה</item>
+        <item quantity="two">טיוטות</item>
+        <item quantity="many">טיוטות</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s שיחות יימחקו באופן סופי</item>
+        <item quantity="one">שיחה אחת (%1$s) תימחק באופן סופי</item>
+        <item quantity="two">%1$s שיחות יימחקו באופן סופי</item>
+        <item quantity="many">%1$s שיחות יימחקו באופן סופי</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d פעמים</item>
+        <item quantity="one">; פעם אחת</item>
+        <item quantity="two">; %d פעמים</item>
+        <item quantity="many">; %d פעמים</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">‏ייתכן שלנמענים שלך אין גישה לקבצים שהוספת מ-Drive. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="one">‏ייתכן שלנמענים שלך אין גישה לקובץ שהוספת מ-Drive. יכול להיות שתצטרך לשתף את הקובץ מתוך Google Drive.</item>
+        <item quantity="two">‏ייתכן שלנמענים שלך אין גישה לקבצים שהוספת מ-Drive. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="many">‏ייתכן שלנמענים שלך אין גישה לקבצים שהוספת מ-Drive. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">‏הערה: ייתכן שלחלק מהנמענים עדיין אין גישה לקבצים האלה. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="one">‏הערה: ייתכן שלחלק מהנמענים עדיין אין גישה לקובץ הזה. יכול להיות שתצטרך לשתף את הקובץ מתוך Google Drive.</item>
+        <item quantity="two">‏הערה: ייתכן שלחלק מהנמענים עדיין אין גישה לקבצים האלה. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+        <item quantity="many">‏הערה: ייתכן שלחלק מהנמענים עדיין אין גישה לקבצים האלה. יכול להיות שתצטרך לשתף את הקבצים מתוך Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"‏אתה משתף עם הנמענים:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>שאינם נמצאים בארגון של Google Apps שהקבצים האלה שייכים אליו."</item>
+        <item quantity="one">‏אתה משתף עם הנמענים:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>שאינם נמצאים בארגון של Google Apps שהקובץ הזה שייך אליו.</item>
+        <item quantity="two">"‏אתה משתף עם הנמענים:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>שאינם נמצאים בארגון של Google Apps שהקבצים האלה שייכים אליו."</item>
+        <item quantity="many">"‏אתה משתף עם הנמענים:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>שאינם נמצאים בארגון של Google Apps שהקבצים האלה שייכים אליו."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 נמענים משתמשים בשירותים שאינם תומכים בהצפנה. ללא הצפנה, ניתן יהיה לקרוא את ההודעה בזמן ההעברה. ^2</item>
+        <item quantity="one">^1 משתמש/ת בשירות שאינו תומך בהצפנה. ללא הצפנה, ניתן יהיה לקרוא את ההודעה בזמן ההעברה. ^2</item>
+        <item quantity="two">^1 נמענים משתמשים בשירותים שאינם תומכים בהצפנה. ללא הצפנה, ניתן יהיה לקרוא את ההודעה בזמן ההעברה. ^2</item>
+        <item quantity="many">^1 נמענים משתמשים בשירותים שאינם תומכים בהצפנה. ללא הצפנה, ניתן יהיה לקרוא את ההודעה בזמן ההעברה. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">כל %1$d חודשים</item>
+        <item quantity="one">כל חודש</item>
+        <item quantity="two">כל %1$d חודשים</item>
+        <item quantity="many">כל %1$d חודשים</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d הודעות חדשות</item>
+        <item quantity="one">הודעה חדשה %1$d</item>
+        <item quantity="two">%1$d הודעות חדשות</item>
+        <item quantity="many">%1$d הודעות חדשות</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d הודעות חדשות</item>
+        <item quantity="one">הודעה חדשה %1$d</item>
+        <item quantity="two">%1$d הודעות חדשות</item>
+        <item quantity="many">%1$d הודעות חדשות</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d קבצים מצורפים</item>
+        <item quantity="one">קובץ מצורף %1$d</item>
+        <item quantity="two">%1$d קבצים מצורפים</item>
+        <item quantity="many">%1$d קבצים מצורפים</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d הודעות</item>
+        <item quantity="one">הודעה %1$d</item>
+        <item quantity="two">%1$d הודעות</item>
+        <item quantity="many">%1$d הודעות</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">היומנים אינם משותפים</item>
+        <item quantity="one">היומן אינו משותף</item>
+        <item quantity="two">היומנים אינם משותפים</item>
+        <item quantity="many">היומנים אינם משותפים</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ל-%d אירועים</item>
+        <item quantity="one">ל-%d אירוע</item>
+        <item quantity="two">ל-%d אירועים</item>
+        <item quantity="many">ל-%d אירועים</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">כל %d ימים</item>
+        <item quantity="one">כל %d יום</item>
+        <item quantity="two">כל %d ימים</item>
+        <item quantity="many">כל %d ימים</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">כל %d חודשים</item>
+        <item quantity="one">כל %d חודש</item>
+        <item quantity="two">כל %d חודשים</item>
+        <item quantity="many">כל %d חודשים</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">כל %d שבועות</item>
+        <item quantity="one">כל %d שבוע</item>
+        <item quantity="two">כל %d שבועות</item>
+        <item quantity="many">כל %d שבועות</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">כל %d שנים</item>
+        <item quantity="one">כל %d שנה</item>
+        <item quantity="two">כל %d שנים</item>
+        <item quantity="many">כל %d שנים</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">%d תוצאות חיפוש נטענו</item>
+        <item quantity="one">תוצאת חיפוש %d נטענה</item>
+        <item quantity="two">%d תוצאות חיפוש נטענו</item>
+        <item quantity="many">%d תוצאות חיפוש נטענו</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">הרחב %1$d הודעות ישנות יותר</item>
+        <item quantity="one">הרחב הודעה ישנה יותר</item>
+        <item quantity="two">הרחב %1$d הודעות ישנות יותר</item>
+        <item quantity="many">הרחב %1$d הודעות ישנות יותר</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">סומן לטיפול בהמשך לפני %d ימים</item>
+        <item quantity="one">סומן לטיפול בהמשך לפני יום %d</item>
+        <item quantity="two">סומן לטיפול בהמשך לפני %d ימים</item>
+        <item quantity="many">סומן לטיפול בהמשך לפני %d ימים</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">סומן לטיפול בהמשך לפני %d שעות</item>
+        <item quantity="one">סומן לטיפול בהמשך לפני שעה %d</item>
+        <item quantity="two">סומן לטיפול בהמשך לפני %d שעות</item>
+        <item quantity="many">סומן לטיפול בהמשך לפני %d שעות</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">סומן לטיפול בהמשך לפני %d חודשים</item>
+        <item quantity="one">סומן לטיפול בהמשך לפני חודש %d</item>
+        <item quantity="two">סומן לטיפול בהמשך לפני %d חודשים</item>
+        <item quantity="many">סומן לטיפול בהמשך לפני %d חודשים</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">סומן לטיפול בהמשך לפני %d שבועות</item>
+        <item quantity="one">סומן לטיפול בהמשך לפני שבוע %d</item>
+        <item quantity="two">סומן לטיפול בהמשך לפני %d שבועות</item>
+        <item quantity="many">סומן לטיפול בהמשך לפני %d שבועות</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">סומן לטיפול בהמשך לפני %d שנים</item>
+        <item quantity="one">סומן לטיפול בהמשך לפני שנה %d</item>
+        <item quantity="two">סומן לטיפול בהמשך לפני %d שנים</item>
+        <item quantity="many">סומן לטיפול בהמשך לפני %d שנים</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">הורחבו %1$d הודעות ישנות יותר</item>
+        <item quantity="one">הורחבה הודעה אחת ישנה יותר</item>
+        <item quantity="two">הורחבו %1$d הודעות ישנות יותר</item>
+        <item quantity="many">הורחבו %1$d הודעות ישנות יותר</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום אחד</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">לאחר ההתחברות תתבצע הורדה של ההודעות מ-%1$d הימים האחרונים</item>
+        <item quantity="one">לאחר ההתחברות תתבצע הורדה של ההודעות מהיום האחרון</item>
+        <item quantity="two">לאחר ההתחברות תתבצע הורדה של ההודעות מ-%1$d הימים האחרונים</item>
+        <item quantity="many">לאחר ההתחברות תתבצע הורדה של ההודעות מ-%1$d הימים האחרונים</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">%1$d הימים האחרונים</item>
+        <item quantity="one">היום האחרון</item>
+        <item quantity="two">%1$d הימים האחרונים</item>
+        <item quantity="many">%1$d הימים האחרונים</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">תאריך יעד - %1$s - %2$d משימות</item>
+        <item quantity="one">תאריך יעד - %1$s - משימה אחת (%2$d)</item>
+        <item quantity="two">תאריך יעד - %1$s - %2$d משימות</item>
+        <item quantity="many">תאריך יעד - %1$s - %2$d משימות</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">ימים</item>
+        <item quantity="one">יום</item>
+        <item quantity="two">יומיים</item>
+        <item quantity="many">ימים</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="one">כל שבוע ביום %2$s</item>
+        <item quantity="two">כל %1$d שבועות ביום %2$s</item>
+        <item quantity="many">כל %1$d שבועות ביום %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">כל %1$d שנים</item>
+        <item quantity="one">כל שנה</item>
+        <item quantity="two">כל %1$d שנים</item>
+        <item quantity="many">כל %1$d שנים</item>
+    </plurals>
+</resources>

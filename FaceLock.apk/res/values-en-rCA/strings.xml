@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Trusted Face Service</string>
+    <string name="receiver_app_name">Trusted Face Broadcast Receiver</string>
+    <string name="intro_screen_title">About Trusted Face</string>
+    <string name="intro_screen_header">Unlock your phone by looking at it</string>
+    <string name="intro_screen_body_start">"Remember:
+"</string>
+    <string name="intro_screen_bullets">"Face-matching is less secure than a pattern, PIN or password
+
+Someone who looks like you could unlock your phone
+
+The data that's used to recognise your face is kept private on your phone"</string>
+    <string name="intro_screen_continue_label">Set up</string>
+    <string name="instructions_screen_title">Add a trusted face</string>
+    <string name="instructions_screen_header">For best results:</string>
+    <string name="instructions_screen_bullets">"Find a spot indoors that's not too bright or too dim
+
+Hold the phone at eye level"</string>
+    <string name="instructions_screen_continue_label">Next</string>
+    <string name="enrollment_screen_title">Add a trusted face</string>
+    <string name="enrollment_screen_message_initializing">Starting up…</string>
+    <string name="enrollment_screen_message_initialization_error">"Couldn't start finding your face"</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">"Camera permission isn't granted"</string>
+    <string name="enrollment_screen_message_camera_error">"Camera isn't available"</string>
+    <string name="enrollment_start_message">Keep face inside dotted area</string>
+    <string name="enrollment_screen_message_instructions">Keep the top of your head and the bottom of your chin within the circle</string>
+    <string name="enrollment_screen_message_done">Face added</string>
+    <string name="enrollment_screen_status_no_face">Show your face</string>
+    <string name="enrollment_screen_status_face_off_center">"Can't see part of your face"</string>
+    <string name="enrollment_screen_status_missing_template">"Can't see your features"</string>
+    <string name="enrollment_screen_continue_label">Next</string>
+    <string name="enrollment_screen_done_label">Done</string>
+    <string name="enrollment_screen_talkback_preview_description">Camera preview</string>
+    <string name="enrollment_screen_talkback_face_added">Face added</string>
+    <string name="end_screen_title">Ready to go!</string>
+    <string name="end_screen_body">To unlock your phone, just turn your screen on and look at the camera</string>
+    <string name="end_screen_bullet_one_text">Your phone will unlock as soon as it recognises you</string>
+    <string name="end_screen_bullet_two_text">"If your face isn't recognised, unlock with your pattern, PIN or password instead"</string>
+    <string name="end_screen_tip_text">Tip: Improve face-matching by showing what you look like in different conditions</string>
+    <string name="end_screen_licenses_label">Licences</string>
+    <string name="end_screen_continue_label">Done</string>
+    <string name="add_to_setup_intro_screen_title">Improve face-matching</string>
+    <string name="add_to_setup_intro_screen_header">Show what you look like in different conditions</string>
+    <string name="add_to_setup_intro_screen_body_start">"Examples:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"In different lighting
+
+With or without prescription glasses
+
+Bearded or clean-shaven
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Hold the phone at eye level</string>
+    <string name="add_to_setup_intro_screen_continue_label">Next</string>
+    <string name="license_screen_title">Licences</string>
+    <string name="license_screen_header">Open source notices</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">"The 'Trusted face' feature may use portions of the following open-source libraries, licensed under the below licences:"</string>
+    <string name="license_screen_notices_header">Notices for libraries:</string>
+    <string name="shared_cancel_label">Cancel</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Facial recognition has changed. Add your trusted face again to keep using it.</string>
+</resources>

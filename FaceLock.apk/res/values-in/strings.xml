@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">Aplikasi mewajibkan pembaruan untuk layanan Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s perlu pembaruan aplikasi Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">Aplikasi mewajibkan agar layanan Google Play diaktifkan.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Diminta oleh %1$s</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di ponsel Anda.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di tablet Anda.</string>
+    <string name="common_google_play_services_install_button">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_button">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_android_wear_update_title">Perbarui Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_android_wear_update_text">%1$s tidak akan berjalan jika aplikasi Android Wear tidak diperbarui.</string>
+    <string name="common_google_play_services_updating_title">Layanan Google Play sedang diperbarui</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_network_error_title">Kesalahan Jaringan</string>
+    <string name="common_google_play_services_network_error_text">Sambungan data diperlukan untuk tersambung ke layanan Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Akun Tidak Valid</string>
+    <string name="common_google_play_services_invalid_account_text">Akun yang ditentukan tidak ada di perangkat ini. Pilih akun lain.</string>
+    <string name="common_google_play_services_unknown_issue">Masalah tidak diketahui pada layanan Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Layanan Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s memerlukan layanan Google Play, yang tidak didukung oleh perangkat Anda. Hubungi pabrikan untuk mendapat bantuan.</string>
+    <string name="common_google_play_services_update_button">Perbarui</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s memerlukan satu atau beberapa layanan Google Play yang saat ini tidak tersedia. Hubungi pengembang untuk mendapatkan bantuan.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Gagal masuk</string>
+    <string name="common_google_play_services_sign_in_failed_text">Kesalahan saat masuk ke akun yang ditentukan. Pilih akun yang lain.</string>
+    <string name="app_name">Wajah Tepercaya</string>
+    <string name="trusted_face_service_app_name">Layanan Wajah Tepercaya</string>
+    <string name="receiver_app_name">Penerima Siaran Wajah Tepercaya</string>
+    <string name="intro_screen_title">Tentang wajah tepercaya</string>
+    <string name="intro_screen_header">Buka kunci ponsel dengan melihat ke ponsel</string>
+    <string name="intro_screen_body_start">"Ingat:
+"</string>
+    <string name="intro_screen_bullets">"Pencocokan wajah kurang aman dibanding pola, PIN, atau sandi
+
+Orang yang mirip dengan Anda dapat membuka kunci ponsel
+
+Data yang digunakan untuk mengenali wajah Anda tersimpan secara pribadi di ponsel"</string>
+    <string name="intro_screen_continue_label">Siapkan</string>
+    <string name="instructions_screen_title">Tambahkan wajah tepercaya</string>
+    <string name="instructions_screen_header">Untuk hasil terbaik:</string>
+    <string name="instructions_screen_bullets">"Cari tempat dalam ruangan yang tidak terlalu terang atau terlalu redup
+
+Pegang ponsel sejajar dengan mata"</string>
+    <string name="instructions_screen_continue_label">Berikutnya</string>
+    <string name="enrollment_screen_title">Tambahkan wajah tepercaya</string>
+    <string name="enrollment_screen_message_initializing">Memulai...</string>
+    <string name="enrollment_screen_message_initialization_error">Tidak dapat memulai untuk menemukan wajah Anda</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Izin kamera tidak diberikan</string>
+    <string name="enrollment_screen_message_camera_error">Kamera tidak tersedia</string>
+    <string name="enrollment_start_message">Pertahankan wajah tetap di dalam area bertitik</string>
+    <string name="enrollment_screen_message_instructions">Jaga agar bagian atas kepala dan bagian bawah dagu tetap dalam lingkaran</string>
+    <string name="enrollment_screen_message_done">Wajah ditambahkan</string>
+    <string name="enrollment_screen_status_no_face">Tampilkan wajah Anda</string>
+    <string name="enrollment_screen_status_face_off_center">Tidak dapat melihat bagian wajah Anda</string>
+    <string name="enrollment_screen_status_missing_template">Tidak dapat melihat ciri khas wajah Anda</string>
+    <string name="enrollment_screen_continue_label">Berikutnya</string>
+    <string name="enrollment_screen_done_label">Selesai</string>
+    <string name="enrollment_screen_talkback_preview_description">Pratinjau kamera</string>
+    <string name="enrollment_screen_talkback_face_added">Wajah ditambahkan</string>
+    <string name="end_screen_title">Semua siap!</string>
+    <string name="end_screen_body">Untuk membuka kunci ponsel, cukup aktifkan layar dan lihat ke kamera</string>
+    <string name="end_screen_bullet_one_text">Ponsel akan segera terbuka setelah mengenali wajah Anda</string>
+    <string name="end_screen_bullet_two_text">Jika wajah Anda tidak dikenali, buka dengan pola, PIN, atau sandi</string>
+    <string name="end_screen_tip_text">Kiat: Tingkatkan pencocokan wajah dengan menampilkan wajah Anda di berbagai kondisi</string>
+    <string name="end_screen_licenses_label">Lisensi</string>
+    <string name="end_screen_continue_label">Selesai</string>
+    <string name="add_to_setup_intro_screen_title">Tingkatkan pencocokan wajah</string>
+    <string name="add_to_setup_intro_screen_header">Tampilkan wajah Anda di berbagai kondisi</string>
+    <string name="add_to_setup_intro_screen_body_start">"Contoh:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"Dengan pencahayaan yang berbeda
+
+Dengan atau tanpa kacamata resep
+
+Berjenggot atau dicukur bersih
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Pegang ponsel sejajar dengan mata</string>
+    <string name="add_to_setup_intro_screen_continue_label">Berikutnya</string>
+    <string name="license_screen_title">Lisensi</string>
+    <string name="license_screen_header">Pemberitahuan sumber terbuka</string>
+    <string name="license_screen_continue_label">Oke</string>
+    <string name="license_screen_description">"Fitur 'Wajah tepercaya' dapat menggunakan sebagian dari pustaka sumber terbuka, terlisensi dengan kondisi lisensi di bawah ini:"</string>
+    <string name="license_screen_notices_header">Pemberitahuan untuk pustaka:</string>
+    <string name="shared_cancel_label">Batal</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Pengenalan wajah telah berubah. Tambahkan lagi wajah tepercaya untuk terus menggunakannya.</string>
+</resources>

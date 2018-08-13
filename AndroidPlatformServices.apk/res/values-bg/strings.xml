@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Придвижване към „Начало“</string>
+    <string name="abc_action_bar_up_description">Придвижване нагоре</string>
+    <string name="abc_action_menu_overflow_description">Още опции</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Вижте всички</string>
+    <string name="abc_activitychooserview_choose_application">Изберете приложение</string>
+    <string name="abc_capital_off">ИЗКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Търсете…</string>
+    <string name="abc_searchview_description_clear">Изчистване на заявката</string>
+    <string name="abc_searchview_description_query">Заявка за търсене</string>
+    <string name="abc_searchview_description_search">Търсене</string>
+    <string name="abc_searchview_description_submit">Изпращане на заявката</string>
+    <string name="abc_searchview_description_voice">Гласово търсене</string>
+    <string name="abc_shareactionprovider_share_with">Споделяне със:</string>
+    <string name="abc_shareactionprovider_share_with_application">Споделяне със: %s</string>
+    <string name="abc_toolbar_collapse_description">Свиване</string>
+    <string name="account_blocked_title">Профилът е блокиран</string>
+    <string name="account_level_title">Профил: Необх. е действие</string>
+    <string name="account_removed_notification_text">Профилът %1$s бе премахнат, защото управлението на устройства не бе завършено</string>
+    <string name="account_removed_notification_title">Профилът е премахнат</string>
+    <string name="android_privacy_policy_title">Допълнителна декларация за поверителност</string>
+    <string name="app_level_title">Заявка за вход</string>
+    <string name="app_level_title_secondary">Заявка за вход от %s</string>
+    <string name="audience_selection_done">Готово</string>
+    <string name="auth_account_already_has_gmail">Профилът вече има Gmail.</string>
+    <string name="auth_account_content_provider_label">Данни за профилите в Google</string>
+    <string name="auth_account_module_display_name">Google Профили</string>
+    <string name="auth_account_removed_default_description">Настройването на управлението на устройството не завърши. %1$s</string>
+    <string name="auth_account_removed_default_title">Настройването е анулирано</string>
+    <string name="auth_account_removed_dm_bad_result_description">Настройването на управлението на устройството не можа да завърши. %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Домейнът ви изисква услуга за управление на мобилните устройства, която не се поддържа на това устройство. Опитайте да използвате друг профил.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Управл. на у-ва не се поддържа</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Приложението за управление на устройството не се инсталира правилно. %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Проблеми с инсталир.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Анулир. настройване</string>
+    <string name="auth_account_removed_restricted_by_admin_description">За това устройство е разрешен само един управляван профил. Ако имате въпроси, свържете се с администратора на организацията си.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Вече съществува управл. профил</string>
+    <string name="auth_account_settings_title">Настройки на профила</string>
+    <string name="auth_account_setup_title">Профил в Google</string>
+    <string name="auth_account_start_over_and_signin_again">Започнете отначало и влезте отново в профила си.</string>
+    <string name="auth_account_state_sync_title">Синхронизиране на състоянието на профила</string>
+    <string name="auth_allow_external_site_access">Разполагайте с постоянен достъп до данните си на адрес %s</string>
+    <string name="auth_app_permission_ok_footnote">С продължаването си разрешавате на това приложение и Google да използват информацията ви съгласно съответните си Общи условия и Декларации за поверителност.</string>
+    <string name="auth_authenticator_label">Googlе</string>
+    <string name="auth_cant_add_work_account_message">Този тип профил се управлява от организацията ви.</string>
+    <string name="auth_captcha_instructions">Тук въведете текста, който виждате:</string>
+    <string name="auth_captcha_title">Трябва да въведете теста за разграничаване на компютри от хора</string>
+    <string name="auth_common_downloading">Изтегля се…</string>
+    <string name="auth_common_go_back">Назад</string>
+    <string name="auth_common_switch_accounts">Превкл. на профилите</string>
+    <string name="auth_communicating_message">Устройството ви се свързва с Google, за да запази информация в профила ви. Това може да отнеме до 5 минути.</string>
+    <string name="auth_confirm_creds_sync_title">Състояние на идентификационните данни</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Заключване и потвърждаване</string>
+    <string name="auth_d2d_source_copy_notice">Профилите и данните да се копират ли на другото ви устройство?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">След потвърждаването Bluetooth ще се включи, за да могат устройствата ви да комуникират.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">След потвърждаването устройствата ви ще се свържат през Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">За да продължите, екранът ще се заключи и ще трябва да го отключите за потвърждение.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Не можете да използвате функцията Tap &amp; Go, защото на това устройство няма профили.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Не можете да използвате функцията Tap &amp; Go, защото Bluetooth не е налице на устройството ви.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth ще се включи, за да могат устройствата ви да комуникират.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Ще се използва Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Възстанов. с Tap &amp; Go завърши</string>
+    <string name="auth_d2d_source_restricted_user_toast">Не можете да възстановявате чрез докосване от потребителски профил с ограничена функционалност.</string>
+    <string name="auth_d2d_source_title">Възстановяване на профилите</string>
+    <string name="auth_d2d_source_unknown_device_name">Неизвестно устройство</string>
+    <string name="auth_d2d_target_tap_progress_message">За да продължите, докоснете „OK“ на другото си устройство</string>
+    <string name="auth_d2d_target_unlock_progress_message">Проверете другото си устройство</string>
+    <string name="auth_d2d_target_wait_progress_message">Профилите и данните се изтеглят...</string>
+    <string name="auth_device_management_download_app_icon">Икона на приложението %s</string>
+    <string name="auth_device_management_download_description">За този профил се изисква услуга за управление на мобилните устройства. Инсталирайте приложението ^1, за да наложите правилата за сигурност, необходими за профила.</string>
+    <string name="auth_device_management_download_description_kids">За да добавите профила към това устройство, трябва първо да инсталирате <b>^1</b>". 
+
+^1 ви помага да настроите устройството за детето си."</string>
+    <string name="auth_device_management_download_failed_message">Пак можете да продължите с настройването без това приложение</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Инсталирането на приложението за управление на устройства не бе успешно. Този профил ще бъде премахнат. Опитайте отново по-късно.</string>
+    <string name="auth_device_management_download_failed_title">Прилож. не може да се изтегли</string>
+    <string name="auth_device_management_download_not_updated_message">Пак можете да продължите с настройването посредством текущата версия</string>
+    <string name="auth_device_management_download_paused">На пауза</string>
+    <string name="auth_device_management_download_progress">Изтегля се…</string>
+    <string name="auth_device_management_download_skip_message">За този профил се изисква функцията за управление на устройства. Искате ли да продължите без нея?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">За добавянето на този профил се изисква приложение за управление на устройства. Искате ли да започнете отначало с друг профил?</string>
+    <string name="auth_device_management_go_back">Назад</string>
+    <string name="auth_device_management_screenlock_description">Съответните правила на организацията ви изискват да зададете опция за заключване на екрана, за да осъществявате достъп до служебния си профил на това мобилно устройство.</string>
+    <string name="auth_device_management_screenlock_skip_message">За този профил се изисква защита чрез заключване на екрана. Искате ли да започнете отначало с друг профил?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Служебният ви потребителски профил отделя служебните ви приложения и се управлява от организацията ви.
+
+За да завършите настройването, ще ви е необходим код от системния ви администратор, който ще изтегли и използва инструмент за управление, за да контролира служебния ви потребителски профил."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Служебният ви потребителски профил отделя служебните ви приложения и се управлява от организацията ви.
+
+Системният ви администратор ще изтегли и използва инструмент за управление, за да контролира служебния ви потребителски профил."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Настройване на служебния ви потр. профил</string>
+    <string name="auth_device_management_start_description">За този профил се изисква услуга за управление на мобилните устройства. Когато докоснете „Напред“, приложението ^1 ще ви помогне да наложите правилата за сигурност, необходими за профила.</string>
+    <string name="auth_device_management_start_description_kids">За да добавите профила към това устройство, използвайте <b>^1</b>". 
+
+^1 ви помага да настроите устройството за детето си."</string>
+    <string name="auth_device_management_title">Управление на устройствата</string>
+    <string name="auth_device_management_update_description">За този профил се изисква услуга за управление на мобилни устройства. С цел спазване на правилата за сигурност, свързани с него, трябва да инсталирате по-нова версия на приложението ^1.</string>
+    <string name="auth_device_management_update_description_kids">За да добавите профила към това устройство, трябва първо да инсталирате най-новата версия на <b>^1</b>". 
+
+^1 ви помага да настроите устройството за детето си."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> не използва Gmail.</string>
+    <string name="auth_error_account_disabled">"Този профил е деактивиран. 
+
+(За подробности посетете http://google.com/accounts от уеб браузър.)"</string>
+    <string name="auth_error_account_not_verified">"Този профил не е потвърден. Проверете имейла си и отворете посочената връзка, за да го потвърдите. 
+
+(За да възстановите информацията за профила си, посетете http://www.google.com/accounts/recovery от компютъра си.)"</string>
+    <string name="auth_error_bad_password">Паролата е прекалено лесна или съдържа невалидни знаци. Опитайте отново.</string>
+    <string name="auth_error_bad_username">Невалидно потребителско име.</string>
+    <string name="auth_error_generic_server_error">"Възникна проблем при комуникацията със сървърите на Google. 
+
+Опитайте отново по-късно."</string>
+    <string name="auth_error_invalid_second_factor">Използвайте парола за конкретно приложение вместо обичайната за профила си.</string>
+    <string name="auth_error_login_failed">"Потребителското име и паролата ви не съвпадат. Опитайте отново.
+
+За да възстановите информацията за профила си, отворете google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">За достъп до профила си трябва да влезете в него от мрежата. Докоснете „Напред“, за да стартирате процедурата за вход в браузъра.</string>
+    <string name="auth_error_no_network">"Нямате връзка с мрежата. 
+
+Това може да е временен проблем. Опитайте отново или се свържете с друга Wi-Fi мрежа."</string>
+    <string name="auth_error_not_logged_in">Потребителят не е в профила си.</string>
+    <string name="auth_error_username_unavailable">Потребителското име не е свободно.</string>
+    <string name="auth_existing_account_error_text">Вече съществува профил „^1“ на това устройство с Android.</string>
+    <string name="auth_existing_account_error_title">Профилът вече съществува</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Не можете да влезете в устройството поради скорошна промяна на паролата. Моля, опитайте отново, когато са изминали 24 часа от извършването на промяната.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Функциите за защита на устройството вече няма да работят.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Когато последният профил в Google на устройството бъде преместен извън личния ви потребителски профил, ще се деактивират функциите за защита при кражба. Можете да добавите друг профил към устройството, за да ги активирате отново по-късно.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Наистина ли искате това?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Профилът да се премести ли в служебния потребителски профил?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Не можете да влезете в устройството поради неизвестна грешка. Моля, използвайте друг профил или опитайте да влезете отново след 24 часа.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Моля, влезте посредством един от профилите на собственика за това устройство</string>
+    <string name="auth_field_cant_be_blank">Полето трябва да се попълни.</string>
+    <string name="auth_frp_add_account_no">Нов профил: Ползване</string>
+    <string name="auth_frp_add_account_prompt">Предишният профил в Google на това устройство е потвърден. Можете да добавите ^1 обратно към устройството или да използвате нов профил.</string>
+    <string name="auth_frp_add_account_yes">Пред. профил: Добав.</string>
+    <string name="auth_frp_device_managed_label">Това устройство е настроено така, че да се управлява от организацията ви.</string>
+    <string name="auth_frp_download_management_app_label">Трябва да изтеглите приложение за управление на устройството, за да продължите с процеса на настройване.</string>
+    <string name="auth_frp_enter_device_credentials_label">Превключване към режим за администратори</string>
+    <string name="auth_frp_install_dpc_error">Инсталирането на приложението за управление не бе успешно. Ако изберете да пропуснете тази стъпка, устройството няма да бъде управлявано.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Инсталирането на приложението за управление не бе успешно. Моля, проверете връзката с мрежата и опитайте отново по-късно.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Вместо това да се използва профилът ми в Google</string>
+    <string name="auth_frp_preadd_lkscreen_text">Фабричните настройки на устройството ви бяха възстановени. Можете да го отключите с предишния си защитен въпрос.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Защита срещу възстановяване на фабричните настройки</string>
+    <string name="auth_frp_start_reenroll_device_title">Вашето устройство на работното ви място</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Не можа да се осъществи достъп до този профил. Уверете се, че устройството ви спазва правилата за сигурност на организацията ви. Свържете се с администратора й, ако грешката продължи да възниква.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Грешка в профила</string>
+    <string name="auth_gls_dmagent_activity_download_message">" За домейна ви се изисква услуга за управление на мобилни устройства. Инсталирайте приложението Google Apps Device Policy, за да наложите правилата за сигурност, необходими за профила  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Изтегляне</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" може да съдържа само букви,
+цифри и точки."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не съдържа никакви букви.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> съдържа по-малко от 6 или повече от 30 знака.</string>
+    <string name="auth_gls_is_not_available">Потребителското име <b>^1</b> е заето.</string>
+    <string name="auth_gls_name_checking_info_title">Информацията се проверява…</string>
+    <string name="auth_gls_sync_item_title">Синхронизиране на %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Профилът  "<b>^1</b> трябва да бъде добавен към администрирано от организацията ви устройство или служебен потребителски профил. Моля, изпълнете инструкциите, предоставени от системния ви администратор, за да завършите това действие.</string>
+    <string name="auth_google_title_logo">Лого на Google</string>
+    <string name="auth_invalid_login_character">Невалиден знак. Позволени са само 0–9, а–я, А–Я и точки.</string>
+    <string name="auth_invalid_password_character">Невалиден знак в паролата.</string>
+    <string name="auth_invalid_username">Въведеният от вас текст не е валидно потребителско име.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Въведохте неправилна парола или профилът ви е променен. Въведете я отново. Ако сте я забравили и трябва да възстановите профила си, кликнете <annotation id="help_url">тук</annotation>.</string>
+    <string name="auth_login_task_title">Влизате в профила си</string>
+    <string name="auth_login_title">Въведете имейл адрес и парола</string>
+    <string name="auth_minutemaid_ssl_error">"При свързването с/ъс  %s възникна проблем."</string>
+    <string name="auth_network_unreliable_help">Това може да е временен проблем или устройството ви с Android може да не е обезпечено за услуги с данни. Ако проблемът продължи, обадете се на екипа за поддръжка на клиенти.</string>
+    <string name="auth_no_network">Нямате връзка с мрежата.</string>
+    <string name="auth_no_network_help">Това може да е временен проблем или устройството ви с Android може да не е обезпечено за услуги с данни. Опитайте отново, когато имате връзка към мобилна мрежа, или се свържете с Wi-Fi мрежа.</string>
+    <string name="auth_no_network_help_wifi_only">Това може да е временен проблем. Опитайте отново или се свържете с друга Wi-Fi мрежа.</string>
+    <string name="auth_otp_error">При генерирането на кода за сигурност възникна проблем.</string>
+    <string name="auth_otp_explained_paragraph">Ако забравите паролата си или има нещо ново в начина, по който влизате в профила си, за да го защити, Google може да поиска код за сигурност. Използвайте този код сега или се върнете отново, за да получите друг.</string>
+    <string name="auth_otp_header_message">Кога да използвате този код за влизане в профила</string>
+    <string name="auth_otp_no_accounts_available_message">На това устройство няма конфигуриран профил.</string>
+    <string name="auth_otp_progress_dialog_message">Кодът за сигурност се генерира.</string>
+    <string name="auth_otp_ten_digit_code_header">Вашите кодове за сигурност</string>
+    <string name="auth_otp_ten_digit_explaination">Ако забравите паролата си или влизате от ново устройство или местоположение, с цел защита на профила ви в Google може да бъдете помолени за един от тези кодове (или и за двата).</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Тези кодове изтичат след 15 минути или след като ги използвате. Трябва да ги ползвате само на уеб страници с URL адреси, които започват с https://accounts.google.com/.</string>
+    <string name="auth_otp_ten_digit_usage_header">Кога да използвате кодовете си</string>
+    <string name="auth_otp_ten_digits_code1">Код 1</string>
+    <string name="auth_otp_ten_digits_code2">Код 2</string>
+    <string name="auth_password">Парола</string>
+    <string name="auth_plus_audience_selection_description_acl">СПОДЕЛЯНЕ СЪС:</string>
+    <string name="auth_plus_info_fragment_app_name">%s иска да:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%1$s от устройството %2$s иска да:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Разширените ви кръгове</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Избраните кръгове</string>
+    <string name="auth_plus_scope_fragment_public_label">Всички в мрежата</string>
+    <string name="auth_pre_factory_reset_title">Запомняне на профила ви в Google</string>
+    <string name="auth_relogin_activity_title">Въведете отново паролата</string>
+    <string name="auth_remove_account_start_over">Стартиране отначало</string>
+    <string name="auth_request_accounts_list">Получете списък с профилите в Google на устройството.</string>
+    <string name="auth_scope_more_details">Още информация</string>
+    <string name="auth_server_error">При комуникацията със сървърите на Google възникна проблем.</string>
+    <string name="auth_server_error_help">Опитайте отново по-късно.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Профилът е добавен</string>
+    <string name="auth_setup_wizard_account_added_description">Профилът ви е добавен. Моля, продължете, за да изберете опции за услугите на Google</string>
+    <string name="auth_setup_wizard_services_activity_title">Услуги на Google</string>
+    <string name="auth_setup_wizard_title">Съветник за инсталиране</string>
+    <string name="auth_show_error_title">Грешка</string>
+    <string name="auth_sign_in_agreement">С влизането в профила си приемате Декларацията за поверителност на <annotation id="google_privacy">Google</annotation> и <annotation id="android_privacy">Допълнителната</annotation> декларация за поверителност.</string>
+    <string name="auth_sign_in_browser">Вход в браузъра</string>
+    <string name="auth_sign_in_with_google_account_short">Влезте с профила си в Google:</string>
+    <string name="auth_submission_error_text">Възникна грешка. Опитайте отново.</string>
+    <string name="auth_submission_title">Нашите извинения…</string>
+    <string name="auth_ui_activity_authenticating">Удостоверява се…</string>
+    <string name="auth_ui_activity_title">Вход в Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Вход</string>
+    <string name="auth_ui_add_account_title">Настройване на профила</string>
+    <string name="auth_uncertified_notification_description"><b>Потребители, които са купили това устройство</b>":
+Производителят на устройството предварително е заредил приложения и услуги на Google, без да разполага със съответния сертификат. Свържете се с него и помолете за сертифицирано устройство. Научете повече на адрес g.co/AndroidCertifiedDevice.
+
+"<b>Нелицензирани производители</b>":
+Необходим ви е лиценз от Google, за да разпространявате наши приложения и услуги. Кандидатствайте на адрес g.co/AndroidGMSContact.
+
+"<b>Лицензирани производители</b>":
+За да използвате приложенията и услугите на Google по време на разработване, регистрирайте устройството. За повече информация се свържете с мениджъра, който отговаря за развитието на бизнеса ви с Google.
+
+"<b>Потребители на персонализирана ROM памет</b>":
+За да използвате приложенията и услугите на Google с персонализирана ROM памет, регистрирайте това устройство. Научете повече на адрес g.co/apps-custom."</string>
+    <string name="auth_uncertified_notification_title">Устройството не е сертифицирано от Google</string>
+    <string name="auth_username">Имейл</string>
+    <string name="auth_work_authenticator_label">Управляван профил</string>
+    <string name="authorization_dialog">Диалогов прозорец за упълном.</string>
+    <string name="chrome_privacy_title">Съобщение за поверителност на Chrome</string>
+    <string name="chrome_tos_title">Общи условия на Chrome</string>
+    <string name="close_button_label">Затваряне</string>
+    <string name="common_accept">Приемам</string>
+    <string name="common_add">Добавяне</string>
+    <string name="common_add_account_label">Добавяне на профил</string>
+    <string name="common_ads_settings_title">Реклами</string>
+    <string name="common_agree">Приемам</string>
+    <string name="common_app_name">Услуги за Google Play</string>
+    <string name="common_application_info">Информация за приложението</string>
+    <string name="common_application_info_composed_string">Информацията за приложението ви</string>
+    <string name="common_asm_google_account_title">Профил в Google</string>
+    <string name="common_asm_manage_google_account_title">Управл. на профила ви в Google</string>
+    <string name="common_asm_preferences_settings_title">Предпочитания за профила</string>
+    <string name="common_asm_privacy_settings_title">Лични данни и поверителност</string>
+    <string name="common_asm_security_settings_title">Вход и сигурност</string>
+    <string name="common_back">Назад</string>
+    <string name="common_battery">Батерия</string>
+    <string name="common_block">Блокиране</string>
+    <string name="common_cancel">Отказ</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts не може да се стартира (грешка в разрешенията).</string>
+    <string name="common_car_permission_desc">Достъп до автомобилната услуга.</string>
+    <string name="common_car_permission_label">Автомобилна услуга</string>
+    <string name="common_card">Карта</string>
+    <string name="common_chips_label_empty_circles">Няма кръгове</string>
+    <string name="common_chips_label_extended_circles">Разширени кръгове</string>
+    <string name="common_chips_label_only_you">Само вие</string>
+    <string name="common_chips_label_public">Обществено</string>
+    <string name="common_chips_label_your_circles">Вашите кръгове</string>
+    <string name="common_choose_account_label">Избор на профил</string>
+    <string name="common_confirm_screen_lock_title">Потвърдете опцията си за заключване на екрана</string>
+    <string name="common_connect">Свързване</string>
+    <string name="common_connected">Установена е връзка</string>
+    <string name="common_connected_apps_settings_title">Свързани приложения</string>
+    <string name="common_connecting">Свързва се...</string>
+    <string name="common_continue">Напред</string>
+    <string name="common_disabled">Деактивирано</string>
+    <string name="common_disagree">Не приемам</string>
+    <string name="common_disconnect">Прекрат. на връзката</string>
+    <string name="common_dismiss">Отхвърляне</string>
+    <string name="common_done">Готово</string>
+    <string name="common_edit">Редактиране</string>
+    <string name="common_email">Имейл</string>
+    <string name="common_fingerprint_hint">Докоснете сензора</string>
+    <string name="common_from">От:</string>
+    <string name="common_games_settings_title">Play Игри</string>
+    <string name="common_get_started">Първи стъпки</string>
+    <string name="common_google">Googlе</string>
+    <string name="common_google_play_services_enable_button">Активиране</string>
+    <string name="common_google_play_services_enable_text">%1$s няма да работи, освен ако не активирате услугите за Google Play.</string>
+    <string name="common_google_play_services_enable_title">Активиране на услугите за Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Грешка</string>
+    <string name="common_google_play_services_install_button">Инсталиране</string>
+    <string name="common_google_play_services_install_text">%1$s няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на устройството ви.</string>
+    <string name="common_google_play_services_install_title">Изтегляне на услугите за Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Наличност на услугите за Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Грешка в услугите за Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблеми с услугите за Google Play. Моля, опитайте отново.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s няма да се изпълнява, тъй като услугите за Google Play не се поддържат от устройството ви.</string>
+    <string name="common_google_play_services_update_button">Актуализиране</string>
+    <string name="common_google_play_services_update_text">%1$s няма да се изпълнява, освен ако не актуализирате услугите за Google Play.</string>
+    <string name="common_google_play_services_update_title">Актуализиране на услугите за Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s няма да се изпълнява без услугите за Google Play. Понастоящем те се актуализират.</string>
+    <string name="common_google_play_services_updating_title">Услугите за Google Play се актуализират</string>
+    <string name="common_google_play_services_wear_update_text">Необходима е нова версия на услугите за Google Play. Скоро тя ще се актуализира автоматично.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Инсталирани са услуги за Google Play с неправилна архитектура.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Услугите за Google Play са инсталирани с архитектура (%1$s), която е различна от тази на устройството ви (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Неправилна архитектура</string>
+    <string name="common_google_settings">Настройки за Google</string>
+    <string name="common_google_settings_account">Профил</string>
+    <string name="common_google_settings_credentials_title">Smart Lock за пароли</string>
+    <string name="common_got_it">Разбрах</string>
+    <string name="common_install">Инсталиране</string>
+    <string name="common_learn_more">Научете повече</string>
+    <string name="common_list_apps_menu_help">Помощ</string>
+    <string name="common_list_apps_menu_help_and_feedback">Помощ и отзиви</string>
+    <string name="common_loading">Зарежда се…</string>
+    <string name="common_location_settings_title">Местоположение</string>
+    <string name="common_login_activity_task_title">Влизате в профила си…</string>
+    <string name="common_login_error_title">Не можахте да влезете в профила си</string>
+    <string name="common_magictether_settings_title">Незабавен тетъринг</string>
+    <string name="common_maps_settings_title">Карти и Latitude</string>
+    <string name="common_mdm_feature_name">Намиране на устройството ми</string>
+    <string name="common_missing_url_viewer">Липсва визуализатор за показване на външния URL адрес.</string>
+    <string name="common_more">Още</string>
+    <string name="common_more_options">Още опции</string>
+    <string name="common_mute_notification">Спиране на известието</string>
+    <string name="common_network_unavailable">Няма връзка с интернет</string>
+    <string name="common_networking_settings_title">Мрежи</string>
+    <string name="common_never">Никога</string>
+    <string name="common_next">Напред</string>
+    <string name="common_no_browser_for_restricted_url">Достъпът е ограничен. Не бе намерен браузър.</string>
+    <string name="common_no_devices_found">Няма намерени устройства</string>
+    <string name="common_no_network">Не е налице, защото устройството е офлайн</string>
+    <string name="common_no_thanks">Не, благодаря</string>
+    <string name="common_not_now">Не сега</string>
+    <string name="common_off">Изключено</string>
+    <string name="common_offline">Офлайн сте</string>
+    <string name="common_ok">ОK</string>
+    <string name="common_on">Включено</string>
+    <string name="common_open">Отваряне</string>
+    <string name="common_open_on_phone">Отваряне на телефона</string>
+    <string name="common_open_source_licenses">Лицензи за отворен код</string>
+    <string name="common_pause">Поставяне на пауза</string>
+    <string name="common_people_settings_title">Контакти</string>
+    <string name="common_permissions_enable_in_settings">Актив. в настройките</string>
+    <string name="common_permissions_missing_end">За да продължите, отворете „Настройки“ > „Разрешения“ и разрешете всички посочени елементи.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+За активиране отворете
+Настройки >
+Разрешения >
+Услуги за Google Play"</string>
+    <string name="common_permissions_missing_start">Това приложение няма да работи правилно, освен ако не предоставите поискания от услугите за Google Play достъп до следното:</string>
+    <string name="common_permissions_open_settings">Към настройките</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_play">Пускане</string>
+    <string name="common_privacy_policy">Декларацията за поверителност</string>
+    <string name="common_privacy_policy_composed_string">Декларация за поверителност</string>
+    <string name="common_refresh">Опресняване</string>
+    <string name="common_remove">Премахване</string>
+    <string name="common_reply">Отговор</string>
+    <string name="common_restore">Възстановяване</string>
+    <string name="common_retry">Нов опит</string>
+    <string name="common_save">Запазване</string>
+    <string name="common_saved">Запазено</string>
+    <string name="common_saving">Запазва се...</string>
+    <string name="common_search_settings_title">Търсене</string>
+    <string name="common_security_ootp_setting_title">Код за сигурност</string>
+    <string name="common_select">Избиране</string>
+    <string name="common_send">Изпращане</string>
+    <string name="common_sending">Изпраща се…</string>
+    <string name="common_set_up_nearby_device_settings_title">Настройване на устройство в близост</string>
+    <string name="common_settings">Настройки</string>
+    <string name="common_share">Споделяне</string>
+    <string name="common_sign_in">Вход</string>
+    <string name="common_signin_button_text">Вход</string>
+    <string name="common_signin_button_text_long">Вход с Google</string>
+    <string name="common_skip">Пропускане</string>
+    <string name="common_skip_fingerprint">Използване на опция за заключ. на екрана</string>
+    <string name="common_something_went_wrong">Нещо се обърка</string>
+    <string name="common_system_info">Системната информация</string>
+    <string name="common_system_info_composed_string">информация за профила и системата</string>
+    <string name="common_take_photo_label">Правене на снимка</string>
+    <string name="common_terms_of_service">Общите условия</string>
+    <string name="common_terms_of_service_composed_string">Общи условия</string>
+    <string name="common_today">Днес</string>
+    <string name="common_try_again">Нов опит</string>
+    <string name="common_turn_on">Включване</string>
+    <string name="common_turn_on_bluetooth">Включване на Bluetooth</string>
+    <string name="common_turn_on_nfc">Включване на КБП</string>
+    <string name="common_ui_confirm_deleting_button">Изтриване</string>
+    <string name="common_ui_confirm_deleting_checkbox">Разбирам и искам да се изтрие</string>
+    <string name="common_unknown">Няма данни</string>
+    <string name="common_update">Актуализиране</string>
+    <string name="common_url_load_unsuccessful_message">Устройството ви с Android не е свързано с услуга за данни. За да видите тази информация сега, посетете %s с уеб браузър.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Устройството ви с Android не е свързано с Wi-Fi мрежа. За да видите тази информация сега, посетете %s с уеб браузър.</string>
+    <string name="common_usage_and_diagnostics">Употреба и диагностика</string>
+    <string name="common_view">Преглед</string>
+    <string name="common_yesterday">Вчера</string>
+    <string name="continue_to_login_heading">Моля, влезте в профила си.</string>
+    <string name="continue_to_login_text">Идентификационните данни са предоставени. Продължете, за да влезете в профила си на първото устройство.</string>
+    <string name="description_fingerprint_icon">Икона за отпечатък</string>
+    <string name="download_msg_error_invalid">Изтеглянето бе конфигурирано неправилно.</string>
+    <string name="download_msg_in_progress">Изтеглянето е в ход.</string>
+    <string name="download_msg_not_allowed_space">Няма достатъчно място за извършване на изтеглянето.</string>
+    <string name="download_msg_pending">Изтеглянето предстои.</string>
+    <string name="download_notification_description">Това се изисква от %1$s.</string>
+    <string name="download_notification_title">Извличат се още данни</string>
+    <string name="expand_button_title">Разширени</string>
+    <string name="fido_ble_device_icon_content_description">Открито е устройство с Bluetooth</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Натиснете бутона на ключа си и го задръжте поне за 5 секунди, за да се уверите, че е в режим на сдвояване</string>
+    <string name="fido_ble_dont_see_your_key_hint">Не виждате ключа си?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Ключът ви за сигурност работи само когато сте включили услугите за Bluetooth и за местоположението на устройството си</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Ключът ви за сигурност работи само когато сте включили Bluetooth на устройството си</string>
+    <string name="fido_ble_enable_body_location_only">Ключът ви за сигурност работи само когато сте включили услугата за местоположението на устройството си</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Включване на Bluetooth и услугата за местоположението</string>
+    <string name="fido_ble_enable_title_location_only">Включване на услугата за местоположението</string>
+    <string name="fido_ble_instructions_body">За да използвате повечето ключове, трябва само да докоснете бутона</string>
+    <string name="fido_ble_locate_pin_body">ПИН кодът за сдвояване обикновено е 4- или 6-цифрено число и може да е изписан на гърба на ключа ви. Продължете, когато сте готови да го въведете.</string>
+    <string name="fido_ble_locate_pin_title">Намиране на ПИН кода за сдвояване на ключа ви %1$s през Bluetooth</string>
+    <string name="fido_ble_pair_device_pairing">Ключът за сигурност се сдвоява…</string>
+    <string name="fido_ble_pair_instructions_body">Сдвоете ключа си с това устройство, за да можете да използвате ключа с профила си</string>
+    <string name="fido_ble_pair_instructions_title">Готови ли сте да сдвоите ключа си за сигурност?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Включете отново ключа си в режим на сдвояване</string>
+    <string name="fido_ble_pairing_mode_body">Натиснете бутона на ключа си за сигурност и го задръжте поне за 5 секунди</string>
+    <string name="fido_ble_pairing_mode_title">Преминаване в режим на сдвояване</string>
+    <string name="fido_ble_select_device_body">От списъка по-долу изберете ключа за сигурност, който искате да сдвоите с устройството си. Възможно е името на ключа да е изписано на гърба му.</string>
+    <string name="fido_ble_select_device_title">Избиране на ключ за сигурност</string>
+    <string name="fido_instructions_title">Да се разреши ли използването на ключа ви за сигурност?</string>
+    <string name="fido_nfc_enable_body">Ключът ви за сигурност работи само когато сте включили КБП на устройството си</string>
+    <string name="fido_nfc_instructions_body">Задръжте ключа си плътно върху гърба на устройството си, докато вибрирането спре</string>
+    <string name="fido_paask_body">Прави се опит за вход в профила ви в Google от устройство в близост</string>
+    <string name="fido_paask_footer">Това е подобрена защита за влизането в профила, която използва шифрована връзка през Bluetooth с устройство в близост.</string>
+    <string name="fido_paask_header">Опитвате се да влезете в профила си от устройство в близост?</string>
+    <string name="fido_paask_no_text">Не, това не съм аз</string>
+    <string name="fido_paask_yes_text">Да, това съм аз</string>
+    <string name="fido_pair_another_security_key">Сдвояване на друг ключ за сигурност</string>
+    <string name="fido_processing">Ключът за сигурност се потвърждава…</string>
+    <string name="fido_transport_selection_bluetooth">Използване на ключа за сигурност с Bluetooth</string>
+    <string name="fido_transport_selection_body">Ключовете за сигурност работят с Bluetooth, КБП и USB. Изберете как искате да използвате своя.</string>
+    <string name="fido_transport_selection_fingerprint">Използване на ключа за сигурност с отпечатък</string>
+    <string name="fido_transport_selection_nfc">Използване на ключа за сигурност с КБП</string>
+    <string name="fido_transport_selection_title">Избиране как да се използва ключът ви за сигурност</string>
+    <string name="fido_transport_selection_usb">Използване на ключа за сигурност с USB</string>
+    <string name="fido_usb_instructions_body">Свържете ключа си за сигурност с USB порта или чрез USB кабел. Ако на ключа ви има бутон или златен диск, докоснете го сега.</string>
+    <string name="fido_use_ble_instead">Използване на ключа ви за сигурност чрез Bluetooth</string>
+    <string name="fido_use_fp_instead">Използване на ключа ви за сигурност с отпечатък</string>
+    <string name="fido_use_nfc_instead">Използване на ключа ви за сигурност чрез КБП</string>
+    <string name="fido_use_usb_instead">Използване на ключа ви за сигурност с USB</string>
+    <string name="fido_welcome_body">Използването на ключа ви за сигурност чрез %1$s помага за защитата на частните ви данни.</string>
+    <string name="fido_welcome_title">Използване на ключа ви за сигурност чрез %1$s</string>
+    <string name="fingerprint_description">Потвърдете отпечатъка си, така че %1$s да може да потвърди, че сте вие.</string>
+    <string name="fingerprint_no_imprints_description">%1$s иска да потвърди самоличността ви посредством отпечатъка ви, но още не сте добавили своя на това устройство.</string>
+    <string name="fingerprint_not_recognized">Отпечатъкът не е разпознат. Опитайте пак</string>
+    <string name="fingerprint_success">Отпечатъкът е разпознат</string>
+    <string name="gcm_fallback_notification_channel_label">Разни</string>
+    <string name="google_app_permissions_title">Разрешения за приложенията</string>
+    <string name="google_legal_title">Google – правен текст</string>
+    <string name="google_play_tos_title">Общи условия на Google Play</string>
+    <string name="google_plus_privacy_policy_title">Поверителност на Google Plus</string>
+    <string name="google_privacy_policy_title">Декларация за поверителност на Google</string>
+    <string name="google_terms_of_service_title">Общи условия на Google</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Разрешаване на приложението да прехвърли на друго устройство идентификационните данни за дадена Wi-Fi мрежа.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Прехвърляне на идент. данни за Wi-Fi</string>
+    <string name="network_recommendation_service_label">Googlе</string>
+    <string name="no_screen_lock_description">Първо трябва да настроите опция за заключване на екрана на устройството си</string>
+    <string name="no_screen_lock_title">На телефона ви няма опция за заключване на екрана</string>
+    <string name="notification_ticker">Достъпът е заявен</string>
+    <string name="open_source_activity_prompt_heading">Отваряне на приложението</string>
+    <string name="open_source_activity_prompt_text">"Отворете SourceResponseActivity на телефона си, за да завършите процеса по удостоверяване. "</string>
+    <string name="permgrouplab_calendar">Календар</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контакти</string>
+    <string name="permgrouplab_location">Местоположение</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Телесни сензори</string>
+    <string name="permgrouplab_storage">Хранилище</string>
+    <string name="permissions_not_granted_text">За да предоставите разрешенията, влезте отново в профила си.</string>
+    <string name="permissions_not_granted_title">Разрешенията не са предоставени.</string>
+    <string name="plus_manage_app_only_you_label">Само вие</string>
+    <string name="plus_network_unreliable">Не може да се установи надеждна връзка със сървъра.</string>
+    <string name="plus_oob_interstitial_loading_text">Това може да отнеме няколко минути.</string>
+    <string name="search_menu_title">Търсене</string>
+    <string name="set_up">НАСТРОЙВАНЕ</string>
+    <string name="setupservices_additional_privacy_title">Допълнителна информ. за поверителността</string>
+    <string name="setupservices_android_privacy_policy_title">Допълнителна декларация за поверителност</string>
+    <string name="setupservices_chrome_privacy_title">Съобщение за поверителност на Chrome</string>
+    <string name="setupservices_chrome_tos_title">Общи условия на Chrome</string>
+    <string name="setupservices_google_app_permissions_title">Разрешения за приложенията</string>
+    <string name="setupservices_google_legal_title">Google – правен текст</string>
+    <string name="setupservices_google_play_tos_title">Общи условия на Google Play</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Декларация за поверителност на Google+</string>
+    <string name="setupservices_google_privacy_policy_title">Декларация за поверителност на Google</string>
+    <string name="setupservices_google_services_agreement">С продължаването си приемате, че това устройство може също автоматично да изтегля и инсталира актуализации и приложения от Google, оператора ви и производителя си, при което е възможно да използва мобилни данни. В някои от тези приложения може да се предлагат покупки. В състояние сте да премахнете приложенията по всяко време.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">За да премахнете приложения, отворете „Настройки“ > „Приложения“ или мениджъра на приложенията. Докоснете това, което искате да деинсталирате (може да се наложи да прекарате пръст надясно или наляво, за да го намерите). Докоснете „Деинсталиране“ или „Деактивиране“.</string>
+    <string name="setupservices_google_services_agreement_korea">Приемате също така предварително инсталираните приложения от Google да имат достъп до данните и функциите на устройството ви и им предоставяте съответното разрешение. Разгледайте <annotation link="app_permissions">тази страница</annotation> за повече информация относно използването на разрешенията.</string>
+    <string name="setupservices_google_services_agreement_title">Инсталиране на актуализации и приложения</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Когато хранилището на телефона ви е почти пълно, освободете място, като премахнете някои данни, например снимки и видеоклипове, за които е създадено резервно копие.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Когато сте свързани, пак ще имате достъп до тези данни. Можете да управлявате функцията и да избирате какво да се премахва, като отворите „Настройки“ > „Хранилище“ > „Интелигентно хранилище“.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Освобождаване на място</string>
+    <string name="setupservices_google_services_backup">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Резервното ви копие включва приложенията, информацията от тях и настройките на устройството (включително паролите за Wi‑Fi).</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Данните в резервното копие не заемат от квотата на хранилището ви в Диск."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Данните на приложенията могат да бъдат всяка запазена от тях информация (въз основа на настройките за програмисти), включително потенциално поверителната, като например контакти, съобщения и снимки.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Можете да изключите тази услуга от настройките.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Снимките и видеоклиповете от това устройство се синхронизират с колекцията ви в Google Снимки, за да можете да ги търсите, редактирате, изтривате и споделяте от всичките си устройства. По подразбиране снимките и клиповете се качват с пълната разделителна способност.
+
+Данните в резервното копие не заемат от квотата на хранилището ви в Диск."</string>
+    <string name="setupservices_google_services_backup_title">Създаване на резервно копие в Диск</string>
+    <string name="setupservices_google_services_backup_v23">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Резервното ви копие включва приложенията, информацията от тях, историята на обажданията, контактите и настройките на устройството (включително паролите за Wi‑Fi и разрешенията).</string>
+    <string name="setupservices_google_services_backup_v26">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Резервното ви копие включва приложенията, информацията от тях, историята на обажданията, контактите, настройките на устройството (включително паролите за Wi‑Fi и разрешенията) и SMS съобщенията.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Резервното ви копие включва приложенията, информацията от тях, историята на обажданията, контактите, настройките на устройството (включително паролите за Wi‑Fi и разрешенията), снимките, видеоклиповете и SMS съобщенията. Снимките и видеоклиповете се синхронизират с колекцията ви в Google Снимки и може да се използват във всички услуги.</string>
+    <string name="setupservices_google_services_data_policy">Данните ще се използват в съответствие с <annotation link="google_privacy">Декларацията за поверителност</annotation> на Google.</string>
+    <string name="setupservices_google_services_data_policy_korea">Данните ще се използват в съответствие с <annotation link="google_privacy">Декларацията за поверителност</annotation> на Google (включително <annotation link="additional_privacy">събирането, съхраняването и използването на личните данни</annotation>) и <annotation link="location_tos">Общите условия за местоположението</annotation>.</string>
+    <string name="setupservices_google_services_description">Докоснете, за да научите повече за всяка услуга, като например как да я включите или изключите по-късно. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Подробностите за приложенията, включително за покупките в тях, можете да намерите в Google Play Магазин. Данните и настройките на приложенията се синхронизират на устройствата, на които сте влезли с профила си в Google. 
+
+Използването на мигновени приложения се урежда от "<a href="https://play.google.com/about/play-terms.html">Общите условия на Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Научете повече</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Когато докоснете връзка, Google Play проверява дали съществува мигновено приложение и го стартира без инсталиране. Този тип приложения се запазват временно на устройството ви.</string>
+    <string name="setupservices_google_services_instant_apps_title">Използвайте приложения, без да ги инсталирате</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Услугата на Google за местоположение използва източници като Wi-Fi, мобилни мрежи и сензори, за да определя къде се намира устройството ви.
+
+Можете да изключите местоположението, като деактивирате главната настройка за него на устройството си. Също така от настройките за местоположението сте в състояние да изключите използването на Wi-Fi, мобилни мрежи и сензори за определянето му."</string>
+    <string name="setupservices_google_services_location_sharing_title">Помогнете на прил. да намират местопол.</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Използване на местоположението</string>
+    <string name="setupservices_google_services_location_sharing_v28">Позволете на приложенията и услугите да ползват местоположението на устройството ви, ако имат съответното разрешение. Google може периодично да събира информация за местоположението и да я използва по анонимен начин с цел подобряване на точността му и базиращите се на него услуги.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Разрешете на приложенията и услугите да сканират за Wi‑Fi дори когато съответната настройка е изключена.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Можете да изключите тази функция от настройките за местоположението.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Точност на местоположението: Подобряване</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Разрешаване на сканирането</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Разрешете на приложенията и услугите да сканират за сигнали за Wi‑Fi и Bluetooth дори когато съответните настройки са изключени.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Разрешете на приложенията и услугите да сканират по всяко време за Wi‑Fi мрежи и устройства в близост (дори когато Wi‑Fi или Bluetooth са изключени).</string>
+    <string name="setupservices_google_services_next_button_label">Приемам</string>
+    <string name="setupservices_google_services_play">Дръжте ме в течение с новини и оферти от Google Play.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Резервно копие и хранилище</string>
+    <string name="setupservices_google_services_section_device_maintenance">Поддръжка на устройството</string>
+    <string name="setupservices_google_services_tos">Ако продължите, приемате и <annotation link="tos">Общите условия на Google</annotation>.</string>
+    <string name="setupservices_google_services_tos_agree">С кликването си върху бутона „Приемам“ приемате описаното по-горе обработване за тези услуги на Google.</string>
+    <string name="setupservices_google_services_tos_germany">Когато използвате това устройство, спазваме <annotation link="google_privacy">Декларацията си за поверителност</annotation> и са в сила <annotation link="tos">допълнителни условия</annotation>.</string>
+    <string name="setupservices_google_services_usage_reporting">Помогнете за подобряването на работата си с Android, като автоматично ни изпращате данни за диагностиката и употребата на устройството и приложенията. Това ще спомогне за удължаване на живота на батерията и подобряване на стабилността на приложенията, свързаността с мрежи и др. Ако сте включили Допълнителна активност в мрежата и приложенията, тази информация ще се съхранява в профила ви, така че да можете да я управлявате от „Моята активност“.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Това е обща информация за устройството ви и употребата му (например за нивото на батерията, използването на приложенията и свързаността с мрежи). Данните ще се използват за всеобщо подобряване на продуктите и услугите на Google. Част от обобщената информация ще помогне и на партньорите ни, например програмисти под Android, да усъвършенстват приложенията и продуктите си.
+
+Изключването на тази функция няма да засегне възможността на устройството ви да изпраща информацията, необходима за получаването на основни услуги, като системни актуализации и подобрения в сигурността."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Можете да актуализирате настройките в „Моята активност“ на адрес myactivity.google.com.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Можете да контролирате тази функция от Настройки за Google. Изберете „Употреба и диагностика“ от менюто.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Можете да контролирате тази функция от „Настройки“ > „Google“. Изберете „Употреба и диагностика“ от менюто.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Изпращане на системни данни</string>
+    <string name="setupservices_google_services_wallpaper_permission">Разрешете динамичните ни тапети да се променят спрямо местоположението ви, като предоставите на функцията достъп до услугата на Google за местоположение.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Можете да включите или изключите достъпа на функцията за динамични тапети до услугата на Google за местоположението, като отворите „Настройки“ > „Приложения и известия“ > „Информация за приложението“. В менюто при препълване докоснете „Системни приложения“ > „Динамични тапети с данни“ или „Динамични тапети със Земята“ > „Разрешения“.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Разрешаване на функцията за тапети да използва местоположението</string>
+    <string name="setupservices_google_terms_of_service_title">Общи условия на Google</string>
+    <string name="setupservices_kids_google_services_agreement">С продължаването си приемате, че това устройство може също автоматично да изтегля и инсталира актуализации и приложения от Google, оператора ви и производителя си, при което е възможно да използва мобилни данни. В някои от тези приложения може да се предлагат покупки. В състояние сте да премахнете приложенията по всяко време.</string>
+    <string name="setupservices_kids_google_services_backup">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Това резервно копие включва приложенията, информацията от тях и настройките на устройството (включително паролите за Wi‑Fi).</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Данните в резервното копие не заемат от квотата на хранилището на детето ви в Диск."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Снимките и видеоклиповете от това устройство се синхронизират с колекцията на детето ви в Google Снимки, за да може да ги търси, редактира, изтрива и споделя от всичките си устройства. По подразбиране снимките и клиповете се качват с пълната разделителна способност.
+
+Данните в резервното копие не заемат от квотата на хранилището на детето ви в Диск."</string>
+    <string name="setupservices_kids_google_services_backup_v23">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Това резервно копие включва приложенията, информацията от тях, историята на обажданията, контактите и настройките на устройството (включително паролите за Wi‑Fi и разрешенията).</string>
+    <string name="setupservices_kids_google_services_backup_v26">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Това резервно копие включва приложенията, информацията от тях, историята на обажданията, контактите, настройките на устройството (включително паролите за Wi‑Fi и разрешенията) и SMS съобщенията.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">По всяко време можете лесно да възстановите данните на телефона си или да го замените с друг. Това резервно копие включва приложенията, информацията от тях, историята на обажданията, контактите, настройките на устройството (включително паролите за Wi‑Fi и разрешенията), снимките, видеоклиповете и SMS съобщенията. Снимките и видеоклиповете се синхронизират с колекцията на детето ви в Google Снимки и може да се използват във всички услуги.</string>
+    <string name="setupservices_kids_google_services_description">Като родител можете да докоснете, за да научите повече за всяка услуга, като например как да я включите или изключите по-късно. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Услугата на Google за местоположение използва източници като Wi‑Fi, мобилни мрежи и сензори, за да определя къде се намира това устройство.
+
+Можете да изключите местоположението, като деактивирате главната настройка за него на това устройство. Също така от настройките за местоположението сте в състояние да изключите използването на Wi-Fi, мобилни мрежи и сензори за определянето му."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Позволете на приложенията и услугите да ползват местоположението на това устройство, ако имат съответното разрешение. Google може периодично да събира информация за местоположението и да я използва по анонимен начин с цел подобряване на точността му и базиращите се на него услуги.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Помогнете за подобряването на Android, като автоматично ни изпращате данни за диагностиката и за употребата на устройството и приложенията. Тази информация няма да се използва за идентифициране на детето ви, а ще послужи за удължаване на живота на батерията и подобряване на стабилността на приложенията, свързаността с мрежи и още много други неща. Ако сте включили Допълнителна активност в мрежата и приложенията за детето си, тази информация ще се съхранява в профила му.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Това е обща информация за устройството и употребата му (например за нивото на батерията, използването на приложенията и свързаността с мрежи). Данните ще се използват за всеобщо подобряване на продуктите и услугите на Google. Част от обобщената информация ще помогне и на партньорите ни, например програмисти под Android, да усъвършенстват приложенията и продуктите си.
+
+Изключването на тази функция няма да засегне възможността на устройството да изпраща информацията, необходима за получаването на основни услуги, като системни актуализации и подобрения в сигурността."</string>
+    <string name="setupservices_location_tos_title">Общи условия за местоположението</string>
+    <string name="sid_lsid_grant_detail">Подобно на парола, „бисквитките“ за идентифициране на сесии (SID) и тези за идентифициране на локални сесии (LSID) свързват самоличността ви с поредица от заявки от браузъра и разрешават пълен достъп до всички данни в профила ви. Само браузърите могат легитимно да използват тези „бисквитки“.</string>
+    <string name="sid_lsid_grant_label">Използване на „бисквитките“ за SID и LSID с цел получаване на достъп до всички данни в профила ви в Google.</string>
+    <string name="smartdevice_action_copy">Копиране</string>
+    <string name="smartdevice_action_open_app">Отваряне</string>
+    <string name="smartdevice_action_try_another_way">Опитване другояче</string>
+    <string name="smartdevice_action_turn_on_location">Включване на услугите за местоположение</string>
+    <string name="smartdevice_alert_disconnected_title">Връзката с устройството прекъсна</string>
+    <string name="smartdevice_alert_dm_backup_account_message">За съжаление, не можете да използвате тази функция, защото резервното копие на профила ви се управлява от администратора на устройството ви.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Функцията не е налице</string>
+    <string name="smartdevice_alert_exit_setup_message">Наистина ли искате да излезете от настройката на другото ви устройство?</string>
+    <string name="smartdevice_alert_exit_setup_title">Изход от настройката на устройството?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">За да настроите устройството, се нуждаете от поне един профил в Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">За да настроите устройството си %s, се нуждаете от поне един профил в Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Няма профили за копиране</string>
+    <string name="smartdevice_alert_quit_button">Изход</string>
+    <string name="smartdevice_alert_restart_setup_button">Повторно стартиране на настройката</string>
+    <string name="smartdevice_alert_setup_incomplete">Настройването не завърши</string>
+    <string name="smartdevice_alert_start_over_button">Стартиране отначало</string>
+    <string name="smartdevice_alert_work_profile_message">Служебните профили още не могат да се копират. След като копирате другите си профили в Google и данните си, отворете Настройки на новото си устройство, за да добавите служебния си профил.</string>
+    <string name="smartdevice_alert_work_profile_title">Служебният профил не може да се копира</string>
+    <string name="smartdevice_application_label">Настройване на устройството</string>
+    <string name="smartdevice_choose_device">Изберете устройството си</string>
+    <string name="smartdevice_companion_app_ready">Приложението %s вече е инсталирано на това устройство.</string>
+    <string name="smartdevice_connect_to_wifi">Свържете устройството</string>
+    <string name="smartdevice_connection_error">При свързването с другото ви устройство възникна проблем</string>
+    <string name="smartdevice_connection_error_title">Не можа да се установи връзка</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Установява се връзка с устройството ви…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Копиране на профилите ви в Google, другите ви профили и възст. на рез. ви копие в Диск, ако е налице</string>
+    <string name="smartdevice_d2d_copy_account_text">Копиране на профилите ви в Google и възстановяване на резервното ви копие в Диск, ако е налице</string>
+    <string name="smartdevice_d2d_copy_account_title">Да се копира ли?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Не е разпознато</string>
+    <string name="smartdevice_d2d_fingerprint_title">Потвърдете отпечатъка си</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Потвърдете отпечатъка си от съображения за сигурност. Профилите в Google, приложенията и данните ви ще бъдат копирани на устройството ви %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Отключете, за да продължи настройването на устройството</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">От съображения за сигурност трябва да потвърдите опцията си за заключване на екрана, за да продължите настройването</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Другото устройство не може да бъде настроено, тъй като устройството ви няма Bluetooth.</string>
+    <string name="smartdevice_d2d_source_disabled_text">От съображения за сигурност тази функция е деактивирана. Докоснете „Пропускане“ на другото си устройство и продължете с настройването.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Настройване на ново устройство</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Настройване на устройството</string>
+    <string name="smartdevice_d2d_source_notification_title">Настройка на ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Стартирайте настройката повторно и изберете своето устройство ^1, за да сте сигурни, че ще копирате профилите в Google, приложенията и данните си на правилното устройство.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Не виждате кода?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Не може да бъде настроено ново устройство от ограничен потребителски профил.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Продължете настройването от устройството си %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Почти приключихте!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Копиране от друго устройство с Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Добре, продължаване със следващите стъпки за настройване на това устройство</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Копиране на профила в Google, приложенията и данните ви от друго у-во</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Профилите се копират…</string>
+    <string name="smartdevice_d2d_target_description">1. Кажете &lt;b>„&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>“&lt;/b> или въведете „&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>“ и докоснете, за да потвърдите.&lt;br/>&lt;br/> 2. Докоснете &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> в списъка и изпълнете инструкциите на екрана.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Друга възможност е да опитате това</string>
+    <string name="smartdevice_d2d_target_google_settings_description">На другото си устройство:&lt;br/>&lt;br/>1. Отворете приложението &lt;b>Настройки за Google.&lt;/b> &lt;br/>&lt;br/>2. Изберете &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Настройване на устройство в близост.>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/>3. Докоснете &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> в списъка и изпълнете инструкциите на екрана.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Тези стъпки не могат да бъдат изпълнени</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Да използваме Настройки</string>
+    <string name="smartdevice_d2d_target_help_text">Имате проблеми?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Не можете да го намерите?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">На другото си устройство отворете приложението Google</string>
+    <string name="smartdevice_d2d_target_instruction_description">Отваряне на приложението Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">На другото ви устройство</string>
+    <string name="smartdevice_d2d_target_other_device_description">Приложението Google е предварително инсталирано на всички устройства с Android. Прегледайте всичките си приложения, след което потърсете иконата на Google, показана по-горе.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Кодът трябва да съвпада с кода на другото ви устройство:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Без пропускане</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Процедурата по настройване няма да копира на това устройство този профил или приложенията и данните със създадени резервни копия.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Пропускане</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Да се пропусне ли този профил?</string>
+    <string name="smartdevice_d2d_target_title">В приложението Google</string>
+    <string name="smartdevice_do_disclosure_generic">Не могат да се прехвърлят</string>
+    <string name="smartdevice_do_unsupported_message">Данните не могат да се прехвърлят от управлявани устройства</string>
+    <string name="smartdevice_install_app">Инсталиране на приложението</string>
+    <string name="smartdevice_install_app_reason">Изтеглете приложението %1$s, за да контролирате и управлявате новото си устройство %2$s от това устройство</string>
+    <string name="smartdevice_look_for_other_device">Потърсете това име на другото си устройство</string>
+    <string name="smartdevice_magicwand_cancel_signin">Без влизане в профила</string>
+    <string name="smartdevice_magicwand_confirm_signin">Процесът за влизане в профила стартира</string>
+    <string name="smartdevice_magicwand_consent_detail">Докоснете <b>Вход</b>, за да завършите влизането на другото устройство.</string>
+    <string name="smartdevice_magicwand_consent_title">Завършване на влизането в профила</string>
+    <string name="smartdevice_magicwand_error_detail">Нещо се обърка и не успяхте да влезете в профила си в Google от този телефон.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Сканирахте код за бърза реакция, за да влезете в профила си.
+
+От съображения за сигурност потвърдете отпечатъка, за да покажете, че вие влизате на другото устройство."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Тази допълнителна стъпка помага да се гарантира, че устройството е надеждно.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Сканирахте код за бърза реакция, за да влезете в профила си.
+
+От съображения за сигурност потвърдете фигурата за заключване на екрана, за да покажете, че вие влизате на другото устройство."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">за да продължите към браузъра си</string>
+    <string name="smartdevice_magicwand_success_detail">Върнете се в браузъра на другото си устройство.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Потърсете тези фигури на другото си устройство</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Потвърждаване на фигурите</string>
+    <string name="smartdevice_problem_copying">При копирането на данните на другото ви устройство възникна проблем</string>
+    <string name="smartdevice_problem_copying_title">Данните не можаха да се копират</string>
+    <string name="smartdevice_search_again">Ново търсене</string>
+    <string name="smartdevice_searching_for_devices">Търсене на устройства</string>
+    <string name="smartdevice_setup_info_installing_app">Приложението се инсталира…</string>
+    <string name="smartdevice_setup_intro_text">За настройване на другото ви устройство ще се използва Bluetooth на телефона ви и данните ви през Wi-Fi</string>
+    <string name="smartdevice_setup_intro_text_nfc">За настройване на другото ви устройство ще се използва Bluetooth на телефона ви</string>
+    <string name="smartdevice_setup_intro_title">Първи стъпки</string>
+    <string name="smartdevice_setup_password_hint">Въведете паролата за Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Показване на паролата</string>
+    <string name="smartdevice_setup_title_verify_code">Потвърждаване на кода</string>
+    <string name="smartdevice_target_hotphrase_instructions">На другото си устройство кажете &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> или въведете &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> в полето за търсене.</string>
+    <string name="smartdevice_type_typing_ok_google">Ако гласовата команда не проработи, опитайте вместо това да въведете текст в полето за търсене. Напишете „&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>“</string>
+    <string name="smartdevice_verify_device">Потвърждаване на устройството</string>
+    <string name="smartdevice_wifi_cannot_connect_description">За настройване на това устройство могат да се ползват само отворени мрежи и такива с WPA/WPA2</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Wi-Fi мрежата не може да се използва</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"За да търсите Wi-Fi мрежи, включете функцията за местоположението.
+
+Винаги можете да промените това по-късно от настройките."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Търсенето на Wi-Fi мрежи не е възможно</string>
+    <string name="storage_management_wear_descriptive_text">Приложенията използват хранилището на устройството ви, за да копират данни в носими аксесоари.</string>
+    <string name="storage_management_wear_manage_size_label">Управление на хран. за носими аксесоари</string>
+    <string name="storage_management_wear_size_label">Хранилище за носими аксесоари</string>
+    <string name="storage_managment_all_storage_descriptive_text">Общо данни, използвани от услугите за Google Play, включително от търсещата машина и други данни.</string>
+    <string name="storage_managment_clear_all_data">Изчистване на всички данни</string>
+    <string name="storage_managment_computing_size">Изчислява се…</string>
+    <string name="storage_managment_icing_size_label">Данни от търсенето</string>
+    <string name="storage_managment_manage_icing_button">Данни от търсенето: Управление</string>
+    <string name="storage_managment_search_index_descriptive_text">Ускоряваме търсенето от устройството ви, като предоставяме търсеща машина, която да се използва от приложенията ви.</string>
+    <string name="storage_managment_title">Хранилище на услугите за Google Play</string>
+    <string name="storage_managment_total_size_label">Хранилище: Общо ползвано място</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Още</string>
+    <string name="suw_next_button_label">Напред</string>
+    <string name="uncertified_notification_expired_content">Приложенията и услугите на Google вече не работят на това устройство. Докоснете, за да научите повече.</string>
+    <string name="uncertified_notification_expired_title">Регистрацията е изтекла</string>
+    <string name="uncertified_notification_expiring_title">Регистрацията изтича</string>
+    <string name="use_nearby_device_heading">Да се използва ли устройство в близост?</string>
+    <string name="use_nearby_device_text">Искате ли да използвате устройство в близост, за да предоставите идентификационни данни?</string>
+    <string name="v7_preference_off">ИЗКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+    <string name="verify_your_identity_description">%1$s трябва да потвърди, че това сте вие.</string>
+    <string name="verify_your_identity_title">Потвърждаване на самоличността ви</string>
+    <string name="waiting_for_account_info_text">Изчаква се информацията за профила...</string>
+</resources>

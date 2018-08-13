@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="carrier_settings_label">Szolgáltatói beállítások</string>
+    <string name="view_detail_label">Részletek megjelenítése</string>
+    <string name="reset_default_label">Alapértékek visszaállítása</string>
+    <string name="update_prl_label">PRL frissítése</string>
+    <string name="device_config_label">Eszközkonfiguráció frissítése</string>
+    <string name="enter_msl_message">Adja meg a szolgáltatás kódját</string>
+    <string name="incorrect_msl">Hibás kód</string>
+    <string name="incorrect_msl_text">A megadott szolgáltatási kód hibás, próbálkozzon újra.</string>
+    <string name="incorrect_msl_text_reboot">Hibás szervizkódot adott meg többször is – az eszköz leáll.</string>
+    <string name="reset_device">Eszköz visszaállítása</string>
+    <string name="reset_device_text">Ezzel visszaállítja az eszköz beállításait. Minden felhasználói adat törlődni fog az eszközről.</string>
+    <string name="reset_button">Visszaállítás</string>
+    <string name="cancel_button">Mégse</string>
+    <string name="skip_button">Kihagyás</string>
+    <string name="emergency_call_button">Segélyhívás</string>
+    <string name="emergency_action">Vészhelyzet</string>
+    <string name="network_error_67">Eszköze hibába ütközött, amikor megpróbált csatlakozni ahhoz a hálózathoz, amelynél visszaállítás szükséges. Visszaállítja az eszközét? Ezzel eltávolítja fiókját az eszközről, a személyes adatai azonban megmaradnak.</string>
+    <string name="cidc_nidc_alert">A hálózat előkészíti a szolgáltatásait. Kérjük, várjon…</string>
+    <string name="missing_provisioning_info">A profilfrissítést nem sikerült végrehajtani. Próbálkozzon újra később. Ha a probléma továbbra is fennáll, lehet, hogy fel kell vennie a kapcsolatot az Ügyfélszolgálattal.</string>
+    <string name="hfa_title">Szabadkezes aktiválás</string>
+    <string name="hfa_message">"Az eszköz konfigurálása hanghoz és adatokhoz.
+Kérjük, várjon…"</string>
+    <string name="contacting_network">Kapcsolatfelvétel a hálózattal…</string>
+    <string name="device_activated">Az eszköz aktiválva van. Nyomja le az OK gombot a folytatáshoz.</string>
+    <string name="waiting_for_retry">Várakozás az újbóli próbálkozásra…</string>
+    <string name="retry_n_of_5">%1$d. újrapróbálkozás (összesen: 5).</string>
+    <string name="update_prl_message">PRL-frissítés ellenőrzése…</string>
+    <string name="prl_updated_message">A PRL-t frissítettük. Nyomja le az OK gombot a folytatáshoz.</string>
+    <string name="no_prl_update_message">Nincs elérhető PRL-frissítés.</string>
+    <string name="checking_for_fumo_message">Firmware frissítésének keresése. Kérjük, várjon…</string>
+    <string name="no_fumo_update_message">Nem érhető el a firmware frissítése.</string>
+    <string name="hfa_failure_message">Az eszközaktiválás sikertelen. Ha a probléma továbbra is fennáll, lehetséges, hogy fel kell vennie a kapcsolatot az Ügyfélszolgálattal.</string>
+    <string name="scrtn_message">"Figyelem!: Az SCRTN végrehajtja a következő műveletet, és újraindítja a telefont. Biztosan folytatja?
+Az MDN visszaállítása a gyári alapbeállításokra
+Az MSID visszaállítása a gyári alapbeállításokra
+Az Slot 1 NAI visszaállítása a gyári alapbeállításokra
+Az Slot 1 NAI jelszó visszaállítása a gyári alapbeállításokra"</string>
+    <string name="notification_title">Mobilhálózat beállítása</string>
+    <string name="notification_msg">Elképzelhető, hogy a beállítás ideje alatt átmenetileg nem lesz elérhető a mobilhálózat. A folyamat legfeljebb néhány percet vesz igénybe.</string>
+    <string name="notification_channel_mobile_service_update">Mobilszolgáltatási frissítések</string>
+</resources>

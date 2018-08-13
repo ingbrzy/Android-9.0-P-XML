@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ուղղվել տուն</string>
+    <string name="abc_action_bar_up_description">Ուղղվել վերև</string>
+    <string name="abc_action_menu_overflow_description">Այլ ընտրանքներ</string>
+    <string name="abc_action_mode_done">Պատրաստ է</string>
+    <string name="abc_activity_chooser_view_see_all">Տեսնել բոլորը</string>
+    <string name="abc_activitychooserview_choose_application">Ընտրել ծրագիր</string>
+    <string name="abc_capital_off">ԱՆՋԱՏՎԱԾ</string>
+    <string name="abc_capital_on">ՄԻԱՑՎԱԾ</string>
+    <string name="abc_search_hint">Որոնում...</string>
+    <string name="abc_searchview_description_clear">Մաքրել հարցումը</string>
+    <string name="abc_searchview_description_query">Որոնման հարցում</string>
+    <string name="abc_searchview_description_search">Որոնել</string>
+    <string name="abc_searchview_description_submit">Ուղարկել հարցումը</string>
+    <string name="abc_searchview_description_voice">Ձայնային որոնում</string>
+    <string name="abc_shareactionprovider_share_with">Կիսվել</string>
+    <string name="abc_shareactionprovider_share_with_application">Ուղարկել %s-ին</string>
+    <string name="abc_toolbar_collapse_description">Թաքցնել</string>
+    <string name="account_blocked_title">Հաշիվն արգելափակված է</string>
+    <string name="account_level_title">Պահանջվում է հաշվի գործողություն</string>
+    <string name="account_removed_notification_text">%1$s-ը հեռացվել է, քանի որ սարքի կառավարման գործընթացը չի ավարտվել</string>
+    <string name="account_removed_notification_title">Հաշիվը հեռացվել է</string>
+    <string name="android_privacy_policy_title">Հավելյալ Գաղտնիության քաղաքականություն</string>
+    <string name="app_level_title">Մուտքի հայց</string>
+    <string name="app_level_title_secondary">Մուտքի հայց %s-ի կողմից</string>
+    <string name="audience_selection_done">Պատրաստ է</string>
+    <string name="auth_account_already_has_gmail">Հաշիվն արդեն ունի Gmail:</string>
+    <string name="auth_account_content_provider_label">Google հաշվի տվյալներ</string>
+    <string name="auth_account_module_display_name">Google Հաշիվներ</string>
+    <string name="auth_account_removed_default_description">Սարքի կառավարման կարգավորումը չի ավարտվել: $1%s</string>
+    <string name="auth_account_removed_default_title">Կարգավորումը չեղարկվեց</string>
+    <string name="auth_account_removed_dm_bad_result_description">Չհաջողվեց ավարտել սարքի կառավարման կարգավորումը: $1%s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Ձեր տիրույթը պահանջում է բջջային սարքերի կառավարում, որն այս սարքում չի աջակցվում: Փորձեք օգտագործել մեկ այլ հաշիվ:</string>
+    <string name="auth_account_removed_dm_not_supported_title">Սարքերի կառավարումը չի աջակցվում</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Սարքի կառավարումը սխալներով է տեղադրվել: $1%s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Տեղադրման խնդիր</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Տեղադրումը չեղարկվեց</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Այս սարքի համար թույլատրվում է միայն մեկ կառավարվող հաշիվ: Եթե ունեք հարցեր, դիմեք ձեր կազմակերպության ադմինիստրատորին:</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Կառավարվող հաշիվն արդեն գոյություն ունի</string>
+    <string name="auth_account_settings_title">Հաշվի կարգավորումներ</string>
+    <string name="auth_account_setup_title">Google հաշիվ</string>
+    <string name="auth_account_start_over_and_signin_again">Սկսեք նորից և կրկին մուտք գործեք։</string>
+    <string name="auth_account_state_sync_title">Հաշվի կարգավիճակի համաժամեցում</string>
+    <string name="auth_allow_external_site_access">Ունեցեք ձեր տվյալների ընթացիկ հասանելիություն %s-ում</string>
+    <string name="auth_app_permission_ok_footnote">Շարունակելով՝ դուք թույլատրում եք այս ծրագրին և Google-ին օգտագործել ձեր տվյալները, որոնք կօգտագործվեն վերջիններիս ծառայությունների մատուցման պայմաններին և գաղտնիության քաղաքականությանը համապատասխան:</string>
+    <string name="auth_cant_add_work_account_message">Այս տեսակի հաշիվները կառավարում է ձեր կազմակերպությունը:</string>
+    <string name="auth_captcha_instructions">Մուտքագրեք տեքստը, որը տեսնում եք այստեղ՝</string>
+    <string name="auth_captcha_title">Անհրաժեշտ է մուտքագրել CAPTCHA-ն</string>
+    <string name="auth_common_downloading">Ներբեռնում...</string>
+    <string name="auth_common_go_back">Վերադառնալ</string>
+    <string name="auth_common_switch_accounts">Անցնել մյուս հաշիվ</string>
+    <string name="auth_communicating_message">Ձեր սարքը հաղորդակցվում է Google-ի սերվերների հետ՝ ձեր հաշվում տեղեկությունները պահելու համար: Սա կարող է տևել մինչև հինգ րոպե:</string>
+    <string name="auth_confirm_creds_sync_title">Հավատարմագրերի կարգավիճակ</string>
+    <string name="auth_d2d_source_alert_title">Տեղափոխում մեկ հպումով</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Կողպել և հաստատել</string>
+    <string name="auth_d2d_source_copy_notice">Պատճենե՞լ հաշիվները և տվյալները ձեր մյուս սարքում:</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Հաստատելուց հետո Bluetooth-ը միանալու է, որպեսզի ձեր սարքերը կարողանան հաղորդակցվել:</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Հաստատելուց հետո ձեր սարքերը կապակցվելու են Bluetooth-ի միջոցով:</string>
+    <string name="auth_d2d_source_lock_notice">Այժմ ձեր էկրանը կողպվելու է: Հաստատելու համար ձեզ անհրաժեշտ է այն ապակողպել:</string>
+    <string name="auth_d2d_source_no_accounts_toast">Մեկ հպումով տեղափոխումն անհնար է, քանի որ սարքում հաշիվներ չկան:</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Մեկ հպումով տեղափոխումն անհնար է, քանի որ ձեր սարքում Bluetooth-ը մատչելի չէ:</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth-ը միանալու է, որպեսզի ձեր սարքերը կարողանան հաղորդակցվել:</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Այս գործառույթն օգտագործում Bluetooth:</string>
+    <string name="auth_d2d_source_notification_title">Մեկ հպումով տեղափոխման ավարտ</string>
+    <string name="auth_d2d_source_restricted_user_toast">Հնարավոր չէ Հպել և Վերականգնել արգելված պրոֆիլից:</string>
+    <string name="auth_d2d_source_title">Վերականգնել հաշիվները</string>
+    <string name="auth_d2d_source_unknown_device_name">Անհայտ սարք</string>
+    <string name="auth_d2d_tap_and_go">Տեղափոխում մեկ հպումով</string>
+    <string name="auth_d2d_target_tap_progress_message">Շարունակելու համար մյուս սարքում սեղմեք Եղավ</string>
+    <string name="auth_d2d_target_title">Տեղափոխում մեկ հպումով</string>
+    <string name="auth_d2d_target_unlock_progress_message">Ստուգեք ձեր մյուս սարքը</string>
+    <string name="auth_d2d_target_wait_progress_message">Հաշիվների և տվյալների ստացում...</string>
+    <string name="auth_device_management_download_app_icon">%s հավելվածի պատկերակ</string>
+    <string name="auth_device_management_download_description">Այս հաշիվը պահանջում է բջջային սարքի կառավարում: Տեղադրեք ^1 հավելվածը՝ հաշվի կողմից պահանջվող անվտանգության կանոնների կիրառումն ապահովելու համար:</string>
+    <string name="auth_device_management_download_description_kids">Հաշիվն այս սարքին ավելացնելու համար նախ տեղադրեք <b>^1</b>" հավելվածը։ 
+
+^1-ը թույլ է տալիս կարգավորել սարքը ձեր երեխային համապատասխան կարգավորումներով:"</string>
+    <string name="auth_device_management_download_failed_message">Սակայն կարող եք շարունակել կարգավորումն առանց այս հավելվածի</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Չհաջողվեց տեղադրել սարքի կառավարումը: Այս հաշիվը կհեռացվի: Փորձեք ավելի ուշ:</string>
+    <string name="auth_device_management_download_failed_title">Չհաջողվեց ներբեռնել հավելվածը</string>
+    <string name="auth_device_management_download_not_updated_message">Սակայն կարող եք շարունակել կարգավորումն ընթացիկ տարբերակի օգնությամբ</string>
+    <string name="auth_device_management_download_paused">Դադարեցված</string>
+    <string name="auth_device_management_download_progress">Ներբեռնում...</string>
+    <string name="auth_device_management_download_skip_message">Այս հաշիվը պահանջվում է սարքի կառավարում: Շարունակե՞լ առանց դրա:</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Այս հաշիվն ավելացնելու համար պահանջվում է սարքի կառավարում: Ցանկանո՞ւմ եք սկսել մեկ այլ հաշվով։</string>
+    <string name="auth_device_management_go_back">Վերադառնալ</string>
+    <string name="auth_device_management_screenlock_description">Այս սարքից ձեր աշխատանքային հաշիվ մուտք գործելու համար ձեզ հարկավոր է կարգավորել էկրանի կողպքում: Սա ձեր կազմակերպության շարժական սարքերի քաղաքականության պահանջն է:</string>
+    <string name="auth_device_management_screenlock_skip_message">Այս հաշիվը պահանջում է օգտագործել էկրանի փական: Սկսե՞լ նորից մեկ այլ հաշվով:</string>
+    <string name="auth_device_management_setup_work_profile_description">"Աշխատանքային պրոֆիլը կօգնի ձեզ առանձնացնել աշխատանքային հավելվածները անձնականից։ Այն կարգավորվում է ձեր կազմակերպության կողմից։
+
+Կարգավորումն ավարտելու համար մուտքագրեք ՏՏ ադմինիստրատորի տրամադրած կոդը։ Ադմինիստրատորը կարող է կառավարել ձեր աշխատանքային պրոֆիլը հատուկ գործիքի միջոցով։"</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Աշխատանքային պրոֆիլը կօգնի ձեզ առանձնացնել աշխատանքային հավելվածները անձնականից։ Այն կարգավորվում է ձեր կազմակերպության կողմից։
+
+Ադմինիստրատորը կարող է կառավարել ձեր աշխատանքային պրոֆիլը հատուկ գործիքի միջոցով։"</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Կարգավորեք ձեր աշխատանքային պրոֆիլը</string>
+    <string name="auth_device_management_start_description">Այս հաշիվը պահանջում է բջջային սարքի կառավարում: «Հաջորդը» կոճակին հպելուց հետո, ^1 հավելվածը կօգնի ձեզ ապահովել հաշվի համար պահանջվող անվտանգության կանոնների կիրառումը:</string>
+    <string name="auth_device_management_start_description_kids">Հաշիվն այս սարքին ավելացնելու համար օգտվեք <b>^1</b>" հավելվածից։ 
+
+^1-ը թույլ է տալիս կարգավորել սարքը ձեր երեխային համապատասխան կարգավորումներով:"</string>
+    <string name="auth_device_management_title">Սարքերի կառավարում</string>
+    <string name="auth_device_management_update_description">Այս հաշիվը պահանջում է բջջային սարքի կառավարում: Հաշվի հետ առնչվող անվտանգության կանոններին հետևելու համար պետք է տեղադրեք ^1 հավելվածի նոր տարբերակը:</string>
+    <string name="auth_device_management_update_description_kids">Հաշիվն այս սարքին ավելացնելու համար նախ տեղադրեք <b>^1</b>" հավելվածի վերջին տարբերակը։ 
+
+^1-ը թույլ է տալիս կարգավորել սարքը ձեր երեխային համապատասխան կարգավորումներով:"</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b>-ը չի օգտագործում Gmail:</string>
+    <string name="auth_error_account_disabled">"Այս հաշիվը կասեցվել է: 
+
+(Մանրամասների համար վեբ դիտարկիչով այցելեք http://google.com/accounts:)"</string>
+    <string name="auth_error_account_not_verified">"Այս հաշիվը չի հաստատվել: Ստուգեք ձեր էլփոստը և հետևեք կից հղմանը՝ հաստատելու այս հաշիվը:
+
+(Ձեր հաշվի տվյալները վերականգնելու համար ձեր համակարգչով այցելեք http://www.google.com/accounts/recovery:)"</string>
+    <string name="auth_error_bad_password">Գաղտնաբառը չափազանց թույլ է կամ պարունակում է անվավեր նիշեր: Կրկին փորձեք:</string>
+    <string name="auth_error_bad_username">Օգտանունն անվավեր է:</string>
+    <string name="auth_error_generic_server_error">"Չհաջողվեց կապ հաստատել Google սերվերների հետ: 
+
+Նորից փորձեք:"</string>
+    <string name="auth_error_invalid_second_factor">Օգտագործեք ծրագրին հատուկ գաղտնաբառ՝ ձեր հաշվի սովորական գաղտնաբառի փոխարեն:</string>
+    <string name="auth_error_login_failed">"Ձեր օգտանունը և գաղտնաբառը իրար չեն համապատասխանում: Փորձեք կրկին:
+
+Ձեր հաշվի մասին տեղեկությունները վերականգնելու համար այցելեք google.com /accounts/recovery/:"</string>
+    <string name="auth_error_needs_browser">Ձեր հաշիվն օգտագործելու համար դուք պետք է մուտք գործեք ցանցում: Հպեք Հաջորդը կոճակին՝ դիտարկիչով մուտք գործելու համար:</string>
+    <string name="auth_error_no_network">"Ցանցի կապակցում չկա: 
+
+Հնարավոր է, ժամանակավոր խնդիր է տեղի ունեցել: Նորից փորձեք կամ միացեք այլ Wi-Fi ցանցի:"</string>
+    <string name="auth_error_not_logged_in">Օգտատերը մուտք չի գործել:</string>
+    <string name="auth_error_username_unavailable">Օգտանունը հասանելի չէ:</string>
+    <string name="auth_existing_account_error_text">Այս Android սարքում արդեն առկա է ^1 հաշիվը:</string>
+    <string name="auth_existing_account_error_title">Հաշիվն արդեն գոյություն ունի</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Հնարավոր չէ մուտք գործել սարք, քանի որ գաղտնաբառը նոր է փոխվել: Փորձեք մուտք գործել գաղտնաբառը փոխելուց 24 ժամ հետո:</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Սարքի պաշտպանության գործառույթներն այլևս չեն գործելու:</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Եթե հեռացնեք սարքի վրայի վերջին Google հաշիվը ձեր անձնական պրոֆիլից, սարքի անվտանգության գործառույթները կանջատվեն: Գողության դեմ պաշտպանությունը հետագայում նորից միացնելու համար կարող եք ավելացնել այլ հաշիվ:</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Համոզվա՞ծ եք</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Տեղափոխե՞լ հաշիվը Աշխատանքային պրոֆիլ:</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Հնարավոր չէ մուտք գործել սարք անհայտ սխալի պատճառով: Փորձեք մեկ այլ հաշիվ կամ կրկնեք մուտք գործելու փորձը 24 ժամ հետո:</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Մուտք գործեք սարքի սեփականատիրոջ հաշիվներից մեկով</string>
+    <string name="auth_field_cant_be_blank">Դաշտը չի կարող դատարկ լինել:</string>
+    <string name="auth_frp_add_account_no">Օգտագործել նոր հաշիվ</string>
+    <string name="auth_frp_add_account_prompt">Նախկին Google հաշիվն այս սարքում հաստատվել էր։ Դուք կարող եք նորից ավելացնել ^1 հաշիվն այս սարքում կամ օգտագործել նորը։</string>
+    <string name="auth_frp_add_account_yes">Ավելացնել նախկին հաշիվը</string>
+    <string name="auth_frp_device_managed_label">Այս սարքի կարգավորումներն արված են այնպես, որ այն կառավարվի ձեր կազմակերպության կողմից:</string>
+    <string name="auth_frp_download_management_app_label">Դուք պետք է ներբեռնեք սարքի կառավարման հավելված՝ կարգավորման գործընթացը շարունակելու համար:</string>
+    <string name="auth_frp_enter_device_credentials_label">Մտնել ադմինիստրատորի ռեժիմով</string>
+    <string name="auth_frp_install_dpc_error">Չհաջողվեց տեղադրել կառավարման հավելվածը: Եթե նախընտրում եք բաց թողնել այս քայլը, սարքը չի կառավարվի:</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Չհաջողվեց տեղադրել կառավարման հավելվածը: Ստուգեք ցանցային կապը և ավելի ուշ նորից փորձեք:</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Փոխարենն օգտագործել իմ Google հաշիվը</string>
+    <string name="auth_frp_preadd_lkscreen_text">Ձեր սարքը ենթարկվել է գործարանային վերակայման: Այն կարող եք ապակողպել նախորդ գաղտնի հարցի օգնությամբ:</string>
+    <string name="auth_frp_preadd_lkscreen_title">Պաշտպանություն գործարանային վերակայումից</string>
+    <string name="auth_frp_start_reenroll_device_title">Ձեր սարքն աշխատավայրում</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Հաշիվն անհասանելի է: Համոզվեք, որ սարքը համապատասխանում է ձեր կազմակերպության անվտանգության քաղաքականության պահանջներին: Եթե խնդիրը չվերանա, ապա դիմեք ձեր կազմակերպության ադմինիստրատորին:</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Հաշվի սխալ</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Ձեր տիրույթը պահանջում է շարժական սարքի կառավարում: Տեղադրեք «Google Apps Device Policy» հավելվածը`  "<b>^1</b> հաշվի կողմից պահանջվող անվտանգության քաղաքականությունները կիրառելու համար:</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Ներբեռնել</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"-ը կարող է միայն տառեր,
+թվեր և կետեր պարունակել:"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> -ը որևէ տառ չի պարունակում:</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b>-ը պարունակում է 6-ից պակաս կամ 30-ից ավելի նիշ:</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> օգտանունը հասանելի չէ:</string>
+    <string name="auth_gls_name_checking_info_title">Տվյալների ստուգում…</string>
+    <string name="auth_gls_sync_item_title">Համաժամեցնել %s-ը</string>
+    <string name="auth_gls_third_party_activity_download_message">"  "<b>^1</b> հաշիվը պետք է ավելացվի ձեր կազմակերպության կողմից կառավարվող սարքին կամ աշխատանքային պրոֆիլին: Գործողությունն ավարտելու համար հետևեք ձեր ՏՏ ադմինիստրատորի հրահանգներին:</string>
+    <string name="auth_google_title_logo">Google պատկերանշան</string>
+    <string name="auth_invalid_login_character">Անվավեր նիշ: Միայն 0-9, a-z, A-Z և կետեր են թույլատրված:</string>
+    <string name="auth_invalid_password_character">Գաղտնաբառի անվավեր նիշ:</string>
+    <string name="auth_invalid_username">Ձեր մուտքագրած տեքստը վավեր օգտանուն չէ:</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Դուք մուտքագրել եք սխալ գաղտնաբառ կամ ձեր հաշիվը փոխվել է: Կրկին մուտքագրեք գաղտնաբառը: Եթե մոռացել եք ձեր գաղտնաբառը, և անհրաժեշտ է վերականգնել ձեր հաշիվը՝ սեղմեք <annotation id="help_url">այստեղ</annotation>:</string>
+    <string name="auth_login_task_title">Մուտք</string>
+    <string name="auth_login_title">Մուտքագրեք էլփոստն ու գաղտնաբառը</string>
+    <string name="auth_minutemaid_ssl_error">" %s հանգույցին միանալիս խնդիր առաջացավ:"</string>
+    <string name="auth_network_unreliable_help">Սա կարող է լինել ժամանակավոր խնդիր կամ հնարավոր է, որ ձեր Android սարքը չի աջակցվում տվյալների ծառայությունների կողմից: Այսպես շարունակվելու դեպքում զանգահարեք Բաժանորդների սպասարկման կենտրոն:</string>
+    <string name="auth_no_network">Դուք չունեք ցանցային կապ:</string>
+    <string name="auth_no_network_help">Սա կարող է լինել ժամանակավոր խնդիր կամ հնարավոր է՝ ձեր Android սարքը չի աջակցվում տվյալների ծառայությունների կողմից: Խնդրում ենք բջջային կամ Wi-Fi ցանցին միանալուց հետո կրկին փորձել:</string>
+    <string name="auth_no_network_help_wifi_only">Սա կարող է ժամանակավոր խնդիր լինել: Կրկին փորձեք կամ միացեք մեկ այլ Wi-Fi ցանցի:</string>
+    <string name="auth_otp_error">Անվտանգության կոդը ստեղծելիս առաջացավ խնդիր:</string>
+    <string name="auth_otp_explained_paragraph">Եթե մոռացել եք գաղտնաբառը կամ մուտքի տվյալները փոխվել են, ապա Google-ը կարող է պահանջել անվտանգության կոդ՝ ձեր հաշիվը պաշտպանելու նպատակով։ Օգտագործեք այն հիմա կամ այցելեք կրկին՝ նորը ստանալու համար։</string>
+    <string name="auth_otp_header_message">Երբ օգտագործել այս կոդը մուտք գործելու նպատակով</string>
+    <string name="auth_otp_no_accounts_available_message">Այս սարքի.վրա կազմաձևված հաշիվ չկա:</string>
+    <string name="auth_otp_progress_dialog_message">Անվտանգության կոդը ստեղծվում է:</string>
+    <string name="auth_otp_ten_digit_code_header">Ձեր անվտանգության կոդերը</string>
+    <string name="auth_otp_ten_digit_explaination">Եթե մոռանաք ձեր գաղտնաբառը կամ նոր սարքից կամ վայրից մուտք գործեք սարք, ձեզանից հնարավոր է կպահանջվի մուտքագրել այս կոդերից մեկը կամ երկուսը՝ ձեր Google հաշիվը պաշտպանելու համար:</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Այս կոդերի ժամկետը կսպառվի 15 րոպեից՝ սկսած այս պահից կամ դրանց օգտագործումից հետո: Պետք է օգտագործել դրանք միայն այն վեբ կայքերում, որոնց հասցեները սկսվում են \"https://accounts.google.com/\"-ով:</string>
+    <string name="auth_otp_ten_digit_usage_header">Կոդերի օգտագործում</string>
+    <string name="auth_otp_ten_digits_code1">Կոդ 1</string>
+    <string name="auth_otp_ten_digits_code2">Կոդ 2</string>
+    <string name="auth_password">Գաղտնաբառ</string>
+    <string name="auth_plus_audience_selection_description_acl">ԿԻՍՎԵԼ</string>
+    <string name="auth_plus_info_fragment_app_name">%s-ը ցանկանում է՝</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%2$s սարքի %1$s հավելվածին անհրաժեշտ է՝</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Ձեր ընդլայնված օղակները</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Ընտրված օղակները</string>
+    <string name="auth_plus_scope_fragment_public_label">Բոլորը համացանցում</string>
+    <string name="auth_pre_factory_reset_title">Հիշեք Google հաշիվը</string>
+    <string name="auth_relogin_activity_title">Կրկին մուտքագրեք գաղտնաբառը</string>
+    <string name="auth_remove_account_start_over">Սկսել նորից</string>
+    <string name="auth_request_accounts_list">Ստացեք Google հաշիվների ցանկը սարքի վրա:</string>
+    <string name="auth_scope_more_details">Այլ տեղեկություններ</string>
+    <string name="auth_server_error">Google-ի սերվերներին միանալիս խնդիր է առաջացել:</string>
+    <string name="auth_server_error_help">Փորձեք կրկին ավելի ուշ:</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Հաշիվն ավելացված է</string>
+    <string name="auth_setup_wizard_account_added_description">Ձեր հաշիվը ավելացվել է: Անցեք Google Ծառայությունների տարբերակներն ընտրելուն</string>
+    <string name="auth_setup_wizard_services_activity_title">Google ծառայություններ</string>
+    <string name="auth_setup_wizard_title">Կարգավորման օգնական</string>
+    <string name="auth_show_error_title">Սխալ</string>
+    <string name="auth_sign_in_agreement">Մուտք գործելով՝ դուք համաձայնվում եք <annotation id="google_privacy">Google-ի</annotation> և <annotation id="android_privacy">Հավելյալ</annotation> Գաղտնիության քաղաքականությանը:</string>
+    <string name="auth_sign_in_browser">Զննարկչով մուտք գործում</string>
+    <string name="auth_sign_in_with_google_account_short">Մուտք գործեք ձեր Google հաշվով`</string>
+    <string name="auth_submission_error_text">Տեղի է ունեցել սխալ: Փորձեք կրկին:</string>
+    <string name="auth_submission_title">Ներողություն…</string>
+    <string name="auth_ui_activity_authenticating">Նույնականացվում է…</string>
+    <string name="auth_ui_activity_title">Մուտք Google-ով</string>
+    <string name="auth_ui_activity_title_browser_signin">Մուտք</string>
+    <string name="auth_ui_add_account_title">Հաշվի կարգավորում</string>
+    <string name="auth_uncertified_notification_description"><b>Այս սարքը գնած օգտատերեր՝</b>"
+Սարքի արտադրողը նախաբեռնել է Google հավելվածները և ծառայությունները առանց Google հավաստագրման: Կապ հաստատեք արտադրողի հետ և հավաստագրված սարք խնդրեք: Մանրամասն կարդացեք հետևյալ էջում՝ g.co/AndroidCertifiedDevice։
+
+"<b>Չարտոնագրված արտադրողներ՝</b>"
+Google հավելվածները և ծառայությունները տարածելու համար անհրաժեշտ է ունենալ Google արտոնագիր: Դիմեք g.co/AndroidGMSContact հղումով։
+
+"<b>Արտոնագրված արտադրողներ՝</b>"
+Մշակման ընթացքում Google հավելվածներից և ծառայություններց օգտվելու համար գրանցեք սարքը: Մանրամասների համար դիմեք ձեր Google-ի Բիզնես զարգացման կառավարիչին՝
+
+"<b>Հատուկ ROM օգտատերեր՝</b>"
+Google հավելվածները և ծառայությունները հատուկ ROM-ի հետ օգտագործելու համար գրանցեք այս սարքը: Մանրամասն կարդացեք հետևյալ էջում՝ g.co/apps-custom:"</string>
+    <string name="auth_uncertified_notification_title">Սարքը հավաստագրված չէ Google-ի կողմից</string>
+    <string name="auth_username">Էլփոստ</string>
+    <string name="auth_work_authenticator_label">Կառավարվող հաշիվ</string>
+    <string name="authorization_dialog">Լիազորման երկխոսություն</string>
+    <string name="chrome_privacy_title">Chrome-ի Գաղտնիության ծանուցում</string>
+    <string name="chrome_tos_title">Chrome-ի Ծառայությունների մատուցման պայմանները</string>
+    <string name="close_button_label">Փակել</string>
+    <string name="common_accept">Ընդունել</string>
+    <string name="common_add">Ավելացնել</string>
+    <string name="common_add_account_label">Ավելացնել հաշիվ</string>
+    <string name="common_ads_settings_title">Գովազդ</string>
+    <string name="common_agree">Համաձայն եմ</string>
+    <string name="common_app_name">Google Play ծառայություններ</string>
+    <string name="common_application_info">Հավելվածի մասին</string>
+    <string name="common_application_info_composed_string">հավելվածի մասին տվյալները</string>
+    <string name="common_asm_google_account_title">Google հաշիվ</string>
+    <string name="common_asm_manage_google_account_title">Google հաշվի կառավարում</string>
+    <string name="common_asm_preferences_settings_title">Հաշվի կարգավորումներ</string>
+    <string name="common_asm_privacy_settings_title">Անձնական տվյալներ և գաղտնիություն</string>
+    <string name="common_asm_security_settings_title">Մուտք և անվտանգություն</string>
+    <string name="common_back">Հետ</string>
+    <string name="common_battery">Մարտկոցի լիցք</string>
+    <string name="common_block">Արգելափակել</string>
+    <string name="common_cancel">Չեղարկել</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts-ը չի կարող սկսվել (թույլտվության սխալ կա):</string>
+    <string name="common_car_permission_desc">Մուտք դեպի ավտոմեքենայի սպասարկում:</string>
+    <string name="common_car_permission_label">Ավտոմեքենայի սպասարկում</string>
+    <string name="common_card">Քարտ</string>
+    <string name="common_chips_label_empty_circles">Օղակներ չկան</string>
+    <string name="common_chips_label_extended_circles">Ընդլայնված օղակներ</string>
+    <string name="common_chips_label_only_you">Միայն դուք</string>
+    <string name="common_chips_label_public">Հանրային</string>
+    <string name="common_chips_label_your_circles">Ձեր օղակները</string>
+    <string name="common_choose_account_label">Ընտրեք հաշիվ</string>
+    <string name="common_confirm_screen_lock_title">Հաստատեք էկրանի կողպման եղանակը</string>
+    <string name="common_connect">Միանալ</string>
+    <string name="common_connected">Կապակցված է</string>
+    <string name="common_connected_apps_settings_title">Կապված հավելվածներ</string>
+    <string name="common_connecting">Միանում է...</string>
+    <string name="common_continue">Շարունակել</string>
+    <string name="common_disabled">Անջատված է</string>
+    <string name="common_disagree">Համաձայն չեմ</string>
+    <string name="common_disconnect">Անջատել</string>
+    <string name="common_dismiss">Փակել</string>
+    <string name="common_done">Պատրաստ է</string>
+    <string name="common_edit">Փոփոխել</string>
+    <string name="common_email">Էլփոստ</string>
+    <string name="common_fingerprint_hint">Հպեք սենսորին</string>
+    <string name="common_from">Ուղարկող`</string>
+    <string name="common_games_settings_title">Play Խաղեր</string>
+    <string name="common_get_started">Սկսել</string>
+    <string name="common_google_play_services_enable_button">Միացնել</string>
+    <string name="common_google_play_services_enable_text">%1$s հավելվածը չի աշխատի մինչև չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_error_dialog_title">Սխալ</string>
+    <string name="common_google_play_services_install_button">Տեղադրել</string>
+    <string name="common_google_play_services_install_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք չկան ձեր սարքում:</string>
+    <string name="common_google_play_services_install_title">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ծառայությունների հասանելիություն</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_unknown_issue">%1$s հավելվածը Google Play ծառայությունների հետ կապված խնդիր ունի: Փորձեք նորից:</string>
+    <string name="common_google_play_services_unsupported_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք ձեր սարքում չեն աջակցվում:</string>
+    <string name="common_google_play_services_update_button">Թարմացնել</string>
+    <string name="common_google_play_services_update_text">%1$s հավելվածը չի աշխատի մինչև չթարմացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_update_title">Թարմացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_updating_text">%1$s հավելվածը չի աշխատի առանց Google Play ծառայությունների, որոնք այս պահին թարմացվում են:</string>
+    <string name="common_google_play_services_updating_title">Google Play ծառայությունների թարմացում</string>
+    <string name="common_google_play_services_wear_update_text">Անհրաժեշտ է Google Play ծառայությունների նոր տարբերակը: Այն շուտով կթարմացվի ավտոմատ կերպով:</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Տեղադրված Google Play ծառայությունները չեն համապատասխանում կառուցվածքին:</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play ծառայության կառուցվածքը (%1$s) չի համապատասխանում սարքի կառուցվածքին (%2$s):</string>
+    <string name="common_google_play_services_wrong_architecture_title">Կառուցվածքը չի համապատասխանում</string>
+    <string name="common_google_settings">Google-ի կարգավորումներ</string>
+    <string name="common_google_settings_account">Հաշիվ</string>
+    <string name="common_google_settings_credentials_title">Գաղտնաբառերի Smart Lock</string>
+    <string name="common_got_it">Պարզ է</string>
+    <string name="common_install">Տեղադրել</string>
+    <string name="common_learn_more">Իմանալ ավելին</string>
+    <string name="common_list_apps_menu_help">Օգնություն</string>
+    <string name="common_list_apps_menu_help_and_feedback">Օգնություն և հետադարձ կապ</string>
+    <string name="common_loading">Բեռնում…</string>
+    <string name="common_location_settings_title">Տեղադրություն</string>
+    <string name="common_login_activity_task_title">Մուտք...</string>
+    <string name="common_login_error_title">Չհաջողվեց մուտք գործել</string>
+    <string name="common_magictether_settings_title">Մոդեմի ակնթարթային ռեժիմ</string>
+    <string name="common_maps_settings_title">Քարտեզներ և Latitude</string>
+    <string name="common_mdm_feature_name">Գտնել իմ սարքը</string>
+    <string name="common_missing_url_viewer">Արտաքին url ցույց տալու համար պահանջվող դիտակը բացակայում է:</string>
+    <string name="common_more">Ավելին</string>
+    <string name="common_more_options">Այլ ընտրանքներ</string>
+    <string name="common_mute_notification">Անջատել ծանուցումները</string>
+    <string name="common_network_unavailable">Կապ չկա</string>
+    <string name="common_networking_settings_title">Ցանց</string>
+    <string name="common_never">Երբեք</string>
+    <string name="common_next">Հաջորդը</string>
+    <string name="common_no_browser_for_restricted_url">Մուտքը սահմանափակ է: Դիտարկիչ չի գտնվել:</string>
+    <string name="common_no_devices_found">Սարքեր չեն գտնվել</string>
+    <string name="common_no_network">Անհասանելի է, քանի որ սարքը անցանց է</string>
+    <string name="common_no_thanks">Ոչ</string>
+    <string name="common_not_now">Ոչ հիմա</string>
+    <string name="common_off">Անջատած</string>
+    <string name="common_offline">Կապ չկա</string>
+    <string name="common_ok">Հաստատել</string>
+    <string name="common_on">Միացած</string>
+    <string name="common_open">Բացել</string>
+    <string name="common_open_on_phone">Բացել հեռախոսով</string>
+    <string name="common_open_source_licenses">Բաց կոդի արտոնագրեր</string>
+    <string name="common_pause">Դադարեցնել</string>
+    <string name="common_people_settings_title">Կոնտակտներ</string>
+    <string name="common_permissions_enable_in_settings">Միացնել կարգավորումներից</string>
+    <string name="common_permissions_missing_end">Շարունակելու համար բացեք Կարգավորումներն, ապա ընտրեք Թույլտվությունները և տրամադրեք թույլտվություն բոլոր նշված միավորների համար:</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Միացնելու համար անցեք
+Կարգավորումներ >
+Թույլտվություններ >
+Google Play ծառայություններ"</string>
+    <string name="common_permissions_missing_start">Այս հավելվածն ինչպես հարկն է կաշխատի միայն եթե Google Play ծառայությունների հարցմանն ի պատասխան տրամադրեք հետևյալ թույլտվությունները՝</string>
+    <string name="common_permissions_open_settings">Բացել կարգավորումները</string>
+    <string name="common_phone">Զանգել</string>
+    <string name="common_play">Նվագարկել</string>
+    <string name="common_privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="common_privacy_policy_composed_string">Գաղտնիության քաղաքականություն</string>
+    <string name="common_refresh">Թարմացնել</string>
+    <string name="common_remove">Հեռացնել</string>
+    <string name="common_reply">Պատասխանել</string>
+    <string name="common_restore">Վերականգնել</string>
+    <string name="common_retry">Կրկնել</string>
+    <string name="common_save">Պահել</string>
+    <string name="common_saved">Պահված է</string>
+    <string name="common_saving">Պահվում է…</string>
+    <string name="common_search_settings_title">Որոնում</string>
+    <string name="common_security_ootp_setting_title">Անվտանգության կոդ</string>
+    <string name="common_select">Ընտրել</string>
+    <string name="common_send">Ուղարկել</string>
+    <string name="common_sending">Ուղարկում…</string>
+    <string name="common_set_up_nearby_device_settings_title">Մոտակա սարքի կարգավորում</string>
+    <string name="common_settings">Կարգավորումներ</string>
+    <string name="common_share">Կիսվել</string>
+    <string name="common_sign_in">Մուտք գործել</string>
+    <string name="common_signin_button_text">Մուտք գործել</string>
+    <string name="common_signin_button_text_long">Մուտք գործել Google-ով</string>
+    <string name="common_skip">Բաց թողնել</string>
+    <string name="common_skip_fingerprint">Օգտագործել էկրանի կողպումը</string>
+    <string name="common_something_went_wrong">Սխալ առաջացավ</string>
+    <string name="common_system_info">Համակարգի տվյալներ</string>
+    <string name="common_system_info_composed_string">տեղեկություններ հաշվի և համակարգի մասին</string>
+    <string name="common_take_photo_label">Լուսանկարել</string>
+    <string name="common_terms_of_service">Օգտագործման պայմաններ</string>
+    <string name="common_terms_of_service_composed_string">Օգտագործման պայմաններ</string>
+    <string name="common_today">Այսօր</string>
+    <string name="common_try_again">Փորձել նորից</string>
+    <string name="common_turn_on">Միացնել</string>
+    <string name="common_turn_on_bluetooth">Միացնել Bluetooth-ը</string>
+    <string name="common_turn_on_nfc">Միացնել NFC-ն</string>
+    <string name="common_ui_confirm_deleting_button">Ջնջել</string>
+    <string name="common_ui_confirm_deleting_checkbox">Հասկանում եմ և ուզում եմ ջնջել ջնջել</string>
+    <string name="common_unknown">Անհայտ է</string>
+    <string name="common_update">Թարմացնել</string>
+    <string name="common_url_load_unsuccessful_message">Ձեր Android սարքը միացված չէ տվյալների ծառայությանը: Այս տեղեկությունն այժմ տեսնելու համար դիտարկիչով այցելեք %s:</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Ձեր Android սարքը միացված չէ Wi-Fi ցանցին: Այս տեղեկությունը տեսնելու համար վեբ դիտարկչով այցելեք %s:</string>
+    <string name="common_usage_and_diagnostics">Օգտագործում և ախտորոշում</string>
+    <string name="common_view">Դիտել</string>
+    <string name="common_yesterday">Երեկ</string>
+    <string name="continue_to_login_heading">Մուտք գործեք:</string>
+    <string name="continue_to_login_text">Մուտքի տվյալները տրամադրվել են: Մուտք գործեք ձեր առաջին սարքից:</string>
+    <string name="description_fingerprint_icon">Մատնահետքի պատկերակ</string>
+    <string name="download_msg_error_invalid">Ներբեռնումը սխալ է սահմանվել:</string>
+    <string name="download_msg_in_progress">Ներբեռնումն ընթացքի մեջ է:</string>
+    <string name="download_msg_not_allowed_space">Բավարար տարածք չկա ներբեռնումը կատարելու համար:</string>
+    <string name="download_msg_pending">Ներբեռնումը սպասման մեջ է:</string>
+    <string name="download_notification_description">%1$s-ը հարցում է կատարել սրա մասին:</string>
+    <string name="download_notification_title">Առբերվում են ավելի շատ տվյալներ</string>
+    <string name="expand_button_title">Լրացուցիչ</string>
+    <string name="fido_ble_device_icon_content_description">Հայտնաբերվել է Bluetooth սարք</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Սեղմեք և պահեք բանալու վրա գտնվող կոճակն առնվազն 5 վայրկյանի ընթացքում՝ համոզվելու, որ այն գտնվում է զուգակցման ռեժիմում</string>
+    <string name="fido_ble_dont_see_your_key_hint">Բանալին չե՞ք տեսնում:</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Ձեր Անվտանգության բանալին գործում է, միայն եթե սարքի Bluetooth-ը և Տեղորոշման ծառայությունները միացված են</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Ձեր Անվտանգության բանալին գործում է, միայն եթե սարքի Bluetooth-ը միացված է</string>
+    <string name="fido_ble_enable_body_location_only">Ձեր Անվտանգության բանալին գործում է, միայն եթե սարքի Տեղորոշման ծառայությունը միացված է</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Միացնել Bluetooth-ը և Տեղորոշումը</string>
+    <string name="fido_ble_enable_title_location_only">Միացնել Տեղորոշումը</string>
+    <string name="fido_ble_instructions_body">Բանալիներից շատերը օգտագործելու համար պարզապես հպեք կոճակին</string>
+    <string name="fido_ble_locate_pin_body">Զուգակցման PIN կոդը, որպես կանոն, 4 կամ 6 թվանշանից բաղկացած թիվ է, որը կարող եք գտնել ձեր բանալու հետևի մասում: Շարունակեք՝ երբ պատրաստ լինեք մուտքագրել PIN կոդը:</string>
+    <string name="fido_ble_locate_pin_title">Գտեք Bluetooth-ով զուգակցման PIN կոդը ձեր %1$s բանալու համար</string>
+    <string name="fido_ble_pair_device_pairing">Անվտանգության բանալին զուգակցվում է…</string>
+    <string name="fido_ble_pair_instructions_body">Զուգակցեք բանալին այս սարքի հետ, որպեսզի կարողանաք այն օգտագործել ձեր հաշվի հետ</string>
+    <string name="fido_ble_pair_instructions_title">Պատրա՞ստ եք զուգակցելու Անվտանգության բանալին:</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Բանալին կրկին անցկացրեք զուգակցելու ռեժիմ</string>
+    <string name="fido_ble_pairing_mode_body">Սեղմեք և պահեք Անվտանգության բանալու վրա գտնվող կոճակն առնվազն 5 վայրկյանի ընթացքում</string>
+    <string name="fido_ble_pairing_mode_title">Անցնել զուգակցելու ռեժիմ</string>
+    <string name="fido_ble_select_device_body">Ներքևի ցուցակից ընտրեք Անվտանգության բանալին, որը ցանկանում եք զուգակցել ձեր սարքի հետ: Անունը հնարավոր է տպել բանալու հետևի մասում:</string>
+    <string name="fido_ble_select_device_title">Ընտրեք ձեր Անվտանգության բանալին</string>
+    <string name="fido_instructions_title">Թույլատրե՞լ Անվտանգության բանալու օգտագործումը:</string>
+    <string name="fido_nfc_enable_body">Անվտանգության բանալին գործում է միայն եթե սարքի NFC-ն միացված է</string>
+    <string name="fido_nfc_instructions_body">Բանալին հպեք և պահեք սարքի հետևի կողմին զուգահեռ՝ մինչև թրթռումը դադարի</string>
+    <string name="fido_paask_body">Ինչ-որ մեկը փորձում է մոտակայքում գտնվող սարքից մտնել ձեր Google հաշիվ</string>
+    <string name="fido_paask_footer">Սա մուտքի ընդլայնված պաշտպանություն է՝ մոտակայքում գտնվող սարքի հետ գաղտնագրված Bluetooth միացման օգտագործմամբ:</string>
+    <string name="fido_paask_header">Ինչ-որ մեկը փորձում է ձեր հաշիվ մտնել: Այդ դո՞ւք եք:</string>
+    <string name="fido_paask_no_text">Ոչ, ես չեմ</string>
+    <string name="fido_paask_yes_text">Այո, ես եմ</string>
+    <string name="fido_pair_another_security_key">Զուգակցել մեկ այլ Անվտանգության բանալի</string>
+    <string name="fido_processing">Անվտանգության բանալին հաստատվում է…</string>
+    <string name="fido_transport_selection_bluetooth">Օգտագործել Անվտանգության բանալին Bluetooth-ով</string>
+    <string name="fido_transport_selection_body">Անվտանգության բանալիներն աշխատում են Bluetooth-ի, NFC-ի և USB-ի միջոցով: Ընտրեք՝ ինչպես եք ուզում օգտագործել ձեր բանալին:</string>
+    <string name="fido_transport_selection_fingerprint">Մատնահետքի միջոցով</string>
+    <string name="fido_transport_selection_nfc">Օգտագործել Անվտանգության բանալին NFC-ով</string>
+    <string name="fido_transport_selection_title">Ընտրեք Անվտանգության բանալու օգտագործման եղանակը</string>
+    <string name="fido_transport_selection_usb">Օգտագործեք Անվտանգության բանալին USB-ի միջոցով</string>
+    <string name="fido_usb_instructions_body">Միացրեք ձեր Անվտանգության բանալին USB միացքին կամ միացրեք այն USB մալուխով: Եթե ձեր բանալին կոճակով է կամ ոսկե սկավառակով, հպեք այն հիմա:</string>
+    <string name="fido_use_ble_instead">Օգտագործել Անվտանգության բանալին Bluetooth-ով</string>
+    <string name="fido_use_fp_instead">Օգտագործել մատնահետքը</string>
+    <string name="fido_use_nfc_instead">Օգտագործել Անվտանգության բանալին NFC-ով</string>
+    <string name="fido_use_usb_instead">Օգտագործեք ձեր Անվտանգության բանալին USB-ի միջոցով</string>
+    <string name="fido_welcome_body">Անվտանգության բանալին %1$s-ի հետ օգտագործելն օգնում է պաշտպանել ձեր անձնական տվյալները:</string>
+    <string name="fido_welcome_title">Օգտագործեք Անվտանգության բանալին %1$s-ի հետ</string>
+    <string name="fingerprint_description">%1$s-ին անհրաժեշտ է ստուգել ձեր մատնահետքը:</string>
+    <string name="fingerprint_no_imprints_description">%1$s-ին անհրաժեշտ է ստուգել ձեր ինքնությունը մատնահետքի միջոցով, սակայն դուք դեռ չեք ավելացրել այն այս սարքում:</string>
+    <string name="fingerprint_not_recognized">Մատնահետքը չհաջողվեց ճանաչել: Նորից փորձեք:</string>
+    <string name="fingerprint_success">Մատնահետքը ճանաչվեց</string>
+    <string name="gcm_fallback_notification_channel_label">Զանազան</string>
+    <string name="google_app_permissions_title">Հավելվածների թույլտվություններ</string>
+    <string name="google_legal_title">Google-ի իրավական տեղեկություններ</string>
+    <string name="google_play_tos_title">Google Play-ի Ծառայությունների Մատուցման Պայմաններ</string>
+    <string name="google_plus_privacy_policy_title">Google Plus-ի Գաղտնիության քաղաքականություն</string>
+    <string name="google_privacy_policy_title">Google-ի Գաղտնիության քաղաքականություն</string>
+    <string name="google_terms_of_service_title">Google-ի Ծառայությունների մատուցման պայմաններ</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Թույլատրել հավելվածին փոխանցել Wi-Fi-ի տվյալներն այլ սարքի։</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Փոխանցել Wi-Fi-ի գաղտնաբառերը</string>
+    <string name="no_screen_lock_description">Նախ պետք է կարգավորեք ձեր սարքի էկրանի կողպումը</string>
+    <string name="no_screen_lock_title">Ձեր հեռախոսում չկա էկրանի կողպում</string>
+    <string name="notification_ticker">Մուտքի հայց է արված</string>
+    <string name="open_source_activity_prompt_heading">Բացել հավելվածը</string>
+    <string name="open_source_activity_prompt_text">"Նույնականացման գործընթացն ավարտելու համար ձեր հեռախոսում բացեք SourceResponseActivity-ն: "</string>
+    <string name="permgrouplab_calendar">Օրացույց</string>
+    <string name="permgrouplab_camera">Տեսախցիկ</string>
+    <string name="permgrouplab_contacts">Կոնտակտներ</string>
+    <string name="permgrouplab_location">Տեղադրություն</string>
+    <string name="permgrouplab_microphone">Խոսափող</string>
+    <string name="permgrouplab_phone">Հեռախոս</string>
+    <string name="permgrouplab_sensors">Մարմնի սենսորներ</string>
+    <string name="permgrouplab_storage">Տարածք</string>
+    <string name="permissions_not_granted_text">Թույլտվությունները տրամադրվելու համար մուտք գործեք կրկին:</string>
+    <string name="permissions_not_granted_title">Թույլտվությունները չեն տրամադրվել:</string>
+    <string name="plus_manage_app_only_you_label">Միայն դուք</string>
+    <string name="plus_network_unreliable">Հնարավոր չէ հաստատել հուսալի կապ սերվերի հետ:</string>
+    <string name="plus_oob_interstitial_loading_text">Դա կարող է տևել մի քանի րոպե:</string>
+    <string name="search_menu_title">Որոնել</string>
+    <string name="set_up">ԿԱՐԳԱՎՈՐԵԼ</string>
+    <string name="setupservices_additional_privacy_title">Գաղտնիությանը վերաբերող այլ տեղեկություններ</string>
+    <string name="setupservices_android_privacy_policy_title">Գաղտնիության լրացուցիչ քաղաքականություն</string>
+    <string name="setupservices_chrome_privacy_title">Chrome-ի գաղտնիության ծանուցում</string>
+    <string name="setupservices_chrome_tos_title">Chrome-ի օգտագործման պայմաններ</string>
+    <string name="setupservices_google_app_permissions_title">Հավելվածների թույլտվություններ</string>
+    <string name="setupservices_google_legal_title">Google-ի իրավական պայմաններ</string>
+    <string name="setupservices_google_play_tos_title">Google Play-ի օգտագործման պայմաններ</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus-ի գաղտնիության քաղաքականություն</string>
+    <string name="setupservices_google_privacy_policy_title">Google-ի գաղտնիության քաղաքականություն</string>
+    <string name="setupservices_google_services_agreement">Շարունակելով՝ դուք համաձայնում եք, որ սարքը կարող է ավտոմատ ներբեռնել և տեղադրել թարմացումներ ու հավելվածներ Google-ից, ձեր օպերատորից և սարքի արտադրողից (հնարավոր է բջջային ինտերնետի միջոցով): Որոշ հավելվածներում կառաջարկվի վճարովի բովանդակություն: Դուք ցանկացած պահի կարող եք հեռացնել այդ հավելվածները:</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Հավելվածներ հեռացնելու համար անցեք Կարգավորումներ > Հավելվածներ կամ Հավելվածների կառավարիչ: Ապա հպեք այն հավելվածին, որը ցանկանում եք հեռացնել (անհրաժեշտ հավելվածը գտնելու համար հնարավոր է պահանջվի թերթել աջ կամ ձախ): Այնուհետև սեղմեք «Հեռացնել» կամ «Անջատել» կոճակը:</string>
+    <string name="setupservices_google_services_agreement_korea">Սույնով դուք նաև համաձայնում եք և Google-ի նախաբեռնված հավելվածներին թույլ եք տալիս օգտագործել ձեր սարքի տվյալներն ու գործառույթները։ Թույլտվություններն օգտագործելու մասին լրացուցիչ տեղեկություններ կարող եք գտնել <annotation link="app_permissions">այստեղ</annotation>։</string>
+    <string name="setupservices_google_services_agreement_title">Թարմացումների և հավելվածների տեղադրում</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Երբ սարքի հիշողությունը գրեթե լիքն է, դուք կարող եք տարածք ազատել՝ այս սարքից ջնջելով որոշ տվյալներ (օրինակ՝ պահուստավորված լուսանկարներ և տեսանյութեր):</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Ցանցին միանալու դեպքում նույնպես կկարողանաք օգտագործել այս տվյալները: Դուք կարող եք վերահսկել այս գործառույթը և հեռացվող բովանդակությունը՝ անցնելով Կարգավորումներ > Հիշողություն > Խելացի պահեստ:</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Ազատել տարածք</string>
+    <string name="setupservices_google_services_backup">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալներն ու սարքի կարգավորումները (այդ թվում՝ Wi-Fi գաղտնաբառերը):</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Պահուստավորված տվյալները տեղ չեն զբաղեցնում ձեր Google Drive-ի հիշողությունում:"</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Հավելվածների տվյալները բոլոր այն տվյալներն են, որոնք հավելվածը պահել է (ծրագրավորողի կարգավորումների հիման վրա): Դրանց թվում կարող են լինել նաև գաղտնի տվյալներ, օրինակ՝ կոնտակտներ, հաղորդագրություններ և լուսանկարներ:</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Այս ծառայությունը կարող եք անջատել կարգավորումներում։</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Այս սարքի լուսանկարներն ու տեսանյութերը համաժամեցվում են Google Լուսանկարների հետ, որպեսզի դուք կարողանաք գտնել, փոփոխել, ջնջել և հրապարակել դրանք ձեր ցանկացած սարքից: Ըստ կանխադրման՝ լուսանկարներն ու տեսանյութերը վերբեռնվում են Google Լուսանկարներ ամբողջական լուծաչափով:
+
+Պահուստավորված տվյալները տեղ չեն զբաղեցնում ձեր Google Drive-ի հիշողությունում:"</string>
+    <string name="setupservices_google_services_backup_title">Պահուստավորում Google Drive-ում</string>
+    <string name="setupservices_google_services_backup_v23">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալները, զանգերի պատմությունը, կոնտակտներն ու սարքի կարգավորումները (այդ թվում՝ Wi‑Fi գաղտնաբառերն ու թույլտվությունները):</string>
+    <string name="setupservices_google_services_backup_v26">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալները, զանգերի պատմությունը, կոնտակտներն ու սարքի կարգավորումները (այդ թվում՝ Wi‑Fi գաղտնաբառերն ու թույլտվությունները) և SMS հաղորդագրությունները:</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալները, զանգերի պատմությունը, կոնտակտները, սարքի կարգավորումները (այդ թվում՝ Wi‑Fi գաղտնաբառերն ու թույլտվությունները), լուսանկարները, տեսանյութերը և SMS հաղորդագրությունները: Լուսանկարներն ու տեսանյութերը համաժամեցվում են ձեր Google Լուսանկարների դարանի հետ և կարող են օգտագործվել ծառայությունների կողմից:</string>
+    <string name="setupservices_google_services_data_policy">Տվյալները կօգտագործվեն Google-ի <annotation link="google_privacy">գաղտնիության քաղաքականության</annotation> համաձայն:</string>
+    <string name="setupservices_google_services_data_policy_korea">Տվյալների (այդ թվում՝ <annotation link="additional_privacy">անձնական տեղեկությունների) հավաքագրումը, պահումը և օգտագործումը</annotation> կկատարվի Google-ի <annotation link="google_privacy">գաղտնիության քաղաքականության</annotation> և <annotation link="location_tos">տեղորոշման ծառայության պայմանների</annotation> համաձայն:</string>
+    <string name="setupservices_google_services_description">Հպեք՝ յուրաքանչյուր ծառայության վերաբերյալ լրացուցիչ տեղեկություններ ստանալու համար (օրինակ՝ թե ինչպես այն անջատել կամ միացնել հետագայում): ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Հավելվածի մանրամասները, ներառյալ հավելվածից կատարած գնումների տվյալները, հասանելի են Play խանութում: Հավելվածի տվյալները և կարգավորումները համաժամեցվում են այն սարքերի հետ, որտեղ մուտք եք գործել Google հաշվով: 
+
+Ակնթարթային հավելվածների օգտագործումը կառավարվում է "<a href="https://play.google.com/about/play-terms.html">Google Play-ի օգտագործման պայմաններով</a>": 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Իմանալ ավելին</a>:</string>
+    <string name="setupservices_google_services_instant_apps_summary">Որևէ հղման հպելու դեպքում Google Play-ը ստուգում է ակնթարթային հավելվածի առկայությունը և գործարկում է այն առանց տեղադրելու: Ակնթարթային հավելվածները ժամանակավորապես պահվում են ձեր սարքում:</string>
+    <string name="setupservices_google_services_instant_apps_title">Օգտագործեք հավելվածներն առանց տեղադրելու</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google-ի տեղորոշման ծառայությունն օգտագործում է տարբեր աղբյուրներ, ինչպիսիք են Wi-Fi և բջջային ցանցերը՝ ձեր սարքի տեղադրությունը որոշելու համար:
+
+Դուք կարող եք անջատել տեղորոշումը՝ սարքում անջատելով տեղորոշման հիմնական կարգավորումը: Տեղորոշման կարգավորումներում կարող եք նաև անջատել Wi-Fi-ի, բջջային ցանցերի ու սենսորների օգտագործումը տեղորոշման համար։"</string>
+    <string name="setupservices_google_services_location_sharing_title">Օգնեք հավելվածներին գտնել տեղադրությունը</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Օգտագործել տեղորոշումը</string>
+    <string name="setupservices_google_services_location_sharing_v28">Թույլատրեք հավելվածներին ու ծառայություններին օգտագործել սարքի գտնվելու վայրի մասին տվյալները: Այս ծառայության շրջանակում Google-ը պարբերաբար հավաքում և անանուն օգտագործում է տեղադրության մասին տվյալները՝ տեղորոշման ճշգրտությունը և տեղորոշում օգտագործող ծառայությունների աշխատանքը բարելավելու համար:</string>
+    <string name="setupservices_google_services_location_wireless_scan">Թույլ տալ հավելվածներին ու ծառայություններին որոնել Wi‑Fi ցանցեր, նույնիսկ երբ Wi‑Fi-ն անջատած է:</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Այս գործառույթը կարող եք անջատել տեղադրության կարգավորումներից:</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Տեղորոշման ճշգրտության բարելավում</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Թույլատրել որոնումը</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Թույլ տալ հավելվածներին և ծառայություններին որոնել Wi‑Fi և Bluetooth ազդանշաններ, նույնիսկ եթե այս կարգավորումներն անջատած են:</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Թույլ տալ հավելվածներին և ծառայություններին որոնել Wi‑Fi ցանցեր ու մոտակա սարքեր ցանկացած ժամանակ, նույնիսկ եթե այս Wi-Fi-ն ու Bluetooth-ն անջատած են:</string>
+    <string name="setupservices_google_services_next_button_label">Ընդունում եմ</string>
+    <string name="setupservices_google_services_play">Տեղեկացնել Google Play-ի առաջարկների և նորությունների մասին</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Պահուստավորում և հիշողություն</string>
+    <string name="setupservices_google_services_section_device_maintenance">Սարքի սպասարկում</string>
+    <string name="setupservices_google_services_tos">Շարունակելու դեպքում դուք ընդունում եք նաև <annotation link="tos">Google-ի օգտագործման պայմանները</annotation>:</string>
+    <string name="setupservices_google_services_tos_agree">Սեղմելով «Ընդունում եմ»՝ դուք համաձայնում եք Google-ի այս ծառայությունների համար վերոնշյալ գործողությունների կատարմանը:</string>
+    <string name="setupservices_google_services_tos_germany">Այս սարքն օգտագործելու դեպքում կիրառվում են մեր <annotation link="google_privacy">գաղտնիության քաղաքականության</annotation> պահանջները և <annotation link="tos">լրացուցիչ պայմանները</annotation>:</string>
+    <string name="setupservices_google_services_usage_reporting">Օգնեք լավացնել Android-ի աշխատանքը՝ Google-ին ավտոմատ ուղարկելով ախտորոշիչ, ինչպես նաև սարքի ու հավելվածի օգտագործման տվյալներ: Դա կօգնի երկարացնել մարտկոցի աշխատանքը, բարելավել հավելվածների աշխատանքի հուսալիությունը, ցանցային կապը և այլն: Հավելվածների և վեբ որոնման պատմությունը միացնելու դեպքում այս տվյալները կպահվեն ձեր հաշվի հետ, որպեսզի դուք կարողանաք դրանք կառավարել «Իմ գործողությունները» բաժնում:</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Սրանք ընդհանուր տեղեկություններ են ձեր սարքի և դրա օգտագործման (օրինակ՝ մարտկոցի լիցքի, հավելվածների օգտագործման և ցանցային կապի) մասին: Տեղեկություններն օգտագործվելու են Google-ի արտադրանքների և ծառայությունների ընդհանուր որակը բարելավելու համար: Հավաքած տեղեկությունների մի մասը օգտակար կլինի Android ծրագրավորողների և այլ գործընկերների համար և կօգնի բարելավել նաև նրանց հավելվածներն ու արտադրանքները:
+
+Եթե անջատեք այս գործառույթը, դա չի ազդի հիմնական ծառայություններ (օրինակ՝ համակարգի և անվտանգության թարմացումներ) ստանալու նպատակով ձեր սարքի կողմից տեղեկություններ ուղարկելու հնարավորության վրա:"</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">«Իմ գործողությունները» կարգավորումը կարող եք թարմացնել՝ անցնելով myactivity.google.com:</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Այս գործառույթը կարող եք կառավարել Google Կարգավորումներից: Այդ նպատակով անցեք ընտրացանկի «Օգտագործում և ախտորոշում» բաժին:</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Այս գործառույթը կարող եք կառավարել՝ անցնելով Կարգավորումներ > Google, ապա ընտրացանկում բացելով «Օգտագործում և ախտորոշում» բաժինը:</string>
+    <string name="setupservices_google_services_usage_reporting_title">Ուղարկել համակարգային տվյալներ</string>
+    <string name="setupservices_google_services_wallpaper_permission">Թույլ տալ Google-ի կենդանի պաստառներին արձագանքել ձեր տեղադրությանը՝ Google-ի տեղորոշման ծառայությունն օգտագործելու միջոցով:</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Դուք կարող եք թույլատրել կամ արգելել կենդանի պաստառների կողմից Google-ի տեղորոշման ծառայության օգտագործումը՝ անցնելով Կարգավորումներ > Հավելվածներ և ծանուցումներ > Հավելվածի տվյալներ: Լրացուցիչ ընտրացանկում հպեք Ցուցադրել համակարգայինները > «Կենդանի տվյալներ» կամ «Կենդանի Երկիր» պաստառներ > Թույլտվություններ:</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Թույլ տալ պաստառներին օգտագործել տեղադրությունը</string>
+    <string name="setupservices_google_terms_of_service_title">Google-ի օգտագործման պայմաններ</string>
+    <string name="setupservices_kids_google_services_agreement">Շարունակելով՝ դուք համաձայնում եք, որ սարքը կարող է ավտոմատ ներբեռնել և տեղադրել թարմացումներ ու հավելվածներ Google-ից, ձեր օպերատորից և սարքի արտադրողից (հնարավոր է բջջային ինտերնետի միջոցով): Որոշ հավելվածներում կառաջարկվի վճարովի բովանդակություն: Դուք ցանկացած պահի կարող եք հեռացնել այդ հավելվածները:</string>
+    <string name="setupservices_kids_google_services_backup">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալներն ու սարքի կարգավորումները (այդ թվում՝ Wi-Fi գաղտնաբառերը):</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Պահուստավորված տվյալները տեղ չեն զբաղեցնում ձեր երեխայի Google Drive-ի հիշողությունում:"</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Այս սարքի լուսանկարներն ու տեսանյութերը համաժամեցվում են ձեր երեխայի Google Լուսանկարների հետ, որպեսզի նա կարողանա գտնել, փոփոխել, ջնջել և հրապարակել դրանք իր ցանկացած սարքից: Ըստ կանխադրման՝ լուսանկարներն ու տեսանյութերը վերբեռնվում են Google Լուսանկարներ ամբողջական լուծաչափով:
+
+Պահուստավորված տվյալները տեղ չեն զբաղեցնում երեխայի Google Drive-ի հիշողությունում:"</string>
+    <string name="setupservices_kids_google_services_backup_v23">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալները, զանգերի պատմությունը, կոնտակտներն ու սարքի կարգավորումները (այդ թվում՝ Wi‑Fi գաղտնաբառերն ու թույլտվությունները):</string>
+    <string name="setupservices_kids_google_services_backup_v26">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալները, զանգերի պատմությունը, կոնտակտները, սարքի կարգավորումները (այդ թվում՝ Wi‑Fi գաղտնաբառերն ու թույլտվությունները) և SMS հաղորդագրությունները:</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Հեշտությամբ վերականգնեք և տեղափոխեք տվյալները նոր հեռախոսներ: Պահուստավորվում են հավելվածները, դրանց տվյալները, զանգերի պատմությունը, կոնտակտները, սարքի կարգավորումները (այդ թվում՝ Wi‑Fi գաղտնաբառերն ու թույլտվությունները), լուսանկարները, տեսանյութերը և SMS հաղորդագրությունները: Լուսանկարներն ու տեսանյութերը համաժամեցվում են ձեր երեխայի Google Լուսանկարների դարանի հետ և կարող են օգտագործվել ծառայությունների կողմից:</string>
+    <string name="setupservices_kids_google_services_description">Ծնողների համար. հպեք՝ յուրաքանչյուր ծառայության մասին լրացուցիչ տեղեկություններ ստանալու համար (օրինակ՝ թե ինչպես այն անջատել կամ միացնել հետագայում): ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google-ի տեղորոշման ծառայությունն օգտագործում է տարբեր աղբյուրներ, ինչպիսիք են Wi-Fi և բջջային ցանցերը՝ այս սարքի գտնվելու վայրը որոշելու համար։
+
+Դուք կարող եք անջատել տեղորոշումը՝ այս սարքում անջատելով տեղորոշման հիմնական կարգավորումը: Ինչպես նաև տեղորոշման կարգավորումներում կարող եք անջատել Wi-Fi-ի, բջջային ցանցերի ու սենսորների օգտագործումը տեղորոշման համար։"</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Թույլատրեք հավելվածներին և ծառայություններին օգտագործել սարքի գտնվելու վայրի մասին տվյալները: Google-ը պարբերաբար հավաքում և անանուն օգտագործում է տեղադրության մասին տվյալները՝ տեղորոշման ճշգրտությունը բարելավելու համար:</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Օգնեք ավելի լավը դարձնել Android-ը՝ Google-ին ավտոմատ ուղարկելով ախտորոշիչ տվյալներ, ինչպես նաև սարքի և հավելվածի օգտագործման մասին տեղեկություններ: Այս տեղեկությունները չեն օգտագործվի ձեր երեխային նույնականացնելու համար և կօգնեն երկարացնել մարտկոցի աշխատանքը, բարելավել հավելվածի աշխատանքի կայունությունը, ցանցային կապը և այլ գործառույթներ:</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Սրանք ընդհանուր տեղեկություններ են այս սարքի և դրա օգտագործման (օրինակ՝ մարտկոցի լիցքի, հավելվածների օգտագործման և ցանցային կապակցման) մասին: Տեղեկություններն օգտագործվելու են Google-ի արտադրանքների և ծառայությունների ընդհանուր որակը բարելավելու համար: Հավաքած տեղեկությունների մի մասը օգտակար կլինի Android ծրագրավորողների և այլ գործընկերների համար և կօգնի բարելավել նաև նրանց հավելվածներն ու արտադրանքները:
+
+Եթե անջատեք այս գործառույթը, դա չի ազդի հիմնական ծառայություններ (օրինակ՝ համակարգի և անվտանգության թարմացումներ) ստանալու նպատակով սարքի կողմից տեղեկություններ ուղարկելու հնարավորության վրա:"</string>
+    <string name="setupservices_location_tos_title">Տեղորոշման ծառայության պայմաններ</string>
+    <string name="sid_lsid_grant_detail">Նման է գաղտնաբառի, Աշխատաշրջանի նույնականացման (SID) և Տեղային նույնականացման (LSID) քուքի ֆայլերը փոխկապակցվում են ձեզ հետ՝ դիտարկիչի հարցումների հետ միասին: Դրանք թույլատրում են ձեր հաշվի ամբողջական մուտք: Միայն զննարկիչներն ունեն թույլտվություն օգտագործելու այս քուքի ֆայլերը:</string>
+    <string name="sid_lsid_grant_label">Օգտագործեք SID և LSID քուքիները՝ ձեր բոլոր Google հաշիվների տվյալներից օգտվելու համար:</string>
+    <string name="smartdevice_action_copy">Պատճենել</string>
+    <string name="smartdevice_action_open_app">Բացել հավելվածը</string>
+    <string name="smartdevice_action_try_another_way">Փորձել այլ կերպ</string>
+    <string name="smartdevice_action_turn_on_location">Միացնել Տեղադրությունը</string>
+    <string name="smartdevice_alert_disconnected_title">Սարքը ապակապակցվել է</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Ցավոք, դուք չեք կարող օգտագործել այս գործառույթը, քանի որ ձեր պահուստավորման հաշիվը կառավարում է ձեր սարքի ադմինիստրատորը:</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Գործառույթն անհասանելի է</string>
+    <string name="smartdevice_alert_exit_setup_message">Դադարեցնե՞լ մյուս սարքի կարգավորումը:</string>
+    <string name="smartdevice_alert_exit_setup_title">Դադարեցնե՞լ սարքի կարգավորումը:</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Սարքը կարգավորելու համար հարկավոր է առնվազն մեկ Google հաշիվ:</string>
+    <string name="smartdevice_alert_no_accounts_text">%s-ը կարգավորելու համար հարկավոր է առնվազն մեկ Google հաշիվ:</string>
+    <string name="smartdevice_alert_no_accounts_title">Հաշիվներ չկան պատճենելու համար</string>
+    <string name="smartdevice_alert_quit_button">Դուրս գալ</string>
+    <string name="smartdevice_alert_restart_setup_button">Կարգավորման վերագործարկում</string>
+    <string name="smartdevice_alert_setup_incomplete">Կարգավորումը չի ավարտվել</string>
+    <string name="smartdevice_alert_start_over_button">Նորից սկսել</string>
+    <string name="smartdevice_alert_work_profile_message">Աշխատանքային հաշիվները դեռ հնարավոր չէ պատճենել: Ձեր մյուս Google հաշիվները և տվյալները պատճենելուց հետո, ձեր նոր սարքում բացեք Կարգավորումները և ավելացրեք ձեր աշխատանքային հաշիվը:</string>
+    <string name="smartdevice_alert_work_profile_title">Հնարավոր չէ պատճենել աշխատանքային հաշիվը</string>
+    <string name="smartdevice_application_label">Սարքի կարգավորում</string>
+    <string name="smartdevice_choose_device">Ընտրեք սարքը</string>
+    <string name="smartdevice_companion_app_ready">%s հավելվածը արդեն տեղադրված է այս սարքի վրա:</string>
+    <string name="smartdevice_connect_to_wifi">Կապակցեք սարքը</string>
+    <string name="smartdevice_connection_error">Չհաջողվեց միանալ մյուս սարքին</string>
+    <string name="smartdevice_connection_error_title">Չհաջողվեց միանալ</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Կապակցում ձեր սարքին…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Պատճենեք բոլոր հաշիվները և վերականգնեք Google Drive-ի պահուստավորված տվյալները (եթե առկա են)</string>
+    <string name="smartdevice_d2d_copy_account_text">Պատճենեք Google հաշիվները և վերականգնեք Google Drive-ի պահուստավորված տվյալները (եթե առկա են)</string>
+    <string name="smartdevice_d2d_copy_account_title">Պատճենե՞լ այլ սարքում:</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Չճանաչվեց</string>
+    <string name="smartdevice_d2d_fingerprint_title">Հաստատեք մատնահետքը</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Անվտանգության նկատառումներից ելնելով հաստատեք ձեր մատնահետքը: Ձեր Google հաշիվները, հավելվածները և տվյալները կպատճենվեն %s սարքում:</string>
+    <string name="smartdevice_d2d_lockscreen_description">Ապակողպեք՝ սարքի կարգավորումը շարունակելու համար</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Անվտանգության նկատառումներից ելնելով պետք է հաստատեք էկրանի կողպման եղանակը՝ կարգավորումը շարունակելու համար</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Հնարավոր չէ կարգավորել մյուս սարքը: Այն Bluetooth չունի:</string>
+    <string name="smartdevice_d2d_source_disabled_text">Անվտանգության նկատառումներից ելնելով՝ այս գործառույթն անջատվել է: Մյուս սարքի վրա հպեք Բաց թողնել և շարունակեք կարգավորումը:</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Նոր սարքի կարգավորում</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Սարքի կարգավորում</string>
+    <string name="smartdevice_d2d_source_notification_title">^1-ի կարգավորում</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Վերագործարկեք կարգավորումը և ընտրեք ^1-ը, որպեսզի Google հաշիվները, հավելվածները և տվյալները պատճենվեն համապատասխան սարքում:</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Չե՞ք տեսնում կոդը:</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Հնարավոր չէ կարգավորել նոր սարք սահմանափակ թույլտվություններով օգտատիրոջ պրոֆիլից:</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Շարունակեք կարգավորումը %s սարքում</string>
+    <string name="smartdevice_d2d_source_setup_success">Համարյա պատրաստ է:</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Պատճենել մեկ այլ Android սարքից</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Այժմ հետևեք հաջորդ քայլերին, որպեսզի կարգավորեք այս սարքը</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Google հաշիվների, հավելվածների և տվյալների պատճենում այլ սարքից</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Հաշիվների պատճենում…</string>
+    <string name="smartdevice_d2d_target_description">1. Ասեք &lt;b>«&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>»&lt;/b> կամ մուտքագրեք «&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>» և հպեք՝ հաստատելու համար&lt;br/>&lt;br/> 2. Ցանկում ընտրեք &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> և հետևեք էկրանի հրահանգներին</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Փոխարենը փորձեք սա</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Մյուս սարքում.&lt;br/>&lt;br/> 1. Բացեք &lt;b>Google Կարգավորումներ&lt;/b> հավելվածը&lt;br/>&lt;br/> 2. Ընտրեք &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Կարգավորել մոտակա սարքը>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Ցանկում հպեք &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>-ին և հետևեք էկրանին ցուցադրվող հրահանգներին</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Հնարավոր չէ կատարել այս քայլերը</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Եկեք օգտագործենք Կարգավորումները</string>
+    <string name="smartdevice_d2d_target_help_text">Խնդիր ունե՞ք:</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Չե՞ք գտնում:</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Ձեր մյուս սարքում բացեք Google հավելվածը</string>
+    <string name="smartdevice_d2d_target_instruction_description">Բացել Google հավելվածը</string>
+    <string name="smartdevice_d2d_target_instruction_title">Մյուս սարքի վրա</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google հավելվածը նախապես տեղադրված է բոլոր Android սարքերում։ Այն բացելու համար բոլոր հավելվածների ցանկում գտեք վերևում ցուցադրված Google-ի պատկերակը:</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Այս կոդը պետք է համընկնի մյուս սարքի վրա ցուցադրվող կոդի հետ.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Բաց չթողնել</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Այս հաշիվը կամ պահուստավորված հավելվածները և տվյալները չեն պատճենվի այս սարքում:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Բաց թողնել</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Բա՞ց թողնել այս հաշիվը:</string>
+    <string name="smartdevice_d2d_target_title">Google հավելվածում</string>
+    <string name="smartdevice_do_disclosure_generic">Հնարավոր չէ փոխանցել տվյալները</string>
+    <string name="smartdevice_do_unsupported_message">Հնարավոր չէ փոխանցել տվյալները կառավարվող սարքից</string>
+    <string name="smartdevice_install_app">Հավելվածի տեղադրում</string>
+    <string name="smartdevice_install_app_reason">Ձեռք բերեք %1$s հավելվածը՝ նոր %2$s-ը այս սարքից վերահսկելու ու կառավարելու համար</string>
+    <string name="smartdevice_look_for_other_device">Փնտրեք այս անունը ձեր մյուս սարքում</string>
+    <string name="smartdevice_magicwand_cancel_signin">Մուտք չգործել</string>
+    <string name="smartdevice_magicwand_confirm_signin">Հաստատեք ձեր ինքնությունը</string>
+    <string name="smartdevice_magicwand_consent_detail">Հաշիվ մտնելու համար հպեք <b>Մուտք գործել</b>։</string>
+    <string name="smartdevice_magicwand_consent_title">Ավարտեք մուտքը հաշիվ</string>
+    <string name="smartdevice_magicwand_error_detail">Սխալ տեղի ունեցավ։ Չհաջողվեց մտնել Google հաշիվ այս հեռախոսում:</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Հաշիվ մտնելու համար դուք սկանավորել եք QR կոդը։
+
+Անվտանգության նկատառումներից ելնելով՝ հաստատեք ձեր ինքնությունը մատնահետքի միջոցով։"</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Սա անհրաժեշտ է սարքի անվտանգությունը ստուգելու համար։</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Հաշիվ մտնելու համար դուք սկանավորել եք QR կոդը։
+
+Անվտանգության նկատառումներից ելնելով՝ մուտքագրեք էկրանի կողպման նախշը։"</string>
+    <string name="smartdevice_magicwand_selectaccount_description">ձեր դիտարկիչ անցնելու համար</string>
+    <string name="smartdevice_magicwand_success_detail">Բացեք դիտարկիչը մյուս սարքում:</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Փնտրեք այս պատկերները ձեր մյուս սարքում</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Ստուգեք պատկերները</string>
+    <string name="smartdevice_problem_copying">Չհաջողվեց պատճենել տվյալները մյուս սարքում</string>
+    <string name="smartdevice_problem_copying_title">Սխալ</string>
+    <string name="smartdevice_search_again">Նորից որոնել</string>
+    <string name="smartdevice_searching_for_devices">Սարքերի որոնում</string>
+    <string name="smartdevice_setup_info_installing_app">Հավելվածի տեղադրում…</string>
+    <string name="smartdevice_setup_intro_text">Սարքը կարգավորելու համար կօգտագործվի ձեր հեռախոսի Bluetooth-ը և Wi-Fi-ը</string>
+    <string name="smartdevice_setup_intro_text_nfc">Սարքը կարգավորելու համար կօգտագործվի ձեր հեռախոսի Bluetooth-ը</string>
+    <string name="smartdevice_setup_intro_title">Ինչպես սկսել</string>
+    <string name="smartdevice_setup_password_hint">Մուտքագրեք Wi-Fi-ի գաղտնաբառը</string>
+    <string name="smartdevice_setup_show_password">Ցուցադրել գաղտնաբառը</string>
+    <string name="smartdevice_setup_title_verify_code">Կոդի ստուգում</string>
+    <string name="smartdevice_target_hotphrase_instructions">Ձեր մյուս սարքում ասեք &lt;b>«&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>»։&lt;/b>&lt;br/>&lt;br/> Կամ որոնման դաշտում մուտքագրեք &lt;b>«&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>»&lt;/b>։</string>
+    <string name="smartdevice_type_typing_ok_google">Եթե ձայնային հրահանգը չի աշխատում, որոնման դաշտում մուտքագրեք «&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>»</string>
+    <string name="smartdevice_verify_device">Հաստատեք սարքը</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Այս սարքը կարգավորելու համար կարող են օգտագործվել միայն բաց և WPA/WPA2 ցանցերը</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Հնարավոր չէ կապակցվել Wi-Fi ցանցին</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi ցանցեր որոնելու համար միացրեք Տեղադրությունը:
+
+Այս ընտրանքը ցանկացած պահի կարող եք փոխել Կարգավորումներում:"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Հնարավոր չէ որոնել Wi-Fi ցանցեր</string>
+    <string name="storage_management_wear_descriptive_text">Ծրագրերն օգտագործում են ձեր սարքի պահեստը, որպեսզի կարողանան տվյալները վերարտադրել շարժականի:</string>
+    <string name="storage_management_wear_manage_size_label">Կառավարել շարժական պահեստը</string>
+    <string name="storage_management_wear_size_label">Շարժական պահեստ</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play ծառայությունների կողմից օգտագործվող ընդհանուր տվյալները, այդ թվում` որոնողական համակարգը և այլ տվյալներ:</string>
+    <string name="storage_managment_clear_all_data">Մաքրել բոլոր տվյալները</string>
+    <string name="storage_managment_computing_size">Հաշվարկվում է…</string>
+    <string name="storage_managment_icing_size_label">Որոնման տվյալներ</string>
+    <string name="storage_managment_manage_icing_button">Կառավարել որոնման տվյալները</string>
+    <string name="storage_managment_search_index_descriptive_text">Մենք արագացնում ենք որոնումը ձեր սարքում՝ տրամադրելով որոնման համակարգ Apps-ի օգտագործման համար:</string>
+    <string name="storage_managment_title">Google Play ծառայությունների պահուստ</string>
+    <string name="storage_managment_total_size_label">Ընդհանուր հիշողությունը</string>
+    <string name="suw_back_button_label">Հետ</string>
+    <string name="suw_more_button_label">Ավելին</string>
+    <string name="suw_next_button_label">Առաջ</string>
+    <string name="uncertified_notification_expired_content">Google հավելվածները և ծառայություններն այլևս չեն աշխատում այս սարքի վրա: Հպեք՝ ավելին իմանալու համար:</string>
+    <string name="uncertified_notification_expired_title">Գրանցումը սպառված է</string>
+    <string name="uncertified_notification_expiring_title">Գրանցումը սպառվում է</string>
+    <string name="use_nearby_device_heading">Օգտագործե՞լ մոտակայքում գտնվող որևէ սարք</string>
+    <string name="use_nearby_device_text">Օգտագործե՞լ մոտակայքում գտնվող սարք՝ թույլտվություններ տրամադրելու համար:</string>
+    <string name="v7_preference_off">ԱՆՋԱՏԱԾ</string>
+    <string name="v7_preference_on">ՄԻԱՑՎԱԾ</string>
+    <string name="verify_your_identity_description">%1$s-ին անհրաժեշտ է ստուգել ձեր ինքնությունը:</string>
+    <string name="verify_your_identity_title">Հաստատեք ձեր ինքնությունը</string>
+    <string name="waiting_for_account_info_text">Սպասում է հաշվի տվյալներին...</string>
+</resources>

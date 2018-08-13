@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s ไม่ใช่ที่อยู่อีเมลที่ถูกต้อง</item>
+        <item quantity="one">%s ไม่ใช่ที่อยู่อีเมลที่ถูกต้อง</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">การเพิ่มไฟล์เหล่านี้จะเป็นการแชร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+        <item quantity="one">การเพิ่มไฟล์นี้จะเป็นการแชร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">การเพิ่มไฟล์และโฟลเดอร์เหล่านี้จะเป็นการแชร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">การเพิ่มโฟลเดอร์เหล่านี้จะเป็นการแชร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+        <item quantity="one">การเพิ่มโฟลเดอร์นี้จะเป็นการแชร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">แชร์ไฟล์เหล่านี้ใช่ไหม</item>
+        <item quantity="one">แชร์ไฟล์นี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">แชร์ไฟล์และโฟลเดอร์เหล่านี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">แชร์โฟลเดอร์เหล่านี้ใช่ไหม</item>
+        <item quantity="one">แชร์โฟลเดอร์นี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">อัปเดต %1$d โฟลเดอร์แล้ว ตั้งค่าสีเป็น%2$s</item>
+        <item quantity="one">อัปเดต %1$d โฟลเดอร์แล้ว ตั้งค่าสีเป็น%2$s</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">หมดอายุใน %1$d วัน</item>
+        <item quantity="one">หมดอายุใน %1$d วัน</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">ลบข้อมูลสำรองแล้ว</item>
+        <item quantity="one">ลบข้อมูลสำรองแล้ว</item>
+    </plurals>
+    <plurals name="desc_columns">
+        <item quantity="other">%d คอลัมน์</item>
+        <item quantity="one">%d คอลัมน์</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">คอลัมน์ที่ตรึง %d คอลัมน์</item>
+        <item quantity="one">คอลัมน์ที่ตรึง %d คอลัมน์</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">แถวที่ตรึง %d แถว</item>
+        <item quantity="one">แถวที่ตรึง %d แถว</item>
+    </plurals>
+    <plurals name="desc_rows">
+        <item quantity="other">%d แถว</item>
+        <item quantity="one">%d แถว</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">ไม่สามารถดาวน์โหลดรายการ</item>
+        <item quantity="one">ไม่สามารถดาวน์โหลดรายการ</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$d จาก %2$d รายการ โปรดดูรายละเอียดในการแจ้งเตือน</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">เราจะดาวน์โหลด %1$d รายการ โปรดดูรายละเอียดในการแจ้งเตือน</item>
+        <item quantity="one">เราจะดาวน์โหลด %1$d รายการ โปรดดูรายละเอียดในการแจ้งเตือน</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">ไม่สามารถดาวน์โหลด %1$s รายการ</item>
+        <item quantity="one">ไม่สามารถดาวน์โหลด %1$s รายการ</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">อีก %1$d รายการ</item>
+        <item quantity="one">อีก %1$d รายการ</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">ดาวน์โหลดไม่สำเร็จ %1$d จาก %2$d รายการ</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">คุณกำลังย้ายบางรายการออกจากโฟลเดอร์ที่แชร์ ซึ่งจะทำให้คนอื่นเสียสิทธิ์เข้าถึงรายการเหล่านี้</item>
+        <item quantity="one">คุณกำลังนำรายการออกจากโฟลเดอร์ที่แชร์ ซึ่งจะทำให้คนอื่นเสียสิทธิ์เข้าถึง</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">คุณกำลังย้ายบางรายการออกจากไดรฟ์ของทีม ผู้ใช้คนอื่นๆ จะไม่มีสิทธิ์เข้าถึงรายการเหล่านี้</item>
+        <item quantity="one">คุณกำลังย้าย 1 รายการออกจากไดรฟ์ของทีม ผู้ใช้คนอื่นๆ จะไม่มีสิทธิ์เข้าถึงรายการเหล่านี้</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">การย้ายไฟล์เหล่านี้จะแชร์ไฟล์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+        <item quantity="one">การย้ายไฟล์นี้จะแชร์ไฟล์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">การย้ายไฟล์และโฟลเดอร์เหล่านี้จะแชร์ไฟล์และโฟลเดอร์ดังกล่าวกับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">การย้ายโฟลเดอร์เหล่านี้จะแชร์โฟลเดอร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+        <item quantity="one">การย้ายโฟลเดอร์นี้จะแชร์โฟลเดอร์กับทุกคนที่มีสิทธิ์เข้าถึงโฟลเดอร์ %1$s ที่แชร์ไว้</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">แชร์ไฟล์เหล่านี้ใช่ไหม</item>
+        <item quantity="one">แชร์ไฟล์นี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">แชร์ไฟล์และโฟลเดอร์เหล่านี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">แชร์โฟลเดอร์เหล่านี้ใช่ไหม</item>
+        <item quantity="one">แชร์โฟลเดอร์นี้ใช่ไหม</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">คุณไม่ได้เป็นเจ้าของบางรายการ จึงไม่สามารถย้ายไปไว้ในไดรฟ์ของทีมได้</item>
+        <item quantity="one">คุณไม่ได้เป็นเจ้าของรายการนี้ จึงไม่สามารถย้ายไปไว้ในไดรฟ์ของทีมได้</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">คุณไม่มีสิทธิ์ย้ายบางรายการออกจากโฟลเดอร์</item>
+        <item quantity="one">คุณไม่มีสิทธิ์ย้ายรายการนี้ออกจากโฟลเดอร์</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s \"%2$s\" เข้าถึงได้แล้ว</item>
+        <item quantity="one">%1$s \"%2$s\" เข้าถึงได้แล้ว</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">ย้าย %1$d รายการไปที่ไดรฟ์ของทีมแล้ว สมาชิกสามารถเข้าถึงได้</item>
+        <item quantity="one">ย้าย 1 รายการไปที่ไดรฟ์ของทีมแล้ว สมาชิกสามารถเข้าถึงได้</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">การทำงาน %1$s รายการ</item>
+        <item quantity="one">การทำงาน %1$s รายการ</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s การพูดถึงที่ยังไม่ตอบกลับ</item>
+        <item quantity="one">%1$s การพูดถึงที่ยังไม่ตอบกลับ</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">คำแนะนำ %1$s รายการ</item>
+        <item quantity="one">คำแนะนำ %1$s รายการ</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">สิ่งที่ต้องทำ %1$s รายการ</item>
+        <item quantity="one">สิ่งที่ต้องทำ %1$s รายการ</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">ขณะนี้ %1$d จาก %2$s รายการใช้ได้แบบออฟไลน์แล้ว</item>
+        <item quantity="one">ขณะนี้ %1$d จาก %2$s รายการใช้ได้แบบออฟไลน์แล้ว</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">ทั้ง %1$d ไฟล์สามารถใช้งานได้แบบออฟไลน์แล้ว</item>
+        <item quantity="one">สามารถใช้งาน %1$d ไฟล์ได้แบบออฟไลน์แล้ว</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">กำหนดให้ %1$d ไฟล์สามารถใช้งานได้แบบออฟไลน์</item>
+        <item quantity="one">กำหนดให้ %1$d ไฟล์สามารถใช้งานได้แบบออฟไลน์</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d ไฟล์</item>
+        <item quantity="one">%1$d ไฟล์</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">หยุดดาวน์โหลดชั่วคราว กำลังรอ WiFi..</item>
+        <item quantity="one">หยุดดาวน์โหลดชั่วคราว กำลังรอ WiFi</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">หยุดดาวน์โหลดชั่วคราว %1$d รายการ</item>
+        <item quantity="one">หยุดดาวน์โหลดชั่วคราว %1$d รายการ</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">ระบบจะย้าย %1$d รายการลงถังขยะ และนำรายการนี้ออกจาก Google Photos ด้วย</item>
+        <item quantity="one">ระบบจะย้าย 1 รายการลงถังขยะ และนำรายการนี้ออกจาก Google Photos ด้วย</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">รายการที่ติดตามผล %1$s รายการ</item>
+        <item quantity="one">รายการที่ติดตามผล %1$s รายการ</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">รายการที่ติดตามผล %1$s รายการ</item>
+        <item quantity="one">รายการที่ติดตามผล %1$s รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">แสดงความคิดเห็นใน %1$d ไฟล์</item>
+        <item quantity="one">แสดงความคิดเห็นในไฟล์</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">แสดงความคิดเห็นใน %1$d ไฟล์</item>
+        <item quantity="one">แสดงความคิดเห็นในไฟล์</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">แสดงความคิดเห็นในไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">สร้าง %1$d รายการ</item>
+        <item quantity="one">สร้าง 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">สร้าง %1$d รายการ</item>
+        <item quantity="one">สร้าง 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">สร้างไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">สร้างโฟลเดอร์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">แก้ไข %1$d รายการ</item>
+        <item quantity="one">แก้ไข 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">แก้ไข %1$d รายการ</item>
+        <item quantity="one">แก้ไข 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">แก้ไขไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">ลบ %1$d รายการอย่างถาวร</item>
+        <item quantity="one">ลบ 1 รายการอย่างถาวร</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">ย้าย %1$d รายการไปที่:</item>
+        <item quantity="one">ย้าย 1 รายการไปที่:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">ย้าย %1$d รายการไปที่:</item>
+        <item quantity="one">ย้าย 1 รายการไปที่:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">ย้าย %1$d รายการ</item>
+        <item quantity="one">ย้าย 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">ย้าย %1$d รายการ</item>
+        <item quantity="one">ย้าย 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">ย้ายไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">ย้ายไฟล์นี้ไปที่:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">ย้ายโฟลเดอร์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">ย้ายโฟลเดอร์นี้ไปที่:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">เปลี่ยนชื่อ %1$d รายการ</item>
+        <item quantity="one">เปลี่ยนชื่อ 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">เปลี่ยนชื่อ %1$d รายการ</item>
+        <item quantity="one">เปลี่ยนชื่อ 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">เปลี่ยนชื่อไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">เปลี่ยนชื่อโฟลเดอร์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">แชร์ %1$d รายการ</item>
+        <item quantity="one">แชร์ 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">แชร์ %1$d รายการ</item>
+        <item quantity="one">แชร์ 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">แชร์ไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">แชร์โฟลเดอร์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">ย้าย %1$d รายการไปที่ถังขยะ</item>
+        <item quantity="one">ย้าย 1 รายการไปที่ถังขยะ</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">ย้าย %1$d รายการไปที่ถังขยะ</item>
+        <item quantity="one">ย้าย 1 รายการไปที่ถังขยะ</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">นำไฟล์นี้ออก</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">นำโฟลเดอร์นี้ออก</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">อัปโหลด %1$d รายการ</item>
+        <item quantity="one">อัปโหลด 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">อัปโหลด %1$d รายการ</item>
+        <item quantity="one">อัปโหลด 1 รายการ</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">อัปโหลดไฟล์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">อัปโหลดโฟลเดอร์นี้</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s และอีก %2$d คน</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">ระบบจะย้าย %1$d ไฟล์ไปที่ถังขยะของ %2$s และลบทิ้งโดยถาวรหลังจาก 30 วัน</item>
+        <item quantity="one">ระบบจะย้ายไฟล์นี้ไปที่ถังขยะของ %2$s และจะลบโดยถาวรหลังจาก 30 วัน</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">ระบบจะย้าย %1$d โฟลเดอร์ไปที่ถังขยะของ %2$s และลบทิ้งโดยถาวรหลังจาก 30 วัน</item>
+        <item quantity="one">ระบบจะย้ายโฟลเดอร์ไปที่ถังขยะของ %2$s และลบทิ้งโดยถาวรหลังจาก 30 วัน</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">ระบบจะย้าย %1$d รายการไปที่ถังขยะของ %2$s และลบทิ้งโดยถาวรหลังจาก 30 วัน</item>
+        <item quantity="one">ระบบจะย้ายรายการไปที่ถังขยะของ %2$s และลบทิ้งโดยถาวรหลังจาก 30 วัน</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">ระบบจะลบ %1$d ไฟล์นี้&lt;b>ทิ้งถาวรสำหรับทุกคน&lt;/b> คุณไม่สามารถเลิกทำการดำเนินการนี้ได้</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">ระบบจะลบ %1$d ไฟล์นี้ทิ้งถาวร คุณไม่สามารถเลิกทำการทำงานนี้ได้</item>
+        <item quantity="one">ระบบจะลบไฟล์นี้ทิ้งถาวร คุณไม่สามารถเลิกทำการทำงานนี้ได้</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d รายการ</item>
+        <item quantity="one">%1$d รายการ</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">เลือกแล้ว %1$d รายการ</item>
+        <item quantity="one">เลือกแล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">ยกเลิกการเลือกแล้ว %1$d รายการ</item>
+        <item quantity="one">ยกเลิกการเลือกแล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">%d รายการจะไม่สามารถใช้แบบออฟไลน์ได้</item>
+        <item quantity="one">1 รายการจะไม่สามารถใช้แบบออฟไลน์ได้</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">ติดดาว %1$d รายการ</item>
+        <item quantity="one">ติดดาว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">%1$d รายการจะไม่สามารถใช้แบบออฟไลน์อีก</item>
+        <item quantity="one">1 รายการจะไม่สามารถใช้แบบออฟไลน์อีก</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">ยกเลิกการติดดาว %1$d รายการ</item>
+        <item quantity="one">ยกเลิกการติดดาว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">กู้คืนแล้ว %1$d รายการ</item>
+        <item quantity="one">กู้คืนแล้ว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">กู้คืน %1$d รายการแล้ว</item>
+        <item quantity="one">กู้คืน 1 รายการแล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">นำ %1$d รายการออกจาก \"%2$s\" แล้ว</item>
+        <item quantity="one">นำ 1 รายการออกจาก \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">นำออกจากโฟลเดอร์แล้ว %1$d รายการ</item>
+        <item quantity="one">นำออกจากโฟลเดอร์แล้ว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">นำ %1$d รายการออกแล้ว</item>
+        <item quantity="one">นำ 1 รายการออกแล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">ย้าย %1$d รายการกลับเข้าไปแล้ว</item>
+        <item quantity="one">ย้าย 1 รายการกลับเข้าไปแล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">ย้าย %1$d รายการกลับไปที่ถังขยะแล้ว</item>
+        <item quantity="one">ย้าย 1 รายการกลับไปที่ถังขยะแล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">วาง %1$d รายการกลับลงในถังขยะแล้ว</item>
+        <item quantity="one">วาง 1 รายการกลับลงในถังขยะแล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">นำ %1$d รายการออกแล้ว</item>
+        <item quantity="one">นำ 1 รายการออกแล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">เพิ่ม %1$d รายการลงใน \"%2$s\" แล้ว</item>
+        <item quantity="one">เพิ่ม 1 รายการลงใน \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">เพิ่มแล้ว %1$d รายการ</item>
+        <item quantity="one">เพิ่มแล้ว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">กู้คืน %1$d รายการและเพิ่มลงใน \"%2$s\" แล้ว</item>
+        <item quantity="one">กู้คืน 1 รายการและเพิ่มลงใน \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">ย้าย %1$d รายการไปที่ \"%2$s\" แล้ว</item>
+        <item quantity="one">ย้าย 1 รายการไปที่ \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">ย้ายแล้ว %1$d รายการ</item>
+        <item quantity="one">ย้ายแล้ว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">กู้คืน %1$d รายการและย้ายไปที่ \"%2$s\" แล้ว</item>
+        <item quantity="one">กู้คืน 1 รายการและย้ายไปที่ \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">กู้คืนแล้ว %1$d รายการ</item>
+        <item quantity="one">กู้คืนแล้ว 1 รายการ</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">กู้คืน %1$d รายการไปที่ \"%2$s\" แล้ว</item>
+        <item quantity="one">กู้คืน 1 รายการไปที่ \"%2$s\" แล้ว</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">ส่งไฟล์ด้วย</item>
+        <item quantity="one">ส่งไฟล์ด้วย</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d คนเข้าถึงได้แล้ว</item>
+        <item quantity="one">1 คนดูได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s และอีก %2$d คนเข้าถึงได้แล้ว</item>
+        <item quantity="one">%1$s และอีก 1 คนเข้าถึงได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d คนเพิ่มความคิดเห็นได้แล้ว</item>
+        <item quantity="one">1 คนเพิ่มความคิดเห็นได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s และอีก %2$d คนเพิ่มความคิดเห็นได้แล้ว</item>
+        <item quantity="one">%1$s และอีก 1 คนเพิ่มความคิดเห็นได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d คนแก้ไขได้แล้ว</item>
+        <item quantity="one">1 คนแก้ไขได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s และอีก %2$d คนแก้ไขได้แล้ว</item>
+        <item quantity="one">%1$s และอีก 1 คนแก้ไขได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d คนดูได้แล้ว</item>
+        <item quantity="one">1 คนดูได้แล้ว</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s และอีก %2$d คนดูได้แล้ว</item>
+        <item quantity="one">%1$s และอีก 1 คนดูได้แล้ว</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">พื้นที่เก็บไดรฟ์หมดอายุใน %1$d วัน</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">เพิ่ม %1$d คนลงในไดรฟ์ของทีมแล้ว</item>
+        <item quantity="one">เพิ่ม 1 คนลงในไดรฟ์ของทีมแล้ว</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">เพิ่ม %2$s และอีก %3$d คนลงใน %1$s แล้ว</item>
+        <item quantity="one">เพิ่ม %2$s และอีก 1 คนลงใน %1$s แล้ว</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">สมาชิก %d คน</item>
+        <item quantity="zero">ไม่มีสมาชิก</item>
+        <item quantity="one">สมาชิก 1 คน</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">ดำเนินการทั้งหมดต่อทันที</item>
+        <item quantity="one">ดำเนินการต่อทันที</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">ยกเลิกการตั้งเวลาอัปโหลด %1$d ไฟล์</item>
+        <item quantity="one">ยกเลิกการตั้งเวลาอัปโหลด %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">กำหนดเวลาอัปโหลด %1$d ไฟล์ไม่สำเร็จ</item>
+        <item quantity="one">กำหนดเวลาอัปโหลด %1$d ไฟล์ไม่สำเร็จ</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">อัปโหลดแล้ว %1$d ไฟล์</item>
+        <item quantity="one">อัปโหลดแล้ว %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">ไม่สามารถอัปโหลด %1$d ไฟล์จากทั้งหมด %2$d ไฟล์</item>
+        <item quantity="one">ไม่สามารถอัปโหลด %1$d ไฟล์จากทั้งหมด %2$d ไฟล์</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">กำลังอัปโหลด %1$d ไฟล์</item>
+        <item quantity="one">กำลังอัปโหลด %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">หยุดอัปโหลดชั่วคราว กำลังรอ WiFi..</item>
+        <item quantity="one">หยุดอัปโหลดชั่วคราว กำลังรอ WiFi</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">หยุดอัปโหลด %1$d ไฟล์ชั่วคราว</item>
+        <item quantity="one">หยุดอัปโหลด %1$d ไฟล์ชั่วคราว</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">กำลังเตรียมอัปโหลด %1$d ไฟล์</item>
+        <item quantity="one">กำลังเตรียมอัปโหลด %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">กำลังอัปโหลด %1$d ไฟล์ไปยัง: %2$s</item>
+        <item quantity="one">กำลังอัปโหลด %1$d ไฟล์ไปยัง: %2$s</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">ตัวกรอง</item>
+        <item quantity="one">ตัวกรอง</item>
+    </plurals>
+</resources>

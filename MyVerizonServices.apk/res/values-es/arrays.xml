@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="messages">
+        <item>{Method:\"*\", Id:\"fallback_error\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"standard_error\", Message:\"Lo siento, tenemos que establecer un problema del acceso a la red para su dispositivo. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"airplane_error\", Message:\"Lo sentimos, no podemos acceder a la información de su cuenta. Compruebe que una tarjeta SIM válida está presente y el dispositivo no está en modo de avión. Si continúa teniendo problemas, por favor llame al (800) 922-0204.\", button1:\"Salir\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"please_wait\", Message:\"La aplicación estará lista para usarse en unos momentos...\", title:\"Verizon Wireless\", show_code:\"false\"}</item>
+        <item>{Method:\"*\", Id:\"permissions_rationale\", Message:\"Verizon Login no puede funcionar porque requiere un permiso que ha sido revocado. Para restaurar la funcionalidad, por favor acepte los permisos solicitados cuando se le solicite. (5003)\", button1:\"Salir\", button2:\"Continuar\", title:\"Verizon Wireless\", show_code:\"false\"}</item>
+        <item>{Method:\"*\", Id:\"permissions_error\", Message:\"Verizon Login no puede funcionar porque requiere un permiso que ha sido revocado.\", button1:\"Salir\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"*\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"Verizon Wireless\", show_code:\"true\"}</item>
+    </string-array>
+</resources>

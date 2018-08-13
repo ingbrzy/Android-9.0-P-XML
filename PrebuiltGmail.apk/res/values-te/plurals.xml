@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s మంది స్వీకర్తలు</item>
+        <item quantity="one">1 స్వీకర్త</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 మంది స్వీకర్తలు గుప్తీకరణకు మద్దతు ఇవ్వని సేవలను ఉపయోగిస్తున్నారు. గుప్తీకరణ లేకపోతే, బట్వాడా సమయంలో ఇతరులు మీ సందేశాన్ని చూడగలరు. ^2</item>
+        <item quantity="one">^1 గుప్తీకరణకు మద్దతు ఇవ్వని సేవను ఉపయోగిస్తున్నారు. గుప్తీకరణ లేకపోతే, బట్వాడా సమయంలో ఇతరులు మీ సందేశాన్ని చూడగలరు. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">ఈ సందేశం పంపినప్పుడు ^1 మరియు ఇతరమైనవి ఎన్‌క్రిప్షన్‌కి మద్దతు ఇవ్వలేదు. ^2</item>
+        <item quantity="one">ఈ సందేశం పంపినప్పుడు ^1 ఎన్‌క్రిప్షన్‌కి మద్దతు ఇవ్వలేదు. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణలను ఆర్కైవ్ చేయాలా?</item>
+        <item quantity="one">ఈ సంభాషణను ఆర్కైవ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణలను తొలగించాలా?</item>
+        <item quantity="one">ఈ సంభాషణను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణల నుండి చిత్తుప్రతులను విస్మరించాలా?</item>
+        <item quantity="one">ఈ సంభాషణ నుండి చిత్తుప్రతులను విస్మరించాలా?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ఆర్కైవ్ చేయబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ఆర్కైవ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> తొలగించబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> తొలగించబడింది</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">లేబుల్‌లు మారాయి.</item>
+        <item quantity="one">లేబుల్ మారింది.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ఇన్‌బాక్స్‌కు తరలించబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ఇన్‌బాక్స్‌కు తరలించబడింది</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> మ్యూట్ చేయబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> మ్యూట్ చేయబడింది</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ముఖ్యం కానివిగా గుర్తు పెట్టబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ముఖ్యం కానిదిగా గుర్తు పెట్టబడింది</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> స్పామ్ కానివిగా నివేదించబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> స్పామ్ కానిదిగా నివేదించబడింది</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> చదివినవిగా గుర్తు పెట్టబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> చదివినవిగా గుర్తు పెట్టబడింది</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">%2$s వరకు &lt;b>%1$d&lt;/b> తాత్కాలికంగా ఆపివేయబడింది</item>
+        <item quantity="one">%2$s వరకు &lt;b>%1$d&lt;/b> తాత్కాలికంగా ఆపివేయబడింది</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> స్పామ్‌గా నివేదించబడ్డాయి</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> స్పామ్‌గా నివేదించబడింది</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d స్పామ్‌గా నివేదించబడ్డాయి మరియు వాటి చందా తొలగించబడింది</item>
+        <item quantity="one">%1$d స్పామ్‌గా నివేదించబడింది మరియు దాని చందా తొలగించబడింది</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> తాత్కాలిక ఆపివేత తీసివేయబడింది</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> తాత్కాలిక ఆపివేత తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d సంభాషణలకు నక్షత్రం తీసివేస్తోంది</item>
+        <item quantity="one">%1$d సంభాషణకు నక్షత్రం తీసివేస్తోంది</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ప్రతి %d రోజులు</item>
+        <item quantity="one">ప్రతి రోజు</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">ఈ సందేశాలు స్పామ్‌గా గుర్తు పెట్టబడతాయి. అలాగే, మీరు ఈ &lt;b>%2$d లేఖరుల&lt;/b> నుండి సారూప్య సందేశాలను స్వీకరించడం ఆపివేయాలనుకుంటున్నారా?%1$s</item>
+        <item quantity="one">ఈ సందేశం స్పామ్‌గా గుర్తు పెట్టబడుతుంది. అలాగే, మీరు %1$s నుండి సారూప్య సందేశాలను స్వీకరించడం ఆపివేయాలనుకుంటున్నారా?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">చిత్తుప్రతులు</item>
+        <item quantity="one">చిత్తుప్రతి</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s సంభాషణలు శాశ్వతంగా తొలగించబడతాయి</item>
+        <item quantity="one">%1$s సంభాషణ శాశ్వతంగా తొలగించబడుతుంది</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d సార్లకు</item>
+        <item quantity="one">; ఒకసారికి</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">మీ స్వీకర్తలు మీరు డిస్క్ నుండి చేర్చిన ఫైల్‌లకు ప్రాప్యత కలిగి ఉండకపోవచ్చు. మీరు Google డిస్క్‌లో నుండే ఫైల్‌లను భాగస్వామ్యం చేయాలి.</item>
+        <item quantity="one">మీ స్వీకర్తలు మీరు డిస్క్ నుండి చేర్చిన ఫైల్‌కు ప్రాప్యత కలిగి ఉండకపోవచ్చు. మీరు Google డిస్క్‌లో నుండే ఫైల్‌ను భాగస్వామ్యం చేయాలి.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">గమనిక: కొంత మంది స్వీకర్తలు ఇప్పటికీ ఈ ఫైల్‌లకు ప్రాప్యత కలిగి ఉండకపోవచ్చు. మీరు Google డిస్క్‌లో నుండే ఈ ఫైల్‌లను భాగస్వామ్యం చేయాలి.</item>
+        <item quantity="one">గమనిక: కొంత మంది స్వీకర్తలు ఇప్పటికీ ఈ ఫైల్‌కు ప్రాప్యత కలిగి ఉండకపోవచ్చు. మీరు Google డిస్క్‌లో నుండే ఈ ఫైల్‌ను భాగస్వామ్యం చేయాలి.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"మీరు ఈ స్వీకర్తలతో భాగస్వామ్యం చేస్తున్నారు:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>వీరు ఈ ఫైల్‌లు చెందిన Google అనువర్తనాలు సంస్థలోని వారు కాదు."</item>
+        <item quantity="one">మీరు ఈ స్వీకర్తలతో భాగస్వామ్యం చేస్తున్నారు:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>వీరు ఈ ఫైల్ చెందిన Google అనువర్తనాలు సంస్థలోని వారు కాదు.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 మంది స్వీకర్తలు ఎన్‌క్రిప్షన్‌కు మద్దతు ఇవ్వని సేవలను ఉపయోగిస్తున్నారు. ఎన్‌క్రిప్ట్ చేయకుంటే, మీ సందేశాన్ని బట్వాడా సమయంలో ఎవరైనా చదవవచ్చు. ^2</item>
+        <item quantity="one">^1 ఎన్‌క్రిప్షన్‌కు మద్దతు ఇవ్వని సేవను ఉపయోగిస్తున్నారు. ఎన్‌క్రిప్ట్ చేయకుంటే, మీ సందేశాన్ని బట్వాడా సమయంలో ఎవరైనా చదవవచ్చు. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ప్రతి %1$d నెలలు</item>
+        <item quantity="one">ప్రతి నెల</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d కొత్త సందేశాలు</item>
+        <item quantity="one">%1$d కొత్త సందేశం</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d కొత్త సందేశాలు</item>
+        <item quantity="one">%1$d కొత్త సందేశం</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d జోడింపులు</item>
+        <item quantity="one">%1$d జోడింపు</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d సందేశాలు</item>
+        <item quantity="one">%1$d సందేశం</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">క్యాలెండర్‌లు భాగస్వామ్యం చేయబడలేదు</item>
+        <item quantity="one">క్యాలెండర్ భాగస్వామ్యం చేయబడలేదు</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ఈవెంట్‌లకు</item>
+        <item quantity="one">%d ఈవెంట్‌కు</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ప్రతి %d రోజులు</item>
+        <item quantity="one">ప్రతి %d రోజు</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ప్రతి %d నెలలు</item>
+        <item quantity="one">ప్రతి %d నెల</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ప్రతి %d వారాలు</item>
+        <item quantity="one">ప్రతి %d వారం</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ప్రతి %d సంవత్సరాలు</item>
+        <item quantity="one">ప్రతి %d సంవత్సరం</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">%d శోధన ఫలితాలు లోడ్ చేయబడ్డాయి</item>
+        <item quantity="one">%d శోధన ఫలితం లోడ్ చేయబడింది</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d పాత సందేశాలను విస్తరింపజేయి</item>
+        <item quantity="one">పాత సందేశాన్ని విస్తరింపజేయి</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">%d రోజుల క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+        <item quantity="one">%d రోజు క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">%d గంటల క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+        <item quantity="one">%d గంట క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">%d నెలల క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+        <item quantity="one">%d నెల క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">%d వారాల క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+        <item quantity="one">%d వారం క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">%d సంవత్సరాల క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+        <item quantity="one">%d సంవత్సరం క్రితం తాత్కాలికంగా ఆపివేయబడింది</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d పాత సందేశాలు విస్తరింపజేయబడ్డాయి</item>
+        <item quantity="one">ఒక పాత సందేశం విస్తరింపజేయబడింది</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">ఒక రోజు</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">కనెక్ట్ చేసినప్పుడు గత %1$d రోజుల్లోని సందేశాలు డౌన్‌లోడ్ చేయబడతాయి</item>
+        <item quantity="one">కనెక్ట్ చేసినప్పుడు గత 1 రోజులోని సందేశాలు డౌన్‌లోడ్ చేయబడతాయి</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">గత %1$d రోజులు</item>
+        <item quantity="one">గత రోజు</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">గడువు తేదీ - %1$s - %2$d కార్యాలు</item>
+        <item quantity="one">గడువు తేదీ - %1$s%2$d కార్యం</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">రోజులు</item>
+        <item quantity="one">రోజు</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ప్రతి %1$d వారాలకు %2$s నాడు</item>
+        <item quantity="one">ప్రతి వారం %2$s నాడు</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ప్రతి %1$d సంవత్సరాలు</item>
+        <item quantity="one">ప్రతి సంవత్సరం</item>
+    </plurals>
+</resources>

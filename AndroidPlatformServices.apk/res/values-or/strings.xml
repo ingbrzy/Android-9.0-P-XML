@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ହୋମ୍ ପେଜ୍‍କୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="abc_action_bar_up_description">ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="abc_action_menu_overflow_description">ଅଧିକ ବିକଳ୍ପ</string>
+    <string name="abc_action_mode_done">ହୋଇଗଲା</string>
+    <string name="abc_activity_chooser_view_see_all">ସବୁ ଦେଖନ୍ତୁ</string>
+    <string name="abc_activitychooserview_choose_application">ଗୋଟିଏ ଆପ୍‍ ବାଛନ୍ତୁ</string>
+    <string name="abc_search_hint">ସର୍ଚ୍ଚ…</string>
+    <string name="abc_searchview_description_clear">କ୍ୱେରୀ ଖାଲି କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_query">ସର୍ଚ୍ଚ କ୍ୱେରୀ</string>
+    <string name="abc_searchview_description_search">ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_submit">କ୍ୱେରୀ ଦାଖଲ କରନ୍ତୁ</string>
+    <string name="abc_searchview_description_voice">ଭଏସ୍‌ ସର୍ଚ୍ଚ</string>
+    <string name="abc_shareactionprovider_share_with">ଏହାଙ୍କ ସହ ଶେୟାର୍‌ କରନ୍ତୁ</string>
+    <string name="abc_toolbar_collapse_description">ଛୋଟ କରନ୍ତୁ</string>
+    <string name="account_blocked_title">ଆକାଉଣ୍ଟ ଅବରୋଧ କରାଯାଇଛି</string>
+    <string name="account_level_title">ଆକାଉଣ୍ଟ କାର୍ଯ୍ୟାନୁଷ୍ଠାନ ଆବଶ୍ୟକ</string>
+    <string name="account_removed_notification_text">%1$sକୁ କାଢ଼ିଦିଆଯାଇଛି, କାରଣ ଡିଭାଇସ୍‌ ପରିଚାଳନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇନଥିଲା</string>
+    <string name="account_removed_notification_title">ଆକାଉଣ୍ଟକୁ କାଢ଼ିଦିଆଗଲା</string>
+    <string name="android_privacy_policy_title">ଅତିରିକ୍ତ ଗୋପନୀୟତା ନୀତି</string>
+    <string name="app_level_title">ସାଇନ୍‌-ଇନ୍ ଅନୁରୋଧ</string>
+    <string name="app_level_title_secondary">%s ସାଇନ୍‌-ଇନ୍‌ର ଅନୁରୋଧ କରିଛନ୍ତି</string>
+    <string name="audience_selection_done">ହୋଇଗଲା</string>
+    <string name="auth_account_already_has_gmail">ଆକାଉଣ୍ଟରେ ପୂର୍ବରୁ ହିଁ Gmail ରହିଛି</string>
+    <string name="auth_account_content_provider_label">Google ଆକାଉଣ୍ଟ ଡାଟା</string>
+    <string name="auth_account_module_display_name">Google ଆକାଉଣ୍ଟ</string>
+    <string name="auth_account_removed_default_description">ଡିଭାଇସ୍ ପରିଚାଳନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇନଥିଲା। %1$s</string>
+    <string name="auth_account_removed_default_title">ସେଟଅପ୍ କ୍ୟାନ୍ସଲ୍‌ ହୋଇଛି</string>
+    <string name="auth_account_removed_dm_bad_result_description">ଡିଭାଇସ୍ ପରିଚାଳନା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇପାରିନଥିଲା। %1$s</string>
+    <string name="auth_account_removed_dm_not_supported_description">ଆପଣଙ୍କ ଡୋମେନ୍ ପାଇଁ ମୋବାଇଲ୍ ଡିଭାଇସ୍‌ ପରିଚାଳନାର ଆବଶ୍ୟକତା ରହିଛି, କିନ୍ତୁ ଏହି ଡିଭାଇସ୍‌ ତାକୁ ସପୋର୍ଟ କରୁନାହିଁ। ଅନ୍ୟ ଏକ ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_account_removed_dm_not_supported_title">ଡିଭାଇସ୍‌ ପରିଚାଳନା ସପୋର୍ଟ କରୁନାହିଁ</string>
+    <string name="auth_account_removed_dm_setup_failed_description">ଡିଭାଇସ୍ ପରିଚାଳନା ସୁଚାରୁ ରୂପେ ଇନଷ୍ଟଲ୍‍ ହୋଇନଥିଲା। %1$s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">ଇନଷ୍ଟଲ୍‌ କରିବାରେ ସମସ୍ୟା</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">ସେଟଅପ୍‌କୁ କ୍ୟାନ୍ସଲ୍‍ କରାଇଛି</string>
+    <string name="auth_account_removed_restricted_by_admin_description">ଏହି ଡିଭାଇସ୍‌ ପାଇଁ କେବଳ ଗୋଟିଏ ପରିଚାଳିତ ଆକାଉଣ୍ଟକୁ ଅନୁମତି ଦିଆଯିବ। ଯଦି ଆପଣଙ୍କର କିଛି ପ୍ରଶ୍ନ ଥାଏ, ତେବେ ସଂସ୍ଥାର ଆଡମିନ୍‍ଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</string>
+    <string name="auth_account_removed_restricted_by_admin_title">ଏକ ପରିଚାଳିତ ଆକାଉଣ୍ଟ ପୂର୍ବରୁ ରହିଛି</string>
+    <string name="auth_account_settings_title">ଆକାଉଣ୍ଟ ସେଟିଙ୍ଗ</string>
+    <string name="auth_account_setup_title">Google ଆକାଉଣ୍ଟ</string>
+    <string name="auth_account_start_over_and_signin_again">ଆରମ୍ଭ କରନ୍ତୁ ଏବଂ ପୁଣି ସାଇନ୍-ଇନ୍ କରନ୍ତୁ।</string>
+    <string name="auth_account_state_sync_title">ଆକାଉଣ୍ଟର ସ୍ଥିତି ସିଙ୍କ</string>
+    <string name="auth_allow_external_site_access">%sରେ ଯେପର୍ଯ୍ୟନ୍ତ ଚାହିଁବେ ନିଜ ଡାଟାର ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="auth_app_permission_ok_footnote">ଚାଲୁ ରଖିବାର ଅର୍ଥ ହେଉଛି ଆପଣ, ଆପ୍‌ର ଓ Googleର ସେବାର ସର୍ତ୍ତାବଳୀ ଏବଂ ଗୋପନୀୟତା ନୀତି ଆଧାରରେ ସେମାନଙ୍କୁ ନିଜର ତଥ୍ୟ ବ୍ୟବହାର କରିବାର ଅନୁମତି ଦେଉଛନ୍ତି।</string>
+    <string name="auth_cant_add_work_account_message">ଏହି ପ୍ରକାରର ଆକାଉଣ୍ଟ ଆପଣଙ୍କ ସଂସ୍ଥା ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇଥାଏ।</string>
+    <string name="auth_captcha_instructions">ଏଠାରେ ଦେଖାଯାଉଥିବା ଟେକ୍ସଟ୍‌ ଟାଇପ୍‌ କରନ୍ତୁ:</string>
+    <string name="auth_captcha_title">CAPTCHA ଲେଖିବା ଆବଶ୍ୟକ</string>
+    <string name="auth_common_downloading">ଡାଉନଲୋଡ୍ ହେଉଛି…</string>
+    <string name="auth_common_go_back">ଫେରନ୍ତୁ</string>
+    <string name="auth_common_switch_accounts">ଆକାଉଣ୍ଟ ବଦଳାନ୍ତୁ</string>
+    <string name="auth_communicating_message">ଆପଣଙ୍କର ଡିଭାଇସ୍ ଆପଣଙ୍କ ଆକାଉଣ୍ଟରେ ତଥ୍ୟ ସେଭ୍‌ କରିବା ପାଇଁ Google ସହିତ ସମ୍ପର୍କ କରୁଛି। ଏଥିରେ ସର୍ବାଧିକ 5 ମିନିଟ୍‌ ଲାଗିପାରେ।</string>
+    <string name="auth_confirm_creds_sync_title">ତଥ୍ୟର ସ୍ଥିତି</string>
+    <string name="auth_d2d_source_alert_title">ଟାପ୍‌ କରି ଆଗକୁ ବଢ଼ନ୍ତୁ</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">ଲକ୍ ଏବଂ ଯାଞ୍ଚ କରନ୍ତୁ</string>
+    <string name="auth_d2d_source_copy_notice">ନିଜର ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ଆକାଉଣ୍ଟ ଓ ଡାଟା କପୀ କରିବେ?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">ଆପଣ ଯାଞ୍ଚ କରିବାପରେ ବ୍ଲୁ-ଟୁଥ୍ ଅନ୍‍ ହୋଇଯିବ, ଯାହାଫଳରେ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଯୋଗାଯୋଗ କରିପାରିବ।</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">ଯାଞ୍ଚ କରିବାପରେ, ଆପଣଙ୍କ ଡିଭାଇସ୍, ବ୍ଲୁ-ଟୁଥ୍ ମାଧ୍ୟମରେ ଯୋଗାଯୋଗ କରିପାରିବ।</string>
+    <string name="auth_d2d_source_lock_notice">ଜାରି ରଖିବା ପାଇଁ, ଆପଣଙ୍କ ସ୍କ୍ରୀନ୍‌କୁ ଲକ୍‌ କରିଦିଆଯିବ ଏବଂ ଯାଞ୍ଚ ପାଇଁ ଏହାକୁ ଆପଣଙ୍କୁ ଅନଲକ୍‌ କରିବାକୁ ପଡ଼ିବ।</string>
+    <string name="auth_d2d_source_no_accounts_toast">ଏହି ଡିଭାଇସ୍‌ରେ କୌଣସି ଆକାଉଣ୍ଟ ନ ଥିବାରୁ \"ଟାପ୍‌ କରି ଯାଆନ୍ତୁ\" କରିହେବ ନାହିଁ।</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">ଟାପ୍‌ କରି ଆଗକୁ ବଢ଼ିପାରିବେ ନାହିଁ, କାରଣ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ବ୍ଲୁ-ଟୁଥ୍‌ ଉପଲବ୍ଧ ନାହିଁ।</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">ବ୍ଲୁ-ଟୁଥ୍ ଚାଲୁ ହୋଇଯିବ, ଯାହାଫଳରେ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଯୋଗାଯୋଗ କରିପାରିବ।</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">ଏହା ବ୍ଲୁ-ଟୁଥ୍‌ ବ୍ୟବହାର କରେ।</string>
+    <string name="auth_d2d_source_notification_title">ଟାପ୍‌ କରି ଆଗକୁ ବଢ଼ନ୍ତୁ ସମ୍ପୂର୍ଣ୍ଣ ହେଲା</string>
+    <string name="auth_d2d_source_restricted_user_toast">ବାଧିତ ୟୁଜର୍‌ ପ୍ରୋଫାଇଲ୍‌ରୁ \"ଟାପ୍‌ କରି ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ\" କରିହେବ ନାହିଁ।</string>
+    <string name="auth_d2d_source_title">ଆକାଉଣ୍ଟ ରିଷ୍ଟୋର୍‍ କରନ୍ତୁ</string>
+    <string name="auth_d2d_source_unknown_device_name">ଅଜ୍ଞାତ ଡିଭାଇସ୍</string>
+    <string name="auth_d2d_tap_and_go">ଟାପ୍‌ ଆଣ୍ଡ ଗୋ</string>
+    <string name="auth_d2d_target_tap_progress_message">ଜାରିରଖିବା ପାଇଁ, ନିଜର ଅନ୍ୟ ଡିଭାଇସରେ ଥିବା ’ଠିକ୍‍ ଅଛି’ ଟାପ୍ କରନ୍ତୁ</string>
+    <string name="auth_d2d_target_title">ଟାପ୍‌ କରି ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="auth_d2d_target_unlock_progress_message">ନିଜର ଅନ୍ୟ ଡିଭାଇସ୍ ଯାଞ୍ଚ କରନ୍ତୁ</string>
+    <string name="auth_d2d_target_wait_progress_message">ଆକାଉଣ୍ଟ ଏବଂ ଡାଟା ପ୍ରାପ୍ତ କରାଯାଉଛି...</string>
+    <string name="auth_device_management_download_app_icon">%s ଆପ୍ ଆଇକନ୍</string>
+    <string name="auth_device_management_download_description">ଏହି ଆକାଉଣ୍ଟକୁ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ପରିଚାଳନା କରିବା ଆବଶ୍ୟକ। ଆକାଉଣ୍ଟର ଆବଶ୍ୟକ ସୁରକ୍ଷା ନୀତିକୁ ଲାଗୁ କରିବା ପାଇଁ ^1 ଆପ୍ ଇନଷ୍ଟଲ୍‌ କରନ୍ତୁ।</string>
+    <string name="auth_device_management_download_description_kids">ଆକାଉଣ୍ଟକୁ ଏହି ଡିଭାଇସ୍‌ରେ ଯୋଡ଼ିବା ପାଇଁ ପ୍ରଥମେ<b>^1</b>" ଇନଷ୍ଟଲ୍ କରନ୍ତୁ।
+
+^1 ଆପଣଙ୍କ ପିଲା ପାଇଁ ଏହି ଡିଭାଇସ୍‌କୁ ସେଟଅପ୍‌ କରିବାରେ ସାହାଯ୍ୟ କରିବ।"</string>
+    <string name="auth_device_management_download_failed_message">ଆପଣ ଏହି ଆପ୍ ବିନା ମଧ୍ୟ ସେଟଅପ୍‌ ଜାରି ରଖିପାରନ୍ତି</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">ଡିଭାଇସ୍ ପରିଚାଳନା ଇନଷ୍ଟଲ୍ ହେଲା ନାହିଁ। ଏହି ଆକାଉଣ୍ଟକୁ କାଢ଼ି ଦିଆଯିବ। ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_device_management_download_failed_title">ଆପ୍‌କୁ ଡାଉନଲୋଡ୍‍ କରିହେଲା ନାହିଁ</string>
+    <string name="auth_device_management_download_not_updated_message">ଆପଣ ବର୍ତ୍ତମାନ ଭର୍ସନ୍ ବ୍ୟବହାର କରି ମଧ୍ୟ ସେଟଅପ୍‌ ଜାରି ରଖିପାରନ୍ତି</string>
+    <string name="auth_device_management_download_paused">ପଜ୍‌ କରାଯାଇଛି</string>
+    <string name="auth_device_management_download_progress">ଡାଉନଲୋଡ୍ ହେଉଛି…</string>
+    <string name="auth_device_management_download_skip_message">ଏହି ଆକାଉଣ୍ଟକୁ ଡିଭାଇସ୍ ପରିଚାଳନାର ଆବଶ୍ୟକତା ଅଛି। ଏହା ବିନା ଜାରି ରଖିବେ?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">ଏହି ଆକାଉଣ୍ଟକୁ ଯୋଡ଼ିବା ପାଇଁ ଡିଭାଇସ୍ ପରିଚାଳନାର ଆବଶ୍ୟକତା ଅଛି। ଆପଣ ଭିନ୍ନ ଏକ ଆକାଉଣ୍ଟରେ ଆରମ୍ଭ କରିବାକୁ ଚାହାଁନ୍ତି କି?</string>
+    <string name="auth_device_management_go_back">ଫେରନ୍ତୁ</string>
+    <string name="auth_device_management_screenlock_description">ଏହି ଡିଭାଇସ୍‍ରେ ଆପଣଙ୍କ ୱାର୍କ ଆକାଉଣ୍ଟ ଆକ୍ସେସ୍‍ କରିବାକୁ, ଆପଣ ଲକ୍‍ ସ୍କ୍ରୀନ୍‍ ସେଟ୍‌ କରିବା ଆବଶ୍ୟକ। ଏହା ଆପଣଙ୍କ ସଂସ୍ଥାର ମୋବାଇଲ୍‍ ଡିଭାଇସ୍‍ ନୀତି।</string>
+    <string name="auth_device_management_screenlock_skip_message">ଏହି ଆକାଉଣ୍ଟରେ ସ୍କ୍ରୀନଲକ୍‍ ସୁରକ୍ଷା ଆବଶ୍ୟକ। ଆପଣ ଅନ୍ୟ ଏକ ଆକାଉଣ୍ଟରେ ଆରମ୍ଭ କରିବାକୁ ଚାହାଁନ୍ତି କି?</string>
+    <string name="auth_device_management_setup_work_profile_description">"ଆପଣଙ୍କ ୱାର୍କ ପ୍ରୋଫାଇଲ୍‍ ଆପଣଙ୍କ ୱାର୍କ ଆପ୍‍ଗୁଡ଼ିକ ଅଲଗା କରି ରଖେ ଏବଂ ଆପଣଙ୍କ ସଂସ୍ଥା ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇଥାଏ।
+
+ସେଟ୍‍ଅପ୍‍ ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ, ଆପଣଙ୍କ IT ଆଡାମିନ୍‍ଙ୍କ ପାଖରୁ ଆପଣଙ୍କୁ ଗୋଟିଏ କୋଡ୍‍ ଦରକାର ହେବ। ଏକ ମ୍ୟାନେଜ୍‍ମେଣ୍ଟ ଟୁଲ୍‍ ଡାଉନଲୋଡ୍‍ କରାଯିବ ଏବଂ ଆପଣଙ୍କ ୱାର୍କ ପ୍ରୋଫାଇଲ୍‍ ପରିଚାଳନା କରିବାକୁ ଆପଣଙ୍କ IT ଆଡମିନ୍‍ଙ୍କ ଦ୍ୱାରା ବ୍ୟବହୃତ ହୋଇଥାଏ।"</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"ଆପଣଙ୍କ ୱାର୍କ ପ୍ରୋଫାଇଲ୍‍ ଆପଣଙ୍କ ୱାର୍କ ଆପ୍‍ଗୁଡ଼ିକ ଅଲଗା କରି ରଖେ ଏବଂ ଆପଣଙ୍କ ସଂସ୍ଥା ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇଥାଏ।
+
+ସେଟ୍‍ଅପ୍‍ ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ, ଆପଣଙ୍କ IT ଆଡାମିନ୍‍ଙ୍କ ପାଖରୁ ଆପଣଙ୍କୁ ଗୋଟିଏ କୋଡ୍‍ ଦରକାର ହେବ। ଏକ ମ୍ୟାନେଜ୍‍ମେଣ୍ଟ ଟୁଲ୍‍ ଡାଉନଲୋଡ୍‍ କରାଯିବ ଏବଂ ଆପଣଙ୍କ ୱାର୍କ ପ୍ରୋଫାଇଲ୍‍ ପରିଚାଳନା କରିବାକୁ ଆପଣଙ୍କ IT ଆଡମିନ୍‍ଙ୍କ ଦ୍ୱାରା ବ୍ୟବହୃତ ହୋଇଥାଏ।"</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">ଆପଣଙ୍କ ୱାର୍କ ପ୍ରୋଫାଇଲ୍‍ ସେଟ୍‍ କରନ୍ତୁ</string>
+    <string name="auth_device_management_start_description">ଏହି ଆକାଉଣ୍ଟକୁ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ପରିଚାଳନା କରିବା ଆବଶ୍ୟକ। ଯେତେବେଳେ ଆପଣ ପରବର୍ତ୍ତୀ ଟାପ୍ କରୁଛନ୍ତି, ^1ଆପ୍ ଆକାଉଣ୍ଟ ପାଇଁ ଆବଶ୍ୟକ ସୁରକ୍ଷା ନୀତିକୁ ଲାଗୁ କରିବାରେ ସହାୟକ ହେବ।</string>
+    <string name="auth_device_management_start_description_kids">ଆକାଉଣ୍ଟକୁ ଏହି ଡିଭାଇସ୍‌ରେ ଯୋଡ଼ିବା ପାଇଁ<b>^1</b>" ବ୍ୟବହାର କରନ୍ତୁ।
+
+^1ଆପଣଙ୍କ ପିଲା ପାଇଁ ଏହି ଡିଭାଇସ୍‌କୁ ସେଟଅପ୍‌ କରିବାରେ ସାହାଯ୍ୟ କରିବ।"</string>
+    <string name="auth_device_management_title">ଡିଭାଇସ୍‌ ପରିଚାଳନା</string>
+    <string name="auth_device_management_update_description">ଏହି ଆକାଉଣ୍ଟକୁ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ପରିଚାଳନା କରିବା ଆବଶ୍ୟକ। ଆକାଉଣ୍ଟର ସହିତ ଜଡ଼ିତ ସୁରକ୍ଷା ନୀତିକୁ ପୂରା କରିବା ପାଇଁ ଆପଣଙ୍କୁ ^1ର ନୂଆ ଭର୍ସନ ଆପକୁ ଇନଷ୍ଟଲ୍‌ କରିବାକୁ ପଡ଼ିବ।</string>
+    <string name="auth_device_management_update_description_kids">ଆକାଉଣ୍ଟକୁ ଏହି ଡିଭାଇସ୍‌ରେ ଯୋଡ଼ିବା ପାଇଁ ପ୍ରଥମେ<b>^1</b>"ର ନୂଆ ଭର୍ସନ ଇନଷ୍ଟଲ୍ କରନ୍ତୁ।
+
+^1 ଆପଣଙ୍କ ପିଲା ପାଇଁ ଏହି ଡିଭାଇସ୍‌କୁ ସେଟଅପ୍‌ କରିବାରେ ସାହାଯ୍ୟ କରିବ।"</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmail ବ୍ୟବହାର କରେନାହିଁ।</string>
+    <string name="auth_error_account_disabled">"ଏହି ଆକାଉଣ୍ଟକୁ ଅକ୍ଷମ କରାଯାଇଛି। 
+
+(ବିବରଣୀ ପାଇଁ, ୱେବ୍ ବ୍ରାଉଜର୍‌ରେ http://google.com/accounts ଦେଖନ୍ତୁ।)"</string>
+    <string name="auth_error_account_not_verified">"ଏହି ଆକାଉଣ୍ଟଟି ଯାଞ୍ଚ ହୋଇନାହିଁ। ଆପଣଙ୍କ ଇମେଲ୍ ଦେଖନ୍ତୁ ଏଵଂ ଏହି ଆକାଉଣ୍ଟକୁ ଯାଞ୍ଚ କରିବା ପାଇଁ ଦିଆଯାଇଥିବା ଲିଙ୍କ ଅନୁସରଣ କରନ୍ତୁ 
+। 
+(ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ତଥ୍ୟ ପ୍ରାପ୍ତ କରିବା ପାଇଁ, ନିଜ କମ୍ପ୍ୟୁଟରରେ http://www.google .com/accounts/recoveryକୁ ଯାଆନ୍ତୁ।)"</string>
+    <string name="auth_error_bad_password">ପାସ୍‍ୱର୍ଡଟି ବହୁତ ଦୁର୍ବଳ କିମ୍ବା ସେଥିରେ ଭୁଲ ଅକ୍ଷରଗୁଡ଼ିକ ରହିଛି। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_error_bad_username">ୟୁଜରନେମ୍‌ ଭୁଲ ଅଛି।</string>
+    <string name="auth_error_generic_server_error">"Googleର ସର୍ଭର ସହ ସମ୍ପର୍କ କରିବାବେଳେ ସମସ୍ୟା ହୋଇଥିଲା।
+
+କିଛି ସମୟ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="auth_error_invalid_second_factor">ଆକାଉଣ୍ଟର ନିୟମିତ ପାସ୍‌ୱର୍ଡ ବଦଳରେ, ଆପ୍ ପାଇଁ ନିର୍ଦ୍ଦିଷ୍ଟ ପାସ୍‌ୱର୍ଡ ବ୍ୟବହାର କରନ୍ତୁ।</string>
+    <string name="auth_error_login_failed">"ଆପଣଙ୍କ ୟୁଜରନେମ୍‌ ଓ ପାସ୍‍ୱାର୍ଡ ମେଳ ଖାଉନାହିଁ। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ। 
+ 
+ ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ସୂଚନାକୁ ପୁନଃପ୍ରାପ୍ତ କରିବା ପାଇଁ,google.com/accounts/recovery/କୁ ଯାଆନ୍ତୁ।"</string>
+    <string name="auth_error_needs_browser">ନିଜ ଆକାଉଣ୍ଟ ଆକ୍ସେସ୍‍ କରିବା ପାଇଁ, ଆପଣଙ୍କୁ ୱେବରେ ସାଇନ୍-ଇନ୍ କରିବାକୁ ହେବ। ବ୍ରାଉଜର୍‌ ସାଇନ୍-ଇନ୍ ଆରମ୍ଭ କରିବା ପାଇଁ ’ପରବର୍ତ୍ତୀ’ରେ ଟାପ୍‍ କରନ୍ତୁ।</string>
+    <string name="auth_error_no_network">"ଆପଣଙ୍କ ପାଖରେ କୌଣସି ନେଟ୍‌ୱର୍କ ସଂଯୋଗ ନାହିଁ। 
+
+ଏହା ଏକ ଅସ୍ଥାୟୀ ସମସ୍ୟା ହୋଇଥାଇପାରେ। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ଅନ୍ୟ ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ‌ ସହ ସଂଯୋଗ କରନ୍ତୁ।"</string>
+    <string name="auth_error_not_logged_in">ୟୁଜର୍‌ ସାଇନ୍‌-ଇନ୍‌ କରିନାହାନ୍ତି।</string>
+    <string name="auth_error_username_unavailable">ଏହି ୟୁଜରନେମ୍‌ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="auth_existing_account_error_text">ଏହି Android ଡିଭାଇସ୍‌ରେ ପୂର୍ବରୁ ଗୋଟିଏ ^1 ଆକାଉଣ୍ଟ ରହିଛି।</string>
+    <string name="auth_existing_account_error_title">ପୂର୍ବରୁ ଏହି ଆକାଉଣ୍ଟଟି ରହିଛି</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">ନିକଟରେ ପାସ୍‌ୱର୍ଡ ପରିବର୍ତ୍ତନ କରାଯାଇଥିବା ହେତୁ ସାଇନ୍‌-ଇନ୍‌ କରିପାରିଲା ନାହିଁ। ପାସ୍‍ୱର୍ଡ ପରିବର୍ତ୍ତନ କରିବାର 24 ଘଣ୍ଟା ପରେ ପୁଣି ସାଇନ୍‌-ଇନ୍‌ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">ଡିଭାଇସ୍‌ର ସୁରକ୍ଷା ବୈଶିଷ୍ଟ ଆଉ କାମ କରିବ ନାହିଁ।</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">ଡିଭାଇସ୍‍ରେ ଥିବା ଶେଷ Google ଆକାଉଣ୍ଟକୁ ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ପ୍ରୋଫାଇଲ୍‍ରୁ କାଢ଼ିଦେଲେ ଡିଭାଇସ୍‍ର ଚୋରି ସୁରକ୍ଷା ବୈଶିଷ୍ଟ୍ୟଟି ଅକ୍ଷମ ହୋଇଯିବ। ଏହାକୁ ପରେ ପୁଣି ସକ୍ଷମ କରିବା ପାଇଁ ଆପଣ, ଡିଭାଇସ୍‌ରେ ଅନ୍ୟଏକ ଆକାଉଣ୍ଟ ଯୋଡ଼ିପାରିବେ।</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">ଆପଣ ନିଶ୍ଚିତ କି?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">ଆକାଉଣ୍ଟକୁ କାର୍ଯ୍ୟ ପ୍ରୋଫାଇଲ୍‌‍ ଭିତରକୁ ନେଇଯିବେ କି?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">ଅଜଣା ସମସ୍ୟା ହେତୁ ଡିଭାଇସ୍‍ରେ ସାଇନ୍‍-ଇନ୍‍ କରିପାରିଲା ନାହିଁ। ଦୟାକରି ଅନ୍ୟ ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରନ୍ତୁ କିମ୍ବା 24 ଘଣ୍ଟା ପରେ ପୁଣି ସାଇନ୍‌-ଇନ୍‌ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">ଦୟାକରି ଏହି ଡିଭାଇସ୍‌ରେ ଏହାର ମାଲିକଙ୍କର ଯେକୌଣସି ଆକାଉଣ୍ଟକୁ ବ୍ୟବହାର କରି ସାଇନ୍-ଇନ୍ କରନ୍ତୁ</string>
+    <string name="auth_field_cant_be_blank">ଫିଲ୍ଡକୁ ଖାଲି ଛାଡ଼ିହେବନାହିଁ।</string>
+    <string name="auth_frp_add_account_no">ନୂଆ ଆକାଉଣ୍ଟର ବ୍ୟବହାର</string>
+    <string name="auth_frp_add_account_prompt">ଏହି ଡିଭାଇସ୍‍ରେ ଥିବା ପୂର୍ବ Google ଆକାଉଣ୍ଟକୁ ଯାଞ୍ଚ କରାଯାଇଛି। ଆପଣ ଏହି ଡିଭାଇସ୍‍ରେ ^1କୁ ପୁଣି ଯୋଡ଼ିପାରିବେ କିମ୍ବା ଏକ ନୂଆ ଆକାଉଣ୍ଟର ବ୍ୟବହାର କରିପାରିବେ।</string>
+    <string name="auth_frp_add_account_yes">ପୂର୍ବ ଆକାଉଣ୍ଟକୁ ଯୋଡ଼ନ୍ତୁ</string>
+    <string name="auth_frp_device_managed_label">ଏହି ଡିଭାଇସ୍‌ ଆପଣଙ୍କ ସଂସ୍ଥା ଦ୍ୱାରା ପରିଚାଳିତ ହେବା ପାଇଁ ସେଟଅପ୍‌ କରାଯାଇଛି।</string>
+    <string name="auth_frp_download_management_app_label">ସେଟଅପ୍‌ ପ୍ରକ୍ରିୟାକୁ ଜାରି ରଖିବା ପାଇଁ ଆପଣଙ୍କୁ ଏକ ଡିଭାଇସ୍ ପରିଚାଳନାକାରୀ ଆପ୍‌କୁ ଡାଉନଲୋଡ୍‌ କରିବାକୁ ହେବ।</string>
+    <string name="auth_frp_enter_device_credentials_label">ଆଡମିନ୍ ମୋଡ୍‌କୁ ଯାଆନ୍ତୁ</string>
+    <string name="auth_frp_install_dpc_error">ପରିଚାଳନାକାରୀ ଆପ୍ଲିକେଶନ୍‌ ଇନଷ୍ଟଲ୍‌ ହୋଇପାରିଲା ନାହିଁ। ଯଦି ଏହାକୁ ଆପଣ ଛାଡ଼ି ଯିବେ, ତେବେ ଡିଭାଇସ୍‌କୁ ପରିଚାଳନା କରିହେବ ନାହିଁ।</string>
+    <string name="auth_frp_install_dpc_recoverable_error">ପରିଚାଳନାକାରୀ ଆପ୍ଲିକେଶନ୍‌ ଇନଷ୍ଟଲ୍‌ ହୋଇପାରିଲା ନାହିଁ। ଦୟାକରି ନିଜ ନେଟ୍‌ୱର୍କ ସଂଯୋଗ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">ଏହା ବଦଳରେ ମୋ Google ଆକାଉଣ୍ଟ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="auth_frp_preadd_lkscreen_text">ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଫ୍ୟାକ୍ଟୋରୀ ରିସେଟ୍‍ ହୋଇଥିଲା, ଆପଣଙ୍କ ପୂର୍ବ ଗୁପ୍ତ ତଥ୍ୟ ବ୍ୟବହାର କରି ଏହାକୁ ଅନଲକ୍‌ କରିପାରିବେ।</string>
+    <string name="auth_frp_preadd_lkscreen_title">ଫ୍ୟାକ୍ଟୋରୀ ରିସେଟ୍‍ ସୁରକ୍ଷା</string>
+    <string name="auth_frp_start_reenroll_device_title">ଆପଣଙ୍କ କାର୍ଯ୍ୟସ୍ଥଳର ଡିଭାଇସ୍</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">ଏହି ଆକାଉଣ୍ଟ ଆକ୍ସେସ୍‌ କରାଯାଇ ପାରିଲା ନାହିଁ। ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ଆପଣଙ୍କ ସଂସ୍ଥାର ସୁରକ୍ଷା ନୀତିଗୁଡ଼ିକ ଅନୁପାଳନ କରାଯାଉଛି। ଯଦି ଏହି ସମସ୍ୟା ତଥାପି ଦେଖାଯାଏ, ଆପଣଙ୍କ ସଂସ୍ଥାର ଆଡମିନ୍‌ଙ୍କ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ।</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">ଆକାଉଣ୍ଟରେ ସମସ୍ୟା</string>
+    <string name="auth_gls_dmagent_activity_download_message">" ଆପଣଙ୍କ ଡୋମେନ୍, ମୋବାଇଲ୍ ଡିଭାଇସ୍ ପରିଚାଳନା ଆବଶ୍ୟକ କରୁଛି।  "<b>^1</b> ଆକାଉଣ୍ଟ ଦ୍ୱାରା ଆବଶ୍ୟକ ହେଉଥିବା ସୁରକ୍ଷା ନୀତିକୁ ଲାଗୁ କରିବା ପାଇଁ \"Google ଆପ୍‍ସ୍‍ ଡିଭାଇସ୍‍ ନୀତି\" ଆପ୍ ଇନଷ୍ଟଲ୍‍ କରନ୍ତୁ।</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ଡାଉନଲୋଡ୍ କରନ୍ତୁ</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"ରେ କେବଳ ଅକ୍ଷର,
+ସଂଖ୍ୟା ଓ ରୋମନ୍‌ ପୂର୍ଣ୍ଣଚ୍ଛେଦ ରହିପାରିବ।"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b>ରେ କୌଣସି ଅକ୍ଷର ରୁହେନାହିଁ।</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> ରେ 6 ରୁ କମ୍‌ କିମ୍ବା 30 ରୁ ଅଧିକ ଅକ୍ଷର ରହିଛି।</string>
+    <string name="auth_gls_is_not_available">ୟୁଜରନେମ୍‌ <b>^1</b> ଉପଲବ୍ଧ ନୁହେଁ।</string>
+    <string name="auth_gls_name_checking_info_title">ସୂଚନା ଯାଞ୍ଚ କରାଯାଉଛି…</string>
+    <string name="auth_gls_sync_item_title">%s ସିଙ୍କ କରନ୍ତୁ</string>
+    <string name="auth_gls_third_party_activity_download_message">"  "<b>^1</b> ଆକାଉଣ୍ଟଟିକୁ ଆପଣଙ୍କ ସଂସ୍ଥା ଦ୍ୱାରା ଚଲାଯାଉଥିବା ଗୋଟିଏ ଡିଭାଇସ୍‌ କିମ୍ବା ୱାର୍କ୍‌ ପ୍ରୋଫାଇଲରେ ଯୋଡ଼ାଯିବା ଆବଶ୍ୟକ। ଏହା ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଆପଣଙ୍କ IT ଆଡମିନ୍‌ଙ୍କ ଦ୍ୱାରା ଦିଆଯାଇଥିବା ନିର୍ଦ୍ଦେଶଗୁଡ଼ିକର ପାଳନ କରନ୍ତୁ।</string>
+    <string name="auth_google_title_logo">Google ଲୋଗୋ</string>
+    <string name="auth_invalid_login_character">ଭୁଲ ଅକ୍ଷର। କେବଳ 0-9, a-z, A-Z, ଏବଂ ରୋମନ୍‌ ପୂର୍ଣ୍ଣଚ୍ଛେଦର ଅନୁମତି ଅଛି।</string>
+    <string name="auth_invalid_password_character">ଏହି ଅକ୍ଷରକୁ ପାସ୍‌ୱର୍ଡରେ ବ୍ୟବହାର କରିହେବନାହିଁ।</string>
+    <string name="auth_invalid_username">ଆପଣ ଟାଇପ୍‌ କରିଥିବା ଟେକ୍ସଟ୍‌, ଏକ ବୈଧ ୟୁଜରନେମ୍‌ ନୁହେଁ।</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">ଆପଣ ଏକ ଭୁଲ୍‌ ପାସ୍‌ୱର୍ଡ ଟାଇପ୍‌ କରିଛନ୍ତି କିମ୍ବା ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ବଦଳିଯାଇଛି। ପାସ୍‌ୱର୍ଡ ପୁଣି-ଟାଇପ୍‌ କରନ୍ତୁ। ନିଜ ପାସ୍‌ୱର୍ଡ ଯଦି ଆପଣ ଭୁଲିଯାଇଛନ୍ତି ଏବଂ ଆପଣଙ୍କ ଆକାଉଣ୍ଟ ପୁନର୍ଲାଭ କରିବାକୁ ଚାହାଁନ୍ତି, ତେବେ <annotation id="help_url">ଏଠାରେ</annotation> କ୍ଲିକ୍‌ କରନ୍ତୁ।</string>
+    <string name="auth_login_task_title">ସାଇନ୍-ଇନ୍ କରୁଛି</string>
+    <string name="auth_login_title">ଇମେଲ୍ ଏବଂ ପାସ୍‍ୱାର୍ଡ ଟାଇପ୍ କରନ୍ତୁ</string>
+    <string name="auth_minutemaid_ssl_error">" %sକୁ ସଂଯୋଗ କରିବାରେ ଏକ ସମସ୍ୟା ଥିଲା।"</string>
+    <string name="auth_network_unreliable_help">ଏହା ଏକ ଅସ୍ଥାୟୀ ସମସ୍ୟା ହୋଇପାରେ ବା ଆପଣଙ୍କ Android ଡିଭାଇସ୍‍କୁ ଡାଟା ସେବା ପାଇଁ ସୁବିଧା ଦିଆଯାଇ ନାହିଁ। ଯଦି ଏହା ଜାରି ରୁହେ, ତେବେ କଷ୍ଟମର୍‌ କେୟାର୍‌କୁ କଲ୍ କରନ୍ତୁ।</string>
+    <string name="auth_no_network">ଆପଣଙ୍କର ନେଟ୍‌ୱର୍କ ସଂଯୋଗ ନାହିଁ।</string>
+    <string name="auth_no_network_help">ଏହା ଏକ ଅସ୍ଥାୟୀ ସମସ୍ୟା ହୋଇପାରେ କିମ୍ୱା ଆପଣଙ୍କ Android ଡିଭାଇସ୍‌କୁ ଡାଟା ସେବା ସୁବିଧା ଦିଆଯାଇନାହିଁ। ଏକ ମୋବାଇଲ୍‌ ନେଟ୍‌ୱର୍କରେ ସଂଯୁକ୍ତ ହେଲେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ଏକ ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ ସହ ସଂଯୋଗ କରନ୍ତୁ।</string>
+    <string name="auth_no_network_help_wifi_only">ଏହା ଏକ ଅସ୍ଥାୟୀ ସମସ୍ୟା ହୋଇଥାଇପାରେ। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ଅନ୍ୟ ୱାଇ-ଫାଇ ନେଟୱର୍କ ଜରିଆରେ ସଂଯୋଗ କରନ୍ତୁ।</string>
+    <string name="auth_otp_error">ସୁରକ୍ଷା କୋଡ୍ ସୃଷ୍ଟି କଲାବେଳେ ସମସ୍ୟା ହୋଇଥିଲା।</string>
+    <string name="auth_otp_explained_paragraph">ନିଜ ପାସ୍‌ୱର୍ଡ ଯଦି ଆପଣ ଭୁଲିଯାଆନ୍ତି କିମ୍ବା ଯଦି ସାଇନ୍‌-ଇନ୍‌‌ରେ କିଛି ନୂଆ ଦେଖାଯାଏ, ତେବେ ଆପଣଙ୍କ ଆକାଉଣ୍ଟର ସୁରକ୍ଷା ପାଇଁ Google ଏକ ସୁରକ୍ଷା କୋଡ୍ ପଚାରିପାରେ। ତାହାକୁ ବର୍ତ୍ତମାନ ବ୍ୟବହାର କରନ୍ତୁ କିମ୍ବା ଗୋଟିଏ ନୂଆ ସୁରକ୍ଷା କୋଡ୍ ତିଆରି କରିବା ପାଇଁ ଫେରିଆସନ୍ତୁ।</string>
+    <string name="auth_otp_header_message">ସାଇନ୍‌-ଇନ୍‌ କରିବାକୁ ଏହି କୋଡ୍ କେତେବେଳେ ବ୍ୟବହାର କରିବେ</string>
+    <string name="auth_otp_no_accounts_available_message">ଏହି ଡିଭାଇସ୍‌ରେ କୌଣସି ଆକାଉଣ୍ଟ୍‌ କନଫିଗର୍‌ କରାଯାଇନାହିଁ।</string>
+    <string name="auth_otp_progress_dialog_message">ସୁରକ୍ଷା କୋଡ୍ ସୃଷ୍ଟି କରାଯାଉଛି।</string>
+    <string name="auth_otp_ten_digit_code_header">ଆପଣଙ୍କ ସୁରକ୍ଷା କୋଡ୍</string>
+    <string name="auth_otp_ten_digit_explaination">ଯଦି ଆପଣ ନିଜ ପାସ୍‌ୱର୍ଡ ଭୁଲିଯାଇଛନ୍ତି ବା ଅନ୍ୟ ଏକ ନୂଆ ଡିଭାଇସ୍‌ ବା ଲୋକେଶନ୍‌ରୁ ସାଇନ୍‌-ଇନ୍‌ କରୁଛନ୍ତି, ତେବେ ଆପଣଙ୍କୁ ନିଜ Google ଆକାଉଣ୍ଟର ସୁରକ୍ଷାରେ ସାହାଯ୍ୟ ପାଇଁ ଏଥି ମଧ୍ୟରୁ ଗୋଟିଏ ବା ଦୁଇଟି କୋଡ୍ ଲେଖିବା ପାଇଁ କୁହାଯାଇପାରେ।</string>
+    <string name="auth_otp_ten_digit_phishing_warning">ବର୍ତ୍ତମାନଠାରୁ କିମ୍ୱା କୋଡ୍ ବ୍ୟବହାର କରାଯିବାର 15 ମିନିଟ୍ ପରେ ସେଗୁଡ଼ିକର ସମୟ ସମାପ୍ତ ହୋଇଯିବ। ଏହାକୁ ଆପଣ କେବଳ \"https://accounts.google.com/\" ରେ ଆରମ୍ଭ ହେଉଥିବା URLର ୱେବ୍ ପୃଷ୍ଠାରେ ବ୍ୟବହାର କରିପାରିବେ।</string>
+    <string name="auth_otp_ten_digit_usage_header">ଆପଣଙ୍କ କୋଡ୍ କେତେବେଳେ ବ୍ୟବହାର କରିବେ</string>
+    <string name="auth_otp_ten_digits_code1">କୋଡ୍‍ 1</string>
+    <string name="auth_otp_ten_digits_code2">କୋଡ୍ 2</string>
+    <string name="auth_password">ପାସ୍‌ୱର୍ଡ</string>
+    <string name="auth_plus_audience_selection_description_acl">ଏହାଙ୍କ ସହ ଶେୟାର୍‍ କରନ୍ତୁ</string>
+    <string name="auth_plus_info_fragment_app_name">%s ଏହା କରିବାକୁ ଚାହେଁ:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">ଡିଭାଇସ୍‌ %2$s ରୁ %1$s ଏହା କରିବାକୁ ଚାହେଁ:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">ଆପଣଙ୍କ ପରିବର୍ଦ୍ଧିତ ଗୋଷ୍ଠୀ</string>
+    <string name="auth_plus_scope_fragment_mixed_label">ଚୟନିତ ଗୋଷ୍ଠୀ</string>
+    <string name="auth_plus_scope_fragment_public_label">ୱେବ୍‌ରେ ଥିବା ଯେକୌଣସି ବ୍ୟକ୍ତି</string>
+    <string name="auth_pre_factory_reset_title">ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟକୁ ମନେରଖନ୍ତୁ</string>
+    <string name="auth_relogin_activity_title">ପାସ୍‍ୱର୍ଡ ପୁଣି ଲେଖନ୍ତୁ</string>
+    <string name="auth_remove_account_start_over">ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="auth_request_accounts_list">ଡିଭାଇସ୍‌ରେ ଥିବା Google ଆକାଉଣ୍ଟଗୁଡ଼ିକର ଏକ ସୂଚୀ ନିଅନ୍ତୁ।</string>
+    <string name="auth_scope_more_details">ଅଧିକ ସୂଚନା</string>
+    <string name="auth_server_error">Googleର ସର୍ଭର ସହ ସମ୍ପର୍କ କରିବାବେଳେ ସମସ୍ୟା ହୋଇଥିଲା।</string>
+    <string name="auth_server_error_help">କିଛି ସମୟ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_setup_wizard_account_added_activity_title">ଆକାଉଣ୍ଟ ଯୋଡ଼ାଯାଇଛି</string>
+    <string name="auth_setup_wizard_account_added_description">ଆପଣଙ୍କ ଆକାଉଣ୍ଟକୁ ଯୋଡ଼ିଦିଆଯାଇଛି। ଦୟାକରି Google ସେବାଗୁଡ଼ିକର ବିକଳ୍ପ ବାଛିବା ପାଇଁ ଆଗକୁ ବଢ଼ନ୍ତୁ</string>
+    <string name="auth_setup_wizard_services_activity_title">Google ସେବା</string>
+    <string name="auth_setup_wizard_title">ୱିଜାର୍ଡ ସେଟଅପ୍‌ କରନ୍ତୁ</string>
+    <string name="auth_show_error_title">ସମସ୍ୟା</string>
+    <string name="auth_sign_in_agreement">ସାଇନ୍‌-ଇନ୍‌ କରିବା ଦ୍ୱାରା ଆପଣ <annotation id="google_privacy">Google</annotation> ଏବଂ <annotation id="android_privacy">ଅତିରିକ୍ତ</annotation> ଗୋପନୀୟତା ନୀତିରେ ରାଜି ହୁଅନ୍ତି।</string>
+    <string name="auth_sign_in_browser">ବ୍ରାଉଜର ସାଇନ୍‌-ଇନ୍‌</string>
+    <string name="auth_sign_in_with_google_account_short">ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟ ସହ ସାଇନ୍‌-ଇନ୍ କରନ୍ତୁ:</string>
+    <string name="auth_submission_error_text">କିଛି ଗୋଟିଏ ତ୍ରୁଟି ଥିଲା। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="auth_submission_title">କ୍ଷମା କରିବେ…</string>
+    <string name="auth_ui_activity_authenticating">ସତ୍ୟାପନ କରାଯାଉଛି…</string>
+    <string name="auth_ui_activity_title">Google ସାଇନ୍-ଇନ୍</string>
+    <string name="auth_ui_activity_title_browser_signin">ସାଇନ୍‍ ଇନ୍ କରନ୍ତୁ</string>
+    <string name="auth_ui_add_account_title">ଆକାଉଣ୍ଟ ସେଟଅପ୍‌</string>
+    <string name="auth_uncertified_notification_description"><b>ଏହି ଡିଭାଇସ୍‌କୁ କିଣିଥିବା ୟୁଜର୍‌:</b>"
+ଡିଭାଇସ୍‌ ଉତ୍ପାଦକ Googleରୁ ବିନା ଅନୁମତିରେ ପୂର୍ବରୁ Google ଆପ୍‌ ଏବଂ ସେବାଗୁଡ଼ିକ ଲୋଡ୍ କରିଛନ୍ତି। ଉତ୍ପାଦକଙ୍କ ସହ ସମ୍ପର୍କ କରନ୍ତୁ ଏବଂ ସତ୍ୟାପିତ ଡିଭାଇସ୍ ପାଇଁ ପଚାରନ୍ତୁ। ଆପଣ g.co/AndroidCertifiedDevice ରୁ ଅଧିକ ଜାଣିପାରିବେ।
+
+"<b>ବିନା ଲାଇସେନ୍ସପ୍ରାପ୍ତ ଉତ୍ପାଦକ:</b>"
+Google ଆପ୍‌ ଏବଂ ସେବାଗୁଡ଼ିକୁ ବିତରଣ କରିବା ପାଇଁ ଆପଣଙ୍କୁ Googleରୁ ଲାଇସେନ୍ସ ଆଣିବାର ଆବଶ୍ୟକତା ଅଛି। g.co/AndroidGMSContact ଠାରେ ଆବେଦନ କରନ୍ତୁ।
+
+"<b>ଲାଇସେନ୍ସପ୍ରାପ୍ତ ଉତ୍ପାଦକ:</b>"
+ ଡେଭଲପ୍‌ମେଣ୍ଟ ସମୟରେ Google ଆପ୍‌ ଏବଂ ସେବାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବା ପାଇଁ, ଡିଭାଇସ୍‌କୁ ରେଜିଷ୍ଟର୍‌ କରନ୍ତୁ। ଅଧିକ ଜାଣିବା ପାଇଁ Google ବିଜନେସ୍ ଡେଭଲପ୍‌ମେଣ୍ଟ ମ୍ୟାନେଜର୍‌ଙ୍କ ସହ ସମ୍ପର୍କ କରନ୍ତୁ
+
+"<b>କଷ୍ଟମ୍ ରମ୍ ବ୍ୟବହାରକାରୀ:</b>"
+କଷ୍ଟମ୍ ରମ୍ ସହ Google ଆପ୍‌ ଏବଂ ସେବାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବା ପାଇଁ, ଏହି ଡିଭାଇସ୍‌କୁ ରେଜିଷ୍ଟର୍‌ କରନ୍ତୁ। ଅଧିକ ଜାଣିବା ପାଇଁ g.co/apps-custom ଦେଖନ୍ତୁ।"</string>
+    <string name="auth_uncertified_notification_title">Google ଦ୍ୱାରା ଡିଭାଇସ୍‌ଟି ସ୍ୱୀକୃତ ହୋଇନାହିଁ</string>
+    <string name="auth_username">ଇମେଲ୍</string>
+    <string name="auth_work_authenticator_label">ପରିଚାଳିତ ଆକାଉଣ୍ଟ</string>
+    <string name="authorization_dialog">ଅନୁମୋଦନର ଡାୟଲଗ୍‌</string>
+    <string name="chrome_privacy_title">କ୍ରୋମ୍ ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି</string>
+    <string name="chrome_tos_title">Chrome ସେବା ସର୍ତ୍ତାବଳୀ</string>
+    <string name="close_button_label">ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="common_accept">ସ୍ୱୀକାର କରନ୍ତୁ</string>
+    <string name="common_add">ଯୋଡ଼ନ୍ତୁ</string>
+    <string name="common_add_account_label">ଗୋଟିଏ ଆକାଉଣ୍ଟ ଯୋଡ଼ନ୍ତୁ</string>
+    <string name="common_ads_settings_title">ବିଜ୍ଞାପନ</string>
+    <string name="common_agree">ରାଜି</string>
+    <string name="common_app_name">Google Play ସେବା</string>
+    <string name="common_application_info">ଆପ୍ଲିକେଶନ୍‍ର ସୂଚନା</string>
+    <string name="common_application_info_composed_string">ଆପ୍ଲିକେଶନ୍‍ ସୂଚନା</string>
+    <string name="common_asm_google_account_title">Google ଆକାଉଣ୍ଟ</string>
+    <string name="common_asm_manage_google_account_title">ଆପଣଙ୍କର Google ଆକାଉଣ୍ଟ ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="common_asm_preferences_settings_title">ଆକାଉଣ୍ଟ ପସନ୍ଦ</string>
+    <string name="common_asm_privacy_settings_title">ବ୍ୟକ୍ତିଗତ ସୂଚନା ଓ ଗୋପନିୟତା</string>
+    <string name="common_asm_security_settings_title">ସାଇନ୍‌-ଇନ୍‌ ଓ ସୁରକ୍ଷା</string>
+    <string name="common_back">ଫେରନ୍ତୁ</string>
+    <string name="common_battery">ବ୍ୟାଟେରୀ</string>
+    <string name="common_block">ଅବରୋଧ କରନ୍ତୁ</string>
+    <string name="common_cancel">କ୍ୟାନ୍ସଲ୍ କରନ୍ତୁ</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangoutsକୁ ଆରମ୍ଭ କରାଯାଇପାରିବ ନାହିଁ (ଅନୁମତିରେ ତ୍ରୁଟି)।</string>
+    <string name="common_car_permission_desc">କାର୍‌ ସେବା ପ୍ରତି ଆକ୍ସେସ୍‌।</string>
+    <string name="common_car_permission_label">କାର୍‌ ସେବା</string>
+    <string name="common_card">କାର୍ଡ</string>
+    <string name="common_chips_label_empty_circles">କୌଣସି ଗୋଷ୍ଠୀ ନାହିଁ</string>
+    <string name="common_chips_label_extended_circles">ବର୍ଦ୍ଧିତ ଗ୍ରୁପ୍‌</string>
+    <string name="common_chips_label_only_you">କେବଳ ଆପଣ</string>
+    <string name="common_chips_label_public">ଜନସାଧାରଣ</string>
+    <string name="common_chips_label_your_circles">ଆପଣଙ୍କ ଗୋଷ୍ଠୀଗୁଡ଼ିକ</string>
+    <string name="common_choose_account_label">ଗୋଟିଏ ଆକାଉଣ୍ଟ ବାଛନ୍ତୁ</string>
+    <string name="common_confirm_screen_lock_title">ଆପଣଙ୍କ ସ୍କ୍ରୀନ୍‌ ଲକ୍‌ ନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="common_connect">ସଂଯୋଗ</string>
+    <string name="common_connected">ସଂଯୁକ୍ତ</string>
+    <string name="common_connected_apps_settings_title">ସଂଯୁକ୍ତ ଆପ୍ସ</string>
+    <string name="common_connecting">ସଂଯୁକ୍ତ ହେଉଛି…</string>
+    <string name="common_continue">ଜାରି ରଖନ୍ତୁ</string>
+    <string name="common_disabled">ଅକ୍ଷମ ହୋଇଛି</string>
+    <string name="common_disagree">ଅରାଜି</string>
+    <string name="common_disconnect">ବିଚ୍ଛିନ୍ନ</string>
+    <string name="common_dismiss">ଖାରଜ କରନ୍ତୁ</string>
+    <string name="common_done">କରାଯାଇଛି</string>
+    <string name="common_edit">ଏଡିଟ୍‌ କରନ୍ତୁ</string>
+    <string name="common_email">ଇମେଲ୍</string>
+    <string name="common_fingerprint_hint">ସେନ୍ସର୍‌କୁ ଛୁଅଁନ୍ତୁ</string>
+    <string name="common_fitness_settings_title">Google ଫିଟ୍‌</string>
+    <string name="common_from">ପ୍ରେରକ:</string>
+    <string name="common_games_settings_title">Play ଗେମ୍ସ</string>
+    <string name="common_get_started">ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_enable_button">ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_enable_text">ଆପଣ Google Play ସେବା ସକ୍ଷମ ନ କରିବା ପର୍ଯ୍ୟନ୍ତ %1$s କାମ କରିବ ନାହିଁ।</string>
+    <string name="common_google_play_services_enable_title">Google Play ସେବାଗୁଡ଼ିକ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_error_dialog_title">ସମସ୍ୟା</string>
+    <string name="common_google_play_services_install_button">ଇନ୍‍ଷ୍ଟଲ୍‍ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_install_text">%1$s ଏହି Google Play ସେବାଗୁଡ଼ିକ ବିନା ଚାଲେ ନାହିଁ, ଏବଂ ସେଗୁଡ଼ିକ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ନାହିଁ।</string>
+    <string name="common_google_play_services_install_title">Google Play ସେବାଗୁଡ଼ିକ ପ୍ରାପ୍ତ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ସେବାଗୁଡ଼ିକର ଉପଲବ୍ଧତା</string>
+    <string name="common_google_play_services_notification_ticker">Google Play ସେବା ସମ୍ପର୍କିତ ସମସ୍ୟା</string>
+    <string name="common_google_play_services_unknown_issue">%1$sର Google Play ସେବା ସହ ଏକ ସମସ୍ୟା ରହିଛି। ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ଏହି Google Play ସେବାଗୁଡ଼ିକ ବିନା ଚାଲେ ନାହିଁ, ଏବଂ ସେଗୁଡ଼ିକ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ କାମ କରେ ନାହିଁ।</string>
+    <string name="common_google_play_services_update_button">ଅପଡେଟ୍‍ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_update_text">ଆପଣ Google Play ସେବା ଅପଡେଟ୍‌ ନ କରିବା ପର୍ଯ୍ୟନ୍ତ %1$s ଚାଲିବ ନାହିଁ।</string>
+    <string name="common_google_play_services_update_title">Google Play ସେବାଗୁଡ଼ିକ ଅପଡେଟ୍ କରନ୍ତୁ</string>
+    <string name="common_google_play_services_updating_text">Google Play ସେବାଗୁଡ଼ିକ ବିନା %1$s ଚାଲିବ ନାହିଁ, ଯେଉଁଗୁଡ଼ିକ ବର୍ତ୍ତମାନ ଅପଡେଟ୍‌ ହେଉଛି।</string>
+    <string name="common_google_play_services_updating_title">Google Play ସେବାଗୁଡ଼ିକ ଅପଡେଟ୍‌ କରାଯାଉଛି</string>
+    <string name="common_google_play_services_wear_update_text">Google Play ସେବାଗୁଡ଼ିକର ନୂତନ ଭର୍ସନ୍‌ ଆବଶ୍ୟକ। ଏହା ନିଜକୁ କିଛି ସମୟ ମଧ୍ୟରେ ଅପଡେଟ୍‌ କରିବ।</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">ଭୁଲ ନିର୍ମାଣ ସହିତ Google ସେବା ଇନ୍‍ଷ୍ଟଲ୍‍ କରାଯାଇଛି।</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play ସେବାଗୁଡ଼ିକ ଏପରି ଏକ ନିର୍ମାଣ (%1$s) ସହ ଇନଷ୍ଟଲ୍‌ କରିଦିଆଯାଇଛି, ଯାହା ଆପଣଙ୍କ ଡିଭାଇସର ନିର୍ମାଣ (%2$s)ଠାରୁ ଭିନ୍ନ ଅଟେ।</string>
+    <string name="common_google_play_services_wrong_architecture_title">ଭୁଲ ନିର୍ମାଣ</string>
+    <string name="common_google_settings">Google ସେଟିଙ୍ଗ</string>
+    <string name="common_google_settings_account">ଆକାଉଣ୍ଟ</string>
+    <string name="common_google_settings_credentials_title">ପାସ୍‌ୱର୍ଡ ପାଇଁ Smart Lock</string>
+    <string name="common_got_it">ବୁଝିଲି</string>
+    <string name="common_install">ଇନଷ୍ଟଲ୍‌ କରନ୍ତୁ</string>
+    <string name="common_learn_more">ଅଧିକ ଜାଣନ୍ତୁ</string>
+    <string name="common_list_apps_menu_help">ସହାୟତା</string>
+    <string name="common_list_apps_menu_help_and_feedback">ସାହାଯ୍ୟ ଓ ମତାମତ</string>
+    <string name="common_loading">ଲୋଡ୍ ହେଉଛି…</string>
+    <string name="common_location_settings_title">ଲୋକେଶନ୍‍</string>
+    <string name="common_login_activity_task_title">ସାଇନ୍ ଇନ୍ କରୁଛି…</string>
+    <string name="common_login_error_title">ସାଇନ୍ ଇନ୍ କରାଯାଇପାରିଲା ନାହିଁ</string>
+    <string name="common_magictether_settings_title">ଇନ୍‌ଷ୍ଟାଣ୍ଟ ଟିଥରିଙ୍ଗ</string>
+    <string name="common_maps_settings_title">ମାନଚିତ୍ର ଏବଂ ଅକ୍ଷ୍ୟାଂଶ</string>
+    <string name="common_mdm_feature_name">ମୋ ଡିଭାଇସ୍‌ ଖୋଜନ୍ତୁ</string>
+    <string name="common_missing_url_viewer">ଏକ୍ସଟର୍ନଲ୍‌ url ଦେଖାଇବାକୁ ଭ୍ୟୁଅର୍‌ ଉପଲବ୍ଧ ନାହିଁ।</string>
+    <string name="common_more">ଅଧିକ</string>
+    <string name="common_more_options">ଅଧିକ ବିକଳ୍ପ</string>
+    <string name="common_mute_notification">ବିଜ୍ଞପ୍ତି ମ୍ୟୁଟ୍‍ କରନ୍ତୁ</string>
+    <string name="common_network_unavailable">କୌଣସି ଇଣ୍ଟରନେଟ୍‌ ସଂଯୋଗ ନାହିଁ</string>
+    <string name="common_networking_settings_title">ନେଟ୍‍ୱର୍କିଙ୍ଗ</string>
+    <string name="common_never">କଦାପି ନୁହେଁ</string>
+    <string name="common_next">ପରବର୍ତ୍ତୀ</string>
+    <string name="common_no_browser_for_restricted_url">ବାଧାଯୁକ୍ତ ଆକ୍ସେସ୍‌। କୌଣସି ବ୍ରାଉଜର୍ ମିଳୁନାହିଁ।</string>
+    <string name="common_no_devices_found">କୌଣସି ଡିଭାଇସ୍ ମିଳିଲା ନାହିଁ</string>
+    <string name="common_no_network">ଡିଭାଇସ୍‌ଟି ଅଫଲାଇନ୍ ଥିବାରୁ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="common_no_thanks">ନାଁ, ଦରକାର ନାହିଁ</string>
+    <string name="common_not_now">ଏବେ ନୁହେଁଁ</string>
+    <string name="common_off">ଅଫ୍</string>
+    <string name="common_offline">ଆପଣ ଅଫଲାଇନ୍ ଅଛନ୍ତି</string>
+    <string name="common_ok">ଠିକ୍‌ ଅଛି</string>
+    <string name="common_on">ଅନ୍</string>
+    <string name="common_open">ଖୋଲନ୍ତୁ</string>
+    <string name="common_open_on_phone">ଫୋନ୍‌ରେ ଖୋଲନ୍ତୁ</string>
+    <string name="common_open_source_licenses">ଓପନ୍‌ ସୋର୍ସ ଲାଇସେନ୍ସ</string>
+    <string name="common_pause">ପଜ୍‌ କରନ୍ତୁ</string>
+    <string name="common_people_settings_title">ଯୋଗାଯୋଗ</string>
+    <string name="common_permissions_enable_in_settings">ସେଟିଙ୍ଗରେ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="common_permissions_missing_end">"ଚାଲୁ ରଖିବା ପାଇଁ, ସେଟିଙ୍ଗକୁ ଖୋଲନ୍ତୁ, ତା'ପରେ ଅନୁମତି, ଏବଂ ତାଲିକାରେ ଥିବା ସମସ୍ତ ଆଇଟମଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ।"</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ସକ୍ଷମ କରିବାକୁ
+ସେଟିଙ୍ଗ >
+ଅନୁମତି>
+Google Play ସେବାକୁ ଯାଆନ୍ତୁ"</string>
+    <string name="common_permissions_missing_start">ଏହି ଆପ୍‌ ସେପର୍ଯ୍ୟନ୍ତ ଠିକ ଭାବେ କାମ କରିବନାହିଁ, ଯେପର୍ଯ୍ୟନ୍ତ ଆପଣ Google Play ସେବାଗୁଡ଼ିକୁ, ନିମ୍ନପ୍ରଦତ୍ତଗୁଡ଼ିକ ପ୍ରତି ଆକ୍ସେସ୍‌ର ଅନୁମତି ନଦେଇଛନ୍ତି:</string>
+    <string name="common_permissions_open_settings">ସେଟିଙ୍ଗକୁ ଖୋଲନ୍ତୁ</string>
+    <string name="common_phone">ଫୋନ୍‌</string>
+    <string name="common_play">ପ୍ଲେ କରନ୍ତୁ</string>
+    <string name="common_plus_settings_title">Google</string>
+    <string name="common_privacy_policy">ଗୋପନିୟତା ନୀତି</string>
+    <string name="common_privacy_policy_composed_string">ଗୋପନିୟତା ନୀତି</string>
+    <string name="common_refresh">ରିଫ୍ରେଶ୍‌</string>
+    <string name="common_remove">ବାହାର କରନ୍ତୁ</string>
+    <string name="common_reply">ଉତ୍ତର</string>
+    <string name="common_restore">ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ</string>
+    <string name="common_retry">ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="common_save">ସେଭ୍‍ କରନ୍ତୁ</string>
+    <string name="common_saved">ସେଭ୍‍ ହେଲା</string>
+    <string name="common_saving">ସେଭ୍‍ କରାଯାଉଛି…</string>
+    <string name="common_search_settings_title">ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="common_security_ootp_setting_title">ସୁରକ୍ଷା କୋଡ୍‍</string>
+    <string name="common_select">ଚୟନ କରନ୍ତୁ</string>
+    <string name="common_send">ପଠାନ୍ତୁ</string>
+    <string name="common_sending">ପଠାଯାଉଛି…</string>
+    <string name="common_set_up_nearby_device_settings_title">ଆଖପାଖ ଡିଭାଇସ୍‌ ସେଟ୍‌ କରନ୍ତୁ</string>
+    <string name="common_settings">ସେଟିଙ୍ଗ</string>
+    <string name="common_share">ଶେୟାର୍‌ କରନ୍ତୁ</string>
+    <string name="common_sign_in">ସାଇନ୍‍-ଇନ୍</string>
+    <string name="common_signin_button_text">ସାଇନ୍‌-ଇନ୍ କରନ୍ତୁ</string>
+    <string name="common_signin_button_text_long">Google ସହ ସାଇନ୍‌-ଇନ୍ କରନ୍ତୁ</string>
+    <string name="common_skip">ଛାଡ଼ି ଯାଆନ୍ତୁ</string>
+    <string name="common_skip_fingerprint">ସ୍କ୍ରୀନ୍‌ ଲକ୍‌ର ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="common_something_went_wrong">କିଛି ସମସ୍ୟା ହୋଇଛି</string>
+    <string name="common_system_info">ସିଷ୍ଟମ୍ ସୂଚନା</string>
+    <string name="common_system_info_composed_string">ଆକାଉଣ୍ଟ ଓ ସିଷ୍ଟମ୍‍ ସୂଚନା</string>
+    <string name="common_take_photo_label">ଫଟୋ ନିଅନ୍ତୁ</string>
+    <string name="common_terms_of_service">ସେବାର ସର୍ତ୍ତାବଳୀ</string>
+    <string name="common_terms_of_service_composed_string">ସେବାର ସର୍ତ୍ତାବଳୀ</string>
+    <string name="common_today">ଆଜି</string>
+    <string name="common_try_again">ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="common_turn_on">ଅନ୍‍ କରନ୍ତୁ</string>
+    <string name="common_turn_on_bluetooth">ବ୍ଲୁ-ଟୁଥ୍‌ ଅନ୍‌ କରନ୍ତୁ</string>
+    <string name="common_turn_on_nfc">NFC ଅନ୍ କରନ୍ତୁ</string>
+    <string name="common_ui_confirm_deleting_button">ଡିଲିଟ୍‌ କରନ୍ତୁ</string>
+    <string name="common_ui_confirm_deleting_checkbox">ମୁଁ ବୁଝିଛି ଏବଂ ଡିଲିଟ୍‌ କରିବାକୁ ଚାହେଁ</string>
+    <string name="common_unknown">ଅଜଣା</string>
+    <string name="common_update">ଅପଡେଟ୍‌</string>
+    <string name="common_url_load_unsuccessful_message">ଆପଣଙ୍କ Android ଡିଭାଇସ୍‌, କୌଣସି ଡାଟା ସେବା ସହ ସଂଯୁକ୍ତ ନାହିଁ। ବର୍ତ୍ତମାନ ଏହି ସୂଚନା ଦେଖିବାକୁ, ଏକ ୱେବ୍‌ ବ୍ରାଉଜର୍‌‌ ସାହାଯ୍ୟରେ %sକୁ ଭିଜିଟ୍‌ କରନ୍ତୁ।</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">ଆପଣଙ୍କ Android ଡିଭାଇସ୍‌, କୌଣସି ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ ସହ ସଂଯୁକ୍ତ ନାହିଁ। ବର୍ତ୍ତମାନ ଏହି ସୂଚନା ଦେଖିବାକୁ, ଏକ ୱେବ୍‌ ବ୍ରାଉଜର୍‌‌ ସାହାଯ୍ୟରେ %sକୁ ଭିଜିଟ୍‌ କରନ୍ତୁ।</string>
+    <string name="common_usage_and_diagnostics">ବ୍ୟବହାର ଓ ନିଦାନ</string>
+    <string name="common_view">ଦେଖନ୍ତୁ</string>
+    <string name="common_yesterday">ଗତକାଲି</string>
+    <string name="continue_to_login_heading">ଦୟାକରି ଲଗ୍‌-ଇନ୍‌ କରନ୍ତୁ।</string>
+    <string name="continue_to_login_text">ତଥ୍ୟ ମଞ୍ଜୁର କରାଗଲା। ଦୟାକରି ଆପଣଙ୍କ ପ୍ରଥମ ଡିଭାଇସ୍‌ରେ ଲଗ୍‌-ଇନ୍‌ କରନ୍ତୁ।</string>
+    <string name="description_fingerprint_icon">ଆଙ୍ଗୁଠି ଚିହ୍ନ ଆଇକନ୍</string>
+    <string name="download_msg_error_invalid">ଡାଉନଲୋଡ୍‌ ଭୁଲ୍‌ ଭାବେ କନଫିଗର୍‌ ହୋଇଥିଲା।</string>
+    <string name="download_msg_in_progress">ଡାଉନଲୋଡ୍‌ ହେଉଛି।</string>
+    <string name="download_msg_not_allowed_space">ଡାଉନଲୋଡ୍ କରିବା ପାଇଁ ଯଥେଷ୍ଟ ଖାଲି ସ୍ଥାନ ନାହିଁ।</string>
+    <string name="download_msg_pending">ଡାଉନଲୋଡ୍‌ ହେବାକୁ ଅପେକ୍ଷାରତ।</string>
+    <string name="download_notification_description">%1$s ଏହା ଅନୁରୋଧ କରିଛି।</string>
+    <string name="download_notification_title">ଅଧିକ ଡାଟା ହାସଲ କରୁଛି</string>
+    <string name="fido_ble_device_icon_content_description">ଖୋଜାଯାଇଥିବା ବ୍ଲୁଟୁଥ୍‌ ଡିଭାଇସ୍‌</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">ପେୟାରିଙ୍ଗ ମୋଡ୍‍ ଥିବାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ NFC ଚାବିରେ ଥିବା ବଟନ୍‌କୁ ଅତିକମ୍‌ରେ 5 ସେକେଣ୍ଡ ପାଇଁ ଦବାଇ ଧରିରଖନ୍ତୁ</string>
+    <string name="fido_ble_dont_see_your_key_hint">"ଆପଣଙ୍କ କୀ' ଦେଖିପାରୁ ନାହାଁନ୍ତି?"</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">"ଆପଣଙ୍କ ଡିଭାଇସ୍‍ର ବ୍ଲୁ-ଟୁଥ୍‌‌ ଏବଂ ଲୋକେଶନ୍ ସେବାଗୁଡ଼ିକ ଅନ୍‍ ଥିବା ବେଳେହିଁ କେବଳ ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ' କାମ କରିଥାଏ"</string>
+    <string name="fido_ble_enable_body_bluetooth_only">"ଆପଣଙ୍କ ଡିଭାଇସ୍‍ର ବ୍ଲୁ-ଟୁଥ୍‌‌ ଅନ୍‍ ଥିବା ବେଳେହିଁ କେବଳ ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ' କାମ କରିଥାଏ"</string>
+    <string name="fido_ble_enable_body_location_only">"ଆପଣଙ୍କ ଡିଭାଇସ୍‍ର ଲୋକେଶନ୍ ଅନ୍‍ ଥିବା ବେଳେହିଁ କେବଳ ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ' କାମ କରିଥାଏ"</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">ବ୍ଲୁ-ଟୁଥ୍‌ ଏବଂ ଲୋକେଶନ୍‍ ଅନ୍ କରିବେ?</string>
+    <string name="fido_ble_enable_title_location_only">ଲୋକେଶନ୍‍ ଅନ୍‍ କରନ୍ତୁ</string>
+    <string name="fido_ble_instructions_body">ଅଧିକାଂଶ କୀ’ଗୁଡ଼ିକ ବ୍ୟବହାର କରିବା ପାଇଁ ବଟନ୍‌କୁ କେବଳ ଟାପ୍‌ କରନ୍ତୁ</string>
+    <string name="fido_ble_locate_pin_body">ପେୟାରିଙ୍ଗ PIN ସାଧାରଣତଃ 4 କିମ୍ବା 6 ସଂଖ୍ୟା ବିଶିଷ୍ଟ ହୋଇଥାଏ ଏବଂ ତାହା ଆପଣଙ୍କ NFC ଚାବି ପଛରେ ଥାଇପାରେ। PIN ଲେଖିବାକୁ ପ୍ରସ୍ତୁତ ହୋଇଗଲେ, ଜାରିରଖନ୍ତୁ।</string>
+    <string name="fido_ble_locate_pin_title">ଆପଣଙ୍କ କୀ’ %1$s ପାଇଁ ବ୍ଲୁଟୁଥ୍‌ ପେୟାରିଙ୍ଗ PIN ଖୋଜନ୍ତୁ</string>
+    <string name="fido_ble_pair_device_pairing">ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ’କୁ ପେୟାର୍‌ କରାଯାଉଛି…</string>
+    <string name="fido_ble_pair_instructions_body">ନିଜ କୀ’କୁ ଏହି ଡିଭାଇସ୍‌ ସହ ପେୟାର୍‌ କରନ୍ତୁ, ଯାହାଦ୍ଵାରା ଆପଣ ଏହାକୁ ନିଜ ଆକାଉଣ୍ଟରେ ବ୍ୟବହାର କରିପାରିବେ</string>
+    <string name="fido_ble_pair_instructions_title">"ସୁରକ୍ଷା କୀ' ପେୟାର୍‌ କରିବାକୁ ପ୍ରସ୍ତୁତ କି?"</string>
+    <string name="fido_ble_pairing_failure_dialog_message">ନିଜ କୀ’କୁ ପେୟାରିଙ୍ଗ୍ ମୋଡ୍‌କୁ ଫେରାଇନିଅନ୍ତୁ</string>
+    <string name="fido_ble_pairing_mode_body">ସୁରକ୍ଷା କୀ’ରେ ଥିବା ବଟନ୍‌କୁ ଅତିକମ୍‌ରେ 5 ସେକେଣ୍ଡ ପାଇଁ ଦବାଇ ଧରିରଖନ୍ତୁ</string>
+    <string name="fido_ble_pairing_mode_title">ପେୟାରିଙ୍ଗ ମୋଡ୍‍କୁ ଯାଆନ୍ତୁ</string>
+    <string name="fido_ble_select_device_body">ନିଜ ଡିଭାଇସ୍‌ ସହ ପେୟାର୍‌ କରିବାକୁ ଚାହୁଁଥିବା ସୁରକ୍ଷା କୀ’କୁ ନିମ୍ନ ତାଲିକାରୁ ଚୟନ କରନ୍ତୁ। NFC ଚାବି ପଛରେ ନାମ ପ୍ରିଣ୍ଟ କରାଯାଇଥାଇପାରେ।</string>
+    <string name="fido_ble_select_device_title">ନିଜ ସୁରକ୍ଷା କୀ’ଚୟନ କରନ୍ତୁ</string>
+    <string name="fido_instructions_title">"ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ' ବ୍ୟବହାର କରିବାକୁ ଅନୁମତି ଦେବେ?"</string>
+    <string name="fido_nfc_enable_body">"ଆପଣଙ୍କ ଡିଭାଇସ୍‍ର NFC ଅନ୍‍ ଥିବା ବେଳେ କେବଳ ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ' କାମ କରିଥାଏ"</string>
+    <string name="fido_nfc_instructions_body">କମ୍ପନ ଅଫ୍‌ ନହେବା ପର୍ଯ୍ୟନ୍ତ ଡିଭାଇସ୍ ପଛରେ ନିଜ NFC ଚାବିକୁ ଦାବି ଧରିରଖନ୍ତୁ</string>
+    <string name="fido_paask_body">ଆଖପାଖର ଏକ ଡିଭାଇସ୍‌ ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟରେ ସାଇନ୍‌-ଇନ୍‌ କରିବାକୁ ଚେଷ୍ଟା କରୁଛି</string>
+    <string name="fido_paask_footer">ଏହା ହେଉଛି ଏକ ଉନ୍ନତ ସାଇନ୍‌-ଇନ୍‌ ସୁରକ୍ଷା, ଯେଉଁଥିରେ ଏକ ଆଖପାଖର ଡିଭାଇସ୍‌ ସହ ଏନ୍‌କ୍ରିପ୍ଟ କରାଯାଇଥିବା ବ୍ଲୁ-ଟୁଥ୍‌ କନେକ୍ସନ୍‌ ବ୍ୟବହାର କରା ହୁଏ।</string>
+    <string name="fido_paask_header">ଆଖପାଖର କୌଣସି ଡିଭାଇସ୍‌ରୁ ସାଇନ୍‌-ଇନ୍‌ କରିବାକୁ ଚେଷ୍ଟା କରୁଛନ୍ତି?</string>
+    <string name="fido_paask_no_text">ନା, ମୁଁ ନୁହେଁ</string>
+    <string name="fido_paask_yes_text">ହଁ, ମୁଁ କରୁଛି</string>
+    <string name="fido_pair_another_security_key">ଅନ୍ୟ ଏକ ସୁରକ୍ଷା କୀ’ ପେୟାର୍‌ କରନ୍ତୁ</string>
+    <string name="fido_processing">ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ’ ଯାଞ୍ଚ କରାଯାଉଛି…</string>
+    <string name="fido_transport_selection_bluetooth">"ବ୍ଲୁ-ଟୁଥ୍‌ ସହ ସୁରକ୍ଷା କୀ' ବ୍ୟବହାର କରନ୍ତୁ"</string>
+    <string name="fido_transport_selection_body">"ବ୍ଲୁ-ଟୁଥ୍‌, NFC ଓ USB ସହିତ ସୁରକ୍ଷା କୀ'ଗୁଡ଼ିକ କାମକରେ। ଆପଣ କିପରି ଭାବରେ ଆପଣଙ୍କ କୀ'କୁ ବ୍ୟବହାର କରିବାକୁ ଚାହାନ୍ତି, ତାହାର ଚୟନ କରନ୍ତୁ।"</string>
+    <string name="fido_transport_selection_fingerprint">ଆଙ୍ଗୁଠି ଚିହ୍ନ ସହିତ ସୁରକ୍ଷା କୀକୁ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="fido_transport_selection_nfc">"NFC ସହ ସୁରକ୍ଷା କୀ' ବ୍ୟବହାର କରନ୍ତୁ"</string>
+    <string name="fido_transport_selection_title">ନିଜ ସୁରକ୍ଷା କୀ’ କିପରି ବ୍ୟବହାର କରିବେ, ଚୟନ କରନ୍ତୁ</string>
+    <string name="fido_transport_selection_usb">"USBରେ ସୁରକ୍ଷା କୀ' ବ୍ୟବହାର କରନ୍ତୁ"</string>
+    <string name="fido_usb_instructions_body">"ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ'କୁ USB ପୋର୍ଟ କିମ୍ବା USB କେବଲ୍‌ ସହିତ ସଂଯୋଗ କରନ୍ତୁ। ଯଦି ଆପଣଙ୍କ କୀ'ରେ ଏକ ବଟନ୍ କିମ୍ବା ଏକ ଗୋଲ୍ଡ ଡିସ୍କ ଅଛି, ବର୍ତ୍ତମାନ ଟାପ୍‌ କରନ୍ତୁ।"</string>
+    <string name="fido_use_ble_instead">ବ୍ଲୁଟୁଥ୍‌ ସହ ନିଜ ସୁରକ୍ଷା କୀ’ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="fido_use_fp_instead">ଆଙ୍ଗୁଠି ଚିହ୍ନ ସହିତ ନିଜର ସୁରକ୍ଷା କୀକୁ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="fido_use_nfc_instead">NFC ସହ ନିଜ ସୁରକ୍ଷା କୀ’ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="fido_use_usb_instead">"USBରେ ନିଜ ସୁରକ୍ଷା କୀ' ବ୍ୟବହାର କରନ୍ତୁ"</string>
+    <string name="fido_welcome_body">%1$s ସହ ସୁରକ୍ଷା କୀ’ ବ୍ୟବହାର କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟାକୁ ସୁରକ୍ଷା ଦେବାରେ ସହାୟତା ମିଳିବ।</string>
+    <string name="fido_welcome_title">%1$s ସହ ଆପଣଙ୍କ ସୁରକ୍ଷା କୀ’ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="fingerprint_description">ଆପଣଙ୍କ ଆଙ୍ଗୁଠି ଚିହ୍ନ ଯାଞ୍ଚ କରାନ୍ତୁ, ଯାହାଦ୍ୱାରା %1$s ଆପଣ ନିଜେ ବୋଲି ନିଶ୍ଚିତ କରିପାରିବ।</string>
+    <string name="fingerprint_no_imprints_description">ଆପଣଙ୍କ ଆଙ୍ଗୁଠି ଚିହ୍ନ ସହ %1$s ଆପଣଙ୍କ ପରିଚୟ ଯାଞ୍ଚ କରାଇବାକୁ ଚାହେଁ, କିନ୍ତୁ ଆପଣ ନିଜ ଆଙ୍ଗୁଠି ଚିହ୍ନ ଏହି ଡିଭାଇସ୍‍ରେ ଏପର୍ଯ୍ୟନ୍ତ ଯୋଡ଼ି ନାହାନ୍ତି।</string>
+    <string name="fingerprint_not_recognized">ଆଙ୍ଗୁଠି ଚିହ୍ନକୁ ଚିହ୍ନଟ କରିହେଲାନାହିଁ। ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="fingerprint_success">ଆଙ୍ଗୁଠି ଚିହ୍ନ ଚିହ୍ନଟ ହେଲା</string>
+    <string name="gcm_fallback_notification_channel_label">ଅନ୍ୟାନ୍ୟ</string>
+    <string name="google_app_permissions_title">ଆପ୍‌ ଅନୁମତି</string>
+    <string name="google_legal_title">Googleର ଆଇନଗତ ତଥ୍ୟ</string>
+    <string name="google_play_tos_title">Google Play ସେବା ସର୍ତ୍ତାବଳୀ</string>
+    <string name="google_plus_privacy_policy_title">Google Plus ଗୋପନୀୟତା ନୀତି</string>
+    <string name="google_privacy_policy_title">Google ଗୋପନୀୟତା ନୀତି</string>
+    <string name="google_terms_of_service_title">Googleର ସେବାର ସର୍ତ୍ତାବଳୀ</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">ଅନ୍ୟ ଡିଭାଇସ୍‍କୁ ଏକ ନେଟୱର୍କର ୱାଇ-ଫାଇ କ୍ରେଡନଶିଆଲ୍‍ ଟ୍ରାନ୍ସଫର୍‍ କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">ୱାଇ-ଫାଇ କ୍ରେଡନଶିଆଲ୍‍ ଟ୍ରାନ୍ସଫର୍ କରନ୍ତୁ</string>
+    <string name="no_screen_lock_description">ଆପଣଙ୍କ ଡିଭାଇସ୍‍ରେ ପ୍ରଥମେ ଗୋଟିଏ ସ୍କ୍ରୀନ୍‍ ଲକ୍‍ ସେଟ୍‍ କରନ୍ତୁ</string>
+    <string name="no_screen_lock_title">ଆପଣଙ୍କ ଫୋନ୍‍ରେ କୌଣସି ସ୍କ୍ରୀନ୍‌ ଲକ୍‍ ନାହିଁ</string>
+    <string name="notification_ticker">ଆକ୍ସେସ୍‍ ଅନୁରୋଧ କରାଯାଇଛି</string>
+    <string name="open_source_activity_prompt_heading">ଆପ୍ଲିକେଶନ୍‌ ଖୋଲନ୍ତୁ</string>
+    <string name="open_source_activity_prompt_text">"ସତ୍ୟାପନ ପ୍ରକ୍ରିୟା ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ଆପଣଙ୍କ ଫୋନ୍‌ରେ SourceResponseActivity ଖୋଲନ୍ତୁ। "</string>
+    <string name="permgrouplab_calendar">କ୍ୟାଲେଣ୍ଡର୍</string>
+    <string name="permgrouplab_camera">କ୍ୟାମେରା</string>
+    <string name="permgrouplab_contacts">ଯୋଗାଯୋଗଗୁଡ଼ିକ</string>
+    <string name="permgrouplab_location">ଲୋକେଶନ୍‌</string>
+    <string name="permgrouplab_microphone">ମାଇକ୍ରୋଫୋନ୍</string>
+    <string name="permgrouplab_phone">ଫୋନ୍‌</string>
+    <string name="permgrouplab_sensors">ବଡି ସେନ୍ସର୍</string>
+    <string name="permgrouplab_storage">ଷ୍ଟୋରେଜ୍</string>
+    <string name="permissions_not_granted_text">ଅନୁମତି ମଞ୍ଜୁର କରିବାକୁ, ପୁଣି ଲଗ୍‌-ଇନ୍‌ କରନ୍ତୁ।</string>
+    <string name="permissions_not_granted_title">ଅନୁମତି ମଞ୍ଜୁର କରାଗଲା ନାହିଁ।</string>
+    <string name="plus_manage_app_only_you_label">କେବଳ ଆପଣ</string>
+    <string name="plus_network_unreliable">ସର୍ଭର ସହ ଏକ ଭରସାଯୋଗ୍ୟ ସଂଯୋଗ କରିହେବ ନାହିଁ।</string>
+    <string name="plus_oob_interstitial_loading_text">ଏହା କିଛି ମିନିଟ୍‌ ସମୟ ନେଇପାରେ</string>
+    <string name="set_up">ସେଟ୍ ଅପ୍ କରନ୍ତୁ</string>
+    <string name="setupservices_additional_privacy_title">ଅତିରିକ୍ତ ଗୋପନିୟତା ସୂଚନା</string>
+    <string name="setupservices_android_privacy_policy_title">ଅତିରିକ୍ତ ଗୋପନିୟତା ନୀତି</string>
+    <string name="setupservices_chrome_privacy_title">Chrome ଗୋପନିୟତା ବିଜ୍ଞପ୍ତି</string>
+    <string name="setupservices_chrome_tos_title">Chrome ସେବା ସର୍ତ୍ତାବଳୀ</string>
+    <string name="setupservices_google_app_permissions_title">ଆପ୍‌ ଅନୁମତି</string>
+    <string name="setupservices_google_legal_title">Google ଲିଗାଲ୍‌</string>
+    <string name="setupservices_google_play_tos_title">Google Play ସେବା ସର୍ତ୍ତାବଳୀ</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus ଗୋପନିୟତା ନୀତି</string>
+    <string name="setupservices_google_privacy_policy_title">Google ଗୋପନିୟତା ନୀତି</string>
+    <string name="setupservices_google_services_agreement">ଜାରି ରଖିବାର ଅର୍ଥ ଆପଣ ରାଜି ହୁଅନ୍ତି ଯେ, ଏହି ଡିଭାଇସ୍‌ଟି ସମ୍ଭବତଃ ମୋବାଇଲ୍‌ ଡାଟା ବ୍ୟବହାର କରି Googleରୁ, ଆପଣଙ୍କ କେରିଅର୍‌ଙ୍କଠାରୁ ଏବଂ ଏହି ଡିଭାଇସ୍‍ର ଉତ୍ପାଦକଙ୍କଠାରୁ ସ୍ୱଚାଳିତ ଭାବେ ଅପଡେଟ୍‍ ଡାଉନଲୋଡ୍‍ ତଥା ଇନଷ୍ଟଲ୍‍ କରିପାରିବ। ଏହିଗୁଡ଼ିକ ମଧ୍ୟରୁ କିଛି ଆପ୍‌, ଇନ୍‍-ଆପ୍‌ କିଣିବାର ଅଫର୍ ମଧ୍ୟ ଦେଇପାରନ୍ତି। ଆପଣ ଯେକୌଣସି ସମୟରେ ଏହି ଆପ୍‌କୁ କାଢ଼ିଦେଇପାରିବେ।</string>
+    <string name="setupservices_google_services_agreement_dialog_text">ଆପ୍‍ କାଢ଼ି ଦେବାକୁ, ସେଟିଙ୍ଗ > ଆପ୍‍ କିମ୍ବା ଆପ୍ଲିକେଶନ୍‍ ପରିଚାଳକକୁ ଯାଆନ୍ତୁ। ଆପଣ ଅନଇନ୍‍ଷ୍ଟଲ୍‍ କରିବା ପାଇଁ ଚାହୁଁଥିବା ଆପ୍‌‍କୁ ଟାପ୍‍ କରନ୍ତୁ। (ଆପଣଙ୍କୁ ଡାହାଣ ଓ ବାମ ସ୍ୱାଇପ୍ କରି ଆପ୍‌‍କୁ ଖୋଜିବାକୁ ପଡ଼ିପାରେ)। ଏହା ପରେ ଅନଇନ୍‍ଷ୍ଟଲ୍‍ କିମ୍ବା ଅକ୍ଷମ କରନ୍ତୁକୁ ଟାପ୍‍ କରନ୍ତୁ।</string>
+    <string name="setupservices_google_services_agreement_korea">ଏତଦ୍‌ଦ୍ୱାରା ଆପଣ ଅନୁମତି ପାଇଁ ଦିଅନ୍ତି ତଥା ମଞ୍ଜୁର କରନ୍ତି ଯେ, ପୂର୍ବରୁ ଲୋଡ୍ କରାଯାଇଥିବା Google ଆପ୍‍ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ଥିବା ସୂଚନା ଓ ଫଙ୍କସନ୍‌କୁ ଆକ୍ସେସ୍‍ କରିପାରିବ। ଏହି ଅନୁମତିଗୁଡ଼ିକର ବ୍ୟବହାର ଉପରେ ଅଧିକ ସୂଚନା ପାଇଁ <annotation link="app_permissions">ଏହି ପୃଷ୍ଠା</annotation> ଦେଖନ୍ତୁ।</string>
+    <string name="setupservices_google_services_agreement_title">ଅପଡେଟ୍‌ ଓ ଆପ୍‌ ଇନଷ୍ଟଲ୍‍ କରନ୍ତୁ</string>
+    <string name="setupservices_google_services_automatic_storage_manager">ଆପଣଙ୍କ ଫୋନ୍‌ ଷ୍ଟୋରେଜ୍‌ ପ୍ରାୟ ପୂର୍ଣ୍ଣ ହେବାବେଳେ, ଏଥିରୁ କିଛି ଡାଟା ବାହାର କରି, ଯେପରିକି ଫଟୋ ଓ ଭିଡିଓଗୁଡ଼ିକର ବ୍ୟାକଅପ୍‍ ନେଇ ସ୍ଥାନ ଖାଲି କରିଦିଅନ୍ତୁ।</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">ଆପଣ ସଂଯୁକ୍ତ ଥିବାବେଳେ ମଧ୍ୟ ଏହି ଡାଟା ଆକ୍ସେସ୍‌ କରିପାରିବେ। ସେଟିଙ୍ଗ > ଷ୍ଟୋରେଜ୍‌ > ସ୍ମାର୍ଟ ଷ୍ଟୋରେଜ୍‌‌କୁ ଯାଇ ଆପଣ ଏହି ବୈଶିଷ୍ଟ ତଥା କ’ଣ ବାହାର କରାଯିବ, ତାହା ନିୟନ୍ତ୍ରଣ କରିପାରିବେ।</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">ସ୍ଥାନ ଖାଲି କରନ୍ତୁ</string>
+    <string name="setupservices_google_services_backup">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଆପଣଙ୍କ ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା ଓ ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ସହିତ)।</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+ବ୍ୟାକଅପ୍‍ ନିଆଯାଇଥିବା ଡାଟା ଆପଣଙ୍କ ଡ୍ରାଇଭ୍‍ ଷ୍ଟୋରେଜ୍‍‌ରେ ଅଧିକ ସ୍ଥାନ ନେବ ନାହିଁ।"</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">ଯୋଗାଯୋଗ, ମେସେଜ୍‌ ଓ ଫଟୋଗୁଡ଼ିକ ପରି ସମ୍ଭାବ୍ୟ ସମ୍ବେଦନଶୀଳ ଡାଟା ସମେତ ଆପ୍‌ ସେଭ୍‍ କରିଥିବା (ଡେଭଲପର୍‌ଙ୍କ ସେଟିଙ୍ଗକୁ ଆଧାର କରି) ଯେକୌଣସି ଡାଟାକୁ ଆପ୍‍ ଡାଟା ଭାବେ ଜଣାଯାଏ।</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">ସେଟିଙ୍ଗରେ ଏହି ସେବାକୁ ଆପଣ ଅଫ୍ କରିପାରିବେ।</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+ଏହି ଡିଭାଇସ୍‌ରେ ଥିବା ଫଟୋ ଏବଂ ଭିଡିଓକୁ ଆପଣଙ୍କ Google Photos ଲାଇବ୍ରେରୀରେ ସିଙ୍କ କରାଯାଇଥାଏ, ଯେଉଁଥିରୁ ଆପଣ, ନିଜର ଯେକୌଣସି ଡିଭାଇସ୍‌ରୁ ସେଗୁଡ଼ିକୁ ଖୋଜିପାରିବେ, ଏଡିଟ୍‌, ଡିଲିଟ୍‌ ଓ ଶେୟାର୍‌ କରିପାରିବେ। ଡିଫଲ୍ଟ ଭାବେ, Google Photosରେ ପୂର୍ଣ୍ଣ ରିଜୋଲ୍ୟୁଶନ୍‌ ବିଶିଷ୍ଟ ଫଟୋ ଓ ଭିଡିଓ ଅପଲୋଡ୍‌ କରାଯାଇଥାଏ। 
+
+ବ୍ୟାକଅପ୍ ଡାଟା, ଆପଣଙ୍କ ଡ୍ରାଇଭ୍‌ ଷ୍ଟୋରେଜ୍‌ରୁ ଅଧିକ ହେବ ନାହିଁ।"</string>
+    <string name="setupservices_google_services_backup_title">Google ଡ୍ରାଇଭ୍‌ରେ ବ୍ୟାକଅପ୍‌ ନିଅନ୍ତୁ</string>
+    <string name="setupservices_google_services_backup_v23">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଆପଣଙ୍କ ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା, କଲ୍‌ ହିଷ୍ଟୋରୀ, ଯୋଗାଯୋଗ ଓ ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ଓ ଅନୁମତି ସହିତ)।</string>
+    <string name="setupservices_google_services_backup_v26">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଆପଣଙ୍କ ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା, କଲ୍‌ ହିଷ୍ଟୋରୀ, ଯୋଗାଯୋଗ, ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ଓ ଅନୁମତି ସହିତ) ଓ SMS।</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଆପଣଙ୍କର ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା, କଲ୍‌ ହିଷ୍ଟୋରୀ, ଯୋଗାଯୋଗ, ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ଓ ଅନୁମତି ସହିତ), ଫଟୋ, ଭିଡିଓ ଓ SMS। ଫଟୋ ଓ ଭିଡିଓଗୁଡ଼ିକୁ ଆପଣଙ୍କ Google Photos ଲାଇବ୍ରେରୀରେ ସିଙ୍କ କରାଯାଇଥାଏ ଏବଂ ସେଗୁଡ଼ିକର ବ୍ୟବହାର ସମସ୍ତ ସେବାରେ କରାଯାଇପାରେ।</string>
+    <string name="setupservices_google_services_data_policy">ଡାଟାର ବ୍ୟବହାର Googleର <annotation link="google_privacy">ଗୋପନୀୟତା ନୀତି ଅନୁସାରେ କରାଯାଇପାରିବ</annotation>।</string>
+    <string name="setupservices_google_services_data_policy_korea">ଡାଟାର ପ୍ରୟୋଗ Googleର <annotation link="google_privacy">ଗୋପନୀୟତା ନୀତି </annotation>(ଯେଉଁଥିରେ ରହିଛି<annotation link="additional_privacy">ବ୍ୟକ୍ତିଗତ ସୁଚନାର ସଂଗ୍ରହ, ଷ୍ଟୋରେଜ୍‌ ଓ ବ୍ୟବହାର</annotation>) ଏବଂ <annotation link="location_tos"> ଲୋକେଶନ୍‌ର ସେବା ସର୍ତ୍ତ ଅନୁସାରେ କରାଯିବ </annotation>।</string>
+    <string name="setupservices_google_services_description">ପ୍ରତ୍ୟେକ ସେବା ବିଷୟରେ ଅଧିକ ଜାଣିବା ପାଇଁ ଟାପ୍ କରନ୍ତୁ, ଯେପରି ଏହାକୁ ପରବର୍ତ୍ତୀ ସମୟରେ କିପରି ଚାଲୁ କିମ୍ୱା ବନ୍ଦ କରାଯାଇପାରିବ।^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"ଇନ୍‌-ଆପ୍‌ କ୍ରୟଗୁଡିକ ସମେତ ଆପ୍‌ ବିବରଣୀ Play ଷ୍ଟୋର୍‍ରେ ମିଳିପାରିବ। ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟରେ ସାଇନ୍‍-ଇନ୍‍ କରାଯାଇଥିବା ଡିଭାଇସ୍‍ଗୁଡିକରେ ଆପ୍‍ ଡାଟା ଓ ସେଟିଙ୍ଗ ସିଙ୍କ ହେବ। 
+
+ଇନ୍‍ଷ୍ଟାଣ୍ଟ ଆପ୍‍ର ବ୍ୟବହାର "<a href="https://play.google.com/about/play-terms.html">Google Play ସେବା ସର୍ତ୍ତାବଳୀ</a>" ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇଥାଏ। 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">ଅଧିକ ଜାଣନ୍ତୁ</a>।</string>
+    <string name="setupservices_google_services_instant_apps_summary">ଯେତେବେଳେ ଆପଣ ଗୋଟିଏ ଲିଙ୍କ୍‍କୁ ଟାପ୍‌ କରନ୍ତି, Google Play ଯାଞ୍ଚ କରେ ଯେ, କୌଣସି ଇନ୍‍ଷ୍ଟାଣ୍ଟ ଆପ୍‌ ରହିଛି କି ତଥା ଇନଷ୍ଟଲ୍‍‍ ନକରି ଏହା ଚାଲିପାରେ କି। ଆପଣଙ୍କ ଡିଭାଇସ୍‌‍ରେ ଇନ୍‍ଷ୍ଟାଣ୍ଟ ଆପ୍‌‍ଗୁଡ଼ିକ ଅସ୍ଥାୟୀ ଭାବରେ ରହିଥା’ନ୍ତି।</string>
+    <string name="setupservices_google_services_instant_apps_title">ଆପ୍‌କୁ ଇନଷ୍ଟଲ୍‌ ନକରି ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Googleର ଲୋକେଶନ୍ ସେବା, ୱାଇ-ଫାଇ, ମୋବାଇଲ୍ ନେଟୱର୍କ ଓ ସେନସର୍‌ଗୁଡ଼ିକ ଭଳି ସୋର୍ସକୁ ବ୍ୟବହାର କରି ଏହି ଡିଭାଇସର ଲୋକେଶନକୁ ଆକଳନ କରିବାରେ ସାହାଯ୍ୟ କରିବ| 
+
+ ଏହି ଡିଭାଇସ୍‌ରେ ମୁଖ୍ୟ ଲୋକେଶନ୍‌ ସେଟିଙ୍ଗକୁ ବନ୍ଦ କରି ଆପଣ ଲୋକେଶନକୁ ବନ୍ଦ କରିପାରିବେ| ଲୋକେଶନ୍ ସେଟିଙ୍ଗରେ ମଧ୍ୟ ଲୋକେଶନ୍ ପାଇଁ ଆପଣ ୱାଇ-ଫାଇ, ମୋବାଇଲ୍ ନେଟୱର୍କ ଓ ସେନସର୍‌ଗୁଡ଼ିକର ବ୍ୟବହାରକୁ ବନ୍ଦ କରିପାରିବେ|"</string>
+    <string name="setupservices_google_services_location_sharing_title">ଆପ୍‌କୁ ଲୋକେଶନ୍‍ ପାଇବାରେ ସାହାଯ୍ୟ କରନ୍ତୁ</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">ଲୋକେଶନ୍‌ ବ୍ୟବହାର କରିବା</string>
+    <string name="setupservices_google_services_location_sharing_v28">ଏହି ଡିଭାଇସ୍‌ର ଲୋକେଶନ୍‌କୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଲୋକେଶନ୍ ଅନୁମତି ସହିତ ଆପ୍ ଓ ସେବାଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ| ସମୟାନୁସାରେ Google, ଲୋକେଶନ୍ ଡାଟାକୁ ସଂଗ୍ରହ କରିପାରେ ଏବଂ ଲୋକେଶନ୍‌ର ସଠିକତା ଓ ଲୋକେଶନ୍ ଆଧାରିତ ସେବାଗୁଡ଼ିକୁ ଉନ୍ନତ କରିବା ପାଇଁ ଏହି ଡାଟାକୁ ଅଜ୍ଞାତ ମାର୍ଗରେ ବ୍ୟବହାର କରିବ|</string>
+    <string name="setupservices_google_services_location_wireless_scan">ଆପ୍‌ ଓ ସେବାଗୁଡ଼ିକ ଅଫ୍‌ ଥିବାବେଳେ ମଧ୍ୟ ଏହାକୁ ୱାଇ-ଫାଇ ସ୍କାନ୍‌ କରିବା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ।</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">ଲୋକେଶନ୍‍ ସେଟିଙ୍ଗରେ ଆପଣ ଏହାକୁ ଅଫ୍ କରିପାରିବେ।</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">ଲୋକେଶନ୍‍ ସଠିକତାକୁ ଉନ୍ନତ କରନ୍ତୁ</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">ଖୋଜିବାର ଅନୁମତି</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">ଏହି ସେଟିଙ୍ଗଗୁଡ଼ିକ ବନ୍ଦ ଥିଲେ ମଧ୍ୟ ଆପ୍‌ ଏବଂ ସେବାଗୁଡ଼ିକୁ ୱାଇ-ଫାଇ ଏବଂ ବ୍ଲୁ-ଟୁଥ୍‌ ସିଗନାଲ୍ ପାଇଁ ଖୋଜିବାକୁ ଦିଅନ୍ତୁ।</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">ଯେକୌଣସି ସମୟରେ ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ ଓ ନିକଟସ୍ଥ ଡିଭାଇସ୍‌ଗୁଡ଼ିକ ପାଇଁ ସ୍କାନ୍ କରିବା ସକାଶେ ଆପ୍‌ ଓ ସେବାଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ (ୱାଇ-ଫାଇ କିମ୍ବା ବ୍ଲୁ-ଟୁଥ୍ ଅଫ୍ ଥିବାବେଳେ ମଧ୍ୟ)।</string>
+    <string name="setupservices_google_services_next_button_label">ମୁଁ ରାଜି</string>
+    <string name="setupservices_google_services_play">Google Playରୁ ଆସୁଥବା ଅଫର୍‍‍ ଓ ସୂଚନା ବିଷୟରେ ମୋତେ ଅପଡେଟ୍‍ ରଖନ୍ତୁ।</string>
+    <string name="setupservices_google_services_section_backup_and_storage">ବ୍ୟାକଅପ୍‌ ଓ ଷ୍ଟୋରେଜ୍</string>
+    <string name="setupservices_google_services_section_device_maintenance">ଡିଭାଇସ୍‍ ରକ୍ଷଣା-ବେକ୍ଷଣ</string>
+    <string name="setupservices_google_services_tos">ଯଦି ଜାରିରଖନ୍ତି, <annotation link="tos">Google ସେବା ସର୍ତ୍ତାବଳୀ</annotation> ସହ ଆପଣ ରାଜି ହୁଅନ୍ତି।</string>
+    <string name="setupservices_google_services_tos_agree">\"ମୁଁ ରାଜି\" ବଟନ୍‌ରେ କ୍ଲିକ୍‌ କରି ଆପଣ, Googleର ଏହି ସେବାଗୁଡ଼ିକ ବିଷୟରେ ଉପରେ ଦିଆଯାଇଥିବା ପ୍ରକ୍ରିୟାରେ ରାଜି ହେଉଛନ୍ତି।</string>
+    <string name="setupservices_google_services_tos_germany">ଆପଣ ଏହି ଡିଭାଇସ୍ ବ୍ୟବହାର କରିବା ବେଳେ ଆମର <annotation link="google_privacy">ଗୋପନୀୟତା ନୀତି</annotation> ଓ ଲାଗୁହୋଇଥିବା <annotation link="tos">ଅନ୍ୟ ସର୍ତ୍ତଗୁଡ଼ିକ</annotation> ମାନନ୍ତି।</string>
+    <string name="setupservices_google_services_usage_reporting">Googleକୁ ସ୍ୱଚାଳିତ ଭାବେ ସମସ୍ୟା ଓ ଡିଭାଇସ୍ ତଥା ଆପ୍‌ ଦ୍ୱାରା ବ୍ୟବହୃତ ଡାଟା ବିଷୟରେ ସୂଚନା ପଠାଇ Androidକୁ ବିକଶିତ କରିବାରେ ସାହାଯ୍ୟ କରେ| ଏହା ବ୍ୟାଟେରୀ ଜୀବନ, ଆପ୍ ସ୍ଥିରତା, ନେଟୱର୍କର ସଂଯୁକ୍ତତା ଓ ଅନେକ କିଛିକୁ ବିକଶିତ କରିବାରେ ସାହଯ୍ୟ କରିବ| ଯଦି ଆପଣ ଅତିରିକ୍ତ ୱେବ୍ ଓ ଆପ୍ କାର୍ଯ୍ୟକଳାପ ଚାଲୁ ରଖନ୍ତି ତେବେ ଏହି ସୂଚନା ଆପଣଙ୍କ ଆକାଉଣ୍ଟରେ ଷ୍ଟୋର୍ ହେବ ଯାହାକୁ ମୋ କାର୍ଯ୍ୟକଳାପରେ ପରିଚାଳନା କରିପାରିବେ|</string>
+    <string name="setupservices_google_services_usage_reporting_details">"ଏହି ଡିଭାଇସ୍‍ ଓ ଏହାର ବ୍ୟବହାର କିପରି କରାଯାଏ (ଯେପରିକି ବ୍ୟାଟେରୀ ସ୍ତର, ଆପ୍ ଉପଯୋଗ ଓ ନେଟ୍‍ୱର୍କ ସଂଯୁକ୍ତତା), ସେହି ବିଷୟରେ ଏହା ସାମାନ୍ୟ ସୂଚନା ଅଟେ। ପ୍ରତ୍ୟେକ ବ୍ୟକ୍ତିଙ୍କ ପାଇଁ Googleର ଉତ୍ପାଦ ଏବଂ ସେବାକୁ ଉତ୍ତମ କରିବା ପାଇଁ ଡାଟା ବ୍ୟବହାର କରାଯିବ। କିଛି ଏକତ୍ରିତ ସୂଚନା ପାର୍ଟନର୍‌ମାନଙ୍କୁ, ଯେପରିକି Android ଡେଭଲପର୍‍, ସେମାନଙ୍କ ଆପ୍ ଓ ଉତ୍ପାଦକୁ ଉନ୍ନତ କରିବାରେ ମଧ୍ୟ ସହାୟତା କରିଥାଏ। 
+
+ଏହି ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକୁ ବନ୍ଦ କରିଦେଲେ ମଧ୍ୟ ଜରୁରୀ ସେବାକୁ ଏହି ଡିଭାଇସ୍‍ର ଆବଶ୍ୟକ ସୂଚନା ପଠାଇବାର ଦକ୍ଷତା ଉପରେ କୌଣସି ପ୍ରଭାବ ପଡେନାହିଁ, ଯେପରିକି ସିଷ୍ଟମ୍ ଅପଡେଟ୍‌ ଓ ସୁରକ୍ଷା।"</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">myactivity.google.comରେ ’ମୋ କାର୍ଯ୍ୟକଳାପ ସେଟିଙ୍ଗ’କୁ ଆପଣ ଅପଡେଟ୍‌ କରିପାରିବେ।</string>
+    <string name="setupservices_google_services_usage_reporting_settings">ଆପଣ Google ସେଟିଙ୍ଗରେ ଏହି ସୁବିଧାକୁ ନିୟନ୍ତ୍ରଣ କରିପାରିବେ। ମେନୁରୁ ଉପଯୋଗ ଓ ସମସ୍ୟା ବାଛନ୍ତୁ।</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">ସେଟିଙ୍ଗ > Googleରୁ ଆପଣ ଏହି ବୈଶିଷ୍ଟ ନିୟନ୍ତ୍ରଣ କରିପାରିବେ। ମେନୁରୁ ବ୍ୟବହାର ଓ ସମସ୍ୟା ଚୟନ କରନ୍ତୁ।</string>
+    <string name="setupservices_google_services_usage_reporting_title">ସିଷ୍ଟମ୍‌ ଡାଟା ପଠାନ୍ତୁ</string>
+    <string name="setupservices_google_services_wallpaper_permission">Googleର ଲୋକେଶନ୍‌ ସେବାକୁ ଆକ୍ସେସ୍‍ କରି ଆପଣଙ୍କର ଲୋକେଶନ୍‌କୁ ପ୍ରତିକ୍ରିୟା ଦେବା ପାଇଁ Google ଲାଇଭ୍‌ ୱାଲପେପର୍‍କୁ ଅନୁମତି ଦିଅନ୍ତୁ।</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">ସେଟିଙ୍ଗ > ଆପ୍‌ ଓ ବିଜ୍ଞପ୍ତି > ଆପ୍‌ ସୂଚନାକୁ ଯାଇ ଲାଇଭ୍‌ ୱାଲ୍‍ପେପର୍‍ ପାଇଁ Googleର ଲୋକେଶନ୍‍ ସେବା ଆକ୍ସେସ୍‌କୁ ଅନ୍‌ କିମ୍ବା ଅଫ୍‌ କରିପାରିବେ। ଓଭରଫ୍ଲୋ ମେନୁରେ, ସିଷ୍ଟମ୍‌ ଦେଖାନ୍ତୁ > ଲାଇଭ୍‍ ଡାଟା ୱାଲପେପର୍ସ କିମ୍ବା ଲାଇଭ୍‌ ଅର୍ଥ ୱାଲପେପର୍ସ > ଅନୁମତି ଟାପ୍‌ କରନ୍ତୁ।</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">ୱାଲପେପର୍‌କୁ ଲୋକେଶନ୍‌ ବ୍ୟବହାର କରିବାକୁ ଦିଅନ୍ତୁ</string>
+    <string name="setupservices_google_terms_of_service_title">Google ସେବା ସର୍ତ୍ତାବଳୀ</string>
+    <string name="setupservices_kids_google_services_agreement">ଜାରି ରଖିବାର ଅର୍ଥ ଆପଣ ରାଜି ହୁଅନ୍ତି ଯେ, ଏହି ଡିଭାଇସ୍‌ଟି ସମ୍ଭବତଃ ମୋବାଇଲ୍‌ ଡାଟା ବ୍ୟବହାର କରି Googleରୁ, ଆପଣଙ୍କ କେରିଅର୍‌ଙ୍କଠାରୁ ଏବଂ ଏହି ଡିଭାଇସ୍‍ର ଉତ୍ପାଦକଙ୍କଠାରୁ ସ୍ୱଚାଳିତ ଭାବେ ଅପଡେଟ୍‍ ଡାଉନଲୋଡ୍‍ ତଥା ଇନଷ୍ଟଲ୍‍ କରିପାରିବ। ଏହିଗୁଡ଼ିକ ମଧ୍ୟରୁ କିଛି ଆପ୍‌, ଇନ୍‍-ଆପ୍‌ କିଣିବାର ଅଫର୍ ମଧ୍ୟ ଦେଇପାରନ୍ତି। ଆପଣ ଯେକୌଣସି ସମୟରେ ଏହି ଆପ୍‌କୁ କାଢ଼ିଦେଇପାରିବେ।</string>
+    <string name="setupservices_kids_google_services_backup">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଏହି ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା ଓ ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ସହିତ)।</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+ ବ୍ୟାକଅପ୍ ଡାଟା, ଆପଣଙ୍କ ପିଲାର ଡ୍ରାଇଭ୍‌ ଷ୍ଟୋରେଜ୍‌ଠାରୁ ଅଧିକ ହେବ ନାହିଁ।"</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+ଏହି ଡିଭାଇସ୍‌ରେ ଥିବା ଫଟୋ ଏବଂ ଭିଡିଓକୁ ଆପଣଙ୍କ ପିଲାର Google Photos ଲାଇବ୍ରେରୀରେ ସିଙ୍କ କରାଯାଇଥାଏ, ଯେଉଁଥିରୁ ଆପଣଙ୍କ ପିଲା ନିଜର ଯେକୌଣସି ଡିଭାଇସ୍‌ରୁ ସେଗୁଡ଼ିକୁ ଖୋଜିପାରିବ, ଏଡିଟ୍‌, ଡିଲିଟ୍‌ ଓ ସେୟାର୍‌ କରିପାରିବ। ଡିଫଲ୍ଟ ଭାବେ, Google Photosରେ ପୂର୍ଣ୍ଣ ରିଜୋଲ୍ୟୁଶନ୍‌ ବିଶିଷ୍ଟ ଫଟୋ ଓ ଭିଡିଓ ଅପଲୋଡ୍‌ କରାଯାଇଥାଏ। 
+
+ବ୍ୟାକଅପ୍ ଡାଟା, ଆପଣଙ୍କ ପିଲାର ଡ୍ରାଇଭ୍‌ ଷ୍ଟୋରେଜ୍‌ଠାରୁ ଅଧିକ ହେବ ନାହିଁ।"</string>
+    <string name="setupservices_kids_google_services_backup_v23">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଏହି ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା, କଲ୍‌ ହିଷ୍ଟୋରୀ ଓ ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ଓ ଅନୁମତି ସହିତ)।</string>
+    <string name="setupservices_kids_google_services_backup_v26">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଏହି ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା, କଲ୍‌ ହିଷ୍ଟୋରୀ, ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ସହିତ) ଓ SMS।</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">ଯେକୌଣସି ସମୟରେ ସହଜରେ ଡାଟାକୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ କିମ୍ୱା ଫୋନକୁ ବଦଳାନ୍ତୁ। ଏହି ବ୍ୟାକଅପ୍‌ରେ ରହିଛି ଆପ୍‌, ଆପ୍ ଡାଟା, କଲ୍‌ ହିଷ୍ଟୋରୀ, ଯୋଗାଯୋଗ, ଡିଭାଇସ୍‌ ସେଟିଙ୍ଗ (ୱାଇ-ଫାଇ ପାସ୍‌ୱର୍ଡ ସହିତ), ଫଟୋ, ଭିଡିଓ ଓ SMS। ଫଟୋ ଓ ଭିଡିଓଗୁଡ଼ିକୁ ଆପଣଙ୍କ ପିଲାର Google Photos ଲାଇବ୍ରେରୀରେ ସିଙ୍କ କରାଯାଇଥାଏ ଏବଂ ସେଗୁଡ଼ିକର ବ୍ୟବହାର ସମସ୍ତ ସେବାରେ କରାଯାଇପାରେ।</string>
+    <string name="setupservices_kids_google_services_description">ଅଭିଭାବକ ଭାବେ ଆପଣ ଟାପ୍ କରିବା ସହିତ ପ୍ରତ୍ୟେକ ସେବା ବିଷୟରେ ଅଧିକ ଜାଣିପାରିବେ, ଯେପରି ଏହାକୁ କିପରି ଚାଲୁ କରିବେ କିମ୍ବା ପରେ ବନ୍ଦ କରିବେ|^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Googleର ଲୋକେଶନ୍ ସେବା, ୱାଇ-ଫାଇ, ମୋବାଇଲ୍ ନେଟୱର୍କ ଓ ସେନସର୍‌ଗୁଡ଼ିକ ଭଳି ସୋର୍ସକୁ ବ୍ୟବହାର କରି ଏହି ଡିଭାଇସର ଲୋକେଶନକୁ ଆକଳନ କରିବାରେ ସାହାଯ୍ୟ କରିବ| 
+
+ ଏହି ଡିଭାଇସ୍‌ରେ ମୁଖ୍ୟ ଲୋକେଶନ୍‌ ସେଟିଙ୍ଗକୁ ବନ୍ଦ କରି ଆପଣ ଲୋକେଶନକୁ ବନ୍ଦ କରିପାରିବେ| ଲୋକେଶନ୍ ସେଟିଙ୍ଗରେ ମଧ୍ୟ ଲୋକେଶନ୍ ପାଇଁ ଆପଣ ୱାଇ-ଫାଇ, ମୋବାଇଲ୍ ନେଟୱର୍କ ଓ ସେନସର୍‌ଗୁଡ଼ିକର ବ୍ୟବହାରକୁ ବନ୍ଦ କରିପାରିବେ|"</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">ଏହି ଡିଭାଇସ୍‌ର ଲୋକେଶନ୍‌କୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଲୋକେଶନ୍ ଅନୁମତି ସହିତ ଆପ୍ ଓ ସେବାଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ| ସମୟାନୁସାରେ Google, ଲୋକେଶନ୍ ଡାଟାକୁ ସଂଗ୍ରହ କରିପାରେ ଏବଂ ଲୋକେଶନ୍‌ର ସଠିକତା ଓ ଲୋକେଶନ୍ ଆଧାରିତ ସେବାଗୁଡ଼ିକ ପାଇଁ ଏହି ଡାଟାକୁ ବ୍ୟବହାର କରିବ|</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Googleକୁ ସ୍ୱଚାଳିତ ଭାବେ ସମସ୍ୟା ଓ ଡିଭାଇସ୍ ତଥା ଆପ୍‌ ଦ୍ୱାରା ବ୍ୟବହୃତ ଡାଟା ବିଷୟରେ ସୂଚନା ପଠାଇ Androidକୁ ବିକଶିତ କରିବାରେ ସାହାଯ୍ୟ କରେ| ଏହା ଆପଣଙ୍କ ପିଲାକୁ ଚିହ୍ନଟ କରିବାରେ ବ୍ୟବହାର କରାଯାଇପାରିବ ନାହିଁ ଏବଂ ବ୍ୟାଟେରୀ ଜୀବନ, ଆପ୍ ସ୍ଥିରତା, ନେଟୱର୍କର ସଂଯୁକ୍ତତା ଓ ଅନେକ କିଛିକୁ ବିକଶିତ କରିବାରେ ସାହଯ୍ୟ କରିବ| ଯଦି ଆପଣଙ୍କ ପିଲା ପାଇଁ ଅତିରିକ୍ତ ୱେବ୍ ଓ ଆପ୍ କାର୍ଯ୍ୟକଳାପ ଚାଲୁ ରହିଥାଏ ତେବେ ଏହି ସୂଚନା ପିଲାର ଆକାଉଣ୍ଟରେ ଷ୍ଟୋର୍ ହେବ|</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"ଏହି ଡିଭାଇସ୍‍ ଓ ଏହାର ବ୍ୟବହାର କିପରି କରାଯାଏ (ଯେପରିକି ବ୍ୟାଟେରୀ ସ୍ତର, ଆପ୍ ଉପଯୋଗ, ଓ ନେଟ୍‍ୱର୍କ ସଂଯୋଗ), ସେହି ବିଷୟରେ ଏହା ହେଉଛି ସାମାନ୍ୟ ସୂଚନା। ପ୍ରତ୍ୟେକ ବ୍ୟକ୍ତିଙ୍କ ପାଇଁ Googleର ଉତ୍ପାଦ ଏବଂ ସେବାକୁ ଉତ୍ତମ କରିବା ପାଇଁ ଡାଟା ବ୍ୟବହାର କରାଯିବ। କିଛି ଏକତ୍ରିତ ସୂଚନା ପାର୍ଟନର୍‌ମାନଙ୍କୁ, ଯେପରିକି Android ଡେଭଲପର୍‍, ସେମାନଙ୍କ ଆପ୍ ଓ ଉତ୍ପାଦକୁ ଉତ୍ତମ କରିବାରେ ମଧ୍ୟ ସହାୟତା କରିଥାଏ। 
+
+ ଏହି ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକୁ ବନ୍ଦ କରିଦେଲେ ମଧ୍ୟ ଜରୁରୀ ସେବାକୁ ଏହି ଡିଭାଇସ୍‍ର ଆବଶ୍ୟକ ସୂଚନା ପଠାଇବାର ଦକ୍ଷତା ଉପରେ କୌଣସି ପ୍ରଭାବ ପଡେନାହିଁ, ଯେପରିକି ସିଷ୍ଟମ୍ ଅପଡେଟ୍‌ ଓ ସୁରକ୍ଷା।"</string>
+    <string name="setupservices_location_tos_title">ଲୋକେଶନ୍‍ ସେବାର ସର୍ତ୍ତାବଳୀ</string>
+    <string name="sid_lsid_grant_detail">ପାସ୍‌ୱର୍ଡ ଭଳି, ଅବଧି ଚିହ୍ନଟକରଣ (SID) ଏବଂ ସ୍ଥାନୀୟ ଅବଧି ଚିହ୍ନଟକରଣ (LSID) କୁକୀଗୁଡ଼ିକ, ଆପଣଙ୍କ ପରିଚୟ ସହିତ, ବ୍ରାଉଜର୍ଠାରୁ ନିରନ୍ତର ଆସୁଥିବା ଅନୁରୋଧଗୁଡ଼ିକ ଯୋଡ଼ିଥାଏ। ସେମାନେ ଆପଣଙ୍କ ଆକାଉଣ୍ଟରେ ଥିବା ସମସ୍ତ ଡାଟାକୁ ସମ୍ପୂର୍ଣ୍ଣଭାବେ ଆକ୍ସେସ୍‌ କରିବା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତି। ନିୟମ ଅନୁସାରେ କେବଳ ବ୍ରାଉଜର୍‌ ଦ୍ୱାରା ହିଁ ଏହି କୁକୀଗୁଡ଼ିକର ବ୍ୟବହାର କରାଯାଇଥାଏ।</string>
+    <string name="sid_lsid_grant_label">ନିଜର ସମସ୍ତ Google ଆକାଉଣ୍ଟ ଡାଟାର ଆକ୍ସେସ୍‌ ପାଇବା ପାଇଁ SID ଏବଂ LSID କୁକୀଗୁଡ଼ିକର ବ୍ୟବହାର କରନ୍ତୁ।</string>
+    <string name="smartdevice_action_copy">କପୀ କରନ୍ତୁ</string>
+    <string name="smartdevice_action_open_app">ଆପ୍‌ ଖୋଲନ୍ତୁ</string>
+    <string name="smartdevice_action_try_another_way">ଅନ୍ୟ ଉପାୟରେ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="smartdevice_action_turn_on_location">ଲୋକେଶନ୍‍ ଅନ୍‍ କରନ୍ତୁ</string>
+    <string name="smartdevice_alert_disconnected_title">ଡିଭାଇସ୍ ବିଚ୍ଛିନ୍ନ ହୋଇଛି</string>
+    <string name="smartdevice_alert_dm_backup_account_message">ଆପଣ ଏହି ବୈଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିପାରିବେ ନାହିଁ କାରଣ ଆପଣଙ୍କ ବ୍ୟାକଅପ୍‍ ଆକାଉଣ୍ଟ ଆପଣଙ୍କ ଡିଭାଇସ୍‍ ଆଡମିନିଷ୍ଟ୍ରେଟର୍‌ଙ୍କ ଦ୍ୱାରା ପରିଚାଳିତ।</string>
+    <string name="smartdevice_alert_dm_backup_account_title">ବୈଶିଷ୍ଟ୍ୟ ଅନୁପଲବ୍ଧ</string>
+    <string name="smartdevice_alert_exit_setup_message">ଆପଣ କ’ଣ ପ୍ରକୃତରେ ନିଜର ଅନ୍ୟ ଡିଭାଇସ୍‌ଗୁଡ଼ିକର ସେଟଅପ୍‌କୁ ବନ୍ଦ କରିଦେବାକୁ ଚାହୁଁଛନ୍ତି?</string>
+    <string name="smartdevice_alert_exit_setup_title">ଡିଭାଇସ୍ ସେଟଅପ୍‌ରୁ ବାହାରି ଯିବେ?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">ନିଜର ଡିଭାଇସ୍‌ ସେଟ୍ଅପ କରିବା ନିମନ୍ତେ, ଆପଣଙ୍କୁ ଅତିକମରେ ଗୋଟିଏ Google ଆକାଉଣ୍ଟ ଆବଶ୍ୟକ।</string>
+    <string name="smartdevice_alert_no_accounts_text">ନିଜର %s ସେଟଅପ୍ କରିବା ପାଇଁ, ଆପଣଙ୍କ ପାଖରେ ଅତିକମରେ ଗୋଟିଏ Google ଆକାଉଣ୍ଟ ଥିବା ଆବଶ୍ୟକ।</string>
+    <string name="smartdevice_alert_no_accounts_title">କପୀ କରିବା ପାଇଁ କୌଣସି ଆକାଉଣ୍ଟ ନାହିଁ</string>
+    <string name="smartdevice_alert_quit_button">ଛାଡ଼ିଦିଅନ୍ତୁ</string>
+    <string name="smartdevice_alert_restart_setup_button">ପୁଣି ସେଟଅପ୍ ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="smartdevice_alert_setup_incomplete">ସେଟଅପ୍ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇନଥିଲା</string>
+    <string name="smartdevice_alert_start_over_button">ଆରମ୍ଭ କରନ୍ତୁ</string>
+    <string name="smartdevice_alert_work_profile_message">ୱର୍କ ଆକାଉଣ୍ଟ ଏପର୍ଯ୍ୟନ୍ତ କପୀ କରି ହେବନାହିଁ। ଆପଣଙ୍କ ଅନ୍ୟ Google ଆକାଉଣ୍ଟ ଏବଂ ଡାଟା କପୀ ହେବା ପରେ, ଆପଣଙ୍କ ନୂଆ ଡିଭାଇସ୍‍‍‍‍ରେ ନିଜ ୱର୍କ ଆକାଉଣ୍ଟ ଯୋଡ଼ିବାକୁ ସେଟିଙ୍ଗକୁ ଯାଆନ୍ତୁ।</string>
+    <string name="smartdevice_alert_work_profile_title">ୱର୍କ ଆକାଉଣ୍ଟ କପୀ କରି ପାରିବନାହିଁ</string>
+    <string name="smartdevice_application_label">ଡିଭାଇସ୍ ସେଟଅପ୍</string>
+    <string name="smartdevice_choose_device">ନିଜ ଡିଭାଇସ୍ ବାଛନ୍ତୁ</string>
+    <string name="smartdevice_companion_app_ready">ଏହି ଡିଭାଇସ୍‌ରେ %s ଆପ୍ ଇନ୍‍ଷ୍ଟଲ୍‍ କରାଯାଇସାରିଛି।</string>
+    <string name="smartdevice_connect_to_wifi">ଆପଣଙ୍କର ଡିଭାଇସ୍ ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="smartdevice_connection_error">ଆପଣଙ୍କର ଅନ୍ୟ ଡିଭାଇସ୍‍ ସହ ସଂଯୋଗ କରିପାରିଲା ନାହିଁ</string>
+    <string name="smartdevice_connection_error_title">ସଂଯୋଗ କରିପାରିଲା ନାହିଁ</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">ଆପଣଙ୍କ ଡିଭାଇସ୍‌‍‍‍‍ ସହ ସଂଯୋଗ କରାଯାଉଛି…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">ନିଜର Google ଆକାଉଣ୍ଟଗୁଡ଼ିକୁ, ଅନ୍ୟ ଆକାଉଣ୍ଟଗୁଡ଼ିକୁ କପୀ କରନ୍ତୁ ଏବଂ ଯଦି ଉପଲବ୍ଧ ଥାଏ, ତେବେ Google ଡ୍ରାଇଭ୍‌ ବ୍ୟାକଅପ୍‌କୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_copy_account_text">ନିଜର Google ଆକାଉଣ୍ଟଗୁଡ଼ିକୁ କପୀ କରନ୍ତୁ ଏବଂ ଯଦି ଉପଲବ୍ଧ ଥାଏ, ତେବେ Google ଡ୍ରାଇଭ୍‌ ବ୍ୟାକଅପ୍‌କୁ ରିଷ୍ଟୋର୍‌ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_copy_account_title">ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସ୍‌କୁ କପୀ କରିବେ?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">ଚିହ୍ନଟ ହେଲା ନାହିଁ</string>
+    <string name="smartdevice_d2d_fingerprint_title">ନିଜର ଆଙ୍ଗୁଠି ଚିହ୍ନକୁ ସୁନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">ସୁରକ୍ଷା ଦୃଷ୍ଟିରୁ, ନିଜ ଆଙ୍ଗୁଠି ଚିହ୍ନ ନିଶ୍ଚିତ କରନ୍ତୁ। ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟ, ଆପ୍‍, ଏବଂ ଡାଟା ଆପଣଙ୍କ %sରେ କପୀ କରାଯିବ।</string>
+    <string name="smartdevice_d2d_lockscreen_description">ଆପଣଙ୍କର ଡିଭାଇସ୍‌ର ସେଟଅପ୍ ଚାଲୁ ରଖିବା ପାଇଁ ଅନଲକ୍‌ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">ସୁରକ୍ଷା ଦୃଷ୍ଟିରୁ, ସେଟଅପ୍‌ ଜାରି ରଖିବା ପାଇଁ ଆପଣଙ୍କୁ ସ୍କ୍ରୀନ୍ ଲକ୍‌ ନିଶ୍ଚିତ କରିବାକୁ ହେବ</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">ଅନ୍ୟ ଡିଭାଇସ୍‌କୁ ସେଟଅପ୍ କରାଯାଇପାରିବ ନାହିଁ, କାରଣ ଆପଣଙ୍କର ଡିଭାଇସ୍‌ରେ ବ୍ଲୁ-ଟୁଥ୍ ଉପଲବ୍ଧ ନାହିଁ।</string>
+    <string name="smartdevice_d2d_source_disabled_text">ସୁରକ୍ଷା ଦୃଷ୍ଟିରୁ, ଏହି ବୈଶିଷ୍ଟ୍ୟକୁ ଅକ୍ଷମ କରିଦିଆଯାଇଛି। ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ’ଛାଡ଼ିଦିଅନ୍ତୁ’କୁ ସ୍ପର୍ଶ କରନ୍ତୁ ଏବଂ ସେଟ୍‌ଅପ୍‌ ଜାରିରଖନ୍ତୁ।</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">ନୂଆ ଡିଭାଇସ୍‌ ସେଟଅପ୍ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">ଡିଭାଇସ୍‌ ସେଟଅପ୍‌</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 ସେଟଅପ୍</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">ସେଟଅପ୍‍କୁ ଆଉଥରେ ଆରମ୍ଭ କରନ୍ତୁ ଏଵଂ ନିଜର Google ଆକାଉଣ୍ଟ, ଆପ୍ ଓ ଡାଟାକୁ ଠିକ୍ ଡିଭାଇସ୍‍‍ରେ କପୀ କରିଛନ୍ତି ବୋଲି ସୁନିଶ୍ଚିତ ହେବାପାଇଁ ଆପଣଙ୍କର ^1 ଚୟନ କରନ୍ତୁ।</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">କୋଡ୍‌ ଦେଖାଯାଉନି?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">ପ୍ରତିବନ୍ଧିତ ୟୁଜର୍‌ ପ୍ରୋଫାଇଲ୍‍ରୁ ଏକ ନୂଆ ଡିଭାଇସ୍‌ର ସେଟଅପ୍ କରାଯାଇପାରିବ ନାହିଁ।</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">ଆପଣଙ୍କ %sରେ ସେଟଅପ୍‌ କରିବା ଜାରିରଖନ୍ତୁ</string>
+    <string name="smartdevice_d2d_source_setup_success">ପ୍ରାୟ ହୋଇଗଲାଣି!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">ଅନ୍ୟ Android ଡିଭାଇସ୍‌ରୁ କପୀ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">ଠିକ୍‌ ଅଛି, ଏହି ଡିଭାଇସ୍‌ ସେଟ୍‌ କରିବାକୁ ପରବର୍ତ୍ତୀ ପଦାଙ୍କର ପାଳନ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">ଆପଣଙ୍କ Google ଆକାଉଣ୍ଟ, ଆପ୍‌ ଓ ଡାଟା ନିଜର ଅନ୍ୟ ଡିଭାଇସରୁ କପୀ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_copying_accounts">ଆକାଉଣ୍ଟଗୁଡିକ କପୀ କରାଯାଉଛି…</string>
+    <string name="smartdevice_d2d_target_description">1. &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> କୁହନ୍ତୁ କିମ୍ବା \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" ଟାଇପ୍‌ କରନ୍ତୁ ଏବଂ ନିଶ୍ଚିତ କରିବାକୁ ଟାପ୍‌ କରନ୍ତୁ&lt;br/>&lt;br/> 2. ତାଲିକାରେ &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> ସ୍ପର୍ଶ କରନ୍ତୁ, ଏବଂ ଅନ୍‌-ସ୍କ୍ରୀନ୍‍ ନିର୍ଦ୍ଦେଶନାମା ଅନୁସରଣ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">ବଦଳରେ ଏହା ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_google_settings_description">ନିଜର ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ:&lt;br/>&lt;br/> 1. &lt;b> Google ସେଟିଙ୍ଗ&lt;/ b> ଆପ୍‌ ଖୋଲନ୍ତୁ &lt;br/>&lt;br/> 2.&lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/>%1$s&lt;/xliff:g>&lt;/ b>ଚୟନ କରନ୍ତୁ &lt;br/>&lt;br/> 3.ତାଲିକାରେ &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> ସ୍ପର୍ଶ କରନ୍ତୁ, ଏବଂ ଅନ୍‍-ସ୍କ୍ରୀନ୍‍ ନିର୍ଦ୍ଦେଶକୁ ପାଳନ କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_google_settings_link">ଏହି ପଦାଙ୍କଗୁଡ଼ିକ ସମ୍ପୂର୍ଣ୍ଣ କରାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">ସେଟିଙ୍ଗ ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_help_text">ସମସ୍ୟା ହେଉଛି?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">ଏହା ମିଳୁନାହିଁ?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ, Google ଆପ୍‌ ଖୋଲନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google ଆପ୍‌ ଖୋଲନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_instruction_title">ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ</string>
+    <string name="smartdevice_d2d_target_other_device_description">ସମସ୍ତ Android ଡିଭାଇସଗୁଡ଼ିକରେ Google ଆପ୍‌ ପୂର୍ବରୁ ଇନଷ୍ଟଲ୍‌ ହୋଇଥାଏ। ଆପଣଙ୍କ ସବୁ ଆପ୍‍କୁ ଦେଖନ୍ତୁ ଏବଂ ଉପରେ ଦେଖାଯାଇଥିବା Google ଆଇକନ୍‌‌ଟିକୁ ଖୋଜନ୍ତୁ।</string>
+    <string name="smartdevice_d2d_target_pin_code_description">ଏହି କୋଡ୍‌ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ଥିବା କୋଡ୍‌ ସହ ମେଳ ହେବା ଉଚିତ:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">ଏଡ଼ାନ୍ତୁ ନାହିଁ</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">ସେଟଅପ୍, ଏହି ଆକାଉଣ୍ଟ କିମ୍ୱା ବ୍ୟାକଅପ୍ ଆପ୍‌ଗୁଡ଼ିକୁ ତଥା ଡାଟାକୁ ଏହି ଡିଭାଇସ୍‌ରେ କପୀ କରିବନାହିଁ।</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">ଯାହା ହେଉ ଛାଡ଼ନ୍ତୁ</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">ଏହି ଆକାଉଣ୍ଟକୁ ଛାଡ଼ିଦେବେ?</string>
+    <string name="smartdevice_d2d_target_title">Google ଆପ୍‌ରେ</string>
+    <string name="smartdevice_do_disclosure_generic">ଡାଟା ଟ୍ରାନ୍ସଫର୍‌ କରିହେବ ନାହିଁ</string>
+    <string name="smartdevice_do_unsupported_message">ପରିଚାଳନା କରାଯାଇଥିବା ଡିଭାଇସରୁ ଡାଟା ଟ୍ରାନ୍ସଫର୍‌ କରିହେବ ନାହିଁ</string>
+    <string name="smartdevice_install_app">ଆପ୍‌କୁ ଇନଷ୍ଟଲ୍‌ କରନ୍ତୁ</string>
+    <string name="smartdevice_install_app_reason">ଏହି ଡିଭାଇସ୍‌ ମାଧ୍ୟମରେ ନିଜର ନୂଆ %2$s ନିୟନ୍ତ୍ରଣ ଏବଂ ପରିଚାଳନା କରିବା ପାଇଁ %1$s ଆପ୍‌ ଡାଉନଲୋଡ୍‌ କରନ୍ତୁ</string>
+    <string name="smartdevice_look_for_other_device">ଆପଣଙ୍କର ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ଏହି ନାମକୁ ଖୋଜନ୍ତୁ</string>
+    <string name="smartdevice_magicwand_cancel_signin">ସାଇନ୍ ଇନ୍ କରନ୍ତୁ ନାହିଁ</string>
+    <string name="smartdevice_magicwand_confirm_signin">ସାଇନ୍ ଇନ୍ ଆରମ୍ଭ ହେଲା</string>
+    <string name="smartdevice_magicwand_consent_detail">କୋଣସି ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ସାଇନ୍ ଇନ୍ କରିବା ପାଇଁ <b> ସାଇନ୍ ଇନ୍ କରନ୍ତୁ </b> ଉପରେ ଟାପ୍‌ କରନ୍ତୁ।</string>
+    <string name="smartdevice_magicwand_consent_title">ସାଇନ୍ ଇନ୍ ସମାପ୍ତ କରନ୍ତୁ</string>
+    <string name="smartdevice_magicwand_error_detail">କିଛି ଭୁଲ୍ ହୋଇଗଲା ଏବଂ ଏହି ଫୋନରୁ Google ଆପଣଙ୍କୁ ସାଇନ୍ ଇନ୍ କରାଇପାରିଲା ନାହିଁ।</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"ନିଜ ଆକାଉଣ୍ଟରେ ସାଇନ୍ ଇନ୍ କରିବା ପାଇଁ ଆପଣ ଏକ QR କୋଡ୍ ସ୍କାନ୍ କରିଛନ୍ତି। 
+
+ ଆପଣଙ୍କର ସୁରକ୍ଷା ପାଇଁ, ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ସାଇନ୍ ଇନ୍ କରିଛନ୍ତି ବୋଲି ଜଣାଇବାକୁ ଆଙ୍ଗୁଠି ଚିହ୍ନକୁ ପକ୍କା କରନ୍ତୁ।"</string>
+    <string name="smartdevice_magicwand_lockscreen_description">ଏହା ଏକ ସୁରକ୍ଷିତ ଡିଭାଇସ୍‌ ବୋଲି ସୁନିଶ୍ଚିତ କରିବାରେ ଏହି ଅତିରିକ୍ତ ପଦକ୍ଷେପ ସାହାଯ୍ୟ କରିଥାଏ।</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"ନିଜ ଆକାଉଣ୍ଟରେ ସାଇନ୍ ଇନ୍ କରିବା ପାଇଁ ଆପଣ ଏକ QR କୋଡ୍ ସ୍କାନ୍ କରିଛନ୍ତି। 
+
+ ଆପଣଙ୍କର ସୁରକ୍ଷା ପାଇଁ, ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ସାଇନ୍ ଇନ୍ କରିଛନ୍ତି ବୋଲି ଜଣାଇବାକୁ ନିଜର ସ୍କ୍ରୀନ୍‌ ଲକ୍‌ ପାଟର୍ନ ଦିଅନ୍ତୁ।"</string>
+    <string name="smartdevice_magicwand_selectaccount_description">ନିଜର ବ୍ରାଉଜର୍ ବ୍ୟହାର ଜାରି ରଖିବା ପାଇଁ</string>
+    <string name="smartdevice_magicwand_success_detail">ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ଥିବା ଆପଣଙ୍କ ବ୍ରାଉଜର୍‌କୁ ଫେରିଯାନ୍ତୁ।</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">ଆପଣଙ୍କର ଅନ୍ୟ ଡିଭାଇସ୍‌ଗୁଡ଼ିକରେ ଏହି ଆକାରଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ</string>
+    <string name="smartdevice_pairing_verify_shapes_title">ଆକାରଗୁଡ଼ିକୁ ଯାଞ୍ଚ କରନ୍ତୁ</string>
+    <string name="smartdevice_problem_copying">ଆପଣଙ୍କ ଅନ୍ୟ ଡିଭାଇସ୍‍କୁ ଡାଟା କପୀ କରିପାରିଲା ନାହିଁ</string>
+    <string name="smartdevice_problem_copying_title">ଡାଟା କପୀ କରିପାରିଲା ନାହିଁ</string>
+    <string name="smartdevice_search_again">ପୁଣି ଖୋଜନ୍ତୁ</string>
+    <string name="smartdevice_searching_for_devices">ଡିଭାଇସ୍ ଖୋଜା ହେଉଛି</string>
+    <string name="smartdevice_setup_info_installing_app">ଆପ୍‌କୁ ଇନଷ୍ଟଲ୍‌ କରାଯାଉଛି…</string>
+    <string name="smartdevice_setup_intro_text">ଅନ୍ୟ ଡିଭାଇସ୍‌କୁ ସେଟ୍ଅପ୍ କରିବା ନିମନ୍ତେ, ଆପଣଙ୍କ ଫୋନ୍‌ର ବ୍ଲୁ-ଟୁଥ୍ ଏବଂ ୱାଇ-ଫାଇ ଡାଟାକୁ ବ୍ୟବହାର କରାଯିବ</string>
+    <string name="smartdevice_setup_intro_text_nfc">ଆପଣଙ୍କର ଅନ୍ୟ ଡିଭାଇସ୍‍କୁ ସେଟ୍ଅପ୍ କରିବା ନିମନ୍ତେ, ଆପଣଙ୍କ ଫୋନ୍‍ର ବ୍ଲୁ-ଟୁଥ୍‍କୁ ବ୍ୟବହାର କରାଯିବ</string>
+    <string name="smartdevice_setup_intro_title">ଆରମ୍ଭ କରାଯାଉଛି</string>
+    <string name="smartdevice_setup_password_hint">ୱାଇ-ଫାଇର ପାସ୍‌ୱର୍ଡ ଲେଖନ୍ତୁ</string>
+    <string name="smartdevice_setup_show_password">ପାସ୍‌ୱର୍ଡ ଦେଖାନ୍ତୁ</string>
+    <string name="smartdevice_setup_title_verify_code">କୋଡ୍ ନିଶ୍ଚିତ କରନ୍ତୁ</string>
+    <string name="smartdevice_target_hotphrase_instructions">ଆପଣଙ୍କର ଅନ୍ୟ ଡିଭାଇସ୍‌ରେ ଥିବା ସର୍ଚ୍ଚ ବକ୍ସରେ &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> କୁହନ୍ତୁ କିମ୍ବା &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> ଟାଇପ୍ କରନ୍ତୁ|</string>
+    <string name="smartdevice_type_typing_ok_google">ଯଦି ଭଏସ୍ କମାଣ୍ଡ କାମ କରେ ନାହିଁ ତେବେ ସର୍ଚ୍ଚ ବକ୍ସରେ ଟାଇପ୍ କରିବା ପାଇଁ ଚେଷ୍ଟା କରନ୍ତୁ| \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\" ଟାଇପ୍ କରନ୍ତୁ</string>
+    <string name="smartdevice_verify_device">ଡିଭାଇସ୍‍ ଯାଞ୍ଚ କରନ୍ତୁ</string>
+    <string name="smartdevice_wifi_cannot_connect_description">ଏହି ଡିଭାଇସ୍‌ ସେଟ୍‌-ଅପ୍‌ କରିବାକୁ କେବଳ ଖୋଲା ନେଟ୍‌ୱର୍କ ଏବଂ WPA/WPA2 ନେଟ୍‌ୱର୍କଗୁଡ଼ିକ ବ୍ୟବହାର ରକରାଯାଇ‍ପାରିବ</string>
+    <string name="smartdevice_wifi_cannot_connect_title">ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ ବ୍ୟବହାର କରିହେବ ନାହିଁ</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"ୱାଇ-ଫାଇ ଖୋଜିବାକୁ, ଲୋକେଶନ୍‌ ଅନ୍‌ କରନ୍ତୁ।
+
+ପରେ ଆପଣ ଯେକୌଣସି ସମୟରେ ଏହାକୁ ସେଟିଙ୍ଗରେ ବଦଳାଇପାରିବେ।"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">ୱାଇ-ଫାଇ ନେଟ୍‍ୱର୍କ ଖୋଜି ହେଉନାହିଁ</string>
+    <string name="storage_management_wear_descriptive_text">ଡାଟାକୁ ପିନ୍ଧିବାଯୋଗ୍ୟକୁ ଡିଭାଇସ୍‌ ଭାବରେ ଦେଖାଇବା ପାଇଁ ଆପ୍, ଆପଣଙ୍କ ଡିଭାଇସ୍ ଷ୍ଟୋରେଜ୍‌ର ବ୍ୟବହାର କରିଥାଏ।</string>
+    <string name="storage_management_wear_manage_size_label">ପିନ୍ଧିବାଯୋଗ୍ୟ ଡିଭାଇସ୍‌ ଷ୍ଟୋରେଜ୍‌ର ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="storage_management_wear_size_label">ପିନ୍ଧିବାଯୋଗ୍ୟ ଷ୍ଟୋରେଜ୍</string>
+    <string name="storage_managment_all_storage_descriptive_text">ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍‌ ଓ ଅନ୍ୟାନ୍ୟ ଡାଟା ମିଶାଇ, Google Play ସେବାଗୁଡ଼ିକ ଦ୍ୱାରା ବ୍ୟବହୃତ ମୋଟ୍‌ ଡାଟା।</string>
+    <string name="storage_managment_clear_all_data">ସମସ୍ତ ଡାଟା ଖାଲି କରନ୍ତୁ</string>
+    <string name="storage_managment_computing_size">ଗଣନା ହେଉଛି…</string>
+    <string name="storage_managment_icing_size_label">ଡାଟା ସର୍ଚ୍ଚ କରନ୍ତୁ</string>
+    <string name="storage_managment_manage_icing_button">ସର୍ଚ୍ଚର ଡାଟା ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="storage_managment_search_index_descriptive_text">ଆପଣଙ୍କ ଆପ୍‌ ପାଇଁ ଆମେ ସର୍ଚ୍ଚ ଇଞ୍ଜିନ୍‌ର ସୁବିଧା ଦେଇଛୁ, ଯେଉଁଥିରୁ ଆପଣ ନିଜ ଡିଭାଇସ୍‌ରେ ଶୀଘ୍ର ଖୋଜିପାରିବେ।</string>
+    <string name="storage_managment_title">Google Play ସେବା ଷ୍ଟୋରେଜ୍‍</string>
+    <string name="storage_managment_total_size_label">ମୋଟ ଷ୍ଟୋରେଜ୍</string>
+    <string name="suw_back_button_label">ପଛକୁ ଫେରନ୍ତୁ</string>
+    <string name="suw_more_button_label">ଅଧିକ</string>
+    <string name="suw_next_button_label">ପରବର୍ତ୍ତୀ</string>
+    <string name="uncertified_notification_expired_content">Google ଆପ୍‍ ଓ ସେବାଗୁଡ଼ିକ ଏହି ଡିଭାଇସ୍‌ରେ ଆଉ କାମ କରୁନାହିଁ। ଅଧିକ ଜାଣିବା ପାଇଁ ଟାପ୍‌ କରନ୍ତୁ।</string>
+    <string name="uncertified_notification_expired_title">ରେଜିଷ୍ଟ୍ରେଶନ୍‍ ସମୟ ସମାପ୍ତ</string>
+    <string name="uncertified_notification_expiring_title">ରେଜିଷ୍ଟ୍ରେଶନ୍‌ର ସମୟ ଶେଷ ହୋଇଯାଉଛି</string>
+    <string name="use_nearby_device_heading">ଏକ ନିକଟସ୍ଥ ଡିଭାଇସ୍‌ ବ୍ୟବହାର କରିବେ?</string>
+    <string name="use_nearby_device_text">ତଥ୍ୟ ମଞ୍ଜୁର କରିବାକୁ ଏକ ନିକଟସ୍ଥ ଡିଭାଇସ୍‌ ବ୍ୟବହାର କରିବାକୁ ଚାହିଁବେ?</string>
+    <string name="verify_your_identity_description">%1$s ଆପଣ ନିଜେ ବୋଲି ନିଶ୍ଚିତ କରିବା ଆବଶ୍ୟକ କରେ।</string>
+    <string name="verify_your_identity_title">ଆପଣଙ୍କ ପରିଚୟ ଯାଞ୍ଚ କରାନ୍ତୁ</string>
+    <string name="waiting_for_account_info_text">ଆକାଉଣ୍ଟର ସୂଚନା ପାଇଁ ଅପେକ୍ଷା କରାଯାଉଛି...</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s necesită o actualizare a aplicației Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">O aplicație necesită activarea serviciilor Google Play.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitată de %1$s</string>
+    <string name="common_google_play_services_install_title">Descărcaţi Servicii Google Play</string>
+    <string name="common_google_play_services_install_text_phone">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe tabletă.</string>
+    <string name="common_google_play_services_install_button">Obţineţi Servicii Google Play</string>
+    <string name="common_google_play_services_enable_title">Activați Servicii Google Play</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_button">Activați Servicii Google Play</string>
+    <string name="common_google_play_services_update_title">Actualizaţi Servicii Google Play</string>
+    <string name="common_android_wear_update_title">Actualizați Android Wear</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_android_wear_update_text">%1$s nu va rula decât dacă actualizați aplicația Android Wear.</string>
+    <string name="common_google_play_services_updating_title">Se actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_network_error_title">Eroare de reţea</string>
+    <string name="common_google_play_services_network_error_text">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="common_google_play_services_invalid_account_title">Cont nevalid</string>
+    <string name="common_google_play_services_invalid_account_text">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="common_google_play_services_unknown_issue">Problemă necunoscută privind Servicii Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Servicii Google Play</string>
+    <string name="common_google_play_services_unsupported_text">%1$s se bazează pe serviciile Google Play, care nu sunt acceptate de dispozitiv. Contactați producătorul pentru asistență.</string>
+    <string name="common_google_play_services_update_button">Actualizaţi</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s necesită unul sau mai multe servicii Google Play, care momentan nu sunt disponibile. Contactați dezvoltatorul pentru asistență.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Conectarea nu a reușit</string>
+    <string name="common_google_play_services_sign_in_failed_text">Eroare la conectarea la contul specificat. Alegeți alt cont.</string>
+    <string name="app_name">Chip de încredere</string>
+    <string name="trusted_face_service_app_name">Serviciul Chip de încredere</string>
+    <string name="receiver_app_name">Receptor difuzare pentru Chip de încredere</string>
+    <string name="intro_screen_title">Despre chipul de încredere</string>
+    <string name="intro_screen_header">Deblocați-vă telefonul uitându-vă la acesta</string>
+    <string name="intro_screen_body_start">"Rețineți:
+"</string>
+    <string name="intro_screen_bullets">"Recunoașterea facială este mai puțin sigură decât un model, un cod PIN sau o parolă
+
+Cineva care seamănă cu dvs. v-ar putea debloca telefonul
+
+Datele folosite pentru a vă recunoaște chipul sunt păstrate în siguranță pe telefon"</string>
+    <string name="intro_screen_continue_label">Configurați</string>
+    <string name="instructions_screen_title">Adăugați un chip de încredere</string>
+    <string name="instructions_screen_header">Pentru rezultate optime:</string>
+    <string name="instructions_screen_bullets">"Găsiți un loc în interior care nu este nici prea luminos, nici prea întunecat
+
+Țineți telefonul la nivelul ochilor"</string>
+    <string name="instructions_screen_continue_label">Înainte</string>
+    <string name="enrollment_screen_title">Adăugați un chip de încredere</string>
+    <string name="enrollment_screen_message_initializing">Se pornește...</string>
+    <string name="enrollment_screen_message_initialization_error">Nu s-a putut iniția detectarea feței</string>
+    <string name="enrollment_screen_message_no_camera_permission_error">Permisiunea de acces la camera foto nu este acordată</string>
+    <string name="enrollment_screen_message_camera_error">Camera foto nu este disponibilă</string>
+    <string name="enrollment_start_message">Încadrați-vă fața în zona punctată</string>
+    <string name="enrollment_screen_message_instructions">Creștetul capului și bărbia trebuie să fie în cerc</string>
+    <string name="enrollment_screen_message_done">Față adăugată</string>
+    <string name="enrollment_screen_status_no_face">Expuneți-vă chipul</string>
+    <string name="enrollment_screen_status_face_off_center">O parte a chipului nu se vede</string>
+    <string name="enrollment_screen_status_missing_template">Nu vi se văd trăsăturile</string>
+    <string name="enrollment_screen_continue_label">Înainte</string>
+    <string name="enrollment_screen_done_label">Terminat</string>
+    <string name="enrollment_screen_talkback_preview_description">Previzualizare pe camera foto</string>
+    <string name="enrollment_screen_talkback_face_added">Față adăugată</string>
+    <string name="end_screen_title">Gata!</string>
+    <string name="end_screen_body">Pentru a debloca telefonul, este suficient să activați ecranul și să priviți spre camera foto</string>
+    <string name="end_screen_bullet_one_text">Telefonul se va debloca imediat ce vă recunoaște</string>
+    <string name="end_screen_bullet_two_text">Dacă dispozitivul nu vă recunoaște chipul, deblocați-l folosind modelul, codul PIN sau parola</string>
+    <string name="end_screen_tip_text">Sfat: îmbunătățiți recunoașterea chipului arătându-vă în diferite condiții</string>
+    <string name="end_screen_licenses_label">Licențe</string>
+    <string name="end_screen_continue_label">Terminat</string>
+    <string name="add_to_setup_intro_screen_title">Îmbunătățiți recunoașterea chipului</string>
+    <string name="add_to_setup_intro_screen_header">Arătați-vă în diferite condiții</string>
+    <string name="add_to_setup_intro_screen_body_start">"Exemple:
+"</string>
+    <string name="add_to_setup_intro_screen_bullets">"În diferite condiții de iluminare
+
+Cu sau fără ochelari cu dioptrii
+
+Cu barbă sau bărbierit
+
+"</string>
+    <string name="add_to_setup_intro_screen_body_end">Țineți telefonul la nivelul ochilor</string>
+    <string name="add_to_setup_intro_screen_continue_label">Înainte</string>
+    <string name="license_screen_title">Licențe</string>
+    <string name="license_screen_header">Notificări open source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="license_screen_description">Funcția „Chip de încredere“ poate să folosească părți din următoarele biblioteci open source, licențiate conform licențelor de mai jos:</string>
+    <string name="license_screen_notices_header">Notificări privind bibliotecile:</string>
+    <string name="shared_cancel_label">Anulați</string>
+    <string name="reenrollment_notification_title">Smart Lock</string>
+    <string name="reenrollment_notification_text">Recunoașterea facială s-a modificat. Pentru a o folosi în continuare, adăugați încă o dată chipul de încredere.</string>
+</resources>

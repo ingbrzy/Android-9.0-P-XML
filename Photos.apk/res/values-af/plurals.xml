@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Hierdie items is te groot vir jou toestel se asblik. As jy hulle uitvee, sal hulle permanent van jou toestel en rekening af verwyder word.</item>
+        <item quantity="one">Hierdie item is te groot vir jou toestel se asblik. As jy dit uitvee, sal dit permanent van jou toestel en rekening af verwyder word.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d items geskandeer</item>
+        <item quantity="one">%1$d item geskandeer</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d items gekies</item>
+        <item quantity="one">%1$d item gekies</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Nuwe albumgrootte sou groter gewees het as huidige limiet van %1$d items.</item>
+        <item quantity="one">Nuwe albumgrootte sou groter gewees het as huidige limiet van %1$d item.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Album sou dan %1$d items hê.</item>
+        <item quantity="one">Album sou dan %1$d item hê.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d liggings is bygevoeg</item>
+        <item quantity="one">%d ligging is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d liggings</item>
+        <item quantity="one">%d ligging</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d kaarte</item>
+        <item quantity="one">%d kaart</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d kaarte is bygevoeg</item>
+        <item quantity="one">%d kaart is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Verwyder tans items uit hierdie album …</item>
+        <item quantity="one">Verwyder tans item uit hierdie album …</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d items is verwyder</item>
+        <item quantity="one">%d item is verwyder</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">"Verwyder tans foto's uit hierdie album …"</item>
+        <item quantity="one">Verwyder tans foto uit hierdie album …</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">"Verwyder tans video's uit hierdie album …"</item>
+        <item quantity="one">Verwyder tans video uit hierdie album …</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Vee van toestel af uit (%d)</item>
+        <item quantity="one">Vee van toestel af uit (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Vee alles van toestel af uit (%d)</item>
+        <item quantity="one">Vee alles van toestel af uit (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Skuif na asblik (%d)</item>
+        <item quantity="one">Skuif na asblik (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d items is geargiveer</item>
+        <item quantity="one">%d item is geargiveer</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d items is gedeargiveer</item>
+        <item quantity="one">%d item is gedeargiveer</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d is gekies</item>
+        <item quantity="one">%d is gekies</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Laai tans %d items op</item>
+        <item quantity="one">Laai tans %d item op</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">"%d foto's oor"</item>
+        <item quantity="one">%d foto oor</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">"%d foto's moet nog gerugsteun word"</item>
+        <item quantity="one">%d foto moet nog gerugsteun word</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">"%1$d foto's • %2$s"</item>
+        <item quantity="one">%1$d foto • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Rugsteun %1$d items?</item>
+        <item quantity="one">Rugsteun %1$d item?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Laai tans %1$d items op</item>
+        <item quantity="one">Laai tans %1$d item op</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">"%1$d foto's is nie gerugsteun nie"</item>
+        <item quantity="one">%1$d foto is nie gerugsteun nie</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Hou %1$d items veilig</item>
+        <item quantity="one">Hou %1$d item veilig</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Laai tans %d items op</item>
+        <item quantity="one">Laai tans %d item op</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">"Laai tans %d video's op"</item>
+        <item quantity="one">Laai tans %d video op</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d items om op te laai</item>
+        <item quantity="one">%d item om op te laai</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">"%d video's om op te laai"</item>
+        <item quantity="one">%d video om op te laai</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">"Al %d foto's"</item>
+        <item quantity="one">Al %d foto</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">"%d foto's is nie gerugsteun nie"</item>
+        <item quantity="one">%d foto is nie gerugsteun nie</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d items is bygevoeg</item>
+        <item quantity="one">%1$d item is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">"'n Album kan nie meer as %d items hou nie."</item>
+        <item quantity="one">"'n Album kan nie meer as %d item hou nie."</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Kies op die meeste %d items.</item>
+        <item quantity="one">Kies op die meeste %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Kies minstens %d items.</item>
+        <item quantity="one">Kies minstens %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">"Kies asseblief items binne 'n bestek van %d dae."</item>
+        <item quantity="one">"Kies asseblief items binne 'n bestek van %d dag."</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d items is bygevoeg</item>
+        <item quantity="one">%d item is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d dae gelede</item>
+        <item quantity="one">%d dag gelede</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d u.</item>
+        <item quantity="one">%d u.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d uur gelede</item>
+        <item quantity="one">%d uur gelede</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d w.</item>
+        <item quantity="one">%d w.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d weke gelede</item>
+        <item quantity="one">%d week gelede</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d m.</item>
+        <item quantity="one">%d m.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d minute gelede</item>
+        <item quantity="one">%d minuut gelede</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d d.</item>
+        <item quantity="one">%d d.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d dae gelede</item>
+        <item quantity="one">%d dag gelede</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">"%1$d items op jou toestel sal verwyder word. Moenie bekommerd wees nie – hulle sal in Google Foto's bly."</item>
+        <item quantity="one">"%1$d item op jou toestel sal verwyder word. Moenie bekommerd wees nie – dit sal in Google Foto's bly."</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Verwyder %1$d items van toestel</item>
+        <item quantity="one">Verwyder %1$d item van toestel</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">"Verwyder %1$d foto's of video's op toestel"</item>
+        <item quantity="one">Verwyder %1$d foto of video op toestel</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">"Verwyder tans %1$d oorspronklike foto's en video's"</item>
+        <item quantity="one">Verwyder tans %1$d oorspronklike foto of video</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d nuwe kaarte</item>
+        <item quantity="one">1 nuwe kaart</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d items is bygevoeg</item>
+        <item quantity="one">%d item is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d opdaterings</item>
+        <item quantity="one">%1$d opdatering</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d opmerkings</item>
+        <item quantity="one">%1$d opmerking</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Stoor tans items in biblioteek …</item>
+        <item quantity="one">Stoor tans item in biblioteek …</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d items is bygevoeg</item>
+        <item quantity="one">%d item is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Jy kan net nog %d items byvoeg.</item>
+        <item quantity="one">Jy kan net nog %d item byvoeg.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Vee vouer en %d items daarin uit</item>
+        <item quantity="one">Vee vouer en %d item daarin uit</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Vee uit op toestel (%d)</item>
+        <item quantity="one">Vee uit op toestel (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d items kon nie gekopieer word nie</item>
+        <item quantity="one">%d item kon nie gekopieer word nie</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d items is gekopieer</item>
+        <item quantity="one">%d item is gekopieer</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d items kon nie geskuif word nie</item>
+        <item quantity="one">%d item kon nie geskuif word nie</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d items is geskuif</item>
+        <item quantity="one">%d item is geskuif</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Voeg by album gedeel met %1$d mense?</item>
+        <item quantity="one">Voeg by album gedeel met %1$d persoon?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Voeg by album gedeel met %1$s en %2$d ander mense?</item>
+        <item quantity="one">Voeg by album gedeel met %1$s en %2$d ander persoon?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Voeg by album gedeel met %1$s, %2$s en %3$d ander mense?</item>
+        <item quantity="one">Voeg by album gedeel met %1$s, %2$s en %3$d ander persoon?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Stuur na %1$s en %2$d ander mense?</item>
+        <item quantity="one">Stuur na %1$s en %2$d ander persoon?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Stuur na %1$s, %2$s en %3$d ander mense?</item>
+        <item quantity="one">Stuur na %1$s, %2$s en %3$d ander persoon?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">"Foto's van %d mense"</item>
+        <item quantity="one">"Foto's van %d persoon"</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">"Foto's van %d geselekteerde gesigte"</item>
+        <item quantity="one">"Foto's van %d geselekteerde gesig"</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d is gekies</item>
+        <item quantity="one">%d is gekies</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d gesigte is gekies</item>
+        <item quantity="one">%d gesig is gekies</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">"Foto's van %1$d geselekteerde gesigte, sedert %2$s"</item>
+        <item quantity="one">"Foto's van %1$d geselekteerde gesig, sedert %2$s"</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">"Foto's van %d geselekteerde gesigte"</item>
+        <item quantity="one">"Foto's van %d geselekteerde gesig"</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">"%1$d foto's is verwyder"</item>
+        <item quantity="one">%1$d foto is verwyder</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Kies net %d mense</item>
+        <item quantity="one">Kies net %d persoon</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d ekstra bladsye</item>
+        <item quantity="one">%d ekstra bladsy</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d bladsye</item>
+        <item quantity="one">%d bladsy</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">"Voeg nog %d foto's by om te koop"</item>
+        <item quantity="one">Voeg nog %d foto by om te koop</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">"%d foto's is bygevoeg"</item>
+        <item quantity="one">%d foto is bygevoeg</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">"Die foto's is dalk uitgevee of ontdeel"</item>
+        <item quantity="one">Die foto is dalk uitgevee of ontdeel</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">"%d foto's is nie meer beskikbaar nie"</item>
+        <item quantity="one">%d foto is nie meer beskikbaar nie</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">"%d foto's is verwyder"</item>
+        <item quantity="one">%d foto is verwyder</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d ekstra bladsye</item>
+        <item quantity="one">%d ekstra bladsy</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d bladsye</item>
+        <item quantity="one">%d bladsy</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">"Net %d foto's kan gedruk word; "</item>
+        <item quantity="one">Net %d foto kan gedruk word, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">"%d foto's is vir jou voorgestel"</item>
+        <item quantity="one">%d foto is vir jou voorgestel</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">"%d foto's voorgestel"</item>
+        <item quantity="one">%d foto voorgestel</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">"foto's of video's"</item>
+        <item quantity="one">foto of video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">"foto's"</item>
+        <item quantity="one">foto</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">"video's"</item>
+        <item quantity="one">video</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">%d troeteldiere gekry</item>
+        <item quantity="one">%d troeteldier gekry</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">"Plus %1$d plekke op jou foto's"</item>
+        <item quantity="one">"Plus %1$d plek op jou foto's"</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">"Plus %1$d dinge op jou foto's"</item>
+        <item quantity="one">"Plus %1$d ding op jou foto's"</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">"Plus %1$d plekke en goed in jou foto's"</item>
+        <item quantity="one">"Plus %1$d plekke en goed in jou foto's"</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d mense gevind</item>
+        <item quantity="one">%1$d mens gevind</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d plekke gevind</item>
+        <item quantity="one">%1$d plek gevind</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d dinge gevind</item>
+        <item quantity="one">%1$d ding gevind</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">"%d foto's"</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Plus %1$d plekke</item>
+        <item quantity="one">Plus %1$d plek</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Plus %1$d dinge</item>
+        <item quantity="one">Plus %1$d ding</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Plus %1$d dinge en plekke</item>
+        <item quantity="one">Plus %1$d dinge en plekke</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">"Sien %1$d mense wat op jou foto's verskyn"</item>
+        <item quantity="one">"Sien %1$d persoon wat op jou foto's verskyn"</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">%1$d mense is gekry</item>
+        <item quantity="one">%1$d persoon is gekry</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">%1$d plekke is gekry</item>
+        <item quantity="one">%1$d plek is gekry</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">%1$d dinge is gekry</item>
+        <item quantity="one">%1$d ding is gekry</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">"Sien %1$d dinge wat op jou foto's verskyn"</item>
+        <item quantity="one">"Sien %1$d ding wat op jou foto's verskyn"</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d items is gekies</item>
+        <item quantity="one">%1$d item is gekies</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d is gekies</item>
+        <item quantity="one">%d is gekies</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d items is by die album gevoeg</item>
+        <item quantity="one">%d item is by die album gevoeg</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Laai tans %d items op</item>
+        <item quantity="one">Laai tans %d item op</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">"%d items sal oplaai wanneer daar 'n verbinding is"</item>
+        <item quantity="one">"%d item sal oplaai wanneer daar 'n verbinding is"</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s en %2$d ander mense</item>
+        <item quantity="one">%1$s en %2$d ander persoon</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">"Voeg %d verwante foto's by?"</item>
+        <item quantity="one">Voeg %d verwante foto by?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">"%1$d nuwe foto's"</item>
+        <item quantity="one">%1$d nuwe foto</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">"%1$s het %2$d nuwe foto's bygevoeg"</item>
+        <item quantity="one">%1$s het %2$d nuwe foto bygevoeg</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">"%1$d mense is op jou foto's gekry"</item>
+        <item quantity="one">"%1$d persoon is op jou foto's gekry"</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">"%1$d plekke is op jou foto's gekry"</item>
+        <item quantity="one">"%1$d plek is op jou foto's gekry"</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">"%1$d dinge is op jou foto's gekry"</item>
+        <item quantity="one">"%1$d ding is op jou foto's gekry"</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Kan nie items uitvee nie</item>
+        <item quantity="one">Kan nie item uitvee nie</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d items kon nie uitgevee word nie</item>
+        <item quantity="one">%d item kon nie uitgevee word nie</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Kan %d items nie permanent uitvee nie</item>
+        <item quantity="one">Kan %d item nie permanent uitvee nie</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Vee tans items permanent uit …</item>
+        <item quantity="one">Vee tans item permanent uit …</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d items is permanent uitgevee</item>
+        <item quantity="one">%d item is permanent uitgevee</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d is van toestel af uitgevee</item>
+        <item quantity="one">%d is van toestel af uitgevee</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Herwin items tans …</item>
+        <item quantity="one">Herwin item tans …</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d items kan nie herwin word nie</item>
+        <item quantity="one">%d item kon nie herwin word nie</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d items is uit die asblik herwin</item>
+        <item quantity="one">%d item is uit die asblik herwin</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Vee items permanent uit?</item>
+        <item quantity="one">Vee item permanent uit?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Vee %d items uit?</item>
+        <item quantity="one">Vee %d item uit?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Vee %d items permanent uit</item>
+        <item quantity="one">Vee %d item permanent uit</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">"%d dae oor voordat hierdie weergawe verstryk. Dateer nou op om aan te hou om Google Foto's te gebruik."</item>
+        <item quantity="one">"1 dag oor voordat hierdie weergawe verstryk. Dateer nou op om aan te hou om Google Foto's te gebruik."</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Laai tans %d items op</item>
+        <item quantity="one">Laai tans %d item op</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">"%d items sal opgelaai word wanneer daar 'n verbinding is"</item>
+        <item quantity="one">"%d item sal opgelaai word wanneer daar 'n verbinding is"</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">"%d sal opgelaai word wanneer daar 'n Wi-Fi-verbinding is"</item>
+        <item quantity="one">"%d item sal opgelaai word wanneer daar 'n Wi-Fi-verbinding is"</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Jy sal ongeveer %s se data gebruik om hierdie items nou te rugsteun. Koppel aan Wi-Fi en vermy dit om data te gebruik.</item>
+        <item quantity="one">Jy sal ongeveer %s se data gebruik om hierdie item nou te rugsteun. Koppel aan Wi-Fi en vermy dit om data te gebruik.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Van jou data sal gebruik word om hierdie items te rugsteun. Koppel aan Wi-Fi en vermy dit om data te gebruik.</item>
+        <item quantity="one">Van jou data sal gebruik word om hierdie item te rugsteun. Koppel aan Wi-Fi en vermy dit om data te gebruik.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Laai tans op … %d oor</item>
+        <item quantity="one">Laai tans op … %d oor</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d lêers</item>
+        <item quantity="one">%d lêer</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">"%s foto's"</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s items</item>
+        <item quantity="one">%s item</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">"%s video's"</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">"Kies foto's"</item>
+        <item quantity="one">"Kies 'n foto"</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Kies items</item>
+        <item quantity="one">"Kies 'n item"</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">"Kies video's"</item>
+        <item quantity="one">"Kies 'n video"</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">en %d ander mense</item>
+        <item quantity="one">en %d ander persoon</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d kontakmetodes</item>
+        <item quantity="one">%1$s. %2$d kontakmetode</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d lede</item>
+        <item quantity="one">%d lid</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d gekies</item>
+        <item quantity="one">%d gekies</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d van %2$d lede is gekies</item>
+        <item quantity="one">%1$d van %2$d lid is gekies</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d lede is gekies</item>
+        <item quantity="one">%d lid is gekies</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Jou toestel se asblik is vol. As jy hierdie items uitvee, sal hulle permanent van jou toestel en rekening af verwyder word.</item>
+        <item quantity="one">Jou toestel se asblik is vol. As jy hierdie item uitvee, sal dit permanent van jou toestel en rekening af verwyder word.</item>
+    </plurals>
+</resources>

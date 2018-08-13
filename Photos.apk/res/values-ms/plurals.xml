@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">Item ini terlalu besar untuk sampah peranti anda. Jika item ini dipadamkan, item ini akan dialih keluar daripada peranti &amp; akaun anda selama-lamanya.</item>
+        <item quantity="one">Item ini terlalu besar untuk sampah peranti anda. Jika item ini dipadamkan, item ini akan dialih keluar daripada peranti &amp; akaun anda selama-lamanya.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d item diimbas</item>
+        <item quantity="one">%1$d item diimbas</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d item dipilih</item>
+        <item quantity="one">%1$d item dipilih</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">Saiz album baharu adalah lebih besar daripada had semasa %1$d item.</item>
+        <item quantity="one">Saiz album baharu adalah lebih besar daripada had semasa %1$d item.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">Album mengandungi %1$d item.</item>
+        <item quantity="one">Album mengandungi %1$d item.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%d lokasi ditambah</item>
+        <item quantity="one">%d lokasi ditambah</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d lokasi</item>
+        <item quantity="one">%d lokasi</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d peta</item>
+        <item quantity="one">%d peta</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%d peta ditambah</item>
+        <item quantity="one">%d peta ditambah</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">Mengalih keluar item daripada album ini…</item>
+        <item quantity="one">Mengalih keluar item daripada album ini…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d item dialih keluar</item>
+        <item quantity="one">%d item dialih keluar</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">Mengalih keluar foto daripada album ini…</item>
+        <item quantity="one">Mengalih keluar foto daripada album ini…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">Mengalih keluar video daripada album ini…</item>
+        <item quantity="one">Mengalih keluar video daripada album ini…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d item</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">Padamkan daripada peranti (%d)</item>
+        <item quantity="one">Padamkan daripada peranti (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">Padamkan semua daripada peranti (%d)</item>
+        <item quantity="one">Padamkan semua daripada peranti (%d)</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">Alihkn ke sampah (%d)</item>
+        <item quantity="one">Alihkn ke sampah (%d)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d diarkibkan</item>
+        <item quantity="one">%d item diarkibkan</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d dinyaharkibkan</item>
+        <item quantity="one">%d item dinyaharkibkan</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">%d dipilih</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">Memuat naik %d item</item>
+        <item quantity="one">Memuat naik %d item</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%d foto lagi</item>
+        <item quantity="one">%d foto lagi</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%d foto lagi untuk disandarkan</item>
+        <item quantity="one">%d foto lagi untuk disandarkan</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d foto • %2$s</item>
+        <item quantity="one">%1$d foto • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">Sandarkan %1$d item?</item>
+        <item quantity="one">Sandarkan %1$d item?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">Memuat naik %1$d item</item>
+        <item quantity="one">Memuat naik %1$d item</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d foto belum disandarkan</item>
+        <item quantity="one">%1$d foto belum disandarkan</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">Pastikan %1$d item selamat</item>
+        <item quantity="one">Pastikan %1$d item selamat</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">Memuat naik %d item</item>
+        <item quantity="one">Memuat naik %d item</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">Memuat naik %d video</item>
+        <item quantity="one">Memuat naik %d video</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d item untuk dimuat naik</item>
+        <item quantity="one">%d item untuk dimuat naik</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d video untuk dimuat naik</item>
+        <item quantity="one">%d video untuk dimuat naik</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">Kesemua %d foto</item>
+        <item quantity="one">Semua %d foto</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d foto tidak disandarkan</item>
+        <item quantity="one">%d foto tidak disandarkan</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$d item ditambahkan</item>
+        <item quantity="one">%1$d item ditambahkan</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">Album hanya dapat menyimpan paling banyak %d item.</item>
+        <item quantity="one">Album hanya dapat menyimpan paling banyak %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">Pilih paling banyak %d item.</item>
+        <item quantity="one">Pilih paling banyak %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">Pilih sekurang-kurangnya %d item.</item>
+        <item quantity="one">Pilih sekurang-kurangnya %d item.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">Sila pilih item dalam julat %d hari.</item>
+        <item quantity="one">Sila pilih item dalam julat %d hari.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d item ditambah</item>
+        <item quantity="one">%d item ditambah</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d hari lalu</item>
+        <item quantity="one">%d hari lalu</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%dj</item>
+        <item quantity="one">%dj</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d jam lalu</item>
+        <item quantity="one">%d jam lalu</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%dmgu</item>
+        <item quantity="one">%dmgu</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d minggu lalu</item>
+        <item quantity="one">%d minggu lalu</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d minit lalu</item>
+        <item quantity="one">%d minit lalu</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d hari lalu</item>
+        <item quantity="one">%d hari lalu</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d item akan dialih keluar daripada peranti anda. Jangan bimbang, item tersebut akan kekal dalam Google Photos.</item>
+        <item quantity="one">%1$d item akan dialih keluar daripada peranti anda. Jangan bimbang, item tersebut akan kekal dalam Google Photos.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">Alih keluar %1$d item daripada peranti</item>
+        <item quantity="one">Alih keluar %1$d item daripada peranti</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">Alih keluar %1$d foto &amp; video daripada peranti</item>
+        <item quantity="one">Alih keluar %1$d foto atau video daripada peranti</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">Mengalih keluar %1$d foto &amp; video asal</item>
+        <item quantity="one">Mengalih keluar %1$d foto atau video asal</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d kad baharu</item>
+        <item quantity="one">1 kad baharu</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">%d item ditambahkan</item>
+        <item quantity="one">%d item ditambahkan</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d kemas kini</item>
+        <item quantity="one">%1$d kemas kini</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d ulasan</item>
+        <item quantity="one">%1$d ulasan</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">Menyimpan item ke pustaka…</item>
+        <item quantity="one">Menyimpan item ke pustaka…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d item ditambah</item>
+        <item quantity="one">%d item ditambah</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">Anda hanya boleh menambah %d item lagi.</item>
+        <item quantity="one">Anda hanya boleh menambah %d item lagi.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">Padamkan folder dan %d item yang terdapat dalam folder itu</item>
+        <item quantity="one">Padamkan folder dan %d item yang terdapat dalam folder itu</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">Padamkan daripada peranti (%d)</item>
+        <item quantity="one">Padamkan daripada peranti (%d)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">Terdapat masalah menyalin %d item</item>
+        <item quantity="one">Terdapat masalah menyalin %d item</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%d item disalin</item>
+        <item quantity="one">%d item disalin</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">Terdapat masalah mengalihkan %d item</item>
+        <item quantity="one">Terdapat masalah mengalihkan %d item</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%d item dialihkan</item>
+        <item quantity="one">%d item dialihkan</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">Tambahkan pada album dikongsi dengan %1$d orang?</item>
+        <item quantity="one">Tambahkan pada album dikongsi dengan %1$d orang?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">Tambahkan pada album dikongsi dengan %1$s &amp; %2$d yang lain?</item>
+        <item quantity="one">Tambahkan pada album dikongsi dengan %1$s &amp; %2$d yang lain?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">Tambahkan pada album dikongsi dengan %1$s, %2$s &amp; %3$d yang lain?</item>
+        <item quantity="one">Tambahkan pada album dikongsi dengan %1$s, %2$s &amp; %3$d yang lain?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">Hantar kepada %1$s &amp; %2$d yang lain?</item>
+        <item quantity="one">Hantar kepada %1$s &amp; %2$d yang lain?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">Hantar kepada %1$s, %2$s &amp; %3$d yang lain?</item>
+        <item quantity="one">Hantar kepada %1$s, %2$s &amp; %3$d yang lain?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">Foto %d pengguna</item>
+        <item quantity="one">Foto %d pengguna</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">Foto %d wajah yang dipilih</item>
+        <item quantity="one">Foto %d wajah yang dipilih</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">%d dipilih</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">%d wajah dipilih</item>
+        <item quantity="one">%d wajah dipilih</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">Foto %1$d wajah yang dipilih, sejak %2$s</item>
+        <item quantity="one">Foto %1$d wajah yang dipilih, sejak %2$s</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">Foto %d wajah yang dipilih</item>
+        <item quantity="one">Foto %d wajah yang dipilih</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">%1$d foto dialih keluar</item>
+        <item quantity="one">%1$d foto dialih keluar</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">Pilih %d orang sahaja</item>
+        <item quantity="one">Pilih %d orang sahaja</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">%d halaman tambahan</item>
+        <item quantity="one">%d halaman tambahan</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d halaman</item>
+        <item quantity="one">%d halaman</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">Tambahkan %d lagi foto yang hendak dibeli</item>
+        <item quantity="one">Tambahkan %d lagi foto yang hendak dibeli</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">%d foto ditambah</item>
+        <item quantity="one">%d foto ditambah</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">Foto mungkin telah dipadamkan atau dinyahkongsi.</item>
+        <item quantity="one">Foto mungkin telah dipadamkan atau dinyahkongsi.</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d sudah tiada lagi</item>
+        <item quantity="one">%d foto sudah tiada lagi</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">%d foto dialih keluar</item>
+        <item quantity="one">%d foto dialih keluar</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">%d halaman lagi</item>
+        <item quantity="one">%d halaman lagi</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d halaman</item>
+        <item quantity="one">%d halaman</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">Hanya %d foto boleh dicetak, </item>
+        <item quantity="one">Hanya %d foto boleh dicetak, </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">%d foto dicadangkan untuk anda</item>
+        <item quantity="one">%d foto dicadangkan untuk anda</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">%d foto dicadangkan</item>
+        <item quantity="one">%d foto dicadangkan</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">foto atau video</item>
+        <item quantity="one">foto atau video</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">foto</item>
+        <item quantity="one">foto</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">video</item>
+        <item quantity="one">video</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">%d haiwan kesayangan ditemui</item>
+        <item quantity="one">%d haiwan kesayangan ditemui</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">Serta %1$d tempat dalam foto anda</item>
+        <item quantity="one">Termasuk %1$d tempat dalam foto anda</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">Serta %1$d benda dalam foto anda</item>
+        <item quantity="one">Termasuk %1$d benda dalam foto anda</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">Termasuk %1$d tempat &amp; benda dalam foto anda</item>
+        <item quantity="one">Termasuk %1$d tempat &amp; benda dalam foto anda</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d orang ditemui</item>
+        <item quantity="one">%1$d orang ditemui</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$d tempat ditemui</item>
+        <item quantity="one">%1$d tempat ditemui</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$d benda ditemui</item>
+        <item quantity="one">%1$d benda ditemui</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">Serta %1$d tempat</item>
+        <item quantity="one">Serta %1$d tempat</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">Serta %1$d benda</item>
+        <item quantity="one">Serta %1$d benda</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">Serta %1$d benda &amp; tempat</item>
+        <item quantity="one">Serta %1$d benda &amp; tempat</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">Lihat %1$d orang daripada foto anda</item>
+        <item quantity="one">Lihat %1$d orang daripada foto anda</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">%1$d orang ditemui</item>
+        <item quantity="one">%1$d orang ditemui</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">%1$d tempat ditemui</item>
+        <item quantity="one">%1$d tempat ditemui</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">%1$d benda ditemui</item>
+        <item quantity="one">%1$d benda ditemui</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">Lihat %1$d benda daripada foto anda</item>
+        <item quantity="one">Lihat %1$d benda daripada foto anda</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d item dipilih</item>
+        <item quantity="one">%1$d item dipilih</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">%d dipilih</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d item ditambahkan pada album</item>
+        <item quantity="one">%d item ditambahkan pada album</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">Memuat naik %d item</item>
+        <item quantity="one">Memuat naik %d item</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">%d item akan dimuat naik apabila disambungkan</item>
+        <item quantity="one">%d item akan dimuat naik apabila disambungkan</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s &amp; %2$d yang lain</item>
+        <item quantity="one">%1$s &amp; %2$d yang lain</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">Tambah%d foto yang berkaitan?</item>
+        <item quantity="one">Tambah %d foto yang berkaitan?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d foto baharu</item>
+        <item quantity="one">%1$d foto baharu</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s menambah %2$d foto baharu</item>
+        <item quantity="one">%1$s menambah %2$d foto baharu</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">%1$d orang ditemui dalam foto anda</item>
+        <item quantity="one">%1$d orang ditemui dalam foto anda</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">%1$d tempat ditemui dalam foto anda</item>
+        <item quantity="one">%1$d tempat ditemui dalam foto anda</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">%1$d benda ditemui dalam foto anda</item>
+        <item quantity="one">%1$d benda ditemui dalam foto anda</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">Tidak dapat memadamkan item</item>
+        <item quantity="one">Tidak dapat memadamkan item</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">Tidak dapat memadamkan %d item</item>
+        <item quantity="one">Tidak dapat memadamkan %d item</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">Tidak dapat memadamkan %d item selama-lamanya</item>
+        <item quantity="one">Tidak dapat memadamkan %d item secara kekal</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">Memadamkan item selama-lamanya...</item>
+        <item quantity="one">Memadamkan item selama-lamanya...</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d item dipadamkan selama-lamanya</item>
+        <item quantity="one">%d item dipadamkan selama-lamanya</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">%d dipadamkan daripada peranti</item>
+        <item quantity="one">%d dipadamkan daripada peranti</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">Memulihkan item…</item>
+        <item quantity="one">Memulihkan item…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">Tidak dapat memulihkan %d item</item>
+        <item quantity="one">Tidak dapat memulihkan %d item</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%d item dipulihkan daripada sampah</item>
+        <item quantity="one">%d item dipulihkan daripada sampah</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">Padamkan item selama-lamanya?</item>
+        <item quantity="one">Padamkan item selama-lamanya?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">Padamkan %d item?</item>
+        <item quantity="one">Padamkan %d item?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">Padamkan %d item secara kekal</item>
+        <item quantity="one">Padamkan %d item secara kekal</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">Tinggal %d hari sebelum versi ini tamat tempoh. Kemas kini sekarang untuk terus menggunakan Google Photos.</item>
+        <item quantity="one">Tinggal 1 hari sebelum versi ini tamat tempoh. Kemas kini sekarang untuk terus menggunakan Google Photos.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">Memuat naik %d item</item>
+        <item quantity="one">Memuat naik %d item</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">%d item akan dimuat naik apabila disambungkan</item>
+        <item quantity="one">%d item akan dimuat naik apabila disambungkan</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">%d item akan dimuat naik apabila disambungkan ke Wi-Fi</item>
+        <item quantity="one">%d item akan dimuat naik apabila disambungkan ke Wi-Fi</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">Anda akan menggunakan kira-kira %s data untuk menyandarkan item ini sekarang. Sambung ke Wi-Fi untuk mengelakkan penggunaan data.</item>
+        <item quantity="one">Anda akan menggunakan kira-kira %s data untuk menyandarkan item ini sekarang. Sambung ke Wi-Fi untuk mengelakkan penggunaan data.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">Penyandaran item ini akan menggunakan sebahagian data anda. Sambung ke Wi-Fi untuk mengelakkan penggunaan data.</item>
+        <item quantity="one">Penyandaran item ini akan menggunakan sebahagian data anda. Sambung ke Wi-Fi untuk mengelakkan penggunaan data.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">Memuat naik…%d lagi</item>
+        <item quantity="one">Memuat naik…%d lagi</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d fail</item>
+        <item quantity="one">%d fail</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s foto</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s item</item>
+        <item quantity="one">%s item</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s video</item>
+        <item quantity="one">%s video</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">Pilih foto</item>
+        <item quantity="one">Pilih foto</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">Pilih item</item>
+        <item quantity="one">Pilih item</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">Pilih video</item>
+        <item quantity="one">Pilih video</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">dan %d yang lain</item>
+        <item quantity="one">dan %d yang lain</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s. %2$d kaedah hubungan</item>
+        <item quantity="one">%1$s. %2$d kaedah hubungan</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d ahli</item>
+        <item quantity="one">%d ahli</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d dipilih</item>
+        <item quantity="one">%d dipilih</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d daripada %2$d ahli dipilih</item>
+        <item quantity="one">%1$d daripada %2$d ahli dipilih</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d ahli dipilih</item>
+        <item quantity="one">%d ahli dipilih</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">Sampah peranti anda telah penuh. Jika item ini dipadamkan, item ini akan dialih keluar daripada peranti &amp; akaun anda selama-lamanya.</item>
+        <item quantity="one">Sampah peranti anda telah penuh. Jika item ini dipadamkan, item ini akan dialih keluar daripada peranti &amp; akaun anda selama-lamanya.</item>
+    </plurals>
+</resources>

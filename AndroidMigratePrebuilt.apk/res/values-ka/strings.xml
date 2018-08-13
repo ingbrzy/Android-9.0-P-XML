@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">ზემოთ ნავიგაცია</string>
+    <string name="abc_action_menu_overflow_description">მეტი ვარიანტები</string>
+    <string name="abc_action_mode_done">დასრულდა</string>
+    <string name="abc_capital_off">გამორთულია</string>
+    <string name="abc_capital_on">ჩართულია</string>
+    <string name="abc_search_hint">ძიება...</string>
+    <string name="abc_searchview_description_clear">მოთხოვნის გასუფთავება</string>
+    <string name="abc_searchview_description_search">ძიება</string>
+    <string name="abc_searchview_description_submit">მოთხოვნის გადაგზავნა</string>
+    <string name="abc_searchview_description_voice">ხმოვანი ძიება</string>
+    <string name="abc_toolbar_collapse_description">აკეცვა</string>
+    <string name="app_has_in_app_purchases">აპს-შიდა შენაძენები</string>
+    <string name="app_has_permissions">ნებართვები: %s</string>
+    <string name="app_has_runtime_permissions">აპი ნებართვებს მოგთხოვთ</string>
+    <string name="app_install_summary">დაინსტალირებულია %1$d / %2$d აპი</string>
+    <string name="app_picker_loading">იძებნება ხელმისაწვდომი აპები…</string>
+    <string name="app_picker_loading_toast">ხელმისაწვდომი აპები მალე ჩაიტვირთება</string>
+    <string name="app_picker_no_apps">აპები არჩეული არ არის</string>
+    <string name="app_picker_no_apps_found">აპები ვერ მოიძებნა</string>
+    <string name="apps_permissions_described_v2">"Android აპებთან შესაძლებელია მხოლოდ პოპულარული, უფასო iOS® აპების შესატყვისება. აპს-შიდა შენაძენების უმეტესობის გადატანა ვერ მოხერხდება. დაყენების დასრულების შემდეგ Play Store-ში მეტი აპის პოვნას შეძლებთ.
+
+კონკრეტულ შესაძლებლობებზე ან თქვენს მოწყობილობაზე არსებულ ინფორმაციაზე წვდომის მიზნით, ზოგიერთი აპისთვის ნებართვის მიცემა შეიძლება წინასწარ დაგჭირდეთ. ნებართვები ორგანიზებულია ნებართვების ჯგუფების მიხედვით. ამ აპების ინსტალაციის არჩევით, თქვენ ეთანხმებით თითოეულ ჯგუფში შემავალ ნებართვებს. ნებართვების თითოეული ჯგუფის აღწერა მოცემულია ქვემოთ.
+
+ზოგიერთმა აპმა შეიძლება არ მოითხოვოს ნებართვები წინასწარ. ამგვარი აპების გამოყენებისას მათთვის ცალკეული ნებართვის მიცემა ან აკრძალვა შეგეძლებათ, სანამ აპი შესაბამისი ტიპის მონაცემებს გამოიყენებს.
+
+^1"</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_google_calendar">Google Calendar</string>
+    <string name="auto_synced_item_google_contacts">Google Contacts</string>
+    <string name="auto_synced_item_google_photos">Google ფოტოები</string>
+    <string name="auto_synced_title">სინქრონიზდება ავტომატურად</string>
+    <string name="backup_d2d_migration_tool_activity_name">მონაცემთა გადატანის ხელსაწყო</string>
+    <string name="button_dont_restore">არ მსურს აღდგენა</string>
+    <string name="byteShort">ბაიტი</string>
+    <string name="cancel_copy_button">კოპირების შეწყვეტა</string>
+    <string name="cancel_copy_button_text">არ დაკოპირდეს</string>
+    <string name="close_button_label">დახურვა</string>
+    <string name="cloud_restore_app_picker_description_no_apps">თქვენი სარეზერვო ასლი აპებს არ შეიცავს</string>
+    <string name="cloud_restore_app_picker_title">აირჩიეთ აღსადგენი აპები</string>
+    <string name="common_cancel">გაუქმება</string>
+    <string name="common_confirm">დადასტურება</string>
+    <string name="common_google_play_services_enable_button">ჩართვა</string>
+    <string name="common_google_play_services_enable_text">%1$s ვერ იმუშავებს Google Play Services-ის ჩართვამდე.</string>
+    <string name="common_google_play_services_enable_title">Google Play Services-ის ჩართვა</string>
+    <string name="common_google_play_services_install_button">ინსტალაცია</string>
+    <string name="common_google_play_services_install_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელიც აკლია თქვენს მოწყობილობას.</string>
+    <string name="common_google_play_services_install_title">Google Play Services-ის ჩამოტვირთვა</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services-ის ხელმისაწვდომობა</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომლებიც მხარდაუჭერელია თქვენი მოწყობილობის მიერ.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_google_play_services_update_text">%1$s ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_google_play_services_update_title">განაახლეთ Google Play Services</string>
+    <string name="common_google_play_services_updating_text">%1$s ვერ გაეშვება Google Play Services-ის გარეშე, რომელთა განახლებაც ამჟამად მიმდინარეობს.</string>
+    <string name="common_google_play_services_wear_update_text">საჭიროა Google Play Services-ის ახალი ვერსია. ის მალე განახლდება.</string>
+    <string name="common_ok">კარგი</string>
+    <string name="common_open_on_phone">ტელეფონში გახსნა</string>
+    <string name="common_restore">აღდგენა</string>
+    <string name="common_try_again">ხელახლა ცდა</string>
+    <string name="consolidated_notification_app_name">Pixel-ის დაყენება</string>
+    <string name="consolidated_notification_finishing_restore">მიმდინარეობს აპებისა და მონაცემების აღდგენის დასრულება…</string>
+    <string name="consolidated_notification_restore_complete_content">შეეხეთ დეტალების სანახავად</string>
+    <string name="consolidated_notification_restore_complete_title">მონაცემები აღდგენილია</string>
+    <string name="consolidated_notification_restore_paused_content">აღდგენა გაგრძელდება დაყენების პროცესის დასრულების შემდეგ</string>
+    <string name="consolidated_notification_restore_paused_title">აპებისა და მონაცემების აღდგენა დაპაუზებულია</string>
+    <string name="consolidated_notification_restore_use_mobile_data">მობილური ინტერნეტის გამოყენებით აღდგენა</string>
+    <string name="consolidated_notification_restore_wifi_required_content">Wi‑Fi ქსელთან დაკავშირება</string>
+    <string name="consolidated_notification_restore_wifi_required_title">აპების განახლებები მზად არის</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d მოწყობილობის</string>
+    <string name="content_selector_ui_title">აირჩიეთ, რისი აღდგენა გსურთ</string>
+    <string name="continue_button">გაგრძელება</string>
+    <string name="copied_contacts_group_label">დაკოპირდა %1$s-დან</string>
+    <string name="copied_contacts_group_label_default">დაკოპირდა კაბელით გადაცემის მეშვეობით</string>
+    <string name="copied_contacts_group_label_ios">დაკოპირდა iOS-იდან</string>
+    <string name="copy_button">კოპირება</string>
+    <string name="d2d_app_picker_description_no_apps">აპები ვერ მოიძებნა</string>
+    <string name="d2d_app_picker_title">აპები</string>
+    <string name="data_copied_fragment_description">შეგიძლიათ გამოაერთოთ კაბელი</string>
+    <string name="data_copied_fragment_description_cancel">თქვენს ახალ ტელეფონზე მხოლოდ ზოგიერთი მონაცემი დაკოპირდა, რადგან კოპირების შეწყვეტა აირჩიეთ.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">თქვენს ახალ ტელეფონზე არაფერი დაკოპირდა, რადგან კოპირების შეწყვეტა აირჩიეთ.</string>
+    <string name="data_copied_fragment_description_error">წარმოიქმნა შეფერხება და ყველაფრის კოპირება ვერ მოხერხდა.</string>
+    <string name="data_copied_fragment_description_error_no_data">წარმოიქმნა შეფერხება და თქვენი მონაცემების კოპირება ვერ მოხერხდა.</string>
+    <string name="data_copied_fragment_no_data_title">კოპირება ვერ მოხერხდა</string>
+    <string name="data_copied_fragment_some_data_title">მონაცემები ნაწილობრივ დაკოპირდა</string>
+    <string name="data_copied_fragment_title">კოპირება დასრულდა</string>
+    <string name="device_not_supported_fragment_new_device">თქვენ ახალ ტელეფონს დაუკავშირდით. გასაგრძელებლად, ხელახლა დაუკავშირდით წინა ტელეფონს.</string>
+    <string name="device_not_supported_fragment_new_device_title">ხელახლა დაუკავშირდით წინა ტელეფონს</string>
+    <string name="device_not_supported_fragment_no_data_cable">ამ კაბელს მონაცემთა გადატანა არ შეუძლია. გთხოვთ, დააკავშიროთ სხვა კაბელი და ცადოთ ხელახლა.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">ცადეთ სხვა კაბელის გამოყენება</string>
+    <string name="device_not_supported_fragment_other_ways_btn">სხვა ხერხით კოპირება</string>
+    <string name="device_not_supported_fragment_retry_description">დარწმუნდით, რომ თქვენი ძველი ტელეფონი განბლოკილია, ხოლო შემდეგ, გამოაერთეთ და ხელახლა მიუერთეთ კაბელი</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">წარმოიქმნა შეფერხება</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_description">ხელახლა დაუკავშირეთ სხვა კაბელს, რომელიც ერგება ყუთში მოთავსებულ ადაპტერს</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_title">ეს კაბელი არ მუშაობს</string>
+    <string name="device_not_supported_ios_supervised_description">იქიდან გამომდინარე, რომ თქვენი iPhone® მართული მოწყობილობაა, მონაცემთა კოპირების სხვა ხერხი უნდა აირჩიოთ</string>
+    <string name="device_picker_empty">%1$s-თან მიბმული სარეზერვო ასლები არ არის.</string>
+    <string name="device_picker_empty_title">სარეზერვო ასლები ვერ მოიძებნა</string>
+    <string name="device_picker_item">%1$s-ის სარეზერვო ასლი</string>
+    <string name="device_picker_title">აირჩიეთ აღსადგენი სარეზერვო ასლი</string>
+    <string name="dialog_continue_button_label">გაგრძელება</string>
+    <string name="download_file_description">სხვა მოწყობილობიდან კოპირებული</string>
+    <string name="drive_backup_content_callhistory_title">საუბრის ისტორია</string>
+    <string name="drive_backup_content_contacts_title">კონტაქტები</string>
+    <string name="drive_backup_content_devicesettings_title">მოწყობილობის პარამეტრები</string>
+    <string name="durationDayHour">%1$d დღ და %2$d სთ</string>
+    <string name="durationDayHours">%1$d დღ და %2$d სთ</string>
+    <string name="durationDays">%1$d დღე</string>
+    <string name="durationHoursMinutes">%1$d სთ %2$d წთ</string>
+    <string name="durationMinute">%1$d წუთი</string>
+    <string name="durationMinutes">%1$d წუთი</string>
+    <string name="encryption_warning_fragment_description">"თქვენს iPhone®-ზე ჩართულია სარეზერვო ასლების დაშიფვრა. თუ ის თავად არ ჩაგირთავთ, ეს შეიძლება თქვენს IT ადმინისტრატორს გაეკეთებინა.
+
+ამის გამო მხოლოდ ფოტოების, ვიდეოებისა და მუსიკის კოპირება მოხერხდება. დამატებითი ინფორმაციისთვის, მოინახულეთ: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">სარეზერვო ასლების დაშიფვრა</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">გადაიტანეთ თქვენი აპები, ფოტოები, კონტაქტები Google ანგარიში და მეტი. შეგიძლიათ აირჩიოთ, თუ რა კონტენტს დააკოპირებთ.</string>
+    <string name="flow_choice_dont_copy_data">არ დაკოპირდეს მონაცემები</string>
+    <string name="flow_choice_new_label_new">არ დაკოპირდეს</string>
+    <string name="flow_choice_new_summary_new">ტელეფონის ხელით დაყენება</string>
+    <string name="flow_choice_restore_label">მონაცემების კოპირება</string>
+    <string name="flow_choice_restore_summary_new">Android ან iPhone® მოწყობილობიდან</string>
+    <string name="flow_choice_restore_summary_no_iphone">Android მოწყობილობიდან ან ღრუბლოვანი სერვისიდან</string>
+    <string name="flow_choice_title">აპებისა და მონაცემების კოპირება</string>
+    <string name="fragment_app_picker_d2d_title">აირჩიეთ აპები</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"ნაპოვნია თქვენი ^2 iOS® აპიდან ^1-ის შესატყვისი. ზოგიერთი აპს-შიდა შენაძენის გადმოტანა შესაძლოა ვერ მოხერხდეს.
+
+თითოეული აპის დაინსტალირებით, თქვენ ეთანხმებით მის ნებართვებს. "<annotation id="apps_permissions_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="fragment_indexing_description">შემდეგ ეკრანზე აირჩიეთ, რა დაკოპირდეს</string>
+    <string name="fragment_indexing_title">მიმდინარეობს მონაცემთა შემოწმება…</string>
+    <string name="fragment_indexing_verify_password_description">ამას შეიძლება რამდენიმე წუთი დასჭირდეს</string>
+    <string name="fragment_indexing_verify_password_title">მიმდინარეობს პაროლის გადამოწმება…</string>
+    <string name="fragment_ios_decryption_description">მეტი კონტენტის, მაგალითად, SMS-შეტყობინებებისა და კონტაქტების გადასატანად, შეიყვანეთ თქვენი iTunes® სარეზერვო ასლის პაროლი</string>
+    <string name="fragment_ios_decryption_forgot_password_button">პაროლი დაგავიწყდათ?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">iTunes® სარეზერვო პაროლის გარეშე დაშიფრული კონტენტის გადატანა ვერ მოხერხდება. თქვენს Pixel-ზე დაუშიფრავი კონტენტის გადატანა კი მაინც შესრულდება.</string>
+    <string name="fragment_ios_decryption_forgot_password_title">დაშიფრული კონტენტის გადატანა ვერ ხერხდება</string>
+    <string name="fragment_ios_decryption_password_hint">შეიყვანეთ iTunes® სარეზერვო პაროლი</string>
+    <string name="fragment_ios_decryption_skip_button">დაშიფრული კონტენტის გამოტოვება</string>
+    <string name="fragment_ios_decryption_skip_password_description">თქვენი iCloud® კონტაქტების, მოწყობილობაზე არსებული კონტაქტებისა და iMessage® შეტყობინებების გადატანა ვერ მოხერხდება</string>
+    <string name="fragment_ios_decryption_skip_password_title">დაშიფრული კონტენტის გამოტოვება გსურთ?</string>
+    <string name="fragment_ios_decryption_title">თქვენი iPhone® მოწყობილობა დაშიფრულია</string>
+    <string name="fragment_ios_decryption_wrong_password_error">პაროლი არასწორია. ცადეთ ხელახლა.</string>
+    <string name="fragment_ios_device_management_confirm_title">მართვის ამოშლის დადასტურება</string>
+    <string name="fragment_ios_device_management_detected_description">"თქვენს iPhone® მოწყობილობას მართავს თქვენი ორგანიზაცია და მას გააჩნია დაშიფრული კონტენტი.
+
+Cloud® კონტაქტების, მოწყობილობაზე არსებული კონტაქტებისა და iMessage® შეტყობინებების გადასატანად, დაგჭირდებათ მოწყობილობის მართვის ამოშლა თქვენი iPhone® მოწყობილობიდან."</string>
+    <string name="fragment_ios_device_management_detected_title">ზოგი კონტენტი დაშიფრულია</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">ეტაპების ჩვენება</string>
+    <string name="fragment_ios_device_management_not_removed_description">"მოწყობილობის მართვა ჯერაც ჩართულია თქვენს iPhone® მოწყობილობაზე. მის ამოსაშლელად, მიჰყევით წინა საფეხურებს.
+
+თუ მოწყობილობის მართვას არ ამოშლით, თქვენს ახალ Pixel-ზე დაშიფრული კონტენტის გადატანა ვერ მოხერხდება."</string>
+    <string name="fragment_ios_device_management_not_removed_title">დაშიფრული კონტენტის გადატანა ვერ ხერხდება</string>
+    <string name="fragment_ios_device_management_open_settings_description">თქვენს iPhone® მოწყობილობაზე გადადით აქ: <b>პარამეტრები > პარამეტრები > მოწყობილობის მართვა</b></string>
+    <string name="fragment_ios_device_management_open_settings_title">მართვის პარამეტრების გახსნა</string>
+    <string name="fragment_ios_device_management_passcode_title">შეიყვანეთ თქვენი საიდუმლო კოდი</string>
+    <string name="fragment_ios_device_management_remove_title">მართვის ამოშლა</string>
+    <string name="fragment_ios_device_management_risk_description">"მოწყობილობის მართვის ამოშლის შემდეგ, თქვენ შეიძლება დაკარგოთ წვდომა თქვენი სამსახურის რესურსებზე.
+
+თუ მოწყობილობის მართვის ხელახალი ინსტალაციის შემდეგ პრობლემები შეგექმნებათ, დაუკავშირდით თქვენს IT ადმინისტრატორს."</string>
+    <string name="fragment_ios_device_management_risk_title">მოწყობილობის მართვის ამოშლა</string>
+    <string name="fragment_ios_device_management_select_management_title">შეეხეთ „მობილურ მოწყობილობათა მართვის“ ქვემოთ მდებარე ვარიანტს</string>
+    <string name="fragment_ios_device_management_skip_button">დაშიფრული კონტენტის გამოტოვება</string>
+    <string name="fragment_ios_instructions_description">გასაგრძელებლად, შეამოწმეთ თქვენი iPhone® და დაადასტურეთ დაკავშირება</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_confirm_button">გამოტოვება</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">თქვენი iCloud® კონტაქტების, მოწყობილობაზე არსებული კონტაქტებისა და iMessage® შეტყობინებების გადატანა ვერ მოხერხდება</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">დაშიფრული კონტენტის გამოტოვება გსურთ?</string>
+    <string name="fragment_restore_choice_title">აირჩიეთ, რისი კოპირება გსურთ</string>
+    <string name="fragment_target_connected_description">მიმდინარეობს კოპირებისთვის მზადება...</string>
+    <string name="fragment_target_connected_title">ტელეფონები დაკავშირებულია</string>
+    <string name="fragment_usb_cable_doesnt_fit">კაბელი არ ერგება?</string>
+    <string name="fragment_usb_cant_find_adapter">ადაპტერი არ არის?</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"თუ კაბელი არ ერგება, იპოვეთ Quick Switch Adapter, რომელიც თქვენს ^1-ს კომპლექტში მოჰყვა.
+
+მიუერთეთ კაბელი ადაპტერს."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">დააკავშირეთ ადაპტერი და კაბელი</string>
+    <string name="fragment_usb_connect_both_phones_description">მიუერთეთ ადაპტერი ამ მოწყობილობას — ^1</string>
+    <string name="fragment_usb_connect_both_phones_title">დააკავშირეთ ორივე ტელეფონი</string>
+    <string name="fragment_usb_dialog_cancel_description">"კაბელის გამოყენების შემთხვევაში, კონტენტის უმეტესობის გადატანას შეძლებთ (მათ შორის, SMS-შეტყობინებების).
+
+თუ კომპლექტში არსებული კაბელი თქვენს ძველ ტელეფონს არ მოერგება, ცადეთ ძველი ტელეფონის დამტენის ან მონაცემთა კაბელის გამოყენება."</string>
+    <string name="fragment_usb_dialog_cancel_title">გსურთ მონაცემთა სხვა გზით კოპირება?</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"თქვენ შეძლებთ დამატებითი მონაცემების გადატანას, თუ თქვენს ძველ ტელეფონსა და კაბელს გამოიყენებთ.
+
+თქვენი მონაცემების კაბელის გარეშე აღსადგენად, შედით სისტემაში თქვენი მომხმარებლის სახელითა და პაროლით, მომდევნო ეკრანზე."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">გსურთ მონაცემების აღდგენა ძველი ტელეფონის გარეშე?</string>
+    <string name="fragment_usb_dont_copy">არ დაკოპირდეს</string>
+    <string name="fragment_usb_dont_have_cable">კაბელი არ არის?</string>
+    <string name="fragment_usb_dont_have_old_phone">ვერ ახერხებთ ძველი ტელეფონის გამოყენებას?</string>
+    <string name="fragment_usb_find_cable_description">გამოიყენეთ კაბელი, რომელიც თქვენს ძველ ტელეფონს მოერგება. როგორც წესი, ეს დამტენის კაბელია.</string>
+    <string name="fragment_usb_find_cable_title">იპოვეთ თქვენი ძველი ტელეფონის კაბელი</string>
+    <string name="fragment_usb_initial_description">საჭიროა თქვენი ძველი Android ან iPhone® ტიპის მოწყობილობა. ჩართეთ ის და განბლოკილ რეჟიმში შეინარჩუნეთ.</string>
+    <string name="fragment_usb_initial_title">თქვენი ძველი ტელეფონის გამოყენება</string>
+    <string name="fragment_usb_missing_data_description">მონაცემთა გადატანისას შეგიძლიათ გააგრძელოთ თქვენი ^1-ის დაყენება.</string>
+    <string name="fragment_usb_missing_data_title">შევუდგეთ თქვენი მონაცემების კოპირებას</string>
+    <string name="fragment_usb_other_ways">სხვა ხერხით კოპირება</string>
+    <string name="fragment_usb_plug_cable">მიუერთეთ კაბელი თქვენს ძველ ტელეფონს</string>
+    <string name="fragment_waiting_title">ერთი წამით…</string>
+    <string name="gigabyteShort">გბაიტი</string>
+    <string name="google_contacts_will_sync">Google Contacts სინქრონიზებული იქნება</string>
+    <string name="imessage_dialog_message">"iPhone®-ის მომხმარებლებისგან SMS-შეტყობინებების მიღების გასაგრძელებლად თქვენს ძველ ტელეფონზე უნდა გამორთოთ iMessage®. iMessage®-ის გამოყენება კვლავ შეგიძლიათ სხვა მოწყობილობებზე, მაგალითად, iPad®-ზე.
+
+თქვენი ^1-ის დაყენების დასრულების შემდეგ, მოინახულეთ "<b>g.co/iMessageHelp</b> და მიჰყევით ინსტრუქციას.</string>
+    <string name="imessage_dialog_title">მიიღეთ შეტყობინებები iPhone®-ის მომხმარებლებისგან</string>
+    <string name="instructions_fragment_title">შეამოწმეთ თქვენი სხვა ტელეფონი</string>
+    <string name="ios_connected_fragment_description_has_account">თქვენი აპებისა და iOS® Calendar-ის მოვლენების გადატანა თქვენი Google ანგარიშის მეშვეობით მოხდება</string>
+    <string name="ios_connected_fragment_description_no_account">"შემდეგ ეკრანზე თქვენ შეძლებთ Google ანგარიშში შესვლას ან ახლის შექმნას.
+
+თუ თქვენს Google ანგარიშს არ დაამატებთ, თქვენი აპებისა და iOS® Calendar-ის მოვლენების გადატანა არ მოხდება."</string>
+    <string name="ios_message_attachment_explanation">[თქვენი შეტყობინებების დანართები ინახება აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_message_attachment_failed_explanation">[ზოგიერთი დანართის კოპირება ვერ მოხერხდა. გადმოტანილი დანართები ინახება აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_message_attachment_placeholder">[დანართი, რომელიც შენახულია აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_message_attachments_placeholder">[დანართები, რომელიც შენახულია აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები]</string>
+    <string name="ios_migration_default_calendar_title">კალენდარი</string>
+    <string name="ios_migration_other_contact_relation">სხვა</string>
+    <string name="ios_photos_dialog_heif_and_icloud_message">"თქვენი ზოგიერთი ფოტო iPhone®-ის მიერ შენახულია HEIF ფორმატში. მათი და iCloud®-ში შენახული ფოტოების კოპირება ვერ მოხერხდება.
+
+აღნიშნული ფოტოების თქვენს ^1-ზე გადასატანად დააინსტალირეთ Google Photos აპი თქვენს iPhone®-ზე, შემდეგ კი ჩართეთ სარეზერვო კოპირება და სინქრონიზაცია. დამატებითი ინსტრუქციისთვის მოინახულეთ: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="ios_photos_dialog_heif_message">"თქვენი ზოგიერთი ფოტო iPhone®-ის მიერ შენახულია HEIF ფორმატში. მათი კოპირება ვერ მოხერხდება.
+
+აღნიშნული ფოტოების თქვენს ^1-ზე გადასატანად დააინსტალირეთ Google Photos აპი თქვენს iPhone®-ზე, შემდეგ კი ჩართეთ სარეზერვო კოპირება და სინქრონიზაცია. დამატებითი ინსტრუქციისთვის მოინახულეთ: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="ios_photos_dialog_icloud_message">"iCloud®-ში შენახული ფოტოების კოპირება ვერ მოხერხდება.
+
+აღნიშნული ფოტოების თქვენს ^1-ზე გადასატანად დააინსტალირეთ Google Photos აპი თქვენს iPhone®-ზე, შემდეგ კი ჩართეთ სარეზერვო კოპირება და სინქრონიზაცია. დამატებითი ინსტრუქციისთვის მოინახულეთ: "<b>g.co/datatransferhelp</b>.</string>
+    <string name="key_recovery_instruction_description">თქვენი სარეზერვო ასლის დეშიფრაციის მიზნით, შეიყვანეთ თქვენი ძველი ტელეფონის ეკრანის განმბლოკავი ნიმუში შემდეგ ეკრანზე</string>
+    <string name="key_recovery_instruction_title">დაადასტურეთ თქვენი ძველი %s-ის ეკრანის განმბლოკავი ნიმუში</string>
+    <string name="kilobyteShort">კბაიტი</string>
+    <string name="lock_screen_entry_title">დაადასტურეთ თქვენი ძველი %s-ის ეკრანის განმბლოკავი ნიმუში</string>
+    <string name="lock_screen_error_other">წარმოიშვა შეფერხება. ცადეთ მოგვიანებით.</string>
+    <string name="lock_screen_error_wrong_password">პაროლი არასწორია</string>
+    <string name="lock_screen_error_wrong_pattern">ნიმუში არასწორია</string>
+    <string name="lock_screen_error_wrong_pin">PIN-კოდი არასწორია</string>
+    <string name="lockscreen_access_pattern_area">ნიმუშების სივრცე</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">უჯრედი %d დამატებულია</string>
+    <string name="lockscreen_access_pattern_cleared">ნიმუში გასუფთავდა</string>
+    <string name="lockscreen_access_pattern_detected">ნიმუშის შექმნა დასრულებულია</string>
+    <string name="lockscreen_access_pattern_start">ნიმუშის შექმნა დაწყებულია</string>
+    <string name="megabyteShort">მბაიტი</string>
+    <string name="mobile_warning_fragment_dialog_content">ამით შესაძლოა დაგეკისროთ მობილური ინტერნეტის შესაბამისი ხარჯები. სანაცვლოდ, შეგიძლიათ დაიცადოთ Wi‑Fi-სთან დაკავშირებამდე და ეს ავტომატურად განხორციელდება</string>
+    <string name="mobile_warning_fragment_dialog_nodata">მოგვიანებით გაკეთება</string>
+    <string name="mobile_warning_fragment_dialog_title">გსურთ, აღადგინოთ მობილური ინტერნეტის გამოყენებით?</string>
+    <string name="mobile_warning_fragment_dialog_use_data">ახლავე აღდგენა</string>
+    <string name="petabyteShort">პბაიტი</string>
+    <string name="photo_conversion_summary">გარდაქმნილია %1$d / %2$d სურათი</string>
+    <string name="restore_choice_android_device_label">სარეზერვო ასლი Android ტელეფონიდან</string>
+    <string name="restore_choice_android_device_label_new">Android</string>
+    <string name="restore_choice_android_device_summary">მონაცემების უსადენო კავშირით კოპირებისთვის თქვენი ძველი ტელეფონის გამოყენება</string>
+    <string name="restore_choice_data_disclaimer">ზოგიერთი თქვენი მონაცემის ^1-ზე გადატანა შეიძლება ვერ მოხერხდეს. <annotation id="restore_choice_data_disclaimer_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">ეს სარეზერვო ასლი არის მოწყობილობიდან, რომელზეც Android-ის ახალი ვერსიაა დაინსტალირებული. შესაბამისად, ზოგიერთი მონაცემი შეიძლება არ აღდგეს თქვენს ახალ ტელეფონზე.</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">თქვენს ^1-ზე ზოგიერთი მონაცემის გადატანა შესაძლოა ვერ მოხერხდეს.</string>
+    <string name="restore_choice_deselect_some_content">გასაგრძელებლად, გააუქმეთ მონიშვნა კონტენტის ნაწილზე</string>
+    <string name="restore_choice_dont_copy">არ დაკოპირდეს</string>
+    <string name="restore_choice_dont_have_old_phone">ვერ ახერხებთ ძველი ტელეფონის გამოყენებას?</string>
+    <string name="restore_choice_google_account_label">სარეზერვო ასლი ღრუბლიდან</string>
+    <string name="restore_choice_google_account_summary">შედით თქვენი მომხმარებლის სახელითა და პაროლით</string>
+    <string name="restore_choice_ios_device_label">iPhone® მოწყობილობიდან</string>
+    <string name="restore_choice_learn_more_android">"თქვენი ძველი ტელეფონიდან ზოგიერთი მონაცემი ავტომატურად ვერ დაკოპირდა:
+
+ ● ჩამოტვირთვები (როგორიცაა PDF ფაილები)
+
+ ● დამალულ საქაღალდეებში შენახული ფოტოები, ვიდეოები და მუსიკა
+
+ ● ტექსტური შეტყობინებების მეშვეობით მიღებული ფოტოები, ვიდეოები და მუსიკა
+
+ ● Google Play Store-ისგან განსხვავებული წყაროებიდან დაინსტალირებული აპები
+
+ ● აპების მონაცემები (თუ აპი Android-ის სარეზერვო კოპირების ფუნქციას არ იყენებს)
+
+ ● მოწყობილობის გარკვეული პარამეტრები
+
+ ● Google ანგარიშებისგან განსხვავებული ანგარიშები (და მათთან დაკავშირებული მონაცემები)
+
+ ● Google-ისგან განსხვავებულ სერვისებთან სინქრონიზებული კონტაქტები და კალენდრები
+
+ ● ზარები
+
+ დამატებითი ინფორმაციისთვის და ზოგიერთი აღნიშნული მონაცემის კოპირებასთან დაკავშირებით დახმარების მისაღებად, მოინახულეთ: g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"თქვენი ძველი ტელეფონიდან ზოგიერთი მონაცემი ავტომატურად ვერ დაკოპირდა:
+
+ ● აპები და აპების მონაცემები
+
+ ● ფოტოები, რომელთა ორიგინალებიც თქვენს ტელეფონზე არ ინახება (მაგალითად, თუ მეხსიერების ოპტიმიზაციის პარამეტრი ჩართულია, ორიგინალი ფოტოები iCloud®-ში ინახება)
+
+ ● iCloud®-ში შენახული ფაილები და დოკუმენტები
+
+ ● მოწყობილობის პარამეტრები (მაგალითად, Wi-Fi ქსელების პაროლები)
+
+ ● ციფრული უფლებების მართვის (DRM) სქემით დაცული მუსიკა (მაგალითად, iTunes®-დან 2009 წლის აპრილამდე შეძენილი მუსიკა, ან მუსიკის სტრიმინგის აპიდან ხაზგარეშე რეჟიმში მოსასმენად ჩამოტვირთული მუსიკა)
+
+ ● Google ანგარიშებისგან განსხვავებული ანგარიშები (და მათთან დაკავშირებული მონაცემები)
+
+ ● Google-ისა და iCloud®-ისგან განსხვავებულ სერვისებთან სინქრონიზებული კონტაქტები და კალენდრები
+
+ ● Safari®-ს სანიშნეები
+
+ iMessage®-ის დანართები ხელმისაწვდომი იქნება აქ: Google Photos > მოწყობილობის საქაღალდეები > შეტყობინებების დანართები.
+
+ დამატებითი ინფორმაციისთვის და ზოგიერთი აღნიშნული მონაცემის კოპირებასთან დაკავშირებით დახმარების მისაღებად, მოინახულეთ: g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios_attachments_inline">"თქვენი ძველი ტელეფონიდან ზოგიერთი მონაცემი ავტომატურად ვერ დაკოპირდა:
+
+ ● აპები და აპების მონაცემები
+
+ ● ფოტოები, რომელთა ორიგინალებიც თქვენს ტელეფონზე არ ინახება (მაგალითად, თუ მეხსიერების ოპტიმიზაციის პარამეტრი ჩართულია, ორიგინალი ფოტოები iCloud®-ში ინახება)
+
+ ● iCloud®-ში შენახული ფაილები და დოკუმენტები
+
+ ● მოწყობილობის პარამეტრები (მაგალითად, Wi-Fi ქსელების პაროლები)
+
+ ● ციფრული უფლებების მართვის (DRM) სქემით დაცული მუსიკა (მაგალითად, iTunes®-დან 2009 წლის აპრილამდე შეძენილი მუსიკა, ან მუსიკის სტრიმინგის აპიდან ხაზგარეშე რეჟიმში მოსასმენად ჩამოტვირთული მუსიკა)
+
+ ● Google ანგარიშებისგან განსხვავებული ანგარიშები (და მათთან დაკავშირებული მონაცემები)
+
+ ● Google-ისა და iCloud®-ისგან განსხვავებულ სერვისებთან სინქრონიზებული კონტაქტები და კალენდრები
+
+ ● Safari®-ს სანიშნეები
+
+ დამატებითი ინფორმაციისთვის და ზოგიერთი აღნიშნული მონაცემის კოპირებასთან დაკავშირებით დახმარების მისაღებად, მოინახულეთ: g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">მეხსიერება არასაკმარისია</string>
+    <string name="restore_choice_phone_description">გადმოიტანეთ მონაცემები თქვენი ძველი ტელეფონიდან</string>
+    <string name="restore_choice_phone_title">აირჩიეთ ტელეფონი</string>
+    <string name="restore_choice_sync_disclaimer_android">მოწყობილობისა და SIM ბარათის კონტაქტები შეინახება, როგორც Google-ის კონტაქტები (%1$s)</string>
+    <string name="restore_choice_sync_disclaimer_cloud">მოწყობილობისა და SIM ბარათის კონტაქტები შეინახება, როგორც Google-ის კონტაქტები (%1$s).</string>
+    <string name="restore_choice_sync_disclaimer_ios">კონტაქტები და iOS® Calendar შეინახება %1$s-ში.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">iOS® Calendar შეინახება %1$s-ში.</string>
+    <string name="restore_choice_title">საიდან გადმოვიტანოთ მონაცემები</string>
+    <string name="restore_continue_suw_description">შეგიძლიათ გააგრძელოთ თქვენი ^1-ის დაყენება</string>
+    <string name="restore_continue_suw_title">მიმდინარეობს აღდგენა…</string>
+    <string name="restore_estimated_time">გადატანის დრო: ^1</string>
+    <string name="restore_item_apps">აპები</string>
+    <string name="restore_item_calendar">კალენდარი</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar</string>
+    <string name="restore_item_call_logs">საუბრის ისტორია</string>
+    <string name="restore_item_contacts">კონტაქტები</string>
+    <string name="restore_item_device_settings_description">Wi-Fi პაროლები და სხვა</string>
+    <string name="restore_item_downloads">ჩამოტვირთვები</string>
+    <string name="restore_item_email">ელფოსტა</string>
+    <string name="restore_item_email_description">Gmail სინქრონიზებული იქნება</string>
+    <string name="restore_item_message_attachments">შეტყობინებების დანართები</string>
+    <string name="restore_item_messages">შეტყობინებები</string>
+    <string name="restore_item_music">მუსიკა და სხვა აუდიო</string>
+    <string name="restore_item_photos">ფოტოები და ვიდეოები</string>
+    <string name="restore_item_settings">მოწყობილობის პარამეტრები</string>
+    <string name="restore_item_sms">SMS შეტყობინებები</string>
+    <string name="restore_item_wallpaper">ფონი</string>
+    <string name="restore_progress_activity_title">@string/consolidated_notification_app_name</string>
+    <string name="restore_progress_item_apps_title">აპები</string>
+    <string name="restore_progress_item_photos_title">iPhone-ის მედია-კონტენტი</string>
+    <string name="restore_progress_waiting_for_setup_to_finish">დაყენების პროცესის დასრულების მოლოდინში…</string>
+    <string name="restore_progress_waiting_for_wifi">Wi-Fi ქსელის მოლოდინში…</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 / ^3</string>
+    <string name="retail_mode_warning_dialog_message">მოწყობილობის ქარხნულ პარამეტრებზე დაბრუნებამდე მასზე დაიკვრება სადემონსტრაციო ვიდეო. დემო-რეჟიმი განკუთვნილია საცალო მოვაჭრეებისთვის და არა — პირადი გამოყენებისთვის.</string>
+    <string name="retail_mode_warning_dialog_title">სადემონსტრაციო ვიდეოს დაკვრა</string>
+    <string name="small_time_duration">1 წუთზე ნაკლები</string>
+    <string name="stop_copying_dialog_continue_button">დახურვა</string>
+    <string name="stop_copying_dialog_message_before_transfer">თქვენი მონაცემები ახალ ტელეფონზე არ დაკოპირდება</string>
+    <string name="stop_copying_dialog_message_during_transfer">თქვენი ზოგიერთი მონაცემი ახალ ტელეფონზე არ დაკოპირდება</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">შეწყვეტა</string>
+    <string name="stop_copying_dialog_title_before_transfer">არ დაკოპირდეს?</string>
+    <string name="stop_copying_dialog_title_during_transfer">გსურთ კოპირების შეწყვეტა?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">თქვენი მონაცემები ახალ ტელეფონზე არ აღდგება</string>
+    <string name="stop_restoring_dialog_title_before_transfer">არ გსურთ აღდგენა?</string>
+    <string name="suw_back_button_label">უკან</string>
+    <string name="suw_more_button_label">დამატებით</string>
+    <string name="suw_next_button_label">შემდეგი</string>
+    <string name="target_default_source_device_model">ძველი ტელეფონი</string>
+    <string name="target_device_not_supported_cant_continue_description">მონაცემთა კოპირების სხვა ხერხი უნდა აირჩიოთ</string>
+    <string name="target_device_not_supported_cant_continue_title">სხვა ტელეფონი მხარდაუჭერელია</string>
+    <string name="target_device_not_supported_try_restarting_description">"გამოაერთეთ კაბელი და გადატვირთეთ თქვენი ძველი ტელეფონი, შემდეგ კი ხელახლა მიუერთეთ ის და მიჰყევით ინსტრუქციას თქვენს ^1-ზე.
+
+თუ ეს შეცდომა კვლავ შეგხვდებათ, შეიძლება სხვა გზით კოპირება მოგიწიოთ."</string>
+    <string name="target_device_not_supported_try_restarting_title">ტელეფონი შეიძლება მხარდაუჭერელი იყოს</string>
+    <string name="target_fragment_msg_reconnect_cable">ხელახლა მიუერთეთ კაბელი</string>
+    <string name="target_pixelmigrate_notification_description">ხელმისაწვდომია ან მიმდინარეობს</string>
+    <string name="target_pixelmigrate_notification_title">მონაცემთა გადატანა</string>
+    <string name="target_smart_device_timeout_add_account">ანგარიშის დამატება</string>
+    <string name="target_smart_device_timeout_description">სურვილისამებრ, თქვენი ანგარიშის ხელით დამატება შეგიძლიათ</string>
+    <string name="target_smart_device_timeout_dismiss">დახურვა</string>
+    <string name="target_smart_device_timeout_title">პრობლემა გაქვთ?</string>
+    <string name="terabyteShort">ტბაიტი</string>
+    <string name="toast_phones_connected">ტელეფონები დაკავშირებულია</string>
+    <string name="toast_reconnect_cable">ხელახლა მიუერთეთ კაბელი</string>
+    <string name="transfer_finished_fragment_description">ამას სულ რამდენიმე წუთი დასჭირდება</string>
+    <string name="transfer_finished_fragment_title">მიმდინარეობს ბოლო შტრიხების შეტანა…</string>
+    <string name="transfer_summary_copied">მონაცემები დაკოპირდა</string>
+    <string name="transfer_summary_fragment_description">შეგიძლიათ გამოაერთოთ კაბელი</string>
+    <string name="transfer_summary_fragment_done_button">მზადაა</string>
+    <string name="transfer_summary_fragment_title">თქვენი ტელეფონი თითქმის მზად არის</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">თქვენი ზოგიერთი ფოტო არ დაკოპირდა. <annotation id="transfer_summary_learn_more">შეიტყვეთ მეტი</annotation></string>
+    <string name="transfer_summary_not_copied">მონაცემები არ დაკოპირდა</string>
+    <string name="transfer_summary_partial">დაკოპირდა %2$s-დან %1$s</string>
+    <string name="transfer_summary_will_sync">მონაცემების სინქრონიზაცია დაყენების შემდეგ განხორციელდება</string>
+    <string name="transferring_fragment_calculating_remaining_time">მიმდინარეობს დარჩენილი დროის გამოთვლა...</string>
+    <string name="transferring_fragment_description_continue">შეგიძლიათ გააგრძელოთ თქვენი ^1-ის დაყენება</string>
+    <string name="transferring_fragment_description_final_hold">შეინარჩუნეთ ტელეფონები დაკავშირებულ და ჩართულ მდგომარეობაში</string>
+    <string name="transferring_fragment_header">მიმდინარეობს კოპირება...</string>
+    <string name="transferring_fragment_remaining_time">დარჩენილია %1$s</string>
+    <string name="transferring_fragment_restoring_content">მიმდინარეობს კონტენტის აღდგენა…</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari და iTunes Apple Inc.-ის აშშ-ში და სხვა ქვეყნებში რეგისტრირებული სავაჭრო ნიშნებია.</string>
+    <string name="unlock_ios_fragment_description">გასაგრძელებლად, განბლოკეთ თქვენი iPhone® მოწყობილობა. შეინარჩუნეთ ის განბლოკილ მდგომარეობაში მონაცემთა გადატანისას.</string>
+    <string name="unlock_ios_fragment_title">განბლოკეთ თქვენი iPhone® მოწყობილობა</string>
+    <string name="vault_almost_locked_dialog_title">დარჩენილია %d მცდელობა</string>
+    <string name="vault_almost_locked_password_dialog_text">არასწორი პაროლი შეყვანილია %1$d-ჯერ. %2$d დამატებითი არასწორი მცდელობის შემთხვევაში %3$s-ის სარეზერვო ასლი წაიშლება.</string>
+    <string name="vault_almost_locked_pattern_dialog_text">არასწორი განმბლოკავი ნიმუში შეყვანილია %1$d-ჯერ. %2$d დამატებითი არასწორი მცდელობის შემთხვევაში %3$s-ის სარეზერვო ასლი წაიშლება.</string>
+    <string name="vault_almost_locked_pin_dialog_text">არასწორი PIN-კოდი შეყვანილია %1$d-ჯერ. %2$d დამატებითი არასწორი მცდელობის შემთხვევაში %3$s-ის სარეზერვო ასლი წაიშლება.</string>
+    <string name="vault_locked_dialog_text">თქვენი %s-ის ჩაკეტილი ეკრანის არასწორად განბლოკვა ზედმეტად ბევრჯერ ცადეთ. შედეგად, თქვენი სარეზერვო ასლი წაშლილია.</string>
+    <string name="vault_locked_dialog_title">სარეზერვო ასლი წაშლილია</string>
+</resources>

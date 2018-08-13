@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s آدرس‌های رایانامه معتبری نیستند.</item>
+        <item quantity="one">%s یک آدرس رایانامه معتبر نیست.</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files">
+        <item quantity="other">با افزودن این فایل‌ها، آن‌ها با همه کسانی که می‌توانند به پوشه به‌اشتراک‌گذاشته شده %1$s دسترسی داشته باشند، به اشتراک گذاشته می‌شود</item>
+        <item quantity="one">با افزودن این فایل، آن با همه کسانی که می‌توانند به پوشه به‌اشتراک‌گذاشته شده %1$s دسترسی داشته باشند، به اشتراک گذاشته می‌شود</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">با افزودن این فایل‌ها و پوشه‌ها، آن‌ها با همه کسانی که می‌توانند به پوشه به‌اشتراک‌گذاشته شده %1$s دسترسی داشته باشند، به اشتراک گذاشته می‌شود</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_message_share_folders">
+        <item quantity="other">با افزودن این پوشه‌ها، آن‌ها با همه کسانی که می‌توانند به پوشه به‌اشتراک‌گذاشته شده %1$s دسترسی داشته باشند، به اشتراک گذاشته می‌شود</item>
+        <item quantity="one">با افزودن این پوشه، آن با همه کسانی که می‌توانند به پوشه به‌اشتراک‌گذاشته شده %1$s دسترسی داشته باشند، به اشتراک گذاشته می‌شود</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files">
+        <item quantity="other">این فایل‌ها به اشتراک گذاشته شوند؟</item>
+        <item quantity="one">این فایل به اشتراک گذاشته شود؟</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">این فایل‌ها و پوشه‌ها به اشتراک گذاشته شوند؟</item>
+    </plurals>
+    <plurals name="add_confirm_dialog_title_share_folders">
+        <item quantity="other">این پوشه‌ها به اشتراک گذاشته شوند؟</item>
+        <item quantity="one">این پوشه به اشتراک گذاشته شود؟</item>
+    </plurals>
+    <plurals name="announce_folder_color_set">
+        <item quantity="other">%1$d پوشه به‌روزرسانی شد. رنگ روی %2$s تنظیم شد.</item>
+        <item quantity="one">%1$d پوشه به‌روزرسانی شد. رنگ روی %2$s تنظیم شد.</item>
+    </plurals>
+    <plurals name="backup_entity_expires_in">
+        <item quantity="other">تا %1$d روز دیگر منقضی می‌شود</item>
+        <item quantity="one">تا %1$d روز دیگر منقضی می‌شود</item>
+    </plurals>
+    <plurals name="delete_backup_success_message">
+        <item quantity="other">نسخه‌های پشتیبان حذف شدند.</item>
+        <item quantity="one">نسخه پشتیبان حذف شد.</item>
+    </plurals>
+    <plurals name="desc_frozen_columns">
+        <item quantity="other">‏%d ستون تثبیت‌شده.</item>
+        <item quantity="one">‏%d ستون تثبیت‌شده.</item>
+    </plurals>
+    <plurals name="desc_frozen_rows">
+        <item quantity="other">‏%d سطر تثبیت‌شده.</item>
+        <item quantity="one">‏%d سطر تثبیت‌شده.</item>
+    </plurals>
+    <plurals name="download_message_all_failed">
+        <item quantity="other">موارد بارگیری نشدند</item>
+        <item quantity="one">مورد بارگیری نشد</item>
+    </plurals>
+    <plurals name="download_message_failures">
+        <item quantity="other">%1$d از %2$d مورد بارگیری خواهد شد. برای اطلاع از جزئیات به اعلان مراجعه کنید</item>
+    </plurals>
+    <plurals name="download_message_success">
+        <item quantity="other">%1$d مورد بارگیری خواهد شد. برای اطلاع از جزئیات به اعلان مراجعه کنید</item>
+        <item quantity="one">%1$d مورد بارگیری خواهد شد. برای اطلاع از جزئیات به اعلان مراجعه کنید</item>
+    </plurals>
+    <plurals name="download_notification_failure_multiple">
+        <item quantity="other">%1$s مورد بارگیری نشد</item>
+        <item quantity="one">%1$s مورد بارگیری نشد</item>
+    </plurals>
+    <plurals name="download_notification_list_summary">
+        <item quantity="other">%1$d مورد دیگر</item>
+        <item quantity="one">%1$d مورد دیگر</item>
+    </plurals>
+    <plurals name="download_notification_partial_success_title">
+        <item quantity="other">%1$d از %2$d مورد بارگیری نشد</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_shared_folders">
+        <item quantity="other">درحال انتقال بعضی از موارد به خارج از پوشه‌های به اشتراک‌گذاشته‌شده هستید، بنابراین افراد، دیگر به این موارد دسترسی نخواهند داشت.</item>
+        <item quantity="one">درحال انتقال یک مورد به خارج از پوشه به اشتراک‌گذاشته‌شده هستید، بنابراین افراد، دیگر به این مورد دسترسی نخواهند داشت.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_lose_access_team_drives">
+        <item quantity="other">‏در حال انتقال بعضی از موارد به خارج از Team Drives هستید بنابراین افراد، دیگر به این موارد دسترسی نخواهند داشت.</item>
+        <item quantity="one">‏درحال انتقال یک مورد به خارج از Team Drives هستید بنابراین افراد، دیگر به این مورد دسترسی نخواهند داشت.</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files">
+        <item quantity="other">انتقال این فایل‌ها باعث اشتراک‌گذاری آن‌ها با همه کسانی می‌شود که به پوشه مشترک %1$s دسترسی دارند</item>
+        <item quantity="one">انتقال این فایل باعث اشتراک‌گذاری آن با همه کسانی می‌شود که به پوشه مشترک %1$s دسترسی دارند</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_files_and_folders">
+        <item quantity="other">انتقال این فایل‌ها و پوشه‌ها باعث اشتراک‌گذاری آن‌ها با همه کسانی می‌شود که به پوشه مشترک %1$s دسترسی دارند</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_message_share_folders">
+        <item quantity="other">انتقال این پوشه‌ها باعث اشتراک‌گذاری آن با همه کسانی می‌شود که به پوشه مشترک %1$s دسترسی دارند</item>
+        <item quantity="one">انتقال این پوشه باعث اشتراک‌گذاری آن با همه کسانی می‌شود که به پوشه مشترک %1$s دسترسی دارند</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files">
+        <item quantity="other">این فایل‌ها به اشتراک گذاشته شوند؟</item>
+        <item quantity="one">این فایل به اشتراک گذاشته شود؟</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_files_and_folders">
+        <item quantity="other">این فایل‌ها و پوشه‌ها به اشتراک گذاشته شوند؟</item>
+    </plurals>
+    <plurals name="move_confirm_dialog_title_share_folders">
+        <item quantity="other">این پوشه‌ها به اشتراک گذاشته شوند؟</item>
+        <item quantity="one">این پوشه به اشتراک گذاشته شود؟</item>
+    </plurals>
+    <plurals name="move_error_cannot_move_in_not_owned">
+        <item quantity="other">‏بعضی از موارد متعلق به شما نیستند. نمی‌توانید آنها را به Team Drive منتقل کنید.</item>
+        <item quantity="one">‏این مورد متعلق به شما نیست. نمی‌توانید آن را به Team Drive منتقل کنید.</item>
+    </plurals>
+    <plurals name="move_error_no_permission_src">
+        <item quantity="other">اجازه ندارید بعضی از موارد را به خارج از پوشه‌شان منتقل کنید.</item>
+        <item quantity="one">اجازه ندارید این مورد را به خارج از پوشه‌اش منتقل کنید.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive">
+        <item quantity="other">%1$s «%2$s» اکنون می‌تواند به آنها دسترسی داشته باشد.</item>
+        <item quantity="one">%1$s «%2$s» اکنون می‌تواند به آن دسترسی داشته باشد.</item>
+    </plurals>
+    <plurals name="move_notice_granted_access_team_drive_fallback">
+        <item quantity="other">‏%1$d مورد به Team Drive منتقل شد. اکنون اعضا می‌توانند به آن دسترسی داشته باشند.</item>
+        <item quantity="one">‏١ مورد به Team Drive منتقل شد. اکنون اعضا می‌توانند به آن دسترسی داشته باشند.</item>
+    </plurals>
+    <plurals name="pdocs_action_items">
+        <item quantity="other">%1$s دستور اقدام</item>
+        <item quantity="one">%1$s دستور اقدام</item>
+    </plurals>
+    <plurals name="pdocs_comments">
+        <item quantity="other">%1$s نامبرده بدون پاسخ</item>
+        <item quantity="one">%1$s نامبرده بدون پاسخ</item>
+    </plurals>
+    <plurals name="pdocs_suggestions">
+        <item quantity="other">%1$s پیشنهاد</item>
+        <item quantity="one">%1$s پیشنهاد</item>
+    </plurals>
+    <plurals name="pdocs_todos">
+        <item quantity="other">%1$s کار</item>
+        <item quantity="one">%1$s کار</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d از %2$s مورد اکنون به صورت آفلاین در دسترس است.</item>
+        <item quantity="one">%1$d از %2$s مورد اکنون به صورت آفلاین در دسترس است.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">هر %1$d فایل اکنون به صورت آفلاین در دسترس است.</item>
+        <item quantity="one">%1$d فایل اکنون به صورت آفلاین در دسترس است.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">تنظیم %1$d فایل برای دسترسی به صورت آفلاین.</item>
+        <item quantity="one">تنظیم %1$d فایل برای دسترسی به صورت آفلاین.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d فایل‌</item>
+        <item quantity="one">%1$d فایل</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_ticker">
+        <item quantity="other">‏بارگیری‌ها به‌صورت موقت متوقف شدند، در انتظار Wi-Fi..</item>
+        <item quantity="one">‏بارگیری به‌صورت موقت متوقف شد، در انتظار Wi-Fi..</item>
+    </plurals>
+    <plurals name="pin_notification_waiting_title">
+        <item quantity="other">%1$d بارگیری موقتاً متوقف شد.</item>
+        <item quantity="one">%1$d بارگیری موقتاً متوقف شد.</item>
+    </plurals>
+    <plurals name="plus_photo_item_remove_items_dialog_text_multiple">
+        <item quantity="other">‏%1$d مورد به حذف شده‌ها منتقل می‌شوند. با این کار از Google Photos نیز حذف خواهند شد.</item>
+        <item quantity="one">‏یک مورد به حذف شده‌ها منتقل می‌شود. با این کار از Google Photos نیز حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="prioritydocs_badge_a11y_text">
+        <item quantity="other">%1$s مورد برای پیگیری</item>
+        <item quantity="one">%1$s مورد برای پیگیری</item>
+    </plurals>
+    <plurals name="prioritydocs_menu_item_a11y_text">
+        <item quantity="other">%1$s مورد برای پیگیری</item>
+        <item quantity="one">%1$s مورد برای پیگیری</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_many_users">
+        <item quantity="other">روی %1$d فایل نظر گذاشته شد</item>
+        <item quantity="one">روی یک فایل نظر گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_one_user">
+        <item quantity="other">روی %1$d فایل نظر گذاشته شد</item>
+        <item quantity="one">روی یک فایل نظر گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_commented_this_file">
+        <item quantity="other">روی این فایل نظر گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_many_users">
+        <item quantity="other">%1$d مورد ایجاد شد</item>
+        <item quantity="one">یک مورد ایجاد شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_one_user">
+        <item quantity="other">%1$d مورد ایجاد شد</item>
+        <item quantity="one">یک مورد ایجاد شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_file">
+        <item quantity="other">این فایل ایجاد شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_created_this_folder">
+        <item quantity="other">این پوشه ایجاد شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_many_users">
+        <item quantity="other">%1$d مورد ویرایش شد</item>
+        <item quantity="one">موردی ویرایش شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_one_user">
+        <item quantity="other">%1$d مورد ویرایش شد</item>
+        <item quantity="one">موردی ویرایش شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_edited_this_file">
+        <item quantity="other">این فایل ویرایش شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_empty_trash">
+        <item quantity="other">%1$d مورد برای همیشه حذف شد</item>
+        <item quantity="one">موردی برای همیشه حذف شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_many_users">
+        <item quantity="other">%1$d مورد منتقل شد به:</item>
+        <item quantity="one">موردی منتقل شد به:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_extra_one_user">
+        <item quantity="other">%1$d مورد منتقل شد به:</item>
+        <item quantity="one">موردی منتقل شد به:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_many_users">
+        <item quantity="other">%1$d مورد منتقل شد</item>
+        <item quantity="one">موردی منتقل شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_one_user">
+        <item quantity="other">%1$d مورد منتقل شد</item>
+        <item quantity="one">موردی منتقل شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file">
+        <item quantity="other">این فایل منتقل شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_file_extra">
+        <item quantity="other">این فایل منتقل شد به:</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder">
+        <item quantity="other">این پوشه منتقل شد به</item>
+    </plurals>
+    <plurals name="recent_activity_type_moved_this_folder_extra">
+        <item quantity="other">این پوشه منتقل شد به:</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_many_users">
+        <item quantity="other">‏نام %1$d مورد تغییر کرد</item>
+        <item quantity="one">نام یک مورد تغییر کرد</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_one_user">
+        <item quantity="other">‏نام %1$d مورد تغییر کرد</item>
+        <item quantity="one">نام یک مورد تغییر کرد</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_file">
+        <item quantity="other">نام این فایل تغییر کرد</item>
+    </plurals>
+    <plurals name="recent_activity_type_renamed_this_folder">
+        <item quantity="other">نام این پوشه تغییر کرد</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_many_users">
+        <item quantity="other">%1$d مورد به اشتراک گذاشته شد</item>
+        <item quantity="one">موردی به اشتراک گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_one_user">
+        <item quantity="other">%1$d مورد به اشتراک گذاشته شد</item>
+        <item quantity="one">موردی به اشتراک گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_file">
+        <item quantity="other">این فایل به اشتراک گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_shared_this_folder">
+        <item quantity="other">این پوشه به اشتراک گذاشته شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_many_users">
+        <item quantity="other">%1$d مورد به حذف‌شده‌ها منتقل شد</item>
+        <item quantity="one">موردی به حذف‌شده‌ها منتقل شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_one_user">
+        <item quantity="other">%1$d مورد به حذف‌شده‌ها منتقل شد</item>
+        <item quantity="one">موردی به حذف‌شده‌ها منتقل شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_file">
+        <item quantity="other">این فایل حذف شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_trashed_this_folder">
+        <item quantity="other">این پوشه حذف شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_many_users">
+        <item quantity="other">%1$d مورد بارگذاری شد</item>
+        <item quantity="one">موردی بارگذاری شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_one_user">
+        <item quantity="other">%1$d مورد بارگذاری شد</item>
+        <item quantity="one">موردی بارگذاری شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_file">
+        <item quantity="other">این فایل بارگذاری شد</item>
+    </plurals>
+    <plurals name="recent_activity_type_uploaded_this_folder">
+        <item quantity="other">این پوشه بارگذاری شد</item>
+    </plurals>
+    <plurals name="recent_activity_users_more">
+        <item quantity="other">%1$s و %2$d نفر دیگر</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_files_text">
+        <item quantity="other">%1$d فایل به حذف شده‌های %2$s منتقل می‌شود و بعد از ٣۰ روز برای همیشه حذف خواهند شد.</item>
+        <item quantity="one">این فایل به حذف‌شده‌های «%2$s» منتقل می‌شود و بعد از ٣۰ روز برای همیشه حذف خواهد شد</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_folders_text">
+        <item quantity="other">%1$d پوشه به حذف شده‌های %2$s منتقل می‌شود و بعد از ٣۰ روز برای همیشه حذف خواهند شد.</item>
+        <item quantity="one">پوشه به حذف شده‌های %2$s منتقل می‌شود و بعد از ٣۰ روز برای همیشه حذف خواهد شد.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_for_everyone_items_text">
+        <item quantity="other">%1$d مورد به حذف شده‌های %2$s منتقل می‌شود و بعد از ٣۰ روز برای همیشه حذف خواهد شد.</item>
+        <item quantity="one">مورد به حذف شده‌های %2$s منتقل می‌شود و بعد از ٣۰ روز برای همیشه حذف خواهد شد</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_for_everyone_text_multiple">
+        <item quantity="other">‏این %1$d فایل‌ها &lt;b>به‌طور دائم برای همه حذف خواهند شد.&lt;/b> نمی‌توانید ان را واگرد کنید.</item>
+    </plurals>
+    <plurals name="remove_dialog_delete_permanently_text_multiple">
+        <item quantity="other">این %1$d فایل به‌صورت دائمی حذف می‌شوند. نمی‌توانید این کار را واگرد کنید.</item>
+        <item quantity="one">این فایل به‌صورت دائمی حذف می‌شود. نمی‌توانید این کار را واگرد کنید.</item>
+    </plurals>
+    <plurals name="selection_floating_handle_count">
+        <item quantity="other">%1$d مورد</item>
+        <item quantity="one">%1$d مورد</item>
+    </plurals>
+    <plurals name="selection_floating_handle_select_count_content_desc">
+        <item quantity="other">%1$d مورد انتخاب شد</item>
+        <item quantity="one">%1$d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="selection_floating_handle_unselect_count_content_desc">
+        <item quantity="other">%1$d مورد لغو انتخاب شد</item>
+        <item quantity="one">%1$d مورد لغو انتخاب شد</item>
+    </plurals>
+    <plurals name="selection_message_pin_num_items">
+        <item quantity="other">%d مورد در حالت آفلاین قابل دسترسی خواهد بود</item>
+        <item quantity="one">۱ مورد در حالت آفلاین قابل دسترسی خواهد بود</item>
+    </plurals>
+    <plurals name="selection_message_star_num_items">
+        <item quantity="other">%1$d مورد ستاره‌گذاری شد</item>
+        <item quantity="one">۱ مورد ستاره‌گذاری شد</item>
+    </plurals>
+    <plurals name="selection_message_unpin_num_items">
+        <item quantity="other">%1$d مورد دیگر در حالت آفلاین در دسترس نیست</item>
+        <item quantity="one">۱ مورد دیگر در حالت آفلاین در دسترس نیست</item>
+    </plurals>
+    <plurals name="selection_message_unstar_num_items">
+        <item quantity="other">ستاره %1$d مورد برداشته شد</item>
+        <item quantity="one">ستاره ۱ مورد برداشته شد</item>
+    </plurals>
+    <plurals name="selection_message_untrash_num_items">
+        <item quantity="other">%1$d مورد بازیابی شد</item>
+        <item quantity="one">۱ مورد بازیابی شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_message_remove_num_items">
+        <item quantity="other">%1$d مورد بازیابی شد</item>
+        <item quantity="one">۱ مورد بازیابی شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message">
+        <item quantity="other">%1$d مورد از «%2$s» حذف شد</item>
+        <item quantity="one">۱ مورد از «%2$s» حذف شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_message_fallback">
+        <item quantity="other">%1$d مورد از پوشه حذف شد</item>
+        <item quantity="one">۱ مورد از پوشه حذف شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_add_trashed_message">
+        <item quantity="other">%1$d مورد حذف شد</item>
+        <item quantity="one">۱ مورد حذف شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_message">
+        <item quantity="other">%1$d مورد برگردانده شد</item>
+        <item quantity="one">۱ مورد برگردانده شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_move_trashed_message">
+        <item quantity="other">%1$d مورد به حذف شده‌ها برگردانده شد</item>
+        <item quantity="one">۱ مورد به حذف شده‌ها برگردانده شد</item>
+    </plurals>
+    <plurals name="selection_undo_complete_num_items_restore_trashed_message">
+        <item quantity="other">%1$d مورد دوباره در حذف شده‌ها قرار داده شد</item>
+        <item quantity="one">۱ مورد دوباره در حذف شده‌ها قرار داده شد</item>
+    </plurals>
+    <plurals name="selection_undo_message_remove_num_items">
+        <item quantity="other">%1$d مورد حذف شد</item>
+        <item quantity="one">۱ مورد حذف شد</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message">
+        <item quantity="other">%1$d مورد به «%2$s» اضافه شد</item>
+        <item quantity="one">۱ مورد به «%2$s» اضافه شد</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_message_fallback">
+        <item quantity="other">%1$d مورد اضافه شد</item>
+        <item quantity="one">١ مورد اضافه شد</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_add_trashed_message">
+        <item quantity="other">%1$d مورد بازیابی شد و به «%2$s» اضافه شد</item>
+        <item quantity="one">۱ مورد بازیابی شد و به «%2$s» اضافه شد</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message">
+        <item quantity="other">%1$d مورد به «%2$s» منتقل شد.</item>
+        <item quantity="one">۱ مورد به «%2$s» منتقل شد.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_message_fallback">
+        <item quantity="other">%1$d مورد منتقل شد</item>
+        <item quantity="one">١ مورد منتقل شد</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message">
+        <item quantity="other">%1$d مورد بازیابی شد و به «%2$s» منتقل شد.</item>
+        <item quantity="one">۱ مورد بازیابی شد و به «%2$s» منتقل شد.</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_move_trashed_message_fallback">
+        <item quantity="other">%1$d مورد بازیابی شد.</item>
+        <item quantity="one">۱ مورد بازیابی شد</item>
+    </plurals>
+    <plurals name="selection_undo_num_items_restore_trashed_message">
+        <item quantity="other">%1$d مورد در «%2$s» بازیابی شد.</item>
+        <item quantity="one">۱ مورد در «%2$s» بازیابی شد.</item>
+    </plurals>
+    <plurals name="send_files">
+        <item quantity="other">ارسال فایل‌ها با</item>
+        <item quantity="one">ارسال فایل با</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_generic">
+        <item quantity="other">%1$d نفر اکنون می‌توانند دسترسی داشته باشند</item>
+        <item quantity="one">یک نفر اکنون می‌تواند مشاهده کند</item>
+    </plurals>
+    <plurals name="sharing_message_add_accessors_more">
+        <item quantity="other">%1$s و %2$d نفر دیگر اکنون می‌توانند دسترسی داشته باشند</item>
+        <item quantity="one">%1$s و یک نفر دیگر اکنون می‌توانند دسترسی داشته باشند</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_generic">
+        <item quantity="other">%1$d نفر اکنون می‌توانند نظر اضافه کنند</item>
+        <item quantity="one">یک نفر اکنون می‌تواند نظر اضافه کند</item>
+    </plurals>
+    <plurals name="sharing_message_add_commenters_more">
+        <item quantity="other">%1$s و %2$d نفر دیگر اکنون می‌توانند نظر اضافه کنند</item>
+        <item quantity="one">%1$s و یک نفر دیگر اکنون می‌توانند نظر اضافه کنند</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_generic">
+        <item quantity="other">%1$d نفر اکنون می‌توانند ویرایش کنند</item>
+        <item quantity="one">یک نفر اکنون می‌تواند ویرایش کند</item>
+    </plurals>
+    <plurals name="sharing_message_add_editors_more">
+        <item quantity="other">%1$s و %2$d نفر دیگر اکنون می‌توانند ویرایش کنند</item>
+        <item quantity="one">%1$s و یک نفر دیگر اکنون می‌توانند ویرایش کنند</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_generic">
+        <item quantity="other">%1$d نفر اکنون می‌توانند مشاهده کنند</item>
+        <item quantity="one">یک نفر اکنون می‌تواند مشاهده کند</item>
+    </plurals>
+    <plurals name="sharing_message_add_viewers_more">
+        <item quantity="other">%1$s و %2$d نفر دیگر اکنون می‌توانند مشاهده کنند</item>
+        <item quantity="one">%1$s و یک نفر دیگر اکنون می‌توانند مشاهده کنند</item>
+    </plurals>
+    <plurals name="storage_expire_in_n_days">
+        <item quantity="other">‏Drive storage %1$d روز دیگر منقضی می‌شود</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_generic">
+        <item quantity="other">‏%1$d نفر به Team Drive اضافه شدند</item>
+        <item quantity="one">‏یک نفر به Team Drive اضافه شد</item>
+    </plurals>
+    <plurals name="td_sharing_message_add_users_more">
+        <item quantity="other">%2$s و %3$d نفر دیگر به %1$s اضافه شدند</item>
+        <item quantity="one">%2$s و یک نفر دیگر به %1$s اضافه شدند</item>
+    </plurals>
+    <plurals name="teamdrive_acl_info_summary">
+        <item quantity="other">%d عضو</item>
+        <item quantity="zero">هیچ عضوی نیست</item>
+        <item quantity="one">۱ عضو</item>
+    </plurals>
+    <plurals name="transfer_notification_waiting_resume">
+        <item quantity="other">ازسرگیری همه انتقال‌ها</item>
+        <item quantity="one">ازسرگیری انتقال</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_canceled">
+        <item quantity="other">زمان‌بندی %1$d فایل برای بارگذاری لغو شد.</item>
+        <item quantity="one">زمان‌بندی %1$d فایل برای بارگذاری لغو شد.</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">%1$d فایل برای بارگذاری زمان‌بندی نشد.</item>
+        <item quantity="one">%1$d فایل برای بارگذاری زمان‌بندی نشد.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d فایل بارگذاری شدند.</item>
+        <item quantity="one">%1$d فایل بارگذاری شد.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">%1$d از %2$d فایل بارگذاری نشد.</item>
+        <item quantity="one">%1$d از %2$d فایل بارگذاری نشد.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">در حال بارگذاری %1$d فایل.</item>
+        <item quantity="one">در حال بارگذاری %1$d فایل.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">‏بارگذاری‌ها موقتاٌ متوقف شدند، در انتظار Wi-Fi..</item>
+        <item quantity="one">‏بارگذاری موقتاٌ متوقف شد، در انتظار Wi-Fi..</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">بارگذاری %1$d متوقف شد.</item>
+        <item quantity="one">بارگذاری %1$d متوقف شد.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">در حال آماده‌سازی %1$d فایل برای بارگذاری.</item>
+        <item quantity="one">در حال آماده‌سازی %1$d فایل برای بارگذاری.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">%1$d فایل شما در حال بارگذاری در این پوشه است: %2$s</item>
+        <item quantity="one">%1$d فایل شما در حال بارگذاری در این پوشه است: %2$s</item>
+    </plurals>
+    <plurals name="zss_chip_filters_label">
+        <item quantity="other">فیلترها</item>
+        <item quantity="one">فیلتر</item>
+    </plurals>
+</resources>

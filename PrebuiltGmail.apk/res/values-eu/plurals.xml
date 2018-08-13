@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s hartzaile</item>
+        <item quantity="one">1 hartzaile</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">Enkriptatzea onartzen ez duten zerbitzuak darabiltzate ^1 hartzailek. Enkriptatzerik gabe, beste batzuek ikus dezakete mezua bidaltzen den bitartean. ^2</item>
+        <item quantity="one">Enkriptatzea onartzen ez duen zerbitzu bat darabil ^1 erabiltzaileak. Enkriptatzerik gabe, beste batzuek ikus dezakete mezua bidaltzen denean. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">Mezu hau bidali zenean, ^1 domeinuak eta beste batzuek ez zuten onartzen enkriptatzea. ^2</item>
+        <item quantity="one">Mezu hau bidali zenean, ^1 domeinuak ez zuen onartzen enkriptatzea. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">%1$d elkarrizketa hauek artxibatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa artxibatu nahi duzu?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">%1$d elkarrizketa hauek ezabatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa ezabatu nahi duzu?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">%1$d elkarrizketa hauen zirriborroak baztertu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketaren zirriborroak baztertu nahi dituzu?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> artxibatu dira</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> artxibatu da</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ezabatu dira</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ezabatu da</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Etiketak aldatu dira.</item>
+        <item quantity="one">Etiketa aldatu da.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> eraman dira sarrera-ontzira</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> eraman da sarrera-ontzira</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ezkutatu dira</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> ezkutatu da</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> garrantzirik gabeko gisa markatu dira</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> garrantzirik gabeko gisa markatu da</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> spama ez direla jakinarazi da</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> spama ez dela jakinarazi da</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> mezu markatu dira irakurritako gisa</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> mezu markatu da irakurritako gisa</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> atzeratu dira ordu honetara arte: %2$s</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> atzeratu da ordu honetara arte: %2$s</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> spama direla jakinarazi da</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> spama dela jakinarazi da</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d spam gisa markatu dira eta harpidetza kendu da</item>
+        <item quantity="one">%1$d spam gisa markatu dira eta harpidetza kendu da</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> aurreratu dira</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> aurreratu da</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d elkarrizketari izarra kentzen</item>
+        <item quantity="one">%1$d elkarrizketari izarra kentzen</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d egunean behin</item>
+        <item quantity="one">Egunero</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Spam gisa markatuko dira mezu hauek. Halaber, &lt;b>%2$d igorle&lt;/b> hauen antzeko mezuak jasotzeari utzi nahi diozu?%1$s</item>
+        <item quantity="one">Spam gisa markatuko da mezu hau. Halaber, %1$s igorlearen antzeko mezuak jasotzeari utzi nahi diozu?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Zirriborroak</item>
+        <item quantity="one">Zirriborroa</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">Betiko ezabatuko dira %1$s elkarrizketa</item>
+        <item quantity="one">Betiko ezabatuko da %1$s elkarrizketa</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d bider</item>
+        <item quantity="one">; behin</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Agian hartzaileak ezin izango dira sartu Drive-tik txertatutako fitxategietan. Beharbada fitxategiak Google Drive-tik partekatu beharko dituzu.</item>
+        <item quantity="one">Agian hartzaileak ezin izango dira sartu Drive-tik txertatutako fitxategian. Beharbada fitxategia Google Drive-tik partekatu beharko duzu.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Oharra: agian zenbait hartzailek ez dute izango fitxategietarako sarbiderik oraindik. Beharbada fitxategiak Google Drive-tik partekatu beharko dituzu.</item>
+        <item quantity="one">Oharra: agian zenbait hartzailek ez dute izango fitxategirako sarbiderik oraindik. Beharbada fitxategia Google Drive-tik partekatu beharko duzu.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br> hartzaileekin partekatzen ari zara fitxategiak, eta horiek ez dira fitxategien jabe den Google Apps erakundekoak."</item>
+        <item quantity="one">&lt;br>&lt;b>%1$s&lt;/b>&lt;br> hartzaileekin partekatzen ari zara fitxategia, eta horiek ez dira fitxategiaren jabe den Google Apps erakundekoak.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">Enkriptatzea onartzen ez duten zerbitzuak darabiltzate ^1 hartzailek. Enkriptatzerik gabe, norbaitek irakur lezake mezua bidaltzean. ^2</item>
+        <item quantity="one">Enkriptatzea onartzen ez duen zerbitzu bat darabil ^1 erabiltzaileak. Enkriptatzerik gabe, norbaitek irakur lezake mezua bidaltzean. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d hilean behin</item>
+        <item quantity="one">Hilero</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mezu berri</item>
+        <item quantity="one">%1$d mezu berri</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mezu berri</item>
+        <item quantity="one">%1$d mezu berri</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d eranskin</item>
+        <item quantity="one">%1$d eranskin</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mezu</item>
+        <item quantity="one">%1$d mezu</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Partekatu gabe daude egutegiak</item>
+        <item quantity="one">Partekatu gabe dago egutegia</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d gertaeratan</item>
+        <item quantity="one">%d gertaeran</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d egunean behin</item>
+        <item quantity="one">%d egunean behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d hilean behin</item>
+        <item quantity="one">%d hilean behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d astean behin</item>
+        <item quantity="one">%d astean behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d urtean behin</item>
+        <item quantity="one">%d urtean behin</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">%d bilaketa-emaitza kargatu dira</item>
+        <item quantity="one">%d bilaketa-emaitza kargatu da</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Zabaldu %1$d mezu zaharrago</item>
+        <item quantity="one">Zabaldu mezu zaharragoa</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">Duela %d egun atzeratu zen</item>
+        <item quantity="one">Duela %d egun atzeratu da</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">Duela %d ordu atzeratu da</item>
+        <item quantity="one">Duela %d ordu atzeratu da</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">Duela %d hilabete atzeratu zen</item>
+        <item quantity="one">Duela %d hilabete atzeratu zen</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">Duela %d aste atzeratu zen</item>
+        <item quantity="one">Duela %d aste atzeratu zen</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">Duela %d urte atzeratu zen</item>
+        <item quantity="one">Duela %d urte atzeratu zen</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d mezu zaharrago zabaldu dira</item>
+        <item quantity="one">Mezu zaharrago bat zabaldu da</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">Egun bat</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Konektatutakoan, azken %1$d egunetako mezuak deskargatuko dira</item>
+        <item quantity="one">Konektatutakoan, azken eguneko mezuak deskargatuko dira</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Azken %1$d egunak</item>
+        <item quantity="one">Azken eguna</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Epemuga - %1$s - %2$d zeregin</item>
+        <item quantity="one">Epemuga - %1$s - %2$d zeregin</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">egun</item>
+        <item quantity="one">egun</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d astean behin, egun hauetan: %2$s</item>
+        <item quantity="one">Astero, egun hauetan: %2$s</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d urtean behin</item>
+        <item quantity="one">Urtero</item>
+    </plurals>
+</resources>

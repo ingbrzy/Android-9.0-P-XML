@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Жоғары қозғалу</string>
+    <string name="abc_action_menu_overflow_description">Басқа опциялар</string>
+    <string name="abc_action_mode_done">Дайын</string>
+    <string name="abc_capital_off">ӨШІРУЛІ</string>
+    <string name="abc_capital_on">ҚОСУЛЫ</string>
+    <string name="abc_search_hint">Іздеу…</string>
+    <string name="abc_searchview_description_clear">Сұрақты жою</string>
+    <string name="abc_searchview_description_search">Іздеу</string>
+    <string name="abc_searchview_description_submit">Сұрақты жіберу</string>
+    <string name="abc_searchview_description_voice">Дауыс арқылы іздеу</string>
+    <string name="abc_toolbar_collapse_description">Тасалау</string>
+    <string name="app_has_in_app_purchases">Қолданба арқылы сатып алу</string>
+    <string name="app_has_permissions">Рұқсаттар: %s</string>
+    <string name="app_has_runtime_permissions">Қолданба рұқсаттар сұрайтын болады</string>
+    <string name="app_install_summary">%1$d / %2$d қолданба орнатылды</string>
+    <string name="app_picker_loading">Қолжетімді қолданбалар ізделуде…</string>
+    <string name="app_picker_loading_toast">Қолжетімді қолданбалар тізімі көп ұзамай жүктеледі</string>
+    <string name="app_picker_no_apps">Ешбір қолданба таңдалмады</string>
+    <string name="app_picker_no_apps_found">Ешқандай бағдарлама табылмады</string>
+    <string name="apps_permissions_described_v2">"Android қолданбаларына тек танымал, тегін iOS® қолданбалары ғана сәйкес келеді. Қолданба арқылы сатып алынған мазмұндардың көбі тасымалданбайды. Реттеу аяқталғаннан кейін Play Store дүкенінде басқа да қолданбалар көрсетіледі.
+
+Кейбір қолданбалар белгілі бір мүмкіндіктерге не құрылғыдағы ақпаратқа кіру үшін алдын ала рұқсатыңызды қажет етуі мүмкін. Рұқсаттар топтарға бөлінеді. Бұл қолданбаларды орнатуды таңдау арқылы әр топқа жататын рұқсаттарды қабылдайсыз. Әр рұқсаттар тобының сипаттамасы төменде берілген.
+
+Кейбір қолданбаларға алдын ала рұқсаттар қажет болмауы мүмкін. Мұндай қолданбалардың біреуін пайдаланып жатсаңыз, ол аталған деректер түрлерін пайдаланбас бұрын, оған жеке рұқсат беріңіз не тыйым салыңыз.
+
+^1"</string>
+    <string name="auto_synced_item_gmail">Gmail</string>
+    <string name="auto_synced_item_google_calendar">Google Calendar</string>
+    <string name="auto_synced_item_google_contacts">Google Contacts</string>
+    <string name="auto_synced_item_google_photos">Google Photos</string>
+    <string name="auto_synced_title">Автоматты синхрондалады</string>
+    <string name="backup_d2d_migration_tool_activity_name">Data Transfer Tool</string>
+    <string name="button_dont_restore">Қалпына келтірмеу</string>
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button">Көшіруді тоқтату</string>
+    <string name="cancel_copy_button_text">Көшірмеу</string>
+    <string name="close_button_label">Жабу</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Сақтық көшірмесі жасалған қолданба жоқ</string>
+    <string name="cloud_restore_app_picker_title">Қалпына келтірілетін қолданбаларды таңдаңыз</string>
+    <string name="common_cancel">Бас тарту</string>
+    <string name="common_confirm">Растау</string>
+    <string name="common_google_play_services_enable_button">Қосу</string>
+    <string name="common_google_play_services_enable_text">Google Play қызметтерін қоспасаңыз, %1$s жұмыс істемейді.</string>
+    <string name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_install_button">Орнату</string>
+    <string name="common_google_play_services_install_text">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play қызметтерінің қолжетімділігі</string>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
+    <string name="common_google_play_services_unknown_issue">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
+    <string name="common_google_play_services_update_button">Жаңарту</string>
+    <string name="common_google_play_services_update_text">Google Play қызметтерін жаңартпасаңыз, %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_google_play_services_updating_text">Қазіргі уақытта жаңартылып жатқан Google Play қызметтерінсіз %1$s іске қосылмайды.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play қызметтерінің жаңа нұсқасы қажет. Ол қысқа уақыттан кейін өзі жаңарады.</string>
+    <string name="common_ok">Жарайды</string>
+    <string name="common_open_on_phone">Телефонда ашу</string>
+    <string name="common_restore">Қалпына келтіру</string>
+    <string name="common_try_again">Қайталап көру</string>
+    <string name="consolidated_notification_app_name">Pixel Setup</string>
+    <string name="consolidated_notification_finishing_restore">Қолданба мен деректердің қалпына келтірілуі аяқталуда…</string>
+    <string name="consolidated_notification_restore_complete_content">Толық мәлімет алу үшін түртіңіз</string>
+    <string name="consolidated_notification_restore_complete_title">Деректер қалпына келтірілді</string>
+    <string name="consolidated_notification_restore_paused_content">Реттеу аяқталғаннан кейін қалпына келтіру жалғасады</string>
+    <string name="consolidated_notification_restore_paused_title">Қолданба мен деректерді қалпына келтіру кідіртілді</string>
+    <string name="consolidated_notification_restore_use_mobile_data">Мобильдік деректер арқылы қалпына келтіру</string>
+    <string name="consolidated_notification_restore_wifi_required_content">Wi-Fi желісіне қосылу</string>
+    <string name="consolidated_notification_restore_wifi_required_title">Қолданбаның жаңа нұсқалары дайын</string>
+    <string name="contacts_number_device_and_icloud">%1$d контакт iCloud® жадында, %2$d контакт құрылғыда</string>
+    <string name="content_selector_ui_title">Қалпына келтіру қажет деректерді таңдаңыз</string>
+    <string name="continue_button">Жалғастыру</string>
+    <string name="copied_contacts_group_label">%1$s құрылғысынан көшірілді</string>
+    <string name="copied_contacts_group_label_default">Кабель арқылы көшірілді</string>
+    <string name="copied_contacts_group_label_ios">iOS жүйесінен көшірілді</string>
+    <string name="copy_button">Көшіру</string>
+    <string name="d2d_app_picker_description_no_apps">Ешқандай қолданба табылмады</string>
+    <string name="d2d_app_picker_title">Қолданбалар</string>
+    <string name="data_copied_fragment_description">Кабельді ажыратуыңызға болады</string>
+    <string name="data_copied_fragment_description_cancel">Көшіру тоқтатылғандықтан, деректердің бір бөлігі ғана жаңа телефонға көшірілді.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Көшіру тоқтатылғандықтан, жаңа телефонға ештеңе көшірілмеді.</string>
+    <string name="data_copied_fragment_description_error">Бірдеңеден қате кеткендіктен, толық көшірілмеді.</string>
+    <string name="data_copied_fragment_description_error_no_data">Бірдеңеден қате кеткендіктен, деректер көшірілмеді.</string>
+    <string name="data_copied_fragment_no_data_title">Көшірілмеді</string>
+    <string name="data_copied_fragment_some_data_title">Деректердің бір бөлігі ғана көшірілді</string>
+    <string name="data_copied_fragment_title">Көшіру аяқталды</string>
+    <string name="device_not_supported_fragment_new_device">Жаңа телефонға жалғадыңыз. Жалғастыру үшін алдыңғысына қайта жалғаңыз.</string>
+    <string name="device_not_supported_fragment_new_device_title">Алдыңғы телефонға қайта жалғаңыз</string>
+    <string name="device_not_supported_fragment_no_data_cable">Бұл кабель деректерді тасымалдай алмайды. Басқа кабельді қайта жалғап, әрекетті қайталаңыз.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Басқа кабельді пайдаланып көріңіз</string>
+    <string name="device_not_supported_fragment_other_ways_btn">Басқаша көшіру</string>
+    <string name="device_not_supported_fragment_retry_description">Ескі телефонның құлпы ашылғанына көз жеткізіп, кабельді ажыратыңыз да, қайта қосыңыз</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Бірдеңе дұрыс болмады</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_description">Қораптағы адаптерге сәйкес келетін басқа кабельмен қайта жалғаңыз</string>
+    <string name="device_not_supported_fragment_wrong_usb_data_role_title">Бұл кабель жұмыс істемейді</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® құрылғыңыз бақылауда болғандықтан, деректерді көшірудің басқа жолын таңдауыңыз керек</string>
+    <string name="device_picker_empty">%1$s есептік жазбасымен ешқандай резервтік құрылғы байланыстырылмаған.</string>
+    <string name="device_picker_empty_title">Ешқандай резервтік құрылғы жоқ</string>
+    <string name="device_picker_item">%1$s құрылғысы деректерінің сақтық көшірмесі</string>
+    <string name="device_picker_title">Деректерінің сақтық көшірмесі қалпына келтірілетін құрылғыны таңдаңыз</string>
+    <string name="dialog_continue_button_label">Жалғастыру</string>
+    <string name="download_file_description">Басқа құрылғыдан көшірілген</string>
+    <string name="drive_backup_content_callhistory_title">Қоңыраулар тарихы</string>
+    <string name="drive_backup_content_contacts_title">Контактілер</string>
+    <string name="drive_backup_content_devicesettings_title">Құрылғы параметрлері</string>
+    <string name="durationDayHour">%1$d күн %2$d сағ</string>
+    <string name="durationDayHours">%1$d күн %2$d сағ</string>
+    <string name="durationDays">%1$d күн</string>
+    <string name="durationHoursMinutes">%1$d сағ %2$d мин</string>
+    <string name="durationMinute">%1$d минут</string>
+    <string name="durationMinutes">%1$d минут</string>
+    <string name="encryption_warning_fragment_description">"Сақтық көшірмені шифрлау функциясы iPhone® құрылғысында қосылған. Егер оны өзіңіз қоспаған болсаңыз, мұны әкімші істеген болуы мүмкін.
+
+Тек фотосуреттерді, музыканы және бейнелерді көшіруге болады. Толығырақ ақпарат алу үшін "<b>g.co/datatransferhelp</b> мекенжайына кіріңіз.</string>
+    <string name="encryption_warning_fragment_title">Сақтық көшірмені шифрлау</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="flow_choice_description_text_new">Қолданбалар, фотосуреттер, контактілер, Google есептік жазбаңызды және басқа мазмұнды тасымалдаңыз. Көшірілетін мазмұнды таңдай аласыз.</string>
+    <string name="flow_choice_dont_copy_data">Деректерді көшірмеу</string>
+    <string name="flow_choice_new_label_new">Көшірмеу</string>
+    <string name="flow_choice_new_summary_new">Телефонды қолмен реттеу</string>
+    <string name="flow_choice_restore_label">Деректерді көшіру</string>
+    <string name="flow_choice_restore_summary_new">Android or iPhone® құрылғысынан</string>
+    <string name="flow_choice_restore_summary_no_iphone">Android құрылғысынан немесе бұлттан</string>
+    <string name="flow_choice_title">Қолданбалар мен деректерді көшіру</string>
+    <string name="fragment_app_picker_d2d_title">Қолданбаларды таңдаңыз</string>
+    <string name="fragment_app_picker_description_d2d_ios_v2">"^2 iOS® қолданбасының ^1 қолданбасына сәйкестік таптық. Кейбір қолданба арқылы сатып алу тасымалданбауы мүмкін.
+
+Әр қолданбаны орната отырып, оның рұқсаттарымен келісесіз. "<annotation id="apps_permissions_learn_more">Толығырақ</annotation></string>
+    <string name="fragment_indexing_description">Келесі экранда нені көшіретініңізді таңдаңыз</string>
+    <string name="fragment_indexing_title">Деректер тексерілуде…</string>
+    <string name="fragment_indexing_verify_password_description">Бұл бірнеше минут алуы мүмкін</string>
+    <string name="fragment_indexing_verify_password_title">Құпия сөз расталуда…</string>
+    <string name="fragment_ios_decryption_description">SMS хабарлары мен контактілер сияқты басқа да мазмұндарды жіберу үшін iTunes® сақтық көшірме құпия сөзін енгізіңіз</string>
+    <string name="fragment_ios_decryption_forgot_password_button">Құпия сөзді ұмытып қалдыңыз ба?</string>
+    <string name="fragment_ios_decryption_forgot_password_description">Шифрланған мазмұнды көшіру үшін iOS® сақтық көшірме құпия сөзі қажет. Шифрланбаған мазмұн жаңа Pixel құрылғыңызға көшіріледі.</string>
+    <string name="fragment_ios_decryption_forgot_password_title">Шифрланған мазмұн көшірілмейді</string>
+    <string name="fragment_ios_decryption_password_hint">iTunes® сақтық көшірме құпия сөзін енгізіңіз</string>
+    <string name="fragment_ios_decryption_skip_button">Шифрланған мазмұнды өткізіп жіберу</string>
+    <string name="fragment_ios_decryption_skip_password_description">iCloud® және құрылғы контактілері, iMessage® хабарлары жіберілмейді</string>
+    <string name="fragment_ios_decryption_skip_password_title">Шифрланған мазмұн өткізіп жіберілсін бе?</string>
+    <string name="fragment_ios_decryption_title">iPhone® құрылғысы шифрланған</string>
+    <string name="fragment_ios_decryption_wrong_password_error">Құпия сөз қате. Әрекетті қайталаңыз.</string>
+    <string name="fragment_ios_device_management_confirm_title">\"Басқару\" опциясының өшірілуін растау</string>
+    <string name="fragment_ios_device_management_detected_description">"iPhone® құрылғыңызды ұйымыңыз басқарады және оның шифрланған мазмұны бар.
+
+iCloud® және құрылғы контактілерін, iMessage® хабарларын жіберу үшін iPhone® құрылғысында оны басқару опциясын өшіру керек."</string>
+    <string name="fragment_ios_device_management_detected_title">Кейбір мазмұндар шифрланған</string>
+    <string name="fragment_ios_device_management_next_button_first_screen">Қадамдарды көрсету</string>
+    <string name="fragment_ios_device_management_not_removed_description">"iPhone® құрылғысындағы құрылғыны басқару функциясын өшіру үшін келесі қадамдарды орындаңыз. 
+
+Егер құрылғыны басқару функциясы өшірілмесе, жаңа Pixel құрылғысына шифрланған мазмұн тасымалданбайды."</string>
+    <string name="fragment_ios_device_management_not_removed_title">Шифрланған мазмұн тасымалданбайды</string>
+    <string name="fragment_ios_device_management_open_settings_description">iPhone® құрылғысында <b>Параметрлер > Жалпы > Құрылғыны басқару</b> тармағына өтіңіз</string>
+    <string name="fragment_ios_device_management_open_settings_title">\"Басқару\" параметрлерін ашу</string>
+    <string name="fragment_ios_device_management_passcode_title">Кодты енгізіңіз</string>
+    <string name="fragment_ios_device_management_remove_title">\"Басқару\" опциясын өшіру</string>
+    <string name="fragment_ios_device_management_risk_description">"Құрылғыны басқару өшірілсе, жұмыс ресурстарына кіре алмай қалуыңыз мүмкін.
+
+Егер реттегеннен кейін құрылғыны басқару опциясын қайта орната алмасаңыз, әкімшімен хабарласыңыз."</string>
+    <string name="fragment_ios_device_management_risk_title">\"Құрылғыны басқару\" опциясын өшіру</string>
+    <string name="fragment_ios_device_management_select_management_title">\"Мобильдік құрылғыны басқару\" астындағы опцияны түртіңіз</string>
+    <string name="fragment_ios_device_management_skip_button">Шифрланған мазмұнды өткізіп жіберу</string>
+    <string name="fragment_ios_instructions_description">Жалғастыру үшін iPhone® құрылғысын тексеріп, байланысты мақұлдаңыз</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_confirm_button">Өткізу</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_description">iCloud® және құрылғы контактілері, iMessage® хабарлары жіберілмейді</string>
+    <string name="fragment_ios_skip_encrypted_data_dialog_title">Шифрланған мазмұн өткізіп жіберілсін бе?</string>
+    <string name="fragment_restore_choice_title">Көшірілетін мазмұнды таңдаңыз</string>
+    <string name="fragment_target_connected_description">Көшіруге дайындалуда...</string>
+    <string name="fragment_target_connected_title">Телефондар қосылды</string>
+    <string name="fragment_usb_cable_doesnt_fit">Кабель сәйкес келмей ме?</string>
+    <string name="fragment_usb_cant_find_adapter">Адаптер жоқ па?</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Егер кабель сәйкес келмесе, ^1 құрылғысымен бір қорапта берілген Quick Switch Adapter құралын табыңыз.
+
+Кабельді адаптерге жалғаңыз."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Адаптер мен кабельді жалғаңыз</string>
+    <string name="fragment_usb_connect_both_phones_description">Адаптерді осы ^1 құрылғысына қосыңыз</string>
+    <string name="fragment_usb_connect_both_phones_title">Екі телефонды бір-бірімен жалғаңыз</string>
+    <string name="fragment_usb_dialog_cancel_description">"Кабельді пайдалансаңыз, SMS хабарларымен бірге мазмұндардың басым бөлігін ала аласыз.
+
+Егер қораптағы кабель сәйкес келмесе, ескі телефонның зарядтау кабелін немесе деректер кабелін пайдаланыңыз."</string>
+    <string name="fragment_usb_dialog_cancel_title">Деректер басқа жолмен көшірілсін бе?</string>
+    <string name="fragment_usb_dialog_without_old_phone_description">"Ескі телефон немесе кабель арқылы көбірек деректер тасымалдай аласыз.
+
+Деректерді кабельсіз қалпына келтіру үшін, келесі экрандағы пайдаланушы аты мен құпия сөзді пайдаланыңыз."</string>
+    <string name="fragment_usb_dialog_without_old_phone_title">Деректер ескі телефонды пайдаланбастан қалпына келтірілсін бе?</string>
+    <string name="fragment_usb_dont_copy">Көшірмеу</string>
+    <string name="fragment_usb_dont_have_cable">Кабель жоқ па?</string>
+    <string name="fragment_usb_dont_have_old_phone">Ескі телефон қолда жоқ па?</string>
+    <string name="fragment_usb_find_cable_description">Ескі телефоныңызға сәйкес келетін кабельді пайдаланыңыз. Бұл әдетте зарядтауға пайдаланылатын кабель болады.</string>
+    <string name="fragment_usb_find_cable_title">Ескі телефоныңыздың кабелін табыңыз</string>
+    <string name="fragment_usb_initial_description">Ескі Android немесе iPhone® құрылғыңыз қажет. Оны қосып, құлпын ашық ұстаңыз.</string>
+    <string name="fragment_usb_initial_title">Ескі телефонды алыңыз</string>
+    <string name="fragment_usb_missing_data_description">Көшіру кезінде ^1 телефоныңызды реттей беруіңізге болады.</string>
+    <string name="fragment_usb_missing_data_title">Деректерді көшірейік</string>
+    <string name="fragment_usb_other_ways">Басқаша көшіру</string>
+    <string name="fragment_usb_plug_cable">Ескі телефонға кабельді жалғаңыз</string>
+    <string name="fragment_waiting_title">Күте тұрыңыз…</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="google_contacts_will_sync">Google Contacts синхрондалады</string>
+    <string name="imessage_dialog_message">"iPhone® пайдаланушыларынан SMS хабарларын әрі қарай ала беру үшін ескі телефоныңызда iMessage® қызметін өшіруіңіз керек. iPad® сияқты басқа құрылғыларда iMessage® қызметін пайдалана беруіңізге болады.
+
+ ^1 телефоныңызды реттеп болған кезде, "<b>g.co/iMessageHelp</b> бетін ашып, нұсқауларды орындаңыз.</string>
+    <string name="imessage_dialog_title">iPhone® пайдаланушыларынан хабарлар алу</string>
+    <string name="instructions_fragment_title">Екінші телефонды тексеріңіз</string>
+    <string name="ios_connected_fragment_description_has_account">Google есептік жазбаңызды қолданбалар мен iOS® Calendar оқиғаларын тасымалдау үшін пайдаланамыз</string>
+    <string name="ios_connected_fragment_description_no_account">"Келесі экранда Google есептік жазбасына кіруге немесе жаңасын жасауға болады.
+
+Егер Google есептік жазбасын енгізбесеңіз, қолданбаларыңыз және iOS® Calendar оқиғалары тасымалданбайды."</string>
+    <string name="ios_message_attachment_explanation">[Хабар тіркемелері \"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" қалтасында сақталады]</string>
+    <string name="ios_message_attachment_failed_explanation">[Кейбір тіркемелер көшірілмейді. Ал көшірілгендері \"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" қалтасында сақталады]</string>
+    <string name="ios_message_attachment_placeholder">[\"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" бөлімінде сақталған тіркеме]</string>
+    <string name="ios_message_attachments_placeholder">[\"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" бөлімінде сақталған тіркемелер]</string>
+    <string name="ios_migration_default_calendar_title">Күнтізбе</string>
+    <string name="ios_migration_other_contact_relation">Басқа</string>
+    <string name="ios_photos_dialog_heif_and_icloud_message">"Кейбір суреттер iPhone® телефоны арқылы HEIF файлдары ретінде сақталды. iCloud® суреттерімен қатар бұл суреттер де көшірілмейді.
+
+Оларды ^1 құрылғысына көшіру үшін iPhone® телефонына Google Photos қолданбасын орнатып, \"Сақтық көшірме жасау және синхрондау\" функциясын іске қосыңыз. Қосымша нұсқауларды "<b>g.co/datatransferhelp</b> бетінен қараңыз.</string>
+    <string name="ios_photos_dialog_heif_message">"Кейбір суреттер iPhone® телефоны арқылы HEIF файлдары ретінде сақталды. Бұл суреттер көшірілмейді.
+
+Оларды ^1 құрылғысына көшіру үшін iPhone® телефонына Google Photos қолданбасын орнатып, \"Сақтық көшірме жасау және синхрондау\" функциясын іске қосыңыз. Қосымша нұсқауларды "<b>g.co/datatransferhelp</b> бетінен қараңыз.</string>
+    <string name="ios_photos_dialog_icloud_message">"iCloud® қызметінде сақталған суреттер көшірілмейді.
+
+Оларды ^1 құрылғысына көшіру үшін iPhone® телефонына Google Photos қолданбасын орнатып, \"Сақтық көшірме жасау және синхрондау\" функциясын іске қосыңыз. Қосымша нұсқауларды "<b>g.co/datatransferhelp</b> бетінен қараңыз.</string>
+    <string name="key_recovery_instruction_description">Сақтық көшірмені шифрдан шығару үшін келесі қадамда ескі телефонның экран құлпын енгізіңіз</string>
+    <string name="key_recovery_instruction_title">Ескі %s құрылғысының экран құлпын растаңыз</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="lock_screen_entry_title">Ескі %s құрылғысының экран құлпын растаңыз</string>
+    <string name="lock_screen_error_other">Бірдеңе дұрыс болмады. Кейінірек қайталап көріңіз.</string>
+    <string name="lock_screen_error_wrong_password">Қате құпия сөз</string>
+    <string name="lock_screen_error_wrong_pattern">Қате өрнек</string>
+    <string name="lock_screen_error_wrong_pin">Қате PIN коды</string>
+    <string name="lockscreen_access_pattern_area">Өрнек аумағы</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">%d ұяшығы енгізілді</string>
+    <string name="lockscreen_access_pattern_cleared">Өрнек өшірілді</string>
+    <string name="lockscreen_access_pattern_detected">Өрнек салынып болды</string>
+    <string name="lockscreen_access_pattern_start">Өрнек салына бастады</string>
+    <string name="megabyteShort">MБ</string>
+    <string name="mobile_warning_fragment_dialog_content">Мобильдік деректер байланысы үшін ақы алынуы мүмкін. Сонымен қатар Wi‑Fi байланысын күтуіңізге болады, ол автоматты түрде қосылады</string>
+    <string name="mobile_warning_fragment_dialog_nodata">Кейінірек</string>
+    <string name="mobile_warning_fragment_dialog_title">Мобильдік деректер арқылы қалпына келтірілсін бе?</string>
+    <string name="mobile_warning_fragment_dialog_use_data">Қазір қалпына келтіру</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photo_conversion_summary">%1$d / %2$d кескін өзгертілді</string>
+    <string name="restore_choice_android_device_label">Android телефонындағы сақтық көшірме</string>
+    <string name="restore_choice_android_device_label_new">Android</string>
+    <string name="restore_choice_android_device_summary">Деректерді сымсыз көшіру үшін ескі телефонды пайдалану</string>
+    <string name="restore_choice_data_disclaimer">Кейбір деректеріңіз ^1 құрылғысына тасымалданбауы мүмкін. <annotation id="restore_choice_data_disclaimer_learn_more">Толығырақ</annotation></string>
+    <string name="restore_choice_data_disclaimer_from_newer_version">Бұл сақтық көшірме Android жүйесінің жаңарақ нұсқасы тұрған құрылғыдан алынған. Кейбір деректер жаңа телефонда қалпына келтірілмеуі мүмкін.</string>
+    <string name="restore_choice_data_disclaimer_v2_cloud">Кейбір деректер ^1 құрылғысына жіберілмеуі мүмкін.</string>
+    <string name="restore_choice_deselect_some_content">Жалғастыру үшін біраз мазмұнды таңдаудан шығарыңыз</string>
+    <string name="restore_choice_dont_copy">Көшірмеу</string>
+    <string name="restore_choice_dont_have_old_phone">Ескі телефонды пайдалана алмайсыз ба?</string>
+    <string name="restore_choice_google_account_label">Бұлттағы сақтық көшірме</string>
+    <string name="restore_choice_google_account_summary">Пайдаланушы атымен және құпия сөзбен есептік жазбаға кіру</string>
+    <string name="restore_choice_ios_device_label">iPhone® құрылғысы</string>
+    <string name="restore_choice_learn_more_android">"Ескі телефондағы кейбір деректер автоматты түрде көшірілмейді:
+
+ ● жүктеп алынғандар (мысалы, PDF файлдары)
+
+ ● жасырын қалталарда сақталған суреттер, бейнелер және музыка
+
+ ● мәтіндік хабар арқылы алынған суреттер, бейнелер және музыка
+
+ ● Google Play Store дүкенінен алынбаған қолданбалар
+
+ ● қолданба деректері (қолданба Android сақтық көшірмесін пайдаланбаса)
+
+ ● белгілі бір құрылғы параметрлері
+
+ ● Google есептік жазбасынан басқа есептік жазбалар (және кез келген қатысты деректер)
+
+ ● Google-дан өзге қызметтермен синхрондалған контактілер және күнтізбелер
+
+ ● рингтондар
+
+ Қосымша мәліметтер алу үшін және кейбір деректерді көшіру үшін g.co/datatransferhelp бетіне кіріңіз."</string>
+    <string name="restore_choice_learn_more_ios">"Ескі телефондағы кейбір деректер автоматты түрде көшірілмейді:
+
+ ● қолданбалар және қолданба деректері
+
+ ● телефонда түпнұсқасы сақталмаған суреттер (мысалы, \"Жадты оңтайландыру\" параметрі қосулы болса, түпнұсқа суреттер iCloud® жадында сақталады)
+
+ ● iCloud® жадында сақталған файлдар және құжаттар
+
+ ● құрылғы параметрлері (мысалы, Wi-Fi құпия сөздері)
+
+ ● Digital Rights Management (DRM) арқылы қорғалған музыка (мысалы, 2009 жылдың сәуіріне дейін сатып алынған iTunes® музыкасы, сондай-ақ музыка трансляциялау қолданбасында офлайн тыңдау үшін жүктеп алынған музыка)
+
+ ● Google есептік жазбаларынан басқа есептік жазбалар (және кез келген қатысты деректер)
+
+ ● Google не iCloud® қызметінен өзге қызметтерге синхрондалған контактілер және күнтізбе
+
+ ● Safari® браузерінен алынған бетбелгілер
+
+ iMessage® тіркемелері \"Google Photos > Құрылғы қалталары > Хабар тіркемелері\" бөлімінде болады.
+
+ Толығырақ мәлімет және деректерді көшіруге көмек алу үшін g.co/datatransferhelp бетіне өтіңіз."</string>
+    <string name="restore_choice_learn_more_ios_attachments_inline">"Ескі телефондағы кейбір деректер автоматты түрде көшірілмейді:
+
+ ● қолданбалар және қолданба деректері
+
+ ● телефонда түпнұсқасы сақталмаған суреттер (мысалы, \"Жадты оңтайландыру\" параметрі қосулы болса, түпнұсқа суреттер iCloud® жадында сақталады)
+
+ ● iCloud® жадында сақталған файлдар және құжаттар
+
+ ● құрылғы параметрлері (Wi-Fi құпия сөздері)
+
+ ● Digital Rights Management (DRM) арқылы қорғалған музыка (мысалы, 2009 жылдың сәуіріне дейін сатып алынған iTunes® музыкасы, сондай-ақ музыка трансляциялау қолданбасында офлайн тыңдау үшін жүктеп алынған музыка)
+
+ ● Google есептік жазбаларынан басқа есептік жазбалар (және кез келген қатысты деректер)
+
+ ● Google не iCloud® қызметінен өзге қызметтерге синхрондалған контактілер және күнтізбе
+
+ ● Safari® браузерінен алынған бетбелгілер
+
+ Осы деректерді көшіру туралы толығырақ мәлімет пен анықтама алу үшін g.co/datatransferhelp бетіне кіріңіз."</string>
+    <string name="restore_choice_not_enough_space">Бос орын жеткіліксіз</string>
+    <string name="restore_choice_phone_description">Деректерді ескі телефоннан тасымалдау</string>
+    <string name="restore_choice_phone_title">Телефонды таңдау</string>
+    <string name="restore_choice_sync_disclaimer_android">Құрылғы мен SIM контактілері %1$s есептік жазбасында Google контактілері ретінде сақталады</string>
+    <string name="restore_choice_sync_disclaimer_cloud">Құрылғы мен SIM картасындағы контактілер %1$s есептік жазбасына Google контактілері ретінде сақталады.</string>
+    <string name="restore_choice_sync_disclaimer_ios">Контактілер және iOS® Calendar %1$s есептік жазбасына сақталады.</string>
+    <string name="restore_choice_sync_disclaimer_ios_no_contacts">iOS® Calendar қолданбасы %1$s есептік жазбасына сақталады.</string>
+    <string name="restore_choice_title">Деректерді келесіден алу…</string>
+    <string name="restore_continue_suw_description">^1 құрылғысын реттеуді жалғастыруыңызға болады</string>
+    <string name="restore_continue_suw_title">Қалпына келтіруде…</string>
+    <string name="restore_estimated_time">Тасымалдау үшін ^1</string>
+    <string name="restore_item_apps">Қолданбалар</string>
+    <string name="restore_item_calendar">Күнтізбе</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar</string>
+    <string name="restore_item_call_logs">Қоңыраулар тарихы</string>
+    <string name="restore_item_contacts">Контактілер</string>
+    <string name="restore_item_device_settings_description">Wi-Fi құпия сөздері және басқалар</string>
+    <string name="restore_item_downloads">Жүктеп алынғандар</string>
+    <string name="restore_item_email">Электрондық пошта</string>
+    <string name="restore_item_email_description">Gmail синхрондалады</string>
+    <string name="restore_item_message_attachments">Хабар тіркемелері</string>
+    <string name="restore_item_messages">Хабарлар</string>
+    <string name="restore_item_music">Музыка және басқа аудиомазмұн</string>
+    <string name="restore_item_photos">Суреттер мен бейнелер</string>
+    <string name="restore_item_settings">Құрылғы параметрлері</string>
+    <string name="restore_item_sms">SMS хабарлары</string>
+    <string name="restore_item_wallpaper">Тұсқағаз</string>
+    <string name="restore_progress_activity_title">@string/consolidated_notification_app_name</string>
+    <string name="restore_progress_item_apps_title">Қолданбалар</string>
+    <string name="restore_progress_item_photos_title">iPhone мультимедиа файлы</string>
+    <string name="restore_progress_waiting_for_setup_to_finish">Реттеудің аяқталуы күтілуде...</string>
+    <string name="restore_progress_waiting_for_wifi">Wi-Fi күтілуде…</string>
+    <string name="restore_selected_size_and_device_space_text"><annotation id="selected_size">^1</annotation> ^2 / ^3</string>
+    <string name="retail_mode_warning_dialog_message">Құрылғы зауыттық параметрлерге қайтарылғанға дейін, дүкенге арналған демобейне ойнатылады. Ол тек дүкенде қойылуға арналған және жеке мақсатта қолданылмауы тиіс.</string>
+    <string name="retail_mode_warning_dialog_title">Демобейнені ойнату</string>
+    <string name="small_time_duration">1 минутқа жетпейді</string>
+    <string name="stop_copying_dialog_continue_button">Бас тарту</string>
+    <string name="stop_copying_dialog_message_before_transfer">Деректеріңіз жаңа телефоныңызға көшірілмейді</string>
+    <string name="stop_copying_dialog_message_during_transfer">Кейбір деректер телефоныңызға көшірілмейді</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Тоқтату</string>
+    <string name="stop_copying_dialog_title_before_transfer">Көшірілмесін бе?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Көшіру тоқтатылсын ба?</string>
+    <string name="stop_restoring_dialog_message_before_transfer">Деректеріңіз жаңа телефоныңызға қалпына келтірілмейді</string>
+    <string name="stop_restoring_dialog_title_before_transfer">Қалпына келтірілмесін бе?</string>
+    <string name="suw_back_button_label">Артқа</string>
+    <string name="suw_more_button_label">Тағы</string>
+    <string name="suw_next_button_label">Келесі</string>
+    <string name="target_default_source_device_model">ескі телефон</string>
+    <string name="target_device_not_supported_cant_continue_description">Деректерді көшірудің басқа жолын таңдаңыз</string>
+    <string name="target_device_not_supported_cant_continue_title">Басқа телефонға қолдау көрсетілмейді</string>
+    <string name="target_device_not_supported_try_restarting_description">"Кабельді ажыратып, ескі телефонды қайта іске қосыңыз. Одан кейін кабельді қайта жалғап, ^1 телефонының нұсқауларын орындаңыз.
+
+Егер бұл қате жойылмаса, басқаша жолмен көшіріп көруіңізге болады."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефонға қолдау көрсетілмеуі мүмкін</string>
+    <string name="target_fragment_msg_reconnect_cable">Кабельді қайта қосыңыз</string>
+    <string name="target_pixelmigrate_notification_description">Қолжетімді немесе көшірілуде</string>
+    <string name="target_pixelmigrate_notification_title">Деректерді көшіру</string>
+    <string name="target_smart_device_timeout_add_account">ЕСЕПТІК ЖАЗБА ҚОСУ</string>
+    <string name="target_smart_device_timeout_description">Егер қаласаңыз, есептік жазбаны қолмен қосып көруіңізге болады</string>
+    <string name="target_smart_device_timeout_dismiss">ЖАБУ</string>
+    <string name="target_smart_device_timeout_title">Қиындық бар ма?</string>
+    <string name="terabyteShort">TБ</string>
+    <string name="toast_phones_connected">Телефондар қосылды</string>
+    <string name="toast_reconnect_cable">Кабельді қайта қосыңыз</string>
+    <string name="transfer_finished_fragment_description">Бір-екі минутқа созылуы мүмкін</string>
+    <string name="transfer_finished_fragment_title">Күте тұрыңыз…</string>
+    <string name="transfer_summary_copied">Деректер көшірілді</string>
+    <string name="transfer_summary_fragment_description">Кабельді ажыратуыңызға болады</string>
+    <string name="transfer_summary_fragment_done_button">Дайын</string>
+    <string name="transfer_summary_fragment_title">Телефонға деректер жіберіліп болды</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Кейбір суреттер көшірілмеді. <annotation id="transfer_summary_learn_more">Толығырақ</annotation></string>
+    <string name="transfer_summary_not_copied">Деректер көшірілмеді</string>
+    <string name="transfer_summary_partial">%1$s / %2$s көшірілді</string>
+    <string name="transfer_summary_will_sync">Деректер реттеу аяқталғаннан кейін синхрондалады</string>
+    <string name="transferring_fragment_calculating_remaining_time">Қалған уақыт есептелуде…</string>
+    <string name="transferring_fragment_description_continue">^1 құрылғысын реттеуді жалғастыруыңызға болады.</string>
+    <string name="transferring_fragment_description_final_hold">Телефондар жалғанған және қосулы күйде болсын</string>
+    <string name="transferring_fragment_header">Көшірілуде...</string>
+    <string name="transferring_fragment_remaining_time">%1$s қалды</string>
+    <string name="transferring_fragment_restoring_content">Мазмұн қалпына келтірілуде…</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari және iTunes – Apple Inc. компаниясының АҚШ-та және басқа елдерде тіркелген сауда белгілері.</string>
+    <string name="unlock_ios_fragment_description">Жалғастыру үшін iPhone® құрылғысының құлпын ашыңыз. Тасымалдау кезінде оның құлпын ашық қалдырыңыз.</string>
+    <string name="unlock_ios_fragment_title">iPhone® құрылғысының құлпын ашу</string>
+    <string name="vault_almost_locked_dialog_title">%d мүмкіндік қалды</string>
+    <string name="vault_almost_locked_password_dialog_text">Құпия сөз %1$d рет қате енгізілді. %2$d реттен көп енгізілсе, %3$s құрылғысының сақтык көшірмесі жойылады.</string>
+    <string name="vault_almost_locked_pattern_dialog_text">Өрнек %1$d рет қате енгізілді. %2$d реттен көп енгізілсе, %3$s құрылғысының сақтык көшірмесі жойылады.</string>
+    <string name="vault_almost_locked_pin_dialog_text">PIN коды %1$d рет қате енгізілді. %2$d реттен көп енгізілсе, %3$s құрылғысының сақтык көшірмесі жойылады.</string>
+    <string name="vault_locked_dialog_text">%s экран құлпын ашу деректері тым көп қате енгізілді. Сақтық көшірме жойылды.</string>
+    <string name="vault_locked_dialog_title">Сақтық көшірме жойылды</string>
+</resources>

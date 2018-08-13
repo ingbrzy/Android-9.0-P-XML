@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Нүүр хуудас руу шилжих</string>
+    <string name="abc_action_bar_up_description">Дээш шилжих</string>
+    <string name="abc_action_menu_overflow_description">Нэмэлт сонголтууд</string>
+    <string name="abc_action_mode_done">Дууссан</string>
+    <string name="abc_activity_chooser_view_see_all">Бүгдийг харах</string>
+    <string name="abc_activitychooserview_choose_application">Апп сонгох</string>
+    <string name="abc_capital_off">ИДЭВХГҮЙ</string>
+    <string name="abc_capital_on">ИДЭВХТЭЙ</string>
+    <string name="abc_search_hint">Хайх...</string>
+    <string name="abc_searchview_description_clear">Асуулгыг цэвэрлэх</string>
+    <string name="abc_searchview_description_query">Хайх асуулга</string>
+    <string name="abc_searchview_description_search">Хайх</string>
+    <string name="abc_searchview_description_submit">Асуулгыг илгээх</string>
+    <string name="abc_searchview_description_voice">Дуут хайлт</string>
+    <string name="abc_shareactionprovider_share_with">Хуваалцах</string>
+    <string name="abc_shareactionprovider_share_with_application">%s-тай хуваалцах</string>
+    <string name="abc_toolbar_collapse_description">Хумих</string>
+    <string name="account_blocked_title">Бүртгэлийг блоклосон</string>
+    <string name="account_level_title">Бүртгэлийн үйлдэл шаардлагатай</string>
+    <string name="account_removed_notification_text">Төхөөрөмжийн удирдлагыг дуусгаагүй тул %1$s-г устгасан</string>
+    <string name="account_removed_notification_title">Бүртгэлийг устгасан</string>
+    <string name="android_privacy_policy_title">Нэмэлт Нууцлалын Бодлого</string>
+    <string name="app_level_title">Нэвтрэх Хүсэлт</string>
+    <string name="app_level_title_secondary">%s-н нэвтрэх Хүсэлт</string>
+    <string name="audience_selection_done">Дууссан</string>
+    <string name="auth_account_already_has_gmail">Бүртгэлд Gmail аль хэдийн байна.</string>
+    <string name="auth_account_content_provider_label">Google бүртгэлийн өгөгдөл</string>
+    <string name="auth_account_module_display_name">Google Бүртгэл</string>
+    <string name="auth_account_removed_default_description">Төхөөрөмжийн удирдлагыг гүйцээж чадсангүй. $1%s</string>
+    <string name="auth_account_removed_default_title">Тохируулгыг цуцалсан</string>
+    <string name="auth_account_removed_dm_bad_result_description">Төхөөрөмжийн удирдлагыг гүйцээж чадсангүй. $1%s</string>
+    <string name="auth_account_removed_dm_not_supported_description">Таны домайнд мобайл төхөөрөмжийн удирдлага шаардлагатай хэдий ч үүнийг энэ төхөөрөмжид дэмжээгүй байна. Өөр бүртгэлээр оролдоно уу.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Төхөөрөмжийн удирдлагыг дэмжээгүй</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Төхөөрөмжийн удирдлагыг зөв суулгаж чадсангүй. $1%s</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Суулгахад асуудалтай байна</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Тохиргоог цуцалсан</string>
+    <string name="auth_account_removed_restricted_by_admin_description">Энэ төхөөрөмжид зөвхөн нэг удирдсан бүртгэл ашиглах боломжтой. Танд асуух зүйл байвал байгууллагынхаа админтай холбогдоно уу.</string>
+    <string name="auth_account_removed_restricted_by_admin_title">Удирдсан бүртгэл аль хэдийн байна</string>
+    <string name="auth_account_settings_title">Бүртгэлийн тохиргоо</string>
+    <string name="auth_account_setup_title">Google Бүртгэл</string>
+    <string name="auth_account_start_over_and_signin_again">Дахин эхлүүлээд, нэвтэрнэ үү.</string>
+    <string name="auth_account_state_sync_title">Бүртгэлийн төлөвийн синк</string>
+    <string name="auth_allow_external_site_access">%s дээрээс таны датад үргэлжлүүлэн хандалт хийнэ</string>
+    <string name="auth_app_permission_ok_footnote">Та үргэлжлүүлбэл энэ апп болон Google нь тус бүрийнхээ үйлчилгээний нөхцөл, нууцлалын бодлогын таны мэдээллийг ашиглах боломжтой болно.</string>
+    <string name="auth_cant_add_work_account_message">Энэ төрлийн бүртгэлийг танай байгууллагаас удирддаг.</string>
+    <string name="auth_captcha_instructions">Энд харж буй текстийг бичнэ үү:</string>
+    <string name="auth_captcha_title">CAPTCHA оруулах шаардлагатай</string>
+    <string name="auth_common_downloading">Татаж байна...</string>
+    <string name="auth_common_go_back">Буцах</string>
+    <string name="auth_common_switch_accounts">Бүртгэл шилжүүлэх</string>
+    <string name="auth_communicating_message">Таны төхөөрөмж таны бүртгэлд мэдээлэл хадгалахаар Google-тэй холбогдож байна. Үүнд 5 хүртэл минут зарцуулагдаж болно.</string>
+    <string name="auth_confirm_creds_sync_title">Итгэмжлэлийн төлөв</string>
+    <string name="auth_d2d_source_alert_title">Дараад, үргэлжлүүлэх</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Түгжээд, баталгаажуулах</string>
+    <string name="auth_d2d_source_copy_notice">Та өөрийн хаяг болон мэдээллийг өөрийн бусад төхөөрөмжинд хуулах уу?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Таныг баталгаажуулсны дараагаар Bluetooth асч, таны төхөөрөмжүүд холбогдох боломжтой болно.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Таныг баталгаажуулсны дараагаар таныг төхөөрөмжүүд Bluetooth-ээр холбогдоно.</string>
+    <string name="auth_d2d_source_lock_notice">Цааш үргэлжлүүлэх үед таны дэлгэц түгжигдсэн байх бөгөөд баталгаажуулах зорилгоор түгжээг нь тайлах хэрэгтэй болно.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Энэ төхөөрөмжид бүртгэл байхгүй учир Дараад, Үргэлжлүүлэх боломжгүй.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Таны төхөөрөмжид Bluetooth байхгүй учир Дараад, Үргэлжлүүлэх боломжгүй.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth асч, таны төхөөрөмжүүд холбогдох боломжтой болно.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Энэ нь Bluetooth-ийг ашигладаг.</string>
+    <string name="auth_d2d_source_notification_title">Дараад, Дуусгах</string>
+    <string name="auth_d2d_source_restricted_user_toast">Хязгаарлагдмал хэрэглэгчийн профайл дээрээс Тогшиж Сэргээх боломжгүй.</string>
+    <string name="auth_d2d_source_title">Бүртгэлийг сэргээх</string>
+    <string name="auth_d2d_source_unknown_device_name">Танигдаагүй төхөөрөмж</string>
+    <string name="auth_d2d_tap_and_go">Товшоод үргэлжлүүлэх</string>
+    <string name="auth_d2d_target_tap_progress_message">Үргэлжлүүлэхийн тулд өөр төхөөрөмждөө ТИЙМ гэсэн товчлуурыг дарна уу</string>
+    <string name="auth_d2d_target_title">Дараад, үргэлжлүүлэх</string>
+    <string name="auth_d2d_target_unlock_progress_message">Та нөгөө төхөөрөмжөө шалгана уу.</string>
+    <string name="auth_d2d_target_wait_progress_message">Акаунтууд болон өгөгдлүүдийг авч байна...</string>
+    <string name="auth_default_device_name">Андройд</string>
+    <string name="auth_device_management_download_app_icon">%s аппын дүрс тэмдэг</string>
+    <string name="auth_device_management_download_description">Энэ бүртгэлд мобайл төхөөрөмжийн удирдлага шаардлагатай байна. Бүртгэлд шаардлагатай аюулгүй байдлын удирдамжийг хэрэгжүүлэхийн тулд ^1 аппыг суулгана уу.</string>
+    <string name="auth_device_management_download_description_kids">Энэ төхөөрөмжид бүртгэл нэмэхийн тулд эхлээд <b>^1</b>"-г суулгана уу. 
+
+^1 нь танд энэ төхөөрөмжийг хүүхэддээ тохируулахад тусална."</string>
+    <string name="auth_device_management_download_failed_message">Та энэ аппгүйгээр тохиргоог үргэлжлүүлэх боломжтой</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Төхөөрөмжийн удирдлагыг суулгаж чадсангүй. Энэ бүртгэлийг устгах болно. Дараа дахин оролдоно уу.</string>
+    <string name="auth_device_management_download_failed_title">Аппыг татаж чадсангүй</string>
+    <string name="auth_device_management_download_not_updated_message">Та одоогийн хувилбараар тохиргоог үргэлжлүүлэх боломжтой</string>
+    <string name="auth_device_management_download_paused">Түр зогсоосон</string>
+    <string name="auth_device_management_download_progress">Татаж байна...</string>
+    <string name="auth_device_management_download_skip_message">Энэ бүртгэлд төхөөрөмжийн удирдлага шаардлагатай байна. Удирдлагагүйгээр цааш үргэлжлүүлэх үү?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Энэ бүртгэлийг нэмэхэд төхөөрөмжийн удирдлага шаардлагатай. Та өөр бүртгэл ашиглан дахин эхлэх үү?</string>
+    <string name="auth_device_management_go_back">Буцах</string>
+    <string name="auth_device_management_screenlock_description">Энэ төхөөрөмжөөс ажлын бүртгэлдээ хандахын тулд та дэлгэцийн түгжээ тохируулах шаардлагатай. Энэ нь танай байгууллагын мобайл төхөөрөмжийн удирдамж болно.</string>
+    <string name="auth_device_management_screenlock_skip_message">Энэ бүртгэлд дэлгэцийн түгжээсийн хамгаалалт шаардлагатай. Өөр бүртгэлээр эхлүүлэх үү?</string>
+    <string name="auth_device_management_setup_work_profile_description">"Таны ажлын профайл нь таны ажлын аппуудыг тусад нь байлгадаг бөгөөд үүнийг танай байгууллагаас удирддаг.
+
+Та тохируулж дуусгахын тулд IT админаасаа код авах шаардлагатай. Танай IT админ таны ажлын профайлыг удирдахын тулд менежментийн хэрэгслийг татаж, ашиглана."</string>
+    <string name="auth_device_management_setup_work_profile_enrollment_link_description">"Таны ажлын профайл нь таны ажлын аппуудыг тусад нь байлгадаг бөгөөд үүнийг танай байгууллагаас удирддаг.
+
+Танай IT админ таны ажлын профайлыг удирдахын тулд менежментийн хэрэгслийг татаж, ашиглана."</string>
+    <string name="auth_device_management_setup_work_profile_settings_entry">Ажлын профайлаа тохируулах</string>
+    <string name="auth_device_management_start_description">Энэ бүртгэлд мобайл төхөөрөмжийн удирдлага шаардлагатай байна. Та Дараах гэсэн сонголтыг товшсоноор ^1 апп нь бүртгэлээс шаардсан аюулгүй байдлын удирдамжийг хэрэгжүүлэхэд туслах болно.</string>
+    <string name="auth_device_management_start_description_kids">Энэ төхөөрөмжид бүртгэл нэмэхийн тулд <b>^1</b>"-г ашиглана уу. 
+
+^1 нь танд энэ төхөөрөмжийг хүүхэддээ тохируулахад тусална."</string>
+    <string name="auth_device_management_title">Төхөөрөмжийн удирдлага</string>
+    <string name="auth_device_management_update_description">Энэ бүртгэлд мобайл төхөөрөмжийн удирдлага шаардлагатай байна. Бүртгэлтэй холбоотой аюулгүй байдлын удирдамжид нийцүүлэхийн тулд та ^1 аппын шинэ хувилбарыг суулгах шаардлагатай.</string>
+    <string name="auth_device_management_update_description_kids">Энэ төхөөрөмжид бүртгэл нэмэхийн тулд эхлээд <b>^1</b>"-н сүүлийн хувилбарыг суулгана уу. 
+
+^1 нь танд энэ төхөөрөмжийг хүүхэддээ тохируулахад тусална."</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmail ашигладаггүй.</string>
+    <string name="auth_error_account_disabled">"Энэ акаунтыг идэвхгүй болгосон байна. 
+
+(Дэлгэрэнгүй мэдээллийг http://google.com/accounts руу вэб хөтчөөр зочилж авна уу.)"</string>
+    <string name="auth_error_account_not_verified">"Энэ акаунтыг тулгаагүй байна. Өөрийн имэйлийг шалгаж агуулсан хэлхээсийн дагуу өөрийн акаунтыг баталгаажуулна уу. 
+
+(Акаунтын мэдээллээ сэргээхийн тулд http://www.google.com/accounts/recovery руу компьютерээс ороорой.)"</string>
+    <string name="auth_error_bad_password">Нууц үг сул буюу эсвэл буруу тэмдэгт агуулж байна. Дахин оролдоно уу.</string>
+    <string name="auth_error_bad_username">Хэрэглэгчийн нэр буруу.</string>
+    <string name="auth_error_generic_server_error">"Google-ийн серверүүдтэй холбогдоход асуудал гарлаа. 
+
+ Дахин оролдож үзнэ үү."</string>
+    <string name="auth_error_invalid_second_factor">Бүртгэлд ердийн нууц үгний оронд апп-д зориулсан нууц үг хэрэглэнэ үү.</string>
+    <string name="auth_error_login_failed">"Таны хэрэглэгчийн нэр болон нууц үг таарахгүй байна. Дахин оролдоно уу.
+
+Өөрийн бүртгэлийн мэдээллийг сэргээхийн тулд google.com/accounts/recovery/ руу очно уу."</string>
+    <string name="auth_error_needs_browser">Бүртгэлдээ хандахын тулд та вэбэд нэвтрэх шаардлагатай. Хөтчөөр нэвтрэхийн тулд Дараахыг дарна уу.</string>
+    <string name="auth_error_no_network">"Таны сүлжээ холбогдоогүй байна. 
+
+ Энэ нь түр зуурын асуудал байж магадгүй. Дахин оролдож үзэх эсвэл өөр Wi-Fi сүлжээнд холбогдоно уу."</string>
+    <string name="auth_error_not_logged_in">Хэрэглэгч нэвтрээгүй байна.</string>
+    <string name="auth_error_username_unavailable">Хэрэглэгчийн нэрийг ашиглах боломжгүй.</string>
+    <string name="auth_existing_account_error_text">Энэ Андройд төхөөрөмж дээр аль хэдийн ^1 бүртгэл байна.</string>
+    <string name="auth_existing_account_error_title">Бүртгэл байна</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Нууц үгийг өөрчилсөн тул төхөөрөмжид нэвтрэх боломжгүй байна. Нууц үгийг өөрчилснөөс хойш 24 цагийн дараа нэвтэрнэ үү.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Төхөөрөмжийн хамгаалалтын функцүүд цаашид ажиллахгүй.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Та энэ төхөөрөмж дээрх сүүлийн Google бүртгэлээ хувийн профайлаасаа зөөх бол төхөөрөмжийн хулгайчаас хамгаалах тохиргоог идэвхгүй болгох болно. Та төхөөрөмжид өөр бүртгэл нэмснээр энэ тохиргоог дахин ашиглах боломжтой.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Та итгэлтэй байна уу?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Бүртгэлийг Ажлын Профайл руу зөөх үү?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Үл мэдэгдэх алдааны улмаас төхөөрөмжид нэвтрэх боломжгүй байна. 24 цагийн дараа дахин нэвтрэх, эсвэл өөр бүртгэлээр оролдоно уу.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Энэ төхөөрөмжид аль нэг эзэмшигчийн бүртгэлээр нэвтэрнэ үү.</string>
+    <string name="auth_field_cant_be_blank">Утга оруулах шаардлагатай.</string>
+    <string name="auth_frp_add_account_no">Шинэ бүртгэл ашиглах</string>
+    <string name="auth_frp_add_account_prompt">Энэ төхөөрөмжийн өмнөх Google Бүртгэлийг баталгаажууллаа. Та ^1-г энэ төхөөрөмжид буцаан нэмэх эсвэл шинэ бүртгэл ашиглах боломжтой.</string>
+    <string name="auth_frp_add_account_yes">Өмнөх бүртгэлийг нэмэх</string>
+    <string name="auth_frp_device_managed_label">Энэ төхөөрөмжийг танай байгууллагаас удирдахаар тохируулсан байна.</string>
+    <string name="auth_frp_download_management_app_label">Та тохируулах үйл явцыг үргэлжлүүлэхийн тулд төхөөрөмжийн менежментийн аппыг татах шаардлагатай.</string>
+    <string name="auth_frp_enter_device_credentials_label">Админы горимд шилжих</string>
+    <string name="auth_frp_install_dpc_error">Менежментийн аппыг суулгахад алдаа гарлаа. Хэрэв та энэ алхмыг алгасвал төхөөрөмжийг удирдахгүй.</string>
+    <string name="auth_frp_install_dpc_recoverable_error">Менежментийн аппыг суулгахад алдаа гарлаа. Сүлжээний холболтоо шалгаад дараа дахин оролдоно уу.</string>
+    <string name="auth_frp_preadd_lkscreen_fwd">Оронд нь Google бүртгэлээ ашиглах</string>
+    <string name="auth_frp_preadd_lkscreen_text">Таны төхөөрөмжийг үйлдвэрийн төлөвт оруулсан тул та өмнөх нууц үгээ ашиглан түгжээг нь тайлах боломжтой.</string>
+    <string name="auth_frp_preadd_lkscreen_title">Үйлдвэрийн тохиргооны хамгаалалт</string>
+    <string name="auth_frp_start_reenroll_device_title">Ажил дээрх таны төхөөрөмж</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Энэ бүртгэлд хандах боломжгүй байна. Таны төхөөрөмж байгууллагын аюулгүй байдлын бодлогод нийцэж байгаа эсэхийг шалгана уу. Энэ алдаа үргэлжилсээр байвал байгууллагынхаа админтай холбогдоно уу.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Бүртгэлийн алдаа</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Таны домайн мобайл төхөөрөмжийн удирдлагыг хүсэж байна. \"Google Апп Төхөөрөмжийн Бодлого\" аппыг суулган  "<b>^1</b> бүртгэлд шаардлагатай аюулгүй байдлын бодлогуудыг хэрэгжүүлнэ үү.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Татаж авах</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" зөвхөн үсэг, тоо 
+ болон цэг агуулах боломжтой."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b>-д ямар ч үсэг байхгүй.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> 6-с цөөн эсвэл 30-с олон тэмдэгт агуулж байна.</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> хэрэглэгчийн нэрийг ашиглах боломжгүй.</string>
+    <string name="auth_gls_name_checking_info_title">Мэдээллийг шалгаж байна...</string>
+    <string name="auth_gls_sync_item_title">Синк %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Tаны байгууллагаас удирддаг төхөөрөмж, эсвэл ажлын профайлд  "<b>^1</b> бүртгэлийг нэмэх шаардлагатай. Үүнийг гүйцэтгэхийн тулд IT админaасаа өгсөн зааварчилгааг дагана уу.</string>
+    <string name="auth_google_title_logo">Google-н лого</string>
+    <string name="auth_invalid_login_character">Буруу тэмдэгт. Зөвхөн 0-9, a-z, A-Z, болон цэг зөвшөөрөгдсөн.</string>
+    <string name="auth_invalid_password_character">Нууц үгийн тэмдэгт буруу.</string>
+    <string name="auth_invalid_username">Таны оруулсан техкст хэрэглэгчийн зөв нэр биш байна.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Таны оруулсан нууц үг буруу эсвэл таны бүртгэл өөрчлөгдсөн байна. Нууц үгээ дахин оруулна уу. Хэрэв та нууц үгээ мартсан ба бүртгэлаа сэргээх бол <annotation id="help_url">энд</annotation> товшино уу.</string>
+    <string name="auth_login_task_title">Нэвтэрч байна</string>
+    <string name="auth_login_title">Имэйл болон нууц үгээ шивнэ үү</string>
+    <string name="auth_minutemaid_ssl_error">" %s-д холбогдоход асуудал гарлаа."</string>
+    <string name="auth_network_unreliable_help">Түр зуурын асуудал үүссэн эсвэл таны Андройд төхөөрөмж дата үйлчилгээ аваагүй байж болно. Хэрэв үргэлжлэн энэ асуудал гарвал Хэрэглэгчид Үйлчлэх төвд хандана уу.</string>
+    <string name="auth_no_network">Сүлжээнд холбогдоогүй байна.</string>
+    <string name="auth_no_network_help">Энэ нь түр зуурын асуудал байж болох буюу таны Андройд төхөөрөмж дата үйлчилгээ аваагүй байж болно. Мобайл сүлжээ эсхүл Wi-Fi сүлжээнд холбогдсон үедээ дахин оролдоно уу.</string>
+    <string name="auth_no_network_help_wifi_only">Энэ түр зуурын асуудал байж болно. Дахин оролдох буюу өөр Wi-Fi сүлжээнд холбогдоно уу.</string>
+    <string name="auth_otp_error">Хамгаалалтын код үүсгэх үед асуудал гарлаа.</string>
+    <string name="auth_otp_explained_paragraph">Та нууц үгээ мартсан, эсвэл нэвтрэхэд асуудал гарсан тохиолдолд Google таны бүртгэлийг хамгаалахын тулд танаас аюулгүй байдлын код шаардана. Үүнийг одоо ашиглах, эсвэл шинэ код авахын тулд дараа дахин оролдоно уу.</string>
+    <string name="auth_otp_header_message">Нэвтрэхийн тулд энэ кодыг хэзээ ашиглах вэ</string>
+    <string name="auth_otp_no_accounts_available_message">Энэ төхөөрөмжид тохиргоо хийсэн бүртгэл байхгүй байна.</string>
+    <string name="auth_otp_progress_dialog_message">Хамгаалалтын кодыг үүсгэж байна.</string>
+    <string name="auth_otp_ten_digit_code_header">Таны аюулгүй байлдын код</string>
+    <string name="auth_otp_ten_digit_explaination">Та нууц үгээ мартсан эсвэл шинэ төхөөрөмж, байршлаас нэвтэрсэн тохиолдолд Google бүртгэлээ аюулгүй байлгах үүднээс энэ кодын аль нэгийг эсвэл аль алиныг нь оруулах шаардлагатай.</string>
+    <string name="auth_otp_ten_digit_phishing_warning">Эдгээр код нь одооноос эсвэл ашиглаж эхэлсэн үеэс хойш 15 минутын хугацаанд хүчинтэй. Та энэ кодыг зөвхөн \"https://accounts.google.com/\"-р эхэлдэг URL бүхий вэб хуудсанд ашиглана уу.</string>
+    <string name="auth_otp_ten_digit_usage_header">Код ашиглах заавар</string>
+    <string name="auth_otp_ten_digits_code1">Код 1</string>
+    <string name="auth_otp_ten_digits_code2">Код 2</string>
+    <string name="auth_password">Нууц үг</string>
+    <string name="auth_plus_audience_selection_description_acl">ДАРААХТАЙ ХУВААЛЦАХ</string>
+    <string name="auth_plus_info_fragment_app_name">%s дараахыг хүсэж байна:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device">%2$s-н %1$s дараахыг хүсэж байна:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Таны өргөтгөсөн хүрээллүүд</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Сонгосон хүрээллүүд</string>
+    <string name="auth_plus_scope_fragment_public_label">Вэбийн хүн бүхэн</string>
+    <string name="auth_pre_factory_reset_title">Google Бүртгэлээ санах</string>
+    <string name="auth_relogin_activity_title">Нууц үгийг дахин оруулна уу</string>
+    <string name="auth_remove_account_start_over">Дахин эхлүүлэх</string>
+    <string name="auth_request_accounts_list">Google бүртгэлийн жагсаалтыг төхөөрөмжид авна уу.</string>
+    <string name="auth_scope_more_details">Нэмэлт мэдээлэл</string>
+    <string name="auth_server_error">Google сервертэй холбоо тогтооход асуудал гарсан.</string>
+    <string name="auth_server_error_help">Дараа дахин оролдоно уу.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Бүртгэл нэмсэн</string>
+    <string name="auth_setup_wizard_account_added_description">Таны бүртгэлийг нэмлээ. Google Үйлчилгээний сонголтыг сонгохын тулд үргэлжлүүлнэ үү</string>
+    <string name="auth_setup_wizard_services_activity_title">Google үйлчилгээ</string>
+    <string name="auth_setup_wizard_title">Тохируулгын Туслагч</string>
+    <string name="auth_show_error_title">Алдаа</string>
+    <string name="auth_sign_in_agreement">Нэвтэрснээр, та <annotation id="google_privacy">Google</annotation> болон <annotation id="android_privacy">Нэмэлт</annotation> Нууцлалын Бодлогыг зөвшөөрч байна.</string>
+    <string name="auth_sign_in_browser">Хөтчөөр нэвтрэх</string>
+    <string name="auth_sign_in_with_google_account_short">Google Бүртгэлээр нэвтрэх:</string>
+    <string name="auth_submission_error_text">Алдаа гарлаа. Дахин оролдоно уу.</string>
+    <string name="auth_submission_title">Уучлаарай...</string>
+    <string name="auth_ui_activity_authenticating">Гэрчлэж байна...</string>
+    <string name="auth_ui_activity_title">Google нэвтрэх</string>
+    <string name="auth_ui_activity_title_browser_signin">Нэвтрэх</string>
+    <string name="auth_ui_add_account_title">Бүртгэлийн тохируулга</string>
+    <string name="auth_uncertified_notification_description"><b>Энэ төхөөрөмжийг авсан хэрэглэгч:</b>"
+Төхөөрөмжийн үйлдвэрлэгч Google-н апп, үйлчилгээг Google-н сертификатгүйгээр урьдчилан ачаалласан байна. Үйлдвэрлэгчтэй холбогдон баталгаажсан төхөөрөмж асууна уу. Дэлгэрэнгүйг g.co/AndroidCertifiedDevice хуудсаас үзнэ үү.
+
+"<b>Зөвшөөрөлгүй үйлдвэрлэгч:</b>"
+Google-н апп, үйлчилгээг түгээхийн тулд танд Google-н зөвшөөрөл шаардлагатай. g.co/AndroidGMSContact-д хүсэлтээ илгээнэ үү.
+
+"<b>Зөвшөөрөлтэй үйлдвэрлэгч:</b>"
+Google-н апп, үйлчилгээг хөгжүүлэлтийн явцад ашиглахын тулд төхөөрөмжийг бүртгүүлнэ үү. Дэлгэрэнгүй мэдээллийг Google-н Бизнес Хөгжлийн Менежертэй холбогдож авна уу.
+
+"<b>Захиалгат ROM хэрэглэгч:</b>"
+Google-н апп, үйлчилгээг захиалгат ROM-той ашиглахын тулд энэ төхөөрөмжийг бүртгүүлнэ үү. g.co/apps-custom хуудсаас дэлгэрэнгүй үзнэ үү."</string>
+    <string name="auth_uncertified_notification_title">Tөхөөрөмжийг Google-с баталгаажуулаагүй байна</string>
+    <string name="auth_username">Имэйл</string>
+    <string name="auth_work_authenticator_label">Тохируулсан өгөгдөл</string>
+    <string name="authorization_dialog">Зөвшөөрөл олгох харилцах цонх</string>
+    <string name="chrome_privacy_title">Кром Нууцлалын Бодлого</string>
+    <string name="chrome_tos_title">Кром Үйлчилгээний Нөхцөл</string>
+    <string name="close_button_label">Хаах</string>
+    <string name="common_accept">Зөвшөөрөх</string>
+    <string name="common_add">Нэмэх</string>
+    <string name="common_add_account_label">Бүртгэл нэмэх</string>
+    <string name="common_ads_settings_title">Зарууд</string>
+    <string name="common_agree">Зөвшөөрөх</string>
+    <string name="common_app_name">Google Play үйлчилгээ</string>
+    <string name="common_application_info">Аппын мэдээлэл</string>
+    <string name="common_application_info_composed_string">аппын мэдээлэл</string>
+    <string name="common_asm_google_account_title">Google Бүртгэл</string>
+    <string name="common_asm_manage_google_account_title">Google Бүртгэлээ удирдах</string>
+    <string name="common_asm_preferences_settings_title">Бүртгэлийн тохируулга</string>
+    <string name="common_asm_privacy_settings_title">Хувийн мэдээлэл, нууцлал</string>
+    <string name="common_asm_security_settings_title">Нэвтрэлт, аюулгүй байдал</string>
+    <string name="common_back">Буцах</string>
+    <string name="common_battery">Батерей</string>
+    <string name="common_block">Блоклох</string>
+    <string name="common_cancel">Цуцлах</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts (зөвшөөрлийн алдаа) эхлэхүүлэх боломжгүй.</string>
+    <string name="common_car_permission_desc">Машины үйлчилгээнд хандах.</string>
+    <string name="common_car_permission_label">Машины үйлчилгээ</string>
+    <string name="common_card">Карт</string>
+    <string name="common_chips_label_empty_circles">Хүрээлэл байхгүй</string>
+    <string name="common_chips_label_extended_circles">Өргөтгөсөн хүрээллүүд</string>
+    <string name="common_chips_label_only_you">Зөвхөн та</string>
+    <string name="common_chips_label_public">Нийтийн</string>
+    <string name="common_chips_label_your_circles">Таны хүрээллүүд</string>
+    <string name="common_choose_account_label">Бүртгэл сонгоно уу</string>
+    <string name="common_confirm_screen_lock_title">Дэлгэцийн түгжээгээ баталгаажуулна уу</string>
+    <string name="common_connect">Холбогдох</string>
+    <string name="common_connected">Холбогдсон</string>
+    <string name="common_connected_apps_settings_title">Холбогдсон апп</string>
+    <string name="common_connecting">Холбогдож байна...</string>
+    <string name="common_continue">Үргэлжлүүлэх</string>
+    <string name="common_disabled">Идэвхгүй болгосон</string>
+    <string name="common_disagree">Зөвшөөрөхгүй</string>
+    <string name="common_disconnect">Салгах</string>
+    <string name="common_dismiss">Хаах</string>
+    <string name="common_done">Дууссан</string>
+    <string name="common_edit">Засах</string>
+    <string name="common_email">Имэйл</string>
+    <string name="common_fingerprint_hint">Мэдрэгчид хүрэх</string>
+    <string name="common_fitness_settings_title">Google Фит</string>
+    <string name="common_from">Хэнээс:</string>
+    <string name="common_games_settings_title">Тоглоом Тоглох</string>
+    <string name="common_get_started">Эхлүүлэх</string>
+    <string name="common_google_play_services_enable_button">Идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">%1$s нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй.</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_error_dialog_title">Алдаа</string>
+    <string name="common_google_play_services_install_button">Суулгах</string>
+    <string name="common_google_play_services_install_text">Таны төхөөрөмжид Google Play үйлчилгээ байхгүй тул %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээг авах</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-н үйлчилгээнүүдийн боломжит байдал</string>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_unknown_issue">%1$s-г Google Play-н үйлчилгээгээр ашиглахад асуудал гарлаа. Дахин оролдоно уу.</string>
+    <string name="common_google_play_services_unsupported_text">Таны төхөөрөмж Google Play үйлчилгээг дэмждэггүй учир %1$s ажиллахгүй.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_google_play_services_update_text">%1$s нь таныг Google Play үйлчилгээнүүдийг шинэчлэхээс нааш ажиллахгүй.</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_google_play_services_updating_text">%1$s нь одоогоор шинэчилж буй Google Play үйлчилгээгүйгээр ажиллахгүй.</string>
+    <string name="common_google_play_services_updating_title">Google Play үйлчилгээг шинэчилж байна</string>
+    <string name="common_google_play_services_wear_update_text">Google Play үйлчилгээний шинэ хувилбар хэрэгтэй. Энэ нь удахгүй өөрөө өөрийгөө шинэчлэх болно.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play үйлчилгээнүүдийг зөв бүтэцтэйгээр суулгаагүй байна.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play үйлчилгээнүүдийг (%1$s) бүтэцтэй суулгасан байгаа бөгөөд энэ нь таны төхөөрөмжийн бүтцээс (%2$s) өөр байна.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Буруу бүтэц</string>
+    <string name="common_google_settings">Google Тохиргоо</string>
+    <string name="common_google_settings_account">Бүртгэл</string>
+    <string name="common_google_settings_credentials_title">Нууц үгийн Smart Lock</string>
+    <string name="common_got_it">Ойлголоо</string>
+    <string name="common_install">Суулгах</string>
+    <string name="common_learn_more">Дэлгэрэнгүй үзэх</string>
+    <string name="common_list_apps_menu_help">Тусламж</string>
+    <string name="common_list_apps_menu_help_and_feedback">Тусламж, санал хүсэлт</string>
+    <string name="common_loading">Ачааллаж байна...</string>
+    <string name="common_location_settings_title">Байршил</string>
+    <string name="common_login_activity_task_title">Нэвтэрч байна...</string>
+    <string name="common_login_error_title">Нэвтэрч чадсангүй</string>
+    <string name="common_magictether_settings_title">Шуурхай модем болгох</string>
+    <string name="common_maps_settings_title">Газрын зураг, өргөрөг</string>
+    <string name="common_mdm_feature_name">Миний төхөөрөмжийг олох</string>
+    <string name="common_missing_url_viewer">Гадны url-г үзүүлэх этгээд байхгүй байна.</string>
+    <string name="common_more">Бусад</string>
+    <string name="common_more_options">Бусад сонголт</string>
+    <string name="common_mute_notification">Мэдэгдлийн дууг хаах</string>
+    <string name="common_network_unavailable">Интернэт холболт алга</string>
+    <string name="common_networking_settings_title">Сүлжээ</string>
+    <string name="common_never">Хэзээ ч үгүй</string>
+    <string name="common_next">Дараах</string>
+    <string name="common_no_browser_for_restricted_url">Хандалтыг хязгаарласан байна. Хөтөч олдсонгүй.</string>
+    <string name="common_no_devices_found">Төхөөрөмж олдсонгүй</string>
+    <string name="common_no_network">Төхөөрөмж оффлайн байгаа учир ашиглах боломжгүй</string>
+    <string name="common_no_thanks">Үгүй, баярлалаа</string>
+    <string name="common_not_now">Одоо биш</string>
+    <string name="common_off">Идэвхгүй</string>
+    <string name="common_offline">Та офлайн байна</string>
+    <string name="common_ok">ЗА</string>
+    <string name="common_on">Идэвхтэй</string>
+    <string name="common_open">Нээх</string>
+    <string name="common_open_on_phone">Утсаар нээх</string>
+    <string name="common_open_source_licenses">Нээлттэй эхийн лиценз</string>
+    <string name="common_pause">Түр зогсоох</string>
+    <string name="common_people_settings_title">Харилцагчийн хаяг</string>
+    <string name="common_permissions_enable_in_settings">Тохиргоонд идэвхжүүлэх</string>
+    <string name="common_permissions_missing_end">Үргэлжлүүлэхийн тулд Тохиргоо, Зөвшөөрөл хэсгийг нээгээд жагсаасан бүх зүйлсийг зөвшөөрнө үү.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Идэвхжүүлэхийн тулд
+Тохиргоо >
+Зөвшөөрөл >
+Google Play үйлчилгээ хэсэгт очно уу"</string>
+    <string name="common_permissions_missing_start">Ta Google Play үйлчилгээний дараахад хандах хүсэлтийг зөвшөөрөөгүй тохиолдолд энэ апп зөв ажиллахгүй:</string>
+    <string name="common_permissions_open_settings">Тохиргоог нээх</string>
+    <string name="common_phone">Утас</string>
+    <string name="common_play">Тоглуулах</string>
+    <string name="common_privacy_policy">Нууцлалын бодлого</string>
+    <string name="common_privacy_policy_composed_string">Нууцлалын бодлого</string>
+    <string name="common_refresh">Дахин боловсруулах</string>
+    <string name="common_remove">Устгах</string>
+    <string name="common_reply">Хариу бичих</string>
+    <string name="common_restore">Сэргээх</string>
+    <string name="common_retry">Дахин оролдох</string>
+    <string name="common_save">Хадгалах</string>
+    <string name="common_saved">Хадгалсан</string>
+    <string name="common_saving">Хадгалж байна...</string>
+    <string name="common_search_settings_title">Хайх</string>
+    <string name="common_security_ootp_setting_title">Аюулгүй байдлын код</string>
+    <string name="common_select">Сонгох</string>
+    <string name="common_send">Илгээх</string>
+    <string name="common_sending">Илгээж байна...</string>
+    <string name="common_set_up_nearby_device_settings_title">Ойролцоох төхөөрөмжийг тохируулах</string>
+    <string name="common_settings">Тохиргоо</string>
+    <string name="common_share">Хуваалцах</string>
+    <string name="common_sign_in">Нэвтрэх</string>
+    <string name="common_signin_button_text">Нэвтрэх</string>
+    <string name="common_signin_button_text_long">Google-р нэвтрэх:</string>
+    <string name="common_skip">Алгасах</string>
+    <string name="common_skip_fingerprint">Дэлгэцийн түгжээг ашиглах</string>
+    <string name="common_something_went_wrong">Алдаа гарлаа</string>
+    <string name="common_system_info">Системийн мэдээлэл</string>
+    <string name="common_system_info_composed_string">бүртгэл, системийн мэдээлэл</string>
+    <string name="common_take_photo_label">Зураг авах</string>
+    <string name="common_terms_of_service">Үйлчилгээний нөхцөл</string>
+    <string name="common_terms_of_service_composed_string">Үйлчилгээний нөхцөл</string>
+    <string name="common_today">Өнөөдөр</string>
+    <string name="common_try_again">Дахин оролдох</string>
+    <string name="common_turn_on">Асаах</string>
+    <string name="common_turn_on_bluetooth">Bluetooth-г асаах</string>
+    <string name="common_turn_on_nfc">NFC-г асаах</string>
+    <string name="common_ui_confirm_deleting_button">Устгах</string>
+    <string name="common_ui_confirm_deleting_checkbox">Би ойлгож байгаа бөгөөд устгахыг хүсэж байна</string>
+    <string name="common_unknown">Тодорхойгүй</string>
+    <string name="common_update">Шинэчлэх</string>
+    <string name="common_url_load_unsuccessful_message">Таны Андройд төхөөрөмж дата үйлчилгээнд холбогдоогүй байна. Энэ мэдээллийг одоо үзэх бол вэб хөтчөөрөө %s хуудсанд очно уу.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Таны Андройд төхөөрөмж Wi-Fi сүлжээнд холбогдоогүй байна. Энэ мэдээллийг харах бол вэб хөтчөөрөө %s хуудаст очно уу.</string>
+    <string name="common_usage_and_diagnostics">Хэрэглээ, оношлогоо</string>
+    <string name="common_view">Үзэх</string>
+    <string name="common_yesterday">Өчигдөр</string>
+    <string name="continue_to_login_heading">Нэвтэрнэ үү.</string>
+    <string name="continue_to_login_text">Мандат үнэмлэх олгосон. Үргэлжлүүлэхийн тулд анхны төхөөрөмждөө нэвтэрнэ үү.</string>
+    <string name="description_fingerprint_icon">Хурууны хээний дүрс тэмдэг</string>
+    <string name="download_msg_error_invalid">Татан авалтыг буруу тохируулсан.</string>
+    <string name="download_msg_in_progress">Татаж авч байна.</string>
+    <string name="download_msg_not_allowed_space">Татаж авахад хангалттай зай байхгүй байна.</string>
+    <string name="download_msg_pending">Татан авалтыг хүлээлгэсэн.</string>
+    <string name="download_notification_description">%1$s үүнийг хүссэн.</string>
+    <string name="download_notification_title">Өөр датаг дуудаж байна</string>
+    <string name="expand_button_title">Нарийвчилсан</string>
+    <string name="fido_ble_device_icon_content_description">Bluetooth төхөөрөмж олдлоо</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Түлхүүрээ холболтын горимд оруулахын тулд 5 секундээс дээш дарна уу</string>
+    <string name="fido_ble_dont_see_your_key_hint">Түлхүүрээ харахгүй байна уу?</string>
+    <string name="fido_ble_enable_body_bluetooth_and_location">Таны аюулгүй байдлын түлхүүр зөвхөн таны төхөөрөмжийн Bluetooth болон Байршлын үйлчилгээ асаалттай үед ажиллана</string>
+    <string name="fido_ble_enable_body_bluetooth_only">Таны аюулгүй байдлын түлхүүр зөвхөн таны төхөөрөмжийн Bluetooth асаалттай үед ажиллана</string>
+    <string name="fido_ble_enable_body_location_only">Таны аюулгүй байдлын түлхүүр зөвхөн таны төхөөрөмжийн Байршлын үйлчилгээ асаалттай үед ажиллана</string>
+    <string name="fido_ble_enable_title_bluetooth_and_location">Bluetooth болон байршлыг асаах</string>
+    <string name="fido_ble_enable_title_location_only">Байршлыг асаах</string>
+    <string name="fido_ble_instructions_body">Ихэнх түлхүүрийг ашиглахын тулд товчлуурыг нь товшино уу</string>
+    <string name="fido_ble_locate_pin_body">Холбох ПИН 4, эсвэл 6 оронтой тоо байдаг ба түлхүүрийн арын хэсэгт байрладаг. ПИН оруулах боломжтой үедээ үргэлжлүүлнэ үү.</string>
+    <string name="fido_ble_pair_device_pairing">Таны аюулгүй байдлын түлхүүрийг холбож байна...</string>
+    <string name="fido_ble_pair_instructions_body">Tүлхүүрээ төхөөрөмждөө холбосноор үүнийг бүртгэлдээ ашиглах боломжтой болно</string>
+    <string name="fido_ble_pair_instructions_title">Аюулгүй байдлын түлхүүрээ холбох уу?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Түлхүүрээ холболтын горимд буцаан оруулна уу</string>
+    <string name="fido_ble_pairing_mode_body">Аюулгүй байдлын түлхүүрийн товчлуурыг 5 секундээс дээш дарна уу</string>
+    <string name="fido_ble_pairing_mode_title">Холболтын горимд орно уу</string>
+    <string name="fido_ble_select_device_body">Доорх жагсаалтаас төхөөрөмждөө холбох Аюулгүй байдлын түлхүүрийг сонгоно уу. Нэрийг түлхүүрийн ард хэвлэсэн байна.</string>
+    <string name="fido_ble_select_device_title">Аюулгүй байдлын түлхүүрээ сонгоно уу</string>
+    <string name="fido_instructions_title">Таны Аюулгүй байдлын түлхүүрийг ашиглахыг зөвшөөрөх үү?</string>
+    <string name="fido_nfc_enable_body">Таны аюулгүй байдлын түлхүүр зөвхөн таны төхөөрөмжийн NFC асаалттай үед ажиллана</string>
+    <string name="fido_nfc_instructions_body">Таны төхөөрөмж чичрэхээ болих хүртэл түлхүүрээ төхөөрөмжийн ард тэгшхэн барина уу.</string>
+    <string name="fido_paask_body">Ойролцоох төхөөрөмж таны Google Бүртгэлээр нэвтрэхээр оролдож байна</string>
+    <string name="fido_paask_footer">Энэ нь ойролцоох төхөөрөмжид шифрлэсэн bluetooth холболтыг ашигладаг сайжруулсан нэвтрэлтийн хамгаалалт юм.</string>
+    <string name="fido_paask_header">Ойролцоох төхөөрөмжид нэвтрэхээр оролдож байна уу?</string>
+    <string name="fido_paask_no_text">Үгүй, би биш</string>
+    <string name="fido_paask_yes_text">Тийм ээ, би мөн</string>
+    <string name="fido_pair_another_security_key">Аюулгүй байдлын өөр түлхүүрийг холбох</string>
+    <string name="fido_processing">Таны аюулгүй байдлын түлхүүрийг баталгаажуулж байна...</string>
+    <string name="fido_transport_selection_bluetooth">Аюулгүй байдлын түлхүүрийг Bluetooth-тэй ашиглах</string>
+    <string name="fido_transport_selection_body">Аюулгүй байдлын түлхүүр нь Bluetooth, NFC болон USB-тэй ажилладаг. Түлхүүрээ хэрхэн ашиглахаа сонгоно уу.</string>
+    <string name="fido_transport_selection_fingerprint">Аюулгүй байдлын түлхүүрээ хурууны хээгээр ашиглана уу</string>
+    <string name="fido_transport_selection_nfc">Аюулгүй байдлын түлхүүрийг NFC-тэй ашиглах</string>
+    <string name="fido_transport_selection_title">Аюулгүй байдлын түлхүүрээ хэрхэн ашиглахаа сонгоно уу</string>
+    <string name="fido_transport_selection_usb">Аюулгүй байдлын түлхүүрийг USB-р ашиглах</string>
+    <string name="fido_usb_instructions_body">Аюулгүй байдлын түлхүүрээ USB портод холбох эсвэл USB кабелиар холбоно уу. Хэрэв таны түлхүүр товчлуур эсвэл алтан дисктэй бол одоо товшино уу.</string>
+    <string name="fido_use_ble_instead">Аюулгүй байдлын түлхүүрээ Bluetooth-тэй ашиглах</string>
+    <string name="fido_use_fp_instead">Аюулгүй байдлын түлхүүрээ хурууны хээгээр ашиглана уу</string>
+    <string name="fido_use_nfc_instead">Аюулгүй байдлын түлхүүрээ NFC-тэй ажиллах</string>
+    <string name="fido_use_usb_instead">Аюулгүй байдлын түлхүүрээ USB-р ашиглах</string>
+    <string name="fido_welcome_body">Аюулгүй байдлын түлхүүрээ %1$s-тай ашигласнаар хувийн өгөгдлөө хамгаалах боломжтой.</string>
+    <string name="fido_welcome_title">Аюулгүй байдлын түлхүүрээ %1$s-тэй ашиглана уу</string>
+    <string name="fingerprint_description">Хурууны хээгээ баталгаажуулснаар %1$s таныг мөн болохыг батлах болно.</string>
+    <string name="fingerprint_no_imprints_description">%1$s таны хурууны хээгээр таныг хэн болохыг баталгаажуулах хүсэлтэй байгаа ч та хурууны хээгээ энэ төхөөрөмжид оруулаагүй байна.</string>
+    <string name="fingerprint_not_recognized">Хурууны хээг танихгүй байна. Дахин оролдоно уу</string>
+    <string name="fingerprint_success">Хурууны хээг таньсан</string>
+    <string name="gcm_fallback_notification_channel_label">Бусад</string>
+    <string name="google_app_permissions_title">Апп зөвшөөрөл</string>
+    <string name="google_legal_title">Google эрх зүй</string>
+    <string name="google_play_tos_title">Google Play Үйлчилгээний Нөхцөл</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Нууцлалын Бодлого</string>
+    <string name="google_privacy_policy_title">Google Нууцлалын Бодлого</string>
+    <string name="google_terms_of_service_title">Google Үйлчилгээний Нөхцөл</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_description">Сүлжээний Wi-Fi итгэмжлэлийг бусад төхөөрөмжид шилжүүлэхийг аппад зөвшөөрнө үү.</string>
+    <string name="nearby_setup_transfer_wifi_credential_permission_label">Wi-Fi итгэмжлэлийг шилжүүлэх</string>
+    <string name="no_screen_lock_description">Та эхлээд төхөөрөмждөө дэлгэцийн түгжээ тохируулах шаардлагатай</string>
+    <string name="no_screen_lock_title">Таны утсанд дэлгэцийн түгжээ алга</string>
+    <string name="notification_ticker">Хандалтын Хүсэлт</string>
+    <string name="open_source_activity_prompt_heading">Апп нээх</string>
+    <string name="open_source_activity_prompt_text">"Нотлох үйл явцыг дуусгахын тулд SourceResponceActivity-г утсандаа нээнэ үү. "</string>
+    <string name="permgrouplab_calendar">Хуанли</string>
+    <string name="permgrouplab_camera">Камер</string>
+    <string name="permgrouplab_contacts">Харилцагчийн хаяг</string>
+    <string name="permgrouplab_location">Байршил</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Утас</string>
+    <string name="permgrouplab_sensors">Биеийн мэдрэгч</string>
+    <string name="permgrouplab_storage">Сан</string>
+    <string name="permissions_not_granted_text">Зөвшөөрөл олгохын тулд дахин нэвтэрнэ үү.</string>
+    <string name="permissions_not_granted_title">Зөвшөөрөл олгоогүй байна.</string>
+    <string name="plus_manage_app_only_you_label">Зөвхөн та</string>
+    <string name="plus_network_unreliable">Сервертэй найдвартай холболт үүсгэх боломжгүй байна.</string>
+    <string name="plus_oob_interstitial_loading_text">Үүнд хэсэг хугацаа шаардлагатай.</string>
+    <string name="search_menu_title">Хайлт</string>
+    <string name="set_up">ТОХИРУУЛАХ</string>
+    <string name="setupservices_additional_privacy_title">Нэмэлт Нууцлалын мэдээлэл</string>
+    <string name="setupservices_android_privacy_policy_title">Нэмэлт Нууцлалын бодлого</string>
+    <string name="setupservices_chrome_privacy_title">Chrome-н Нууцлалын мэдэгдэл</string>
+    <string name="setupservices_chrome_tos_title">Chrome-н Үйлчилгээний Нөхцөл</string>
+    <string name="setupservices_google_app_permissions_title">Апп зөвшөөрөл</string>
+    <string name="setupservices_google_legal_title">Google эрх зүй</string>
+    <string name="setupservices_google_play_tos_title">Google Play-н Үйлчилгээний нөхцөл</string>
+    <string name="setupservices_google_plus_privacy_policy_title">Google Plus-н Нууцлалын Бодлого</string>
+    <string name="setupservices_google_privacy_policy_title">Google-н Нууцлалын бодлого</string>
+    <string name="setupservices_google_services_agreement">Үргэлжлүүлснээр та энэ төхөөрөмж таны оператор компани, таны төхөөрөмжийн үйлдвэрлэгч болон Google-с таны мобайл датаг ашиглан шинэчлэлт, аппыг автоматаар татахыг зөвшөөрнө. Эдгээр аппын зарим нь аппын худалдан авалтыг санал болгож болзошгүй. Та эдгээр аппыг хүссэн үедээ устгах боломжтой.</string>
+    <string name="setupservices_google_services_agreement_dialog_text">Аппыг устгахын тулд Тохиргоо > Апп эсвэл Аппын менежер хэсэгт очно уу. Дараа нь устгахыг хүссэн аппаа товшино уу (аппыг олохын тулд баруун эсвэл зүүн тийш шударна уу). Дараа нь Устгах эсвэл Идэвхгүй болгох гэсэн сонголтыг товшино уу.</string>
+    <string name="setupservices_google_services_agreement_korea">Мөн үүгээр та өөрийн төхөөрөмж дээрх мэдээлэл болон функцүүдэд хандах зөвшөөрлийг урьдчилан ачаалсан Google aппуудад олгохыг зөвшөөрнө. Эдгээр зөвшөөрлийн ашиглалтын талаар дэлгэрэнгүй мэдээллийг <annotation link="app_permissions">энэ хуудаснаас</annotation> харна уу.</string>
+    <string name="setupservices_google_services_agreement_title">Шинэчлэлт, аппыг суулгах</string>
+    <string name="setupservices_google_services_automatic_storage_manager">Нөөцөлсөн зураг, видео зэрэг зарим датаг устгаж, утасныхаа багтаамжийг нэмэгдүүлнэ үү.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_details">Та холбогдсон үедээ энэ датад хандах боломжтой хэвээр байна. Та энэ функц болон хассан зүйлийг Тохиргоо > Хадгалах сан > Ухаалаг хадгалах сан хэсэгт хянах боломжтой.</string>
+    <string name="setupservices_google_services_automatic_storage_manager_title">Сул зай гаргах</string>
+    <string name="setupservices_google_services_backup">Таны нөөцлөлтөд апп, аппын дата, төхөөрөмжийн тохиргоо (Wi‑Fi-н нууц үгийг оруулаад) багтана.</string>
+    <string name="setupservices_google_services_backup_dialog_text">"^1
+
+Нөөцөлсөн дата таны Драйвын хадгалах сангийн квотод тооцогдохгүй."</string>
+    <string name="setupservices_google_services_backup_dialog_text_app_data">Аппын дата нь аппын хадгалсан харилцагч, зурвас, зураг зэрэг хувийн дата бүхий ямар ч дата (хөгжүүлэгчийн тохиргоонд үндэслэн) байж болно.</string>
+    <string name="setupservices_google_services_backup_dialog_text_turn_off">Та энэ тохиргоог Тохиргоо хэсэгт унтраах боломжтой.</string>
+    <string name="setupservices_google_services_backup_dialog_text_with_photos">"^1
+
+Энэ төхөөрөмжийн зураг, видеог таны Google Зурагт синк хийх бөгөөд тэдгээрийг та дурын төхөөрөмжөөсөө хайх, засах, устгах, хуваалцах боломжтой. Бүтэн нягтралтай зураг, видеог Google Зурагт өгөгдмөлөөр байршуулна.
+
+Нөөцөлсөн дата таны Драйвын хадгалах сангийн квотод тооцогдохгүй."</string>
+    <string name="setupservices_google_services_backup_title">Google Драйвт нөөцлөх</string>
+    <string name="setupservices_google_services_backup_v23">Та хүссэн үедээ хялбарханаар датаг сэргээх болон утсаа сэлгэх боломжтой. Таны нөөцлөлтөд апп, аппын дата, дуудлагын түүх, харилцагчид, төхөөрөмжийн тохиргоо (Wi‑Fi-н нууц үг, зөвшөөрөл зэргийг оруулаад) багтана.</string>
+    <string name="setupservices_google_services_backup_v26">Та хүссэн үедээ хялбарханаар датаг сэргээх болон утсаа сэлгэх боломжтой. Таны нөөцлөлтөд апп, аппын дата, дуудлагын түүх, харилцагчид, төхөөрөмжийн тохиргоо (Wi‑Fi-н нууц үг, зөвшөөрлийг оруулаад) болон SMS багтана.</string>
+    <string name="setupservices_google_services_backup_v26_with_photos">"Та хүссэн үедээ хялбарханаар датаг сэргээх болон утсаа сэлгэх боломжтой.  Таны нөөцлөлтөд апп, аппын дата, дуудлагын түүх, харилцагчид, төхөөрөмжийн тохиргоо, (Wi‑Fi-н нууц үг, зөвшөөрлийг оруулаад), зураг, видео болон SMS багтана. Зураг, видеог таны Google Зурганд синк хийх бөгөөд үйлчилгээнд ашиглаж болзошгүй."</string>
+    <string name="setupservices_google_services_data_policy">Датаг Google-н <annotation link="google_privacy">Нууцлалын бодлогын</annotation> дагуу ашиглана.</string>
+    <string name="setupservices_google_services_data_policy_korea">Датаг Google-н <annotation link="google_privacy">Нууцлалын бодлого</annotation> (<annotation link="additional_privacy">хувийн мэдээллийн цуглуулга, хадгалалт болон ашиглалтыг оруулаад</annotation>) болон <annotation link="location_tos">Байршлын Үйлчилгээний нөхцөлийн</annotation> дагуу ашиглана.</string>
+    <string name="setupservices_google_services_description">Үйлчилгээ бүрийг хэрхэн асаах, унтраах зэрэг талаар дэлгэрэнгүй мэдэхийн тулд товшино уу. ^1</string>
+    <string name="setupservices_google_services_instant_apps_learn_more">"Аппын худалдан авалт зэрэг аппын дэлгэрэнгүй мэдээллийг Play Store-с авах боломжтой. Аппын дата, тохиргоог таны Google Бүртгэлээр нэвтэрсэн төхөөрөмжид синк хийнэ. 
+
+Шуурхай аппыг "<a href="https://play.google.com/about/play-terms.html">Google Play-н Үйлчилгээний нөхцөлийн</a>" дагуу ашиглана. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Дэлгэрэнгүй үзэх</a>.</string>
+    <string name="setupservices_google_services_instant_apps_summary">Таныг холбоос товшиход Google Play шуурхай апп байгаа эсэхийг шалгаж аппыг суулгахгүйгээр ажиллуулдаг. Шуурхай аппыг таны төхөөрөмжид түр хадгална.</string>
+    <string name="setupservices_google_services_instant_apps_title">Аппыг суулгахгүйгээр ашиглах</string>
+    <string name="setupservices_google_services_location_sharing_details_v28">"Google-н байршлын үйлчилгээ нь таны төхөөрөмжийн байршлыг тогтоохын тулд Wi‑Fi, мобайл сүлжээ болон мэдрэгч зэрэг эх сурвалжийг ашигладаг.
+
+Та төхөөрөмжийнхөө үндсэн Байршлын тохиргоог унтрааж Байршлыг унтраах боломжтой. Мөн та байршил тогтоохын тулд Wi‑Fi, мобайл сүлжээ болон мэдрэгчийн ашиглалтыг байршлын тохиргоо хэсэгт унтрааж болно."</string>
+    <string name="setupservices_google_services_location_sharing_title">Аппад байршил хайхад тусална уу</string>
+    <string name="setupservices_google_services_location_sharing_title_v28">Байршлыг ашиглах</string>
+    <string name="setupservices_google_services_location_sharing_v28">Байршлын зөвшөөрөл бүхий апп, үйлчилгээнд төхөөрөмжийнхөө байршлыг ашиглахыг зөвшөөрнө үү. Google байршлын нарийвчлал болон байршилд суурилсан үйлчилгээг сайжруулахын тулд байршлын өгөгдлийг зарим үед цуглуулж үл мэдэгдэх байдлаар ашигладаг.</string>
+    <string name="setupservices_google_services_location_wireless_scan">Апп, үйлчилгээнд Wi‑Fi унтраалттай байсан үед ч хайх зөвшөөрөл олгоно уу.</string>
+    <string name="setupservices_google_services_location_wireless_scan_dialog_text">Та үүнийг байршлын тохиргоо хэсэгт унтраах боломжтой.</string>
+    <string name="setupservices_google_services_location_wireless_scan_title">Байршлын нарийвчлалыг сайжруулах</string>
+    <string name="setupservices_google_services_location_wireless_scan_title_v28">Шалгахыг зөвшөөрөх</string>
+    <string name="setupservices_google_services_location_wireless_scan_v23">Апп, үйлчилгээнд Wi‑Fi болон Bluetooth-н дохиог эдгээр тохиргоо унтраалттай эсэхээс үл шалтгаалан хайх зөвшөөрөл олгоно уу.</string>
+    <string name="setupservices_google_services_location_wireless_scan_v28">Апп болон үйлчилгээнд Wi‑Fi сүлжээ болон ойролцоох төхөөрөмжийг дурын үед хайхыг зөвшөөрнө үү (Wi‑Fi эсвэл Bluetooth унтраалттай үед ч).</string>
+    <string name="setupservices_google_services_next_button_label">Би зөвшөөрч байна</string>
+    <string name="setupservices_google_services_play">Google Play-н шинэ мэдээ, урамшууллыг надад тогтмол мэдэгдэнэ үү.</string>
+    <string name="setupservices_google_services_section_backup_and_storage">Нөөцлөлт, хадгалах сан</string>
+    <string name="setupservices_google_services_section_device_maintenance">Төхөөрөмжийн засвар үйлчилгээ</string>
+    <string name="setupservices_google_services_tos">Үргэлжлүүлснээр та <annotation link="tos">Google-н Үйлчилгээний нөхцөлийг</annotation> мөн зөвшөөрөх болно.</string>
+    <string name="setupservices_google_services_tos_agree">“Би зөвшөөрч байна” товчлуурыг дарснаар та эдгээр Google-н үйлчилгээний дээр тайлбарласан боловсруулалтыг зөвшөөрч байна.</string>
+    <string name="setupservices_google_services_tos_germany">Таныг энэ төхөөрөмжийг ашиглах үед <annotation link="google_privacy">Нууцлалын бодлого</annotation> болон <annotation link="tos">нэмэлт нөхцөл</annotation> үйлчилнэ.</string>
+    <string name="setupservices_google_services_usage_reporting">Оношлогоо, төхөөрөмж болон аппын хэрэглээний датаг Google-д автоматаар илгээж Андройдын хэрэглээгээ сайжруулахад тусална уу. Энэ нь таны батерейны амь, аппын тогтвортой байдал, сүлжээний холболт болон бусад зүйлийг сайжруулна. Хэрэв та нэмэлт Вэб, Аппын ашиглалтыг асаасан бол энэ мэдээллийг таны бүртгэлд хадгалах бөгөөд ингэснээр үүнийг Миний ашиглалт хэсэгт хянах боломжтой болно.</string>
+    <string name="setupservices_google_services_usage_reporting_details">"Энэ нь таны төхөөрөмжийн тухай болон үүнийг хэрхэн ашиглах талаарх ерөнхий мэдээлэл (батерейны түвшин, аппын хэрэглээ, сүлжээний холболт зэрэг) юм. Датаг Google-н бүтээгдэхүүн үйлчилгээг хүн бүрд сайжруулахын тулд ашиглана. Зарим нарийвчилсан мэдээллийг Андройд хөгжүүлэгч зэрэг манай түнш байгууллагууд өөрсдийн апп, бүтээгдэхүүнээ сайжруулахад мөн адил ашиглах болно.
+
+Энэ онцлогийг унтрааснаар таны төхөөрөмжид шаардлагатай байгаа системийн шинэчлэлт, хамгаалалт зэрэг нэмэлт үйлчилгээг авахад шаардлагатай мэдээлэл илгээх чадварт нөлөөлөхгүй."</string>
+    <string name="setupservices_google_services_usage_reporting_my_activity_settings">Та Миний ашиглалт хэсгийн тохиргоог myactivity.google.com-д шинэчлэх боломжтой.</string>
+    <string name="setupservices_google_services_usage_reporting_settings">Та энэ онцлогийг Google-н тохиргоо хэсэгт удирдах боломжтой. Цэснээс Хэрэглээ, оношлогоог сонгоно уу.</string>
+    <string name="setupservices_google_services_usage_reporting_settings_v23">Та энэ онцлогийг Тохиргоо > Google хэсэгт удирдах боломжтой. Цэснээс Хэрэглээ, оношлогоог сонгоно уу.</string>
+    <string name="setupservices_google_services_usage_reporting_title">Системийн дата илгээх</string>
+    <string name="setupservices_google_services_wallpaper_permission">Google-н байршлын үйлчилгээнд хандаж Google-н хөдөлгөөнт ханын зургийг таны байршилд хариу үзүүлэхийг зөвшөөрнө үү.</string>
+    <string name="setupservices_google_services_wallpaper_permission_details">Та Хөдөлгөөнт ханын зургийн Google-н байршлын үйлчилгээг Тохиргоо > Апп, мэдэгдэл > Аппын мэдээлэл хэсэгт унтрааж асаах боломжтой. Урт цэсийн Систем харуулах > Хөдөлгөөнт дата ханын зураг эсвэл Хөдөлгөөнт дэлхийн ханын зураг > Зөвшөөрөл хэсгийг товшино уу.</string>
+    <string name="setupservices_google_services_wallpaper_permission_title">Ханын зурагт байршил ашиглахыг зөвшөөрөх</string>
+    <string name="setupservices_google_terms_of_service_title">Google-н Үйлчилгээний нөхцөл</string>
+    <string name="setupservices_kids_google_services_agreement">Үргэлжлүүлснээр та энэ төхөөрөмжийг мобайл дата ашиглан Google, таны оператор компани, энэ төхөөрөмжийн үйлдвэрлэгчээс шинэчлэлт, аппыг автоматаар татах, суулгахыг зөвшөөрнө. Эдгээр аппын зарим нь аппын худалдан авалтыг санал болгож болзошгүй. Та эдгээр аппыг хүссэн үедээ устгах боломжтой.</string>
+    <string name="setupservices_kids_google_services_backup">Та хүссэн үедээ хялбархан датаг сэргээх болон утсаа сэлгэх боломжтой. Tус нөөцлөлтөд апп, аппын дата, төхөөрөмжийн тохиргоо (үүнд Wi‑Fi-н нууц үгийг оруулан) багтана.</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text">"^1
+
+Нөөцөлсөн дата таны хүүхдийн Драйвын хадгалах сангийн квотод тооцогдохгүй."</string>
+    <string name="setupservices_kids_google_services_backup_dialog_text_with_photos">"^1
+
+Энэ төхөөрөмжийн зураг, видеог таны хүүхдийн Google Зургийн санд синк хийх бөгөөд ингэснээр таны хүүхэд тэдгээрийг дурын төхөөрөмжөөсөө хайх, өөрчлөх, устгах болон хуваалцах боломжтой. Бүтэн нягтралтай зураг, видеог Google Зурагт өгөгдмөлөөр байршуулна.
+
+Нөөцөлсөн дата нь таны хүүхдийн Драйвын хадгалах сангийн квотод тооцогдохгүй."</string>
+    <string name="setupservices_kids_google_services_backup_v23">Та хүссэн үедээ хялбарханаар датаг сэргээх болон утсаа сэлгэх боломжтой. Тус нөөцлөлтөд апп, аппын дата, дуудлагын түүх, харилцагчид болон төхөөрөмжийн тохиргоо (үүнд Wi‑Fi-н нууц үг болон зөвшөөрлийг оруулан) багтана.</string>
+    <string name="setupservices_kids_google_services_backup_v26">Та хүссэн үедээ хялбарханаар дата сэргээх болон утсаа сэлгэх боломжтой. Тус нөөцлөлтөд апп, аппын өгөгдөл, дуудлагын түүх, харилцагчид, төхөөрөмжийн тохиргоо (Wi‑Fi-н нууц үг болон зөвшөөрлийг оруулаад) болон SMS багтана.</string>
+    <string name="setupservices_kids_google_services_backup_v26_with_photos">Та хүссэн үедээ хялбарханаар дата сэргээх болон утсаа сэлгэх боломжтой. Тус нөөцлөлтөд апп, аппын өгөгдөл, дуудлагын түүх, харилцагчид, төхөөрөмжийн тохиргоо, (Wi‑Fi-н нууц үг, зөвшөөрлийг оруулаад), зураг, видео болон SMS багтана. Зураг, видеог таны хүүхдийн Google Зургийн санд синк хийх бөгөөд үйлчилгээнүүдэд ашиглаж болзошгүй.</string>
+    <string name="setupservices_kids_google_services_description">Эцэг эхийн хувьд та үйлчилгээ бүрийн талаар дэлгэрэнгүй мэдэхийн тулд (жишээлбэл үйлчилгээг дараа нь хэрхэн асаах, унтраах зэрэг) товших боломжтой. ^1</string>
+    <string name="setupservices_kids_google_services_location_sharing_details_v28">"Google-н байршлын үйлчилгээ нь таны төхөөрөмжийн байршлыг тогтоохын тулд Wi‑Fi, мобайл сүлжээ, мэдрэгч зэрэг эх сурвалжийг ашигладаг.
+
+Та төхөөрөмжийнхөө үндсэн Байршлын тохиргоог унтрааж Байршлыг унтраах боломжтой. Түүнчлэн та байршлыг тогтоохын тулд Wi‑Fi, мобайл сүлжээ болон мэдрэгчийн ашиглалтыг байршлын тохиргоо хэсэгт унтрааж болно."</string>
+    <string name="setupservices_kids_google_services_location_sharing_v28">Байршлын зөвшөөрөл бүхий апп, үйлчилгээнд энэ төхөөрөмжийн байршлыг ашиглахыг зөвшөөрнө үү. Google байршлын нарийвчлал болон байршилд суурилсан үйлчилгээг сайжруулахын тулд байршлын өгөгдлийг зарим үед цуглуулж үл мэдэгдэх байдлаар ашигладаг.</string>
+    <string name="setupservices_kids_google_services_usage_reporting">Оношилгоо, төхөөрөмж болон аппын хэрэглээний датаг Google-д автоматаар илгээж Андройдын хэрэглээгээ сайжруулахад тусална уу. Эдгээр датаг таны хүүхдийг тодорхойлоход ашиглахгүй бөгөөд эдгээр нь батерейны амь, аппын тогтвортой байдал, сүлжээний холболт болон бусад зүйлийг сайжруулахад тусална. Хэрэв Вэб, Аппын нэмэлт үйл ажиллагааг таны хүүхдэд асаасан бол энэ мэдээллийг таны хүүхдийн бүртгэлд хадгална.</string>
+    <string name="setupservices_kids_google_services_usage_reporting_details">"Энэ нь энэ төхөөрөмжийн болон үүнийг хэрхэн ашиглах талаарх (батерейны түвшин, аппын хэрэглээ, сүлжээний холболт зэрэг) ерөнхий мэдээлэл болно. Google-н бүтээгдэхүүн, үйлчилгээг хүн бүрд зориулан сайжруулахын тулд уг мэдээллийг ашиглана. Зарим нэгтгэсэн мэдээллийг Андройд хөгжүүлэгч зэрэг түнш байгууллагууд апп, бүтээгдэхүүнээ сайжруулахад мөн адил ашиглана.
+
+Энэ онцлогийг унтрааснаар таны төхөөрөмжид шаардлагатай системийн шинэчлэл, аюулгүй байдал зэрэг үйлчилгээг авахын тулд мэдээлэл илгээх чадварт нөлөөлөхгүй."</string>
+    <string name="setupservices_location_tos_title">Байршлын үйлчилгээний нөхцөл</string>
+    <string name="sid_lsid_grant_detail">Session Identification (SID) болон Local Session Identification (LSID) күүкинүүд нь нууц үгтэй адилаар хөтчийн хүсэлтэд ашиглагдах таны таниулбартай холбогдоно. Эдгээр нь таны бүртгэлийн датад хандах бүрэн хандах боломжийг олгоно. Зөвхөн хөтчүүд л эдгээр күүкиг ашиглах эрхтэй.</string>
+    <string name="sid_lsid_grant_label">Өөрийн бүх Google бүртгэлийн өгөгдөлд хандахын тулд SID болон LSID күүкиг ашиглана уу.</string>
+    <string name="smartdevice_action_copy">Хуулах</string>
+    <string name="smartdevice_action_open_app">Апп нээх</string>
+    <string name="smartdevice_action_try_another_way">Өөр аргаар үзээрэй</string>
+    <string name="smartdevice_action_turn_on_location">Байршлыг асаах</string>
+    <string name="smartdevice_alert_disconnected_title">Төхөөрөмж салсан</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Tаны нөөцлөлтийн бүртгэлийг төхөөрөмжийн админ удирддаг тул та энэ онцлогийг ашиглах боломжгүй.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Онцлог боломжгүй байна</string>
+    <string name="smartdevice_alert_exit_setup_message">Та бусад төхөөрөмжийнхөө тохиргоог зогсоохдоо итгэлтэй байна уу?</string>
+    <string name="smartdevice_alert_exit_setup_title">Төхөөрөмжийн тохиргоог зогсоох уу?</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Төхөөрөмжөө тохируулахад та хамгийн багадаа 1 Google бүртгэлтэй байх шаардлагатай.</string>
+    <string name="smartdevice_alert_no_accounts_text">%s-г тохируулахын тулд танд хамгийн багадаа 1 Google бүртгэл байх шаардлагатай.</string>
+    <string name="smartdevice_alert_no_accounts_title">Хуулах бүртгэл байхгүй байна</string>
+    <string name="smartdevice_alert_quit_button">Гарах</string>
+    <string name="smartdevice_alert_restart_setup_button">Тохиргоог дахин эхлүүлэх</string>
+    <string name="smartdevice_alert_setup_incomplete">Тохиргоо дуусаагүй байна</string>
+    <string name="smartdevice_alert_start_over_button">Дахин эхлүүлэх</string>
+    <string name="smartdevice_alert_work_profile_message">Ажлын бүртгэлийг хараахан хуулах боломжгүй байна. Ажлын бүртгэлээ нэмэхийн тулд өөр Google бүртгэл болон өгөгдлөө хуулсны дараа шинэ төхөөрөмжийнхөө Тохиргоо хэсэгт очно уу.</string>
+    <string name="smartdevice_alert_work_profile_title">Ажлын бүртгэлийг хуулж боломжгүй байна</string>
+    <string name="smartdevice_application_label">Төхөөрөмжийн тохиргоо</string>
+    <string name="smartdevice_choose_device">Tөхөөрөмжөө сонгох</string>
+    <string name="smartdevice_companion_app_ready">%s аппыг энэ төхөөрөмж дээр суулгасан байна.</string>
+    <string name="smartdevice_connect_to_wifi">Төхөөрөмжөө холбоно уу</string>
+    <string name="smartdevice_connection_error">Таны нөгөө төхөөрөмжид холбогдож чадсангүй</string>
+    <string name="smartdevice_connection_error_title">Холбогдож чадсангүй</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Таны төхөөрөмжид холбогдож байна…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Хэрэв боломжтой бол Google Бүртгэл болон бусад бүртгэлээ хуулж, Google Драйвын нөөцлөлтөө сэргээнэ үү</string>
+    <string name="smartdevice_d2d_copy_account_text">Хэрэв боломжтой бол Google Бүртгэлээ хуулж, Google Драйвын нөөцлөлтөө сэргээнэ үү</string>
+    <string name="smartdevice_d2d_copy_account_title">Таны өөр төхөөрөмжид хуулах уу?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Танигдахгүй байна</string>
+    <string name="smartdevice_d2d_fingerprint_title">Хурууны хээгээ баталгаажуулах</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Аюулгүй байдлын үүднээс хурууны хээгээ баталгаажуулна уу. Таны Google бүртгэл, апп, өгөгдлийг %s-д хуулах болно.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Tөхөөрөмжийн тохиргоог үргэлжлүүлэхийн тулд түгжээг тайлна уу</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Аюулгүй байдлын үүднээс тохируулгыг үргэлжлүүлэхийн тулд дэлгэцийн түгжээгээ баталгаажуулна уу</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Таны төхөөрөмж дээр Bluetooth байхгүй тул бусад төхөөрөмжийг тохируулах боломжгүй байна.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Энэ онцлогийг таны аюулгүй байдлын үндсэн дээр идэвхгүй болгосон байна. Та бусад төхөөрөмж дээрээ Алгасах гэснийг дарж, тохиргоогоо үргэлжлүүлээрэй.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Шинэ төхөөрөмж тохируулах</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Төхөөрөмжийн тохиргоо</string>
+    <string name="smartdevice_d2d_source_notification_title">^1-ын тохиргоо</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Тохиргоог шинээр эхлүүлэн, өөрийн Google Бүртгэл, апп, өгөгдлийг хуулах ^1 сонгоорой.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Код харагдахгүй байна уу?</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Хязгаарлагдмал хэрэглэгчийн профайлаас төхөөрөмжийг тохируулж болохгүй байна.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">%s-н тохиргоог үргэлжлүүлнэ үү</string>
+    <string name="smartdevice_d2d_source_setup_success">Бараг дуусчихлаа!</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Өөр Андройд төхөөрөмжөөс хуулах</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">ОК, энэ төхөөрөмжийг тохируулах дараагийн алхмаа мөрдөөрэй.</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Google бүртгэл, апп, өгөгдлөө өөр төхөөрөмжөөс хуулах</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Бүртгэлийг хуулж байна…</string>
+    <string name="smartdevice_d2d_target_description">1. &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> гэж хэлэх эсвэл \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" гэж бичээд &lt;br/>&lt;br/> 2-г баталгаажуулахын тулд товшино уу. Жагсаалтаас &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b>-г товшоод дэлгэц дээрх зааврыг дагана уу</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Оронд нь үүнийг оролдож үзээрэй</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Бусад төхөөрөмждөө:&lt;br/>&lt;br/> 1. &lt;b>Google Тохиргоо&lt;/b> апп&lt;br/>&lt;br/>-г нээнэ үү 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Ойролцоох төхөөрөмжийг тохируулах>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/>-г сонгоно уу 3. Жагсаалтын &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>-г дараад, дэлгэцэд гарч ирэх зааврыг дагана уу</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Эдгээр алхмыг дуусгаж чадсангүй</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Тохиргоог ашиглацгаая</string>
+    <string name="smartdevice_d2d_target_help_text">Асуудал гарсан уу?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Олдохгүй байна уу?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Бусад төхөөрөмждөө Google апп-г нээнэ үү</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google аппыг нээх</string>
+    <string name="smartdevice_d2d_target_instruction_title">Таны бусад төхөөрөмж дээр</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google аппыг Андройд төхөөрөмжид урьдчилан суулгасан байдаг. Бүх аппаа хараад дараа нь дээр харуулж буй Google-н дүрс тэмдгийг хайна уу.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Энэ код нь таны өөр төхөөрөмж дээрх кодтой тохирох ёстой:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Алгасахгүй</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Тохиргоо нь энэ бүртгэл ба бусад хадгалсан апп болон өгөгдлийг энэ төхөөрөмж рүү хуулахгүй.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Алгасах</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Энэ бүртгэлийг алгасах уу?</string>
+    <string name="smartdevice_d2d_target_title">Google апп дотор</string>
+    <string name="smartdevice_do_disclosure_generic">Өгөгдлийг шилжүүлэх боломжгүй байна</string>
+    <string name="smartdevice_do_unsupported_message">Өгөгдлийг удирдсан төхөөрөмжөөс шилжүүлэх боломжгүй байна</string>
+    <string name="smartdevice_install_app">Апп суулгах</string>
+    <string name="smartdevice_install_app_reason">Шинэ %2$s-аа энэ төхөөрөмж дээрээс удирдаж хянахын тулд %1$s аппыг татаарай</string>
+    <string name="smartdevice_look_for_other_device">Энэ нэрийг нөгөө төхөөрөмжөөсөө хайна уу</string>
+    <string name="smartdevice_magicwand_cancel_signin">Нэвтрэхгүй</string>
+    <string name="smartdevice_magicwand_confirm_signin">Нэвтрэхийг эхлүүлсэн</string>
+    <string name="smartdevice_magicwand_consent_detail">Өөр төхөөрөмжид нэвтрэхээ дуусгахын тулд <b>Нэвтрэх</b> гэснийг товшино уу.</string>
+    <string name="smartdevice_magicwand_consent_title">Нэвтрэхийг дуусгах</string>
+    <string name="smartdevice_magicwand_error_detail">Алдаа гарсан тул Google таныг энэ утсанд нэвтрүүлэх боломжгүй байсан.</string>
+    <string name="smartdevice_magicwand_fingerprint_detail">"Та бүртгэлдээ нэвтрэхийн тулд хурдан хариу үйлдлийн код скан хийсэн байна.
+
+Таны аюулгүй байдлын үүднээс та өөр төхөөрөмжид нэвтэрч байгаагаа баталгаажуулахын тулд хурууныхаа хээг баталгаажуулна уу."</string>
+    <string name="smartdevice_magicwand_lockscreen_description">Энэ нэмэлт алхам нь төхөөрөмжийг аюулгүй эсэхийг шалгахад тусалдаг.</string>
+    <string name="smartdevice_magicwand_lockscreen_verification_text">"Та бүртгэлдээ нэвтрэхийн тулд хурдан хариу үйлдлийн код скан хийсэн байна.
+
+Таны аюулгүй байдлын үүднээс та өөр төхөөрөмжид нэвтэрч байгаагаа баталгаажуулахын тулд дэлгэцийн түгжээний загвараа оруулна уу."</string>
+    <string name="smartdevice_magicwand_selectaccount_description">хөтөчдөө үргэлжлүүлэхийн тулд</string>
+    <string name="smartdevice_magicwand_success_detail">Бусад төхөөрөмжийнхөө хөтчдөө буцаж очно уу.</string>
+    <string name="smartdevice_pairing_verify_shapes_subhead">Эдгээр дүрсийг нөгөө төхөөрөмжөөсөө хайна уу</string>
+    <string name="smartdevice_pairing_verify_shapes_title">Дүрсийг баталгаажуулах</string>
+    <string name="smartdevice_problem_copying">Өгөгдлийг таны нөгөө төхөөрөмжид хуулж чадсангүй</string>
+    <string name="smartdevice_problem_copying_title">Өгөгдлийг хуулж чадсангүй</string>
+    <string name="smartdevice_search_again">Дахин хайх</string>
+    <string name="smartdevice_searching_for_devices">Төхөөрөмж хайж байна</string>
+    <string name="smartdevice_setup_info_installing_app">Аппыг суулгаж байна ...</string>
+    <string name="smartdevice_setup_intro_text">Таны нөгөө төхөөрөмжийг тохируулахын тулд таны утасны Bluetooth болон Wi-Fi өгөгдлийг ашиглана</string>
+    <string name="smartdevice_setup_intro_text_nfc">Таны нөгөө төхөөрөмжийг тохируулахын тулд таны утасны Bluetooth-г ашиглана</string>
+    <string name="smartdevice_setup_intro_title">Эхэлж байна</string>
+    <string name="smartdevice_setup_password_hint">WiFi нууц үгээ оруулна уу</string>
+    <string name="smartdevice_setup_show_password">Нууц үгийг харуулах</string>
+    <string name="smartdevice_setup_title_verify_code">Код шалгах</string>
+    <string name="smartdevice_target_hotphrase_instructions">Нөгөө төхөөрөмжийнхөө хайлтын хэсэгт &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> гэж хэлэх буюу эсхүл &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> гэж бичнэ үү.</string>
+    <string name="smartdevice_type_typing_ok_google">Хэрэв дуун тушаал ажиллахгүй байвал хайх хэсэгт бичиж үзнэ үү. \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\" гэж бичнэ үү</string>
+    <string name="smartdevice_verify_device">Төхөөрөмжийг баталгаажуулах</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Энэ төхөөрөмжийг тохируулахад зөвхөн нээлттэй сүлжээ болон WPA/WPA2 сүлжээг ашиглах болно</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WiFi сүлжээг ашиглах боломжгүй байна</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi хайхын тулд Байршлыг асаана уу.
+
+Та үүнийг дараа нь Тохиргоо хэсэгт өөрчлөх боломжтой."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi сүлжээг хайх боломжгүй байна</string>
+    <string name="storage_management_wear_descriptive_text">Апп нь датаг зүүсгэлд хуулбарлахын тулд таны төхөөрөмжийн санг ашиглана.</string>
+    <string name="storage_management_wear_manage_size_label">Зүүсгэлийн санг удирдах</string>
+    <string name="storage_management_wear_size_label">Зүүсгэлийн сан</string>
+    <string name="storage_managment_all_storage_descriptive_text">Хайлтын систем болон бусад датаг оруулан, Google Наадаан үйлчилгээнд ашиглагдсан нийт дата.</string>
+    <string name="storage_managment_clear_all_data">Бүх датаг арилгах</string>
+    <string name="storage_managment_computing_size">Тооцоолж байна…</string>
+    <string name="storage_managment_icing_size_label">Хайлтын Дата</string>
+    <string name="storage_managment_manage_icing_button">Хайлтын датаг удирдах</string>
+    <string name="storage_managment_search_index_descriptive_text">Бид таны аппуудад хайлтын систем олгосноор таны утасны хайлтыг хурдасгах болгоно.</string>
+    <string name="storage_managment_title">Google Наадаан үйлчилгээний сан</string>
+    <string name="storage_managment_total_size_label">Нийт сан</string>
+    <string name="suw_back_button_label">Буцах</string>
+    <string name="suw_more_button_label">Илүү</string>
+    <string name="suw_next_button_label">Дараах</string>
+    <string name="uncertified_notification_expired_content">Google-н апп, үйлчилгээ энэ төхөөрөмжид ажиллахaa больсон. Дэлгэрэнгүй үзэх бол товшино уу.</string>
+    <string name="uncertified_notification_expired_title">Бүртгэл дууссан</string>
+    <string name="uncertified_notification_expiring_title">Бүртгэлийн хугацаа дуусаж байна</string>
+    <string name="use_nearby_device_heading">Ойролцоох төхөөрөмжийг ашиглах уу?</string>
+    <string name="use_nearby_device_text">Та мандат үнэмлэх олгохын тулд ойролцоох төхөөрөмжийг ашиглах уу?</string>
+    <string name="v7_preference_off">УНТРААТАЙ</string>
+    <string name="v7_preference_on">АСААЛТТАЙ</string>
+    <string name="verify_your_identity_description">%1$s таныг мөн гэдгийг баталгаажуулах шаардлагатай.</string>
+    <string name="verify_your_identity_title">Өөрийгөө баталгаажуулна уу</string>
+    <string name="waiting_for_account_info_text">Бүртгэлийн мэдээллийг хүлээж байна...</string>
+</resources>

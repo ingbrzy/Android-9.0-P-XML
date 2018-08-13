@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bundled_carrier_apps">
+        <item>com.customermobile.preload.vzw</item>
+        <item>com.qualcomm.ltebc</item>
+        <item>com.qualcomm.ltebc_vzw</item>
+        <item>com.verizon.llkagent</item>
+        <item>com.verizon.obdm</item>
+        <item>com.verizon.obdm_permissions</item>
+        <item>com.verizon.services</item>
+        <item>com.vzw.apnlib</item>
+        <item>qualcomm.com.vzw_msdc_api</item>
+        <item>com.android.omadm.service</item>
+        <item>com.android.sdm.plugins.sprintdm</item>
+        <item>com.android.sdm.plugins.connmo</item>
+        <item>com.android.sdm.plugins.dcmo</item>
+        <item>com.android.sdm.plugins.diagmon</item>
+        <item>com.android.vzwomatrigger</item>
+        <item>com.google.omadm.trigger</item>
+        <item>com.htc.omadm.trigger</item>
+        <item>com.google.android.carrier.authdialog</item>
+        <item>com.google.android.hiddenmenu</item>
+        <item>com.google.android.ims</item>
+    </string-array>
+    <string-array name="bundled_carrier_apps_disabled_no_sim">
+        <item>com.verizon.mips.services</item>
+    </string-array>
+    <array name="self_triggered_fetch_blacklist" />
+</resources>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">항목이 너무 커서 기기의 휴지통에 버릴 수 없습니다. 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+        <item quantity="one">항목이 너무 커서 기기의 휴지통에 버릴 수 없습니다. 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d개 항목 스캔됨</item>
+        <item quantity="one">%1$d개 항목 스캔됨</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d개 항목 선택됨</item>
+        <item quantity="one">%1$d개 항목 선택됨</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">새 앨범에 포함된 항목이 현재 한도인 %1$d개를 초과하게 됩니다.</item>
+        <item quantity="one">새 앨범에 포함된 항목이 현재 한도인 %1$d개를 초과하게 됩니다.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">앨범에 포함된 항목이 %1$d개가 됩니다.</item>
+        <item quantity="one">앨범에 포함된 항목이 %1$d개가 됩니다.</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">위치 %d개가 추가됨</item>
+        <item quantity="one">위치 %d개가 추가됨</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">위치 %d개</item>
+        <item quantity="one">위치 %d개</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">지도 %d개</item>
+        <item quantity="one">지도 %d개</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">지도 %d개가 추가됨</item>
+        <item quantity="one">지도 %d개가 추가됨</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">이 앨범에서 항목을 삭제하는 중…</item>
+        <item quantity="one">이 앨범에서 항목을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%d개 항목 삭제됨</item>
+        <item quantity="one">%d개 항목 삭제됨</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">이 앨범에서 사진을 삭제하는 중…</item>
+        <item quantity="one">이 앨범에서 사진을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">이 앨범에서 동영상을 삭제하는 중…</item>
+        <item quantity="one">이 앨범에서 동영상을 삭제하는 중…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">항목 %1$d개</item>
+        <item quantity="one">항목 %1$d개</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">항목 %d개</item>
+        <item quantity="one">항목 %d개</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">기기(%d개)에서 삭제</item>
+        <item quantity="one">기기(%d개)에서 삭제</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">기기(%d개)에서 모두 삭제</item>
+        <item quantity="one">기기(%d개)에서 모두 삭제</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">휴지통으로 이동(%d개)</item>
+        <item quantity="one">휴지통으로 이동(%d개)</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%d개가 보관처리됨</item>
+        <item quantity="one">%d개의 항목이 보관처리됨</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%d개가 보관처리 취소됨</item>
+        <item quantity="one">%d개의 항목이 보관처리 취소됨</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">%d개 선택됨</item>
+        <item quantity="one">%d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">항목 %d개 업로드 중</item>
+        <item quantity="one">항목 %d개 업로드 중</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">남은 사진 %d개</item>
+        <item quantity="one">남은 사진 %d개</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">백업할 사진 %d개 남음</item>
+        <item quantity="one">백업할 사진 %d개 남음</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">사진 %1$d장 • %2$s</item>
+        <item quantity="one">사진 %1$d장 • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">항목 %1$d개를 백업하시겠습니까?</item>
+        <item quantity="one">항목 %1$d개를 백업하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">항목 %1$d개 업로드 중</item>
+        <item quantity="one">항목 %1$d개 업로드 중</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">사진 %1$d장이 백업되지 않음</item>
+        <item quantity="one">사진 %1$d장이 백업되지 않음</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">항목 %1$d개를 안전하게 보관</item>
+        <item quantity="one">항목 %1$d개를 안전하게 보관</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">항목 %d개 업로드 중</item>
+        <item quantity="one">항목 %d개 업로드 중</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">동영상 %d개 업로드 중</item>
+        <item quantity="one">동영상 %d개 업로드 중</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">업로드할 항목 %d개</item>
+        <item quantity="one">업로드할 항목 %d개</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">업로드할 동영상 %d개</item>
+        <item quantity="one">업로드할 동영상 %d개</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">모든 사진 %d장</item>
+        <item quantity="one">모든 사진 %d장</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">사진 %d장이 백업되지 않음</item>
+        <item quantity="one">사진 %d장이 백업되지 않음</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">항목 %1$d개가 추가됨</item>
+        <item quantity="one">항목 %1$d개가 추가됨</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">앨범에 최대 %d개의 항목을 추가할 수 있습니다.</item>
+        <item quantity="one">앨범에 최대 %d개의 항목을 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">항목을 %d개까지만 선택하세요.</item>
+        <item quantity="one">항목을 %d개까지만 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">항목을 %d개 이상 선택하세요.</item>
+        <item quantity="one">항목을 %d개 이상 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">%d일 이내의 항목을 선택하세요.</item>
+        <item quantity="one">%d일 이내의 항목을 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%d개 항목 추가됨</item>
+        <item quantity="one">%d개 항목 추가됨</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">%d일 전</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">%d시간</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d시간 전</item>
+        <item quantity="one">%d시간 전</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d주</item>
+        <item quantity="one">%d주</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d주 전</item>
+        <item quantity="one">%d주 전</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d분</item>
+        <item quantity="one">%d분</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d분 전</item>
+        <item quantity="one">%d분 전</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d일</item>
+        <item quantity="one">%d일</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d일 전</item>
+        <item quantity="one">%d일 전</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">기기에서 항목 %1$d개가 삭제됩니다. 삭제된 항목은 Google 포토에 보관됩니다.</item>
+        <item quantity="one">기기에서 항목 %1$d개가 삭제됩니다. 삭제된 항목은 Google 포토에 보관됩니다.</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">항목 %1$d개를 기기에서 삭제</item>
+        <item quantity="one">항목 %1$d개를 기기에서 삭제</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">기기에서 사진과 동영상 %1$d개 삭제</item>
+        <item quantity="one">기기에서 사진 또는 동영상 %1$d개 삭제</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">원본 사진 및 동영상 %1$d개 삭제 중</item>
+        <item quantity="one">원본 사진 또는 동영상 %1$d개 삭제 중</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">항목 %d개</item>
+        <item quantity="one">항목 %d개</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">새 카드 %d개</item>
+        <item quantity="one">새 카드 1개</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">항목 %d개 추가됨</item>
+        <item quantity="one">항목 %d개 추가됨</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">업데이트 %1$d개</item>
+        <item quantity="one">업데이트 %1$d개</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">댓글 %1$d개</item>
+        <item quantity="one">댓글 %1$d개</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">라이브러리에 항목 저장 중...</item>
+        <item quantity="one">라이브러리에 항목 저장 중…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%d개 항목 추가됨</item>
+        <item quantity="one">%d개 항목 추가됨</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">최대 %d개의 항목을 추가할 수 있습니다.</item>
+        <item quantity="one">최대 %d개의 항목을 추가할 수 있습니다.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">폴더와 폴더에 포함된 항목 %d개 삭제</item>
+        <item quantity="one">폴더와 폴더에 포함된 항목 %d개 삭제</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">기기에서 삭제(%d개)</item>
+        <item quantity="one">기기에서 삭제(%d개)</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">항목 %d개를 복사하는 중에 문제가 발생했습니다.</item>
+        <item quantity="one">항목 %d개를 복사하는 중에 문제가 발생했습니다.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">항목 %d개 복사됨</item>
+        <item quantity="one">항목 %d개 복사됨</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">항목 %d개를 이동하는 중에 문제가 발생했습니다.</item>
+        <item quantity="one">항목 %d개를 이동하는 중에 문제가 발생했습니다.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">항목 %d개 이동됨</item>
+        <item quantity="one">항목 %d개 이동됨</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">%1$d명과 공유하는 앨범에 추가하시겠습니까?</item>
+        <item quantity="one">%1$d명과 공유하는 앨범에 추가하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">%1$s님 외 %2$d명과 공유하는 앨범에 추가하시겠습니까?</item>
+        <item quantity="one">%1$s님 외 %2$d명과 공유하는 앨범에 추가하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">%1$s님, %2$s님 외 %3$d명과 공유하는 앨범에 추가하시겠습니까?</item>
+        <item quantity="one">%1$s님, %2$s님 외 %3$d명과 공유하는 앨범에 추가하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">%1$s님 외 %2$d명에게 보내시겠습니까?</item>
+        <item quantity="one">%1$s님 외 %2$d명에게 보내시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">%1$s님, %2$s님 외 %3$d명에게 보내시겠습니까?</item>
+        <item quantity="one">%1$s님, %2$s님 외 %3$d명에게 보내시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">인물 %d명의 사진</item>
+        <item quantity="one">인물 %d명의 사진</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">선택된 얼굴 %d개가 나온 사진</item>
+        <item quantity="one">선택된 얼굴 %d개가 나온 사진</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">%d개 선택됨</item>
+        <item quantity="one">%d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">얼굴 %d개 선택됨</item>
+        <item quantity="one">얼굴 %d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%2$s 이후로 선택된 얼굴 %1$d개가 나온 사진</item>
+        <item quantity="one">%2$s 이후로 선택된 얼굴 %1$d개가 나온 사진</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">선택된 얼굴 %d개가 나온 사진</item>
+        <item quantity="one">선택된 얼굴 %d개가 나온 사진</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">사진 %1$d장이 삭제되었습니다.</item>
+        <item quantity="one">사진 %1$d장이 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">%d명만 선택하세요.</item>
+        <item quantity="one">%d명만 선택하세요.</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">추가 페이지 %d장</item>
+        <item quantity="one">추가 페이지 %d장</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d페이지</item>
+        <item quantity="one">%d페이지</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">구매하려면 사진 %d장을 더 추가하세요.</item>
+        <item quantity="one">구매하려면 사진 %d장을 더 추가하세요.</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">사진 %d장이 추가되었습니다.</item>
+        <item quantity="one">사진 %d장이 추가되었습니다.</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">사진이 삭제되었거나 공유가 취소되었습니다.</item>
+        <item quantity="one">사진이 삭제되었거나 공유가 취소되었습니다.</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">사진 %d장을 더 이상 사용할 수 없습니다.</item>
+        <item quantity="one">사진 %d장을 더 이상 사용할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">사진 %d장이 삭제되었습니다.</item>
+        <item quantity="one">사진 %d장이 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">추가 %d페이지</item>
+        <item quantity="one">추가 %d페이지</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d페이지</item>
+        <item quantity="one">%d페이지</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">사진 %d장만 인쇄 가능하며 </item>
+        <item quantity="one">사진 %d장만 인쇄 가능하며 </item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">사진 %d장이 추천되었습니다.</item>
+        <item quantity="one">사진 %d장이 추천되었습니다.</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">사진 %d장 추천됨</item>
+        <item quantity="one">사진 %d장 추천됨</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">사진 또는 동영상</item>
+        <item quantity="one">사진 또는 동영상</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">사진</item>
+        <item quantity="one">사진</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">동영상</item>
+        <item quantity="one">동영상</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">반려동물 %d마리 발견</item>
+        <item quantity="one">반려동물 %d마리 발견</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">그 밖에 사진에서 장소 %1$d곳 발견됨</item>
+        <item quantity="one">그 밖에 사진에서 장소 %1$d곳 발견됨</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">그 밖에 사진에서 사물 %1$d개 발견됨</item>
+        <item quantity="one">그 밖에 사진에서 사물 %1$d개 발견됨</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">또한 사진에서 %1$d개의 장소 및 사물 발견</item>
+        <item quantity="one">또한 사진에서 %1$d개의 장소 및 사물 발견</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">인물 %1$d명 발견됨</item>
+        <item quantity="one">인물 %1$d명 발견됨</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">장소 %1$d곳 발견됨</item>
+        <item quantity="one">장소 %1$d곳 발견됨</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">사물 %1$d개 발견됨</item>
+        <item quantity="one">사물 %1$d개 발견됨</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">사진 %d개</item>
+        <item quantity="one">사진 %d장</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">외 장소 %1$d곳</item>
+        <item quantity="one">외 장소 %1$d곳</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">외 사물 %1$d개</item>
+        <item quantity="one">외 사물 %1$d개</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">외 사물 및 장소 %1$d개</item>
+        <item quantity="one">외 사물 및 장소 %1$d개</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">내 사진에 찍혀 있는 %1$d명의 인물 확인</item>
+        <item quantity="one">내 사진에 찍혀 있는 %1$d명의 인물 확인</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">인물 %1$d명 발견됨</item>
+        <item quantity="one">인물 %1$d명 발견됨</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">장소 %1$d곳 발견됨</item>
+        <item quantity="one">장소 %1$d곳 발견됨</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">사물 %1$d개 발견됨</item>
+        <item quantity="one">사물 %1$d개 발견됨</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">내 사진에 찍혀 있는 %1$d개의 사물 확인</item>
+        <item quantity="one">내 사진에 찍혀 있는 %1$d개의 사물 확인</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d개 선택됨</item>
+        <item quantity="one">%1$d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%d개 선택됨</item>
+        <item quantity="one">%d개 선택됨</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">%d개의 항목을 앨범에 추가했습니다.</item>
+        <item quantity="one">%d개의 항목을 앨범에 추가했습니다.</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">항목 %d개 업로드 중</item>
+        <item quantity="one">항목 %d개 업로드 중</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">연결되면 %d개의 항목이 업로드됩니다.</item>
+        <item quantity="one">연결되면 %d개의 항목이 업로드됩니다.</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s님 외 %2$d명</item>
+        <item quantity="one">%1$s님 외 %2$d명</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">항목 %d개</item>
+        <item quantity="one">항목 %d개</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">관련 사진 %d장을 추가하시겠습니까?</item>
+        <item quantity="one">관련 사진 %d장을 추가하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">새 사진 %1$d장</item>
+        <item quantity="one">새 사진 %1$d장</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s님이 새 사진 %2$d장을 추가했습니다.</item>
+        <item quantity="one">%1$s님이 새 사진 %2$d장을 추가했습니다.</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">사진에서 인물 %1$d명 찾음</item>
+        <item quantity="one">사진에서 인물 %1$d명 찾음</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">사진에서 장소 %1$d곳 찾음</item>
+        <item quantity="one">사진에서 장소 %1$d곳 찾음</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">사진에서 사물 %1$d개 찾음</item>
+        <item quantity="one">사진에서 사물 %1$d개 찾음</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">항목을 삭제할 수 없음</item>
+        <item quantity="one">항목을 삭제할 수 없음</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d개 항목을 삭제할 수 없습니다.</item>
+        <item quantity="one">%d개 항목을 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d개 항목을 완전히 삭제할 수 없습니다.</item>
+        <item quantity="one">%d개 항목을 완전히 삭제할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">항목 완전히 삭제 중…</item>
+        <item quantity="one">항목 완전히 삭제 중…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d개 항목이 완전히 삭제되었습니다.</item>
+        <item quantity="one">%d개 항목이 완전히 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">기기에서 항목 %d개가 삭제되었습니다.</item>
+        <item quantity="one">기기에서 항목 %d개가 삭제되었습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">항목 복원 중...</item>
+        <item quantity="one">항목 복원 중...</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d개 항목을 복원할 수 없습니다.</item>
+        <item quantity="one">%d개 항목을 복원할 수 없습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">휴지통에서 %d개 항목이 복원되었습니다.</item>
+        <item quantity="one">휴지통에서 %d개 항목이 복원되었습니다.</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">항목을 완전히 삭제하시겠습니까?</item>
+        <item quantity="one">항목을 완전히 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">항목 %d개를 삭제하시겠습니까?</item>
+        <item quantity="one">항목 %d개를 삭제하시겠습니까?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">항목 %d개를 완전히 삭제</item>
+        <item quantity="one">항목 %d개를 완전히 삭제</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">이 버전의 만료일까지 %d일 남았습니다. Google 포토를 계속 사용하려면 지금 업데이트하세요.</item>
+        <item quantity="one">이 버전의 만료일까지 1일 남았습니다. Google 포토를 계속 사용하려면 지금 업데이트하세요.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">항목 %d개 업로드 중</item>
+        <item quantity="one">항목 %d개 업로드 중</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">연결되면 항목 %d개가 업로드됩니다.</item>
+        <item quantity="one">연결되면 항목 %d개가 업로드됩니다.</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">Wi-Fi에 연결되면 항목 %d개가 업로드됩니다.</item>
+        <item quantity="one">Wi-Fi에 연결되면 항목 %d개가 업로드됩니다.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">지금 이 항목을 백업하는 데 약 %s의 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+        <item quantity="one">지금 이 항목을 백업하는 데 약 %s의 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">이 항목을 백업하면 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+        <item quantity="one">이 항목을 백업하면 데이터를 사용하게 됩니다. 데이터를 사용하지 않으려면 Wi-Fi에 연결하세요.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">업로드 중…%d개 남음</item>
+        <item quantity="one">업로드 중…%d개 남음</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">파일 %d개</item>
+        <item quantity="one">파일 %d개</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">사진 %s개</item>
+        <item quantity="one">사진 %s개</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s개 사진/동영상</item>
+        <item quantity="one">%s개 사진/동영상</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">동영상 %s개</item>
+        <item quantity="one">동영상 %s개</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">사진 선택</item>
+        <item quantity="one">사진 선택</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">항목 선택</item>
+        <item quantity="one">항목 선택</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">동영상 선택</item>
+        <item quantity="one">동영상 선택</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">외 %d명</item>
+        <item quantity="one">외 %d명</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s님에게 연락하기 위해 %2$d개 방법 선택됨</item>
+        <item quantity="one">%1$s님에게 연락하기 위해 %2$d개 방법 선택됨</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">멤버 %d명</item>
+        <item quantity="one">멤버 %d명</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%d개 선택됨</item>
+        <item quantity="one">%d개 선택됨</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">총 %2$d명의 멤버 중 %1$d명 선택됨</item>
+        <item quantity="one">총 %2$d명의 멤버 중 %1$d명 선택됨</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">멤버 %d명 선택됨</item>
+        <item quantity="one">멤버 %d명 선택됨</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">기기의 휴지통이 가득 찼습니다. 이러한 항목을 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+        <item quantity="one">기기의 휴지통이 가득 찼습니다. 이 항목을 삭제하면 기기와 계정에서 완전히 삭제됩니다.</item>
+    </plurals>
+</resources>

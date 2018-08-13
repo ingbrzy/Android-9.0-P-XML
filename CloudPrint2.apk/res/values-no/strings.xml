@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Godta</string>
+    <string name="account_label">Konto</string>
+    <string name="acl_list_title">Hvem har tilgang?</string>
+    <string name="acl_printer_access_level_private_subtitle">Bare folk som har fått uttrykkelig tillatelse kan legge til skriveren</string>
+    <string name="acl_printer_access_level_private_title">Privat</string>
+    <string name="acl_printer_access_level_public_subtitle">Alle brukere som har linken, har tilgang til denne skriveren og kan sende inn utskriftsjobber</string>
+    <string name="acl_printer_access_level_public_title">Alle brukere med linken har tilgang</string>
+    <string name="acl_public_share_note">Merk: Folk du allerede har delt denne skriveren med, blir offentlige brukere av den. Hvis du gjør den privat senere, må du dele den med dem på nytt.</string>
+    <string name="acl_role_description_manager">Kan administrere</string>
+    <string name="acl_role_description_none">Ingen tilgang</string>
+    <string name="acl_role_description_owner">Eier</string>
+    <string name="acl_role_description_user">Kan skrive ut</string>
+    <string name="add_people_acl_entry_hint">Legg til folk</string>
+    <string name="add_people_hint">Skriv inn navn, e-postadresser eller grupper</string>
+    <string name="add_people_title">Legg til folk</string>
+    <string name="add_printer">Legg til skriver</string>
+    <string name="add_printer_failed">Kunne ikke legge til skriveren</string>
+    <string name="adding_printer">Legger til skriveren …</string>
+    <string name="app_name">Cloud Print</string>
+    <string name="apply">Bruk</string>
+    <string name="cancel">Avbryt</string>
+    <string name="cdd_collate">Sammenstill</string>
+    <string name="cdd_color">Farge</string>
+    <string name="cdd_copies">Eksemplarer</string>
+    <string name="cdd_dpi">Utskriftskvalitet</string>
+    <string name="cdd_duplex">Tosidig utskrift</string>
+    <string name="cdd_fit_to_page">Tilpass til siden</string>
+    <string name="cdd_margin">Margin</string>
+    <string name="cdd_media_size">Mediestørrelse</string>
+    <string name="cdd_option_color_auto">Automatisk</string>
+    <string name="cdd_option_color_color">Farge</string>
+    <string name="cdd_option_color_monochrome">Ensfarget</string>
+    <string name="cdd_option_dpi_double">%1$d x %2$d DPI</string>
+    <string name="cdd_option_dpi_horizontal">Horisontal DPI</string>
+    <string name="cdd_option_dpi_single">%1$d DPI</string>
+    <string name="cdd_option_dpi_vertical">Vertikal DPI</string>
+    <string name="cdd_option_duplex_long_edge">Langsiden</string>
+    <string name="cdd_option_duplex_off">Av</string>
+    <string name="cdd_option_duplex_short_edge">Kortsiden</string>
+    <string name="cdd_option_fit_to_page_fill">Fyll siden</string>
+    <string name="cdd_option_fit_to_page_fit">Tilpass til siden</string>
+    <string name="cdd_option_fit_to_page_grow">Forstørr for å passe siden</string>
+    <string name="cdd_option_fit_to_page_none">Ingen</string>
+    <string name="cdd_option_fit_to_page_shrink">Forminsk for å passe til siden</string>
+    <string name="cdd_option_margin_borderless">Kantløs</string>
+    <string name="cdd_option_margin_bottom">Bunn</string>
+    <string name="cdd_option_margin_custom">Tilpasset</string>
+    <string name="cdd_option_margin_left">Venstre</string>
+    <string name="cdd_option_margin_right">Høyre</string>
+    <string name="cdd_option_margin_standard">Standard</string>
+    <string name="cdd_option_margin_top">Til toppen</string>
+    <string name="cdd_option_media_size">%1$d x %2$d mm</string>
+    <string name="cdd_option_orientation_auto">Automatisk</string>
+    <string name="cdd_option_orientation_landscape">Liggende</string>
+    <string name="cdd_option_orientation_portrait">Stående</string>
+    <string name="cdd_page_orientation">Retning</string>
+    <string name="cdd_page_range">Sideområde</string>
+    <string name="cdd_reverse">Omvendt rekkefølge</string>
+    <string name="close">Lukk</string>
+    <string name="content_description_account_image">Kontobilde</string>
+    <string name="content_description_navigation_drawer_close">Lukk sidenavigasjon</string>
+    <string name="content_description_navigation_drawer_open">Åpne sidenavigasjon</string>
+    <string name="content_description_navigation_item">Ikon for navigasjonselement</string>
+    <string name="content_description_printer_icon">Skriverikon</string>
+    <string name="content_description_printer_info_icon">Generisk ikon for skriverinfo</string>
+    <string name="could_not_receive_printers_heading">Kunne ikke hente skriverlisten</string>
+    <string name="could_not_receive_printers_message">Kunne ikke hente skriverlisten fra tjeneren. Vil du prøve på nytt?</string>
+    <string name="could_not_resolve_content_type">Kunne ikke starte Cloud Print: ukjent filtype</string>
+    <string name="could_not_start">Kunne ikke starte Cloud Print</string>
+    <string name="could_not_start_unknown_intent">Kunne ikke starte Cloud Print: ukjent handling</string>
+    <string name="currently_offline">For øyeblikket frakoblet</string>
+    <string name="decline">Avslå</string>
+    <string name="default_document_title">Uten tittel</string>
+    <string name="delete">Slett</string>
+    <string name="delete_item">Slett</string>
+    <string name="delete_printer_msg">Er du sikker på at du vil fjerne denne skriveren?</string>
+    <string name="delete_printer_msg_own_cloud">"Er du sikker på at du vil slette den skybaserte skriveren?  
+Du kan koble den til igjen senere."</string>
+    <string name="delete_printer_msg_own_connector">For å sørge for at skriveren ikke registreres på nytt, må du deaktivere Google Cloud Print-koblingen på datamaskinen skriveren er koblet til.</string>
+    <string name="delete_printer_msg_public">"Er du sikker på at du vil fjerne denne offentlige skriveren fra skriverlisten din?  
+Du kan alltids legge den til igjen senere."</string>
+    <string name="delete_printer_msg_shared_directly">"Er du sikker på at du vil fjerne denne skriveren fra listen din?  
+Du kan alltids be eieren av skriveren om å dele den med deg igjen senere."</string>
+    <string name="delete_printer_title">Slett skriveren</string>
+    <string name="document_sending">Sender en utskriftsjobb …</string>
+    <string name="document_sending_title">Sender en utskriftsjobb …</string>
+    <string name="document_submit_failed">Det oppsto en feil under sendingen av en utskriftsjobb</string>
+    <string name="document_submit_failed_title">Det oppsto en feil under sendingen av en utskriftsjobb</string>
+    <string name="document_submit_failed_title_multiple">Det oppsto en feil under sendingen av utskriftsjobbene: %1$d</string>
+    <string name="document_submit_success_and_failed_title">Innsendte utskriftsjobber: %1$d. Mislykkede utskriftsjobber: %2$d</string>
+    <string name="document_submitted">Utskriftsjobben er sendt</string>
+    <string name="document_submitted_title">Utskriftsjobben er sendt</string>
+    <string name="document_submitted_title_multiple">Utskriftsjobbene ble sendt inn: %1$d</string>
+    <string name="document_will_upload_in_background">Utskriftsjobben lastes opp i bakgrunnen</string>
+    <string name="failure_msg_authentication_failed">Autentiseringen mislyktes</string>
+    <string name="failure_msg_could_not_connect">Kunne ikke koble til tjeneren</string>
+    <string name="failure_msg_could_not_create_http_request">Kunne ikke opprette HTTP-forespørselen</string>
+    <string name="failure_msg_could_not_create_request">Kunne ikke opprette tjenerforespørselen</string>
+    <string name="failure_msg_could_not_execute_http_request">Kunne ikke utføre HTTP-forespørselen</string>
+    <string name="failure_msg_could_not_parse">Kunne ikke analysere svaret fra tjeneren</string>
+    <string name="failure_msg_file_not_found">Filen ble ikke funnet eller er utilgjengelig</string>
+    <string name="failure_msg_format_printer_delete">"Kunne ikke slette skriveren. 
+Feil: %1$s"</string>
+    <string name="failure_msg_format_printer_share">"Kunne ikke dele skriveren. 
+Feil: %1$s"</string>
+    <string name="failure_msg_format_printer_share_with">"Kunne ikke dele skriveren med %1$s. 
+Feil: %2$s"</string>
+    <string name="failure_msg_format_printer_update">"Kunne ikke oppdatere skriveren. 
+Feil: %1$s"</string>
+    <string name="failure_msg_insufficient_memory">Det er for lite ledig minne til å behandle dokumentet. Prøv å skrive ut i lavere oppløsning.</string>
+    <string name="failure_msg_internal_error">Intern appfeil</string>
+    <string name="failure_msg_out_of_memory">Det er ikke nok minne</string>
+    <string name="failure_msg_print_document_conversion">Kunne ikke konvertere dokumentet til et utskrivbart format.</string>
+    <string name="failure_msg_printer_lookup">Kunne ikke laste inn skriverfunksjonalitet</string>
+    <string name="failure_msg_printer_missing">Finner ikke skriveren</string>
+    <string name="failure_msg_privet_register_pending_user_action">Avventer brukerhandling</string>
+    <string name="failure_msg_request_failed">Forespørselen mislyktes</string>
+    <string name="failure_msg_success_is_false">Tjeneren returnerte en uventet feil</string>
+    <string name="failure_msg_unexpected_number_of_printers">Svaret inneholdt et uventet antall skrivere</string>
+    <string name="failure_request_msg">Forespørselen mislyktes</string>
+    <string name="failure_server_failed_response">Tjeneren sendte en feilstatus</string>
+    <string name="feature_off">Av</string>
+    <string name="feature_on">På</string>
+    <string name="gcp_add_account">Legg til konto</string>
+    <string name="help_and_feedback">Hjelp og tilbakemelding</string>
+    <string name="invitation_invited_by">"Invitert av: "</string>
+    <string name="invitation_processing_failed">Invitasjonen din kunne ikke behandles</string>
+    <string name="invitation_will_be_processed_in_background">Behandler invitasjonen</string>
+    <string name="invitations_load_failure">Kunne ikke laste inn invitasjonslisten.</string>
+    <string name="invited_by_label">Invitert av</string>
+    <string name="job_section_held">Klar til utskrift</string>
+    <string name="job_section_other">Annet</string>
+    <string name="local_device_registration_title">Enhetsregistrering</string>
+    <string name="local_discovery">Lokalt funn</string>
+    <string name="local_discovery_off_message">Koble til WiFi for å slå den på</string>
+    <string name="local_printer_display_name_format">%s (lokal)</string>
+    <string name="manage_acl_permission">Administrer tillatelser</string>
+    <string name="menu_hint_search_printers">Søk i skrivere</string>
+    <string name="no_accounts_message">For å bruke Cloud Print må du legge til en Google-konto på enheten</string>
+    <string name="no_advanced_options_message_title">Ingen avanserte alternativer</string>
+    <string name="no_devices_to_add">Ingen tilgjengelige skrivere</string>
+    <string name="offline_more_than_a_month">Frakoblet i mer enn én måned</string>
+    <string name="offline_more_than_a_week">Frakoblet i mer enn én uke</string>
+    <string name="offline_more_than_a_year">Frakoblet i over ett år</string>
+    <string name="ok">OK</string>
+    <string name="page_1">1</string>
+    <string name="page_2">2</string>
+    <string name="play_store_description">"Last ned den siste versjonen av den offisielle Google Cloud Print-appen. Med Cloud Print for Android kan du 
+
+– skrive ut fra alle kompatible Android-enheter via en hvilken som helst skriver som er koblet til Google Cloud Print 
+– dele bilder og dokumenter fra apper, for eksempel Galleri, direkte med Cloud Print 
+– spore status for utskriftsjobbene dine 
+– behandle skriverinvitasjoner – åpne invitasjonslinker fra e-poster i Cloud Print 
+– finne og registrere nye skykompatible skrivere på lokalnettverket* 
+
+ Det har aldri vært lettere å skrive ut fra Android. 
+
+ Google Cloud Print-appen er et programtillegg for utskrift på Android KitKat. I tidligere versjoner av Android er den en egen app. Hvis du oppdaterer enheten din til KitKat, kan det hende du må fjerne ikonet manuelt. 
+*Ikke alle modeller støtter lokal gjenkjenning – se håndboken for konfigurering som fulgte med skriveren din, for å få mer informasjon. 
+
+Merknad om tillatelser: 
+– Kontakter: I Cloud Print-appen brukes tillatelsen for kontakter til å administrere Google-kontoene dine for å kommunisere med skrivere. 
+– Lagring: I Cloud Print-appen brukes tillatelsen for lagring til å få tilgang til filer du ber om å få skrevet ut."</string>
+    <string name="play_store_tagline">Skriv ut hvor som helst fra alle Android-nettbrett og -smarttelefoner.</string>
+    <string name="play_store_whats_new">"
+- Legger til støtte for Google Cloud Print 2.0-skrivere (utskrifter lokalt uten drivere, enkel konfigurasjon) 
+- Legger til funksjoner for skriveradministrasjon (Innstillinger > Utskrift > Cloud Print > «Innstillinger»-menyen > Administrer skrivere) 
+- Feilrettinger og forbedringer av brukergrensesnittet"</string>
+    <string name="please_confirm_registration_on_device">Bekreft registreringen på enheten</string>
+    <string name="pref_about">Info</string>
+    <string name="pref_account">Konto</string>
+    <string name="pref_account_settings_title">Kontoinnstillinger</string>
+    <string name="pref_add_account">Legg til konto</string>
+    <string name="pref_category_about">Info</string>
+    <string name="pref_category_features">Funksjoner</string>
+    <string name="pref_category_manage">Administrer</string>
+    <string name="pref_category_options">Alternativer</string>
+    <string name="pref_category_settings">Innstillinger</string>
+    <string name="pref_open_source">Lisenser for åpen kildekode</string>
+    <string name="pref_printer_visibility_title">Skriversynlighet</string>
+    <string name="pref_privacy_policy">Personvern</string>
+    <string name="pref_terms_of_service">Vilkår for bruk</string>
+    <string name="preferences">Innstillinger</string>
+    <string name="print">Skriv ut</string>
+    <string name="print_job_deleted">«%1$s» ble slettet</string>
+    <string name="print_job_deleted_multiple">%1$d utskriftsjobber ble slettet</string>
+    <string name="print_queue_empty">Ingen utskriftsjobber</string>
+    <string name="print_queue_load_failure">Kunne ikke laste inn utskriftsjobbene.</string>
+    <string name="printer_added_format">%1$s er lagt til</string>
+    <string name="printer_available_to_everyone">Tilgjengelig for alle</string>
+    <string name="printer_detail_title_firmware_update_url">Nettadresse for fastvareoppdatering</string>
+    <string name="printer_detail_title_firmware_version">Fastvareversjon</string>
+    <string name="printer_detail_title_gcp_version">Google Cloud Print-versjon</string>
+    <string name="printer_detail_title_manufacturer">Produsent</string>
+    <string name="printer_detail_title_model">Modell</string>
+    <string name="printer_detail_title_printer_id">Skriver-ID</string>
+    <string name="printer_detail_title_printer_type">Skrivertype</string>
+    <string name="printer_detail_title_proxy">Proxy-tjener</string>
+    <string name="printer_detail_title_registered_time">Registrert med Cloud Print</string>
+    <string name="printer_detail_title_serial_number">Serienummer</string>
+    <string name="printer_detail_title_supported_content_types">Støttede innholdstyper</string>
+    <string name="printer_detail_title_tags">Tagger</string>
+    <string name="printer_detail_title_update_time">Sist oppdatert</string>
+    <string name="printer_details_advanced_title">Avanserte informasjon</string>
+    <string name="printer_details_title">Generell informasjon</string>
+    <string name="printer_label">Skriver</string>
+    <string name="printer_last_job_format">Siste utskriftsjobb var %1$s</string>
+    <string name="printer_list_empty">Skriverlisten er tom</string>
+    <string name="printer_list_load_failure">Kunne ikke laste inn skriverne.</string>
+    <string name="printer_list_search_no_matches">Det er ingen skrivere som samsvarer</string>
+    <string name="printer_owned_by">Eies av %1$s</string>
+    <string name="printer_owned_by_me">Eies av meg</string>
+    <string name="printer_status_offline_msg">Skriveren er uten nett</string>
+    <string name="printer_status_online_msg">Skriveren er koblet til nettet og klar til å skrive ut</string>
+    <string name="printer_support_url_at">Du kan få brukerstøtte på %1$s</string>
+    <string name="printer_type_connector">Vanlig skriver tilkoblet via Google Chrome</string>
+    <string name="printer_type_docs">Google Dokumenter-skriver</string>
+    <string name="printer_type_drive">Google Disk-skriver</string>
+    <string name="printer_type_gcp_ready">Nettsky-klar skriver</string>
+    <string name="printer_type_hp">HP ePrinter</string>
+    <string name="printers_shown_entry_all">Alle</string>
+    <string name="printers_shown_entry_none">Ingen</string>
+    <string name="printers_shown_entry_recent">Nylige</string>
+    <string name="printers_shown_summary_all">Alle skrivere fra denne kontoen blir vist. Trykk for å endre.</string>
+    <string name="printers_shown_summary_none">Ingen skrivere fra denne kontoen blir vist. Trykk for å endre.</string>
+    <string name="printers_shown_summary_recent">Bare nylig brukte skrivere fra denne kontoen blir vist. Trykk for å endre.</string>
+    <string name="privet_device_address">"Adresse: "</string>
+    <string name="privet_registration_failure">Kunne ikke registrerte skriveren</string>
+    <string name="privet_registration_success">Skriveren er registrert</string>
+    <string name="quota_limited">sider om dagen</string>
+    <string name="quota_limited_template">Daglig kvote: %1$d side(r)</string>
+    <string name="quota_remaining">%1$d sider gjenstår i dag</string>
+    <string name="quota_unlimited">Ubegrenset kvote</string>
+    <string name="refresh">Last inn på nytt</string>
+    <string name="register_with_account_template">Registrerer %1$s med %2$s</string>
+    <string name="rename">Gi nytt navn</string>
+    <string name="rename_printer_hint">Angi nytt skrivernavn</string>
+    <string name="rename_printer_title">Gi nytt navn til skriveren</string>
+    <string name="save">Lagre</string>
+    <string name="search">Søk</string>
+    <string name="select_file">Velg filen</string>
+    <string name="share_public_url">Del skriverens nettadresse</string>
+    <string name="sharing_toast">Deler …</string>
+    <string name="status_done">Skrevet ut</string>
+    <string name="status_error">Feil</string>
+    <string name="status_expired">Utløpt</string>
+    <string name="status_held">Holdt tilbake</string>
+    <string name="status_in_progress">Pågår</string>
+    <string name="status_queued">I kø</string>
+    <string name="status_sending">Sender …</string>
+    <string name="status_submitted">Innsendt</string>
+    <string name="subtitle_print_preview_multiple_documents">Flere dokumenter</string>
+    <string name="success_msg">Vellykket</string>
+    <string name="title_add_printer">Legg til skriver</string>
+    <string name="title_advanced_print_options">Avanserte utskriftsalternativer</string>
+    <string name="title_invitations">Invitasjoner</string>
+    <string name="title_manage_printer">Administrer skriveren</string>
+    <string name="title_manage_printers">Administrer skrivere</string>
+    <string name="title_print_jobs">Utskriftsjobber</string>
+    <string name="title_print_preview">Forhåndsvisning av utskrift</string>
+    <string name="title_printers">Skrivere</string>
+    <string name="to_print_file">Skriv ut filen</string>
+    <string name="unknown_printer">Ukjent skriver</string>
+    <string name="updating_toast">Oppdaterer …</string>
+</resources>

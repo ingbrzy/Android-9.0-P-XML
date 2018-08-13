@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_cbs_channels_strings">
+        <item>0x112C-0x112F:rat:gsm, emergency=true</item>
+    </string-array>
+    <array name="cmas_alert_extreme_channels_range_strings" />
+    <array name="cmas_alerts_severe_range_strings" />
+    <array name="cmas_amber_alerts_channels_range_strings" />
+    <string-array name="cmas_presidential_alerts_channels_range_strings">
+        <item>0x1112:rat=gsm, emergency=true</item>
+        <item>0x111F:rat=gsm, emergency=true</item>
+        <item>0x32:rat=gsm, emergency=true</item>
+        <item>0x397:rat=gsm, emergency=true</item>
+    </string-array>
+    <string-array name="exercise_alert_range_strings">
+        <item>0x111D:rat=gsm, emergency=true</item>
+    </string-array>
+    <array name="operator_defined_alert_range_strings" />
+    <string-array name="public_safety_messages_channels_range_strings">
+        <item>0x111E:rat=gsm, emergency=true</item>
+    </string-array>
+    <string-array name="required_monthly_test_range_strings">
+        <item>0x111C:rat=gsm, emergency=true</item>
+        <item>0x207:rat=gsm, emergency=true</item>
+    </string-array>
+</resources>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s алуучу</item>
+        <item quantity="one">1 алуучу</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 алуучу шифрлөөнү колдобогон кызматтарды пайдаланат. Демек, билдирүүңүздү башка колдонуучулар көрүп калышы ыктымал. ^2</item>
+        <item quantity="one">^1 шифрлөөнү колдобогон кызматты пайдаланат. Демек, билдирүүңүздү башка колдонуучулар көрүп калышы ыктымал. ^2</item>
+    </plurals>
+    <plurals name="ces_not_supported_sent">
+        <item quantity="other">Бул билдирүү жөнөтүлгөндө ^1 жана башкалар шифрлеген жок. ^2</item>
+        <item quantity="one">Бул билдирүү жөнөтүлгөндө ^1 шифрлеген жок. ^2</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Бул %1$d сүйлөшүү архивделсинби?</item>
+        <item quantity="one">Бул сүйлөшүү архивделсинби?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Бул %1$d сүйлөшүү жок кылынсынбы?</item>
+        <item quantity="one">Бул сүйлөшүү жок кылынсынбы?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Бул %1$d сүйлөшүүдөгү сомолор жарактан чыгарылсынбы?</item>
+        <item quantity="one">Бул сүйлөшүүдөгү сомолор жарактан чыгарылсынбы?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> архивделди</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> архивделди</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> жок кылынды</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> жок кылынды</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Өзгөртүлгөн энбелгилер.</item>
+        <item quantity="one">Өзгөртүлгөн энбелги.</item>
+    </plurals>
+    <plurals name="conversation_moved_to_inbox">
+        <item quantity="other">&lt;b>%1$d&lt;/b> келген каттар кутусуна жылдырылды</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> келген каттар кутусуна жылдырылды</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> үнү басылды</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> үнү басылды</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> маанилүү эмес деп белгиленди</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> маанилүү эмес деп белгиленди</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> спам эмес деп кабарланды</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> спам эмес деп кабарланды</item>
+    </plurals>
+    <plurals name="conversation_read">
+        <item quantity="other">&lt;b>%1$d&lt;/b> окулган деп белгиленди</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> окулган деп белгиленди</item>
+    </plurals>
+    <plurals name="conversation_snoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> %2$s чейин калтырылды</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> %2$s чейин калтырылды</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> спам деп кабарланды</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> спам деп кабарланды</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d спам катары белгиленди жана жазылуу токтотулду</item>
+        <item quantity="one">%1$d спам катары белгиленди жана жазылуу токтотулду</item>
+    </plurals>
+    <plurals name="conversation_unsnoozed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> тындырылган жок</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> тындырылган жок</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d сүйлөшүүнүн жылдызчасы алынууда</item>
+        <item quantity="one">%1$d сүйлөшүүнүн жылдызчасы алынууда</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Ар %d күндө</item>
+        <item quantity="one">Күнүгө</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Бул билдирүүлөр спам деп белгиленет. &lt;b>%2$d жөнөтүүчүдөн&lt;/b> келген ушундай билдирүүлөрдөн да чын эле баш тартасызбы?%1$s</item>
+        <item quantity="one">Бул билдирүү спам деп белгиленет. %1$s жөнөткөн ушундай билдирүүлөрдөн да чын эле баш тартасызбы?</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Сомолор</item>
+        <item quantity="one">Сомо</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$s жазышуу биротоло жок кылынат.</item>
+        <item quantity="one">%1$s жазышуу биротоло жок кылынат.</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d жолкуга</item>
+        <item quantity="one">; бир жолкуга</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">"Алуучулар Drive'дан кыстарылган файлдарды пайдалана алышпайт окшойт. Файлды Google Drive'дан ачып, башкалар менен бөлүшүңүз."</item>
+        <item quantity="one">"Алуучулар Drive'дан кыстарылган файлды пайдалана алышпайт окшойт. Файлды Google Drive'дан ачып, башкалар менен бөлүшүңүз."</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">"Эскертүү: Айрым алуучулар дагы эле бул файлдарды пайдалана алышпайт окшойт. Файлдарды Google Drive'да ачып, башкалар менен бөлүшүңүз."</item>
+        <item quantity="one">"Эскертүү: Айрым алуучулар дагы эле бул файлды пайдалана алышпайт окшойт. Файлды Google Drive'да ачып, башкалар менен бөлүшүңүз."</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Төмөнкү алуучулар менен бөлүшүп жатасыз:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>. Алар ушул файлдар таандык болгон уюмдун кызматкерлери эмес."</item>
+        <item quantity="one">Төмөнкү алуучулар менен бөлүшүп жатасыз:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>. Алар ушул файл таандык болгон уюмдун кызматкерлери эмес.</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 алуучу шифрлөөнү колдобогон кызматтарды пайдаланат. Билдирүүңүз шифрленбей жөнөтүлгөн болсо, аны орто жерден кимдир-бирөө окуп алышы мүмкүн. ^2</item>
+        <item quantity="one">^1 шифрлөөнү колдобогон кызматты пайдаланат. Билдирүүңүз шифрленбей жөнөтүлгөн болсо, аны орто жерден кимдир-бирөө окуп алышы мүмкүн. ^2</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Ар %1$d айда</item>
+        <item quantity="one">Ай сайын</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d жаңы билдирүү</item>
+        <item quantity="one">%1$d жаңы билдирүү</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d жаңы билдирүү</item>
+        <item quantity="one">%1$d жаңы билдирүү</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d тиркеме</item>
+        <item quantity="one">%1$d тиркеме</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d билдирүү</item>
+        <item quantity="one">%1$d билдирүү</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Жылнаамалар бөлүшүлгөн эмес</item>
+        <item quantity="one">Жылнаама бөлүшүлгөн эмес</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d жолкуга</item>
+        <item quantity="one">%d жолкуга</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Ар %d күндө</item>
+        <item quantity="one">Ар %d күндө</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Ар %d айда</item>
+        <item quantity="one">Ар %d айда</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Ар %d аптада</item>
+        <item quantity="one">Ар %d аптада</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Ар %d жылда</item>
+        <item quantity="one">Ар %d жылда</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">%d издөө жыйынтыгы жүктөлдү</item>
+        <item quantity="one">%d издөө жыйынтыгы жүктөлдү</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">Мурунку %1$d билдирүүнү жайып көрсөтүү</item>
+        <item quantity="one">Мурунку билдирүүнү жайып көрсөтүү</item>
+    </plurals>
+    <plurals name="snoozed_date_days_ago">
+        <item quantity="other">%d күн мурун кийинкиге калтырылган</item>
+        <item quantity="one">%d күн мурун кийинкиге калтырылган</item>
+    </plurals>
+    <plurals name="snoozed_date_hours_ago">
+        <item quantity="other">%d саат мурун кийинкиге калтырылган</item>
+        <item quantity="one">%d саат мурун кийинкиге калтырылган</item>
+    </plurals>
+    <plurals name="snoozed_date_months_ago">
+        <item quantity="other">%d ай мурун кийинкиге калтырылган</item>
+        <item quantity="one">%d ай мурун кийинкиге калтырылган</item>
+    </plurals>
+    <plurals name="snoozed_date_weeks_ago">
+        <item quantity="other">%d апта мурун кийинкиге калтырылган</item>
+        <item quantity="one">%d апта мурун кийинкиге калтырылган</item>
+    </plurals>
+    <plurals name="snoozed_date_years_ago">
+        <item quantity="other">%d жыл мурун кийинкиге калтырылган</item>
+        <item quantity="one">%d жыл мурун кийинкиге калтырылган</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">Мурунку %1$d билдирүү жайылып көрсөтүлдү</item>
+        <item quantity="one">Мурунку бир билдирүү жайылып көрсөтүлдү</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d күн</item>
+        <item quantity="one">Бир күн</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Туташканда акыркы %1$d күндөгү билдирүүлөр жүктөлүп алынат</item>
+        <item quantity="one">Туташканда акыркы күндөгү билдирүүлөр жүктөлүп алынат</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Акыркы %1$d күн</item>
+        <item quantity="one">Акыркы күн</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Мөөнөтү аяктай турган күн - %1$s - %2$d жасала турчу иш</item>
+        <item quantity="one">Мөөнөтү аяктай турган күн - %1$s - %2$d жасала турчу иш</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Күн</item>
+        <item quantity="one">Күн</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ар %1$d апта сайын %2$s күнү</item>
+        <item quantity="one">Апта сайын %2$s күнү</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Ар %1$d жылда</item>
+        <item quantity="one">Жыл сайын</item>
+    </plurals>
+</resources>

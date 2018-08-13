@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">这些内容太大，无法放入您设备的回收站。如果您删除这些内容，系统会将其从您的设备和帐号中永久移除。</item>
+        <item quantity="one">此内容太大，无法放入您设备的回收站。如果您删除此内容，系统会将其从您的设备和帐号中永久移除。</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">已扫描%1$d项</item>
+        <item quantity="one">已扫描%1$d项</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">已选择%1$d项</item>
+        <item quantity="one">已选择%1$d项</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">新的相册大小会超出目前的内容数量限制（%1$d 项内容）。</item>
+        <item quantity="one">新的相册大小会超出目前的内容数量限制（%1$d 项内容）。</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">相册中将有 %1$d 项内容。</item>
+        <item quantity="one">相册中将有 %1$d 项内容。</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">已添加 %d 个位置</item>
+        <item quantity="one">已添加 %d 个位置</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d 个位置</item>
+        <item quantity="one">%d 个位置</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d 个地图</item>
+        <item quantity="one">%d 个地图</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">已添加 %d 个地图</item>
+        <item quantity="one">已添加 %d 个地图</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">正在从此相册中移除内容…</item>
+        <item quantity="one">正在从此相册中移除内容…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">已移除 %d 项内容</item>
+        <item quantity="one">已移除 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">正在从此相册中移除照片…</item>
+        <item quantity="one">正在从此相册中移除照片…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">正在从此相册中移除视频…</item>
+        <item quantity="one">正在从此相册中移除视频…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d 项内容</item>
+        <item quantity="one">%1$d 项内容</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d 项内容</item>
+        <item quantity="one">%d 项内容</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_button_text_plural">
+        <item quantity="other">从设备中删除（%d 项）</item>
+        <item quantity="one">从设备中删除（%d 项）</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_delete_from_device_mixed_button_text_plural">
+        <item quantity="other">从设备中删除所有内容（%d 项）</item>
+        <item quantity="one">从设备中删除所有内容（%d 项）</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_trash">
+        <item quantity="other">移至回收站（%d 项）</item>
+        <item quantity="one">移至回收站（%d 项）</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">已归档 %d 项内容</item>
+        <item quantity="one">已归档 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">已取消归档 %d 项内容</item>
+        <item quantity="one">已取消归档 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_archive_assistant_review_title">
+        <item quantity="other">已选择 %d 项</item>
+        <item quantity="one">已选择 %d 项</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_background_uploading_title">
+        <item quantity="other">正在上传 %d 项内容</item>
+        <item quantity="one">正在上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">还剩 %d 张照片</item>
+        <item quantity="one">还剩 %d 张照片</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">还剩 %d 张照片待备份</item>
+        <item quantity="one">还剩 %d 张照片待备份</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_to_back_up">
+        <item quantity="other">%1$d 张照片 • %2$s</item>
+        <item quantity="one">%1$d 张照片 • %2$s</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_stalled_notification_dialog_title">
+        <item quantity="other">要备份 %1$d 项内容吗？</item>
+        <item quantity="one">要备份 %1$d 项内容吗？</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_mixin_uploader_dialog_title">
+        <item quantity="other">正在上传 %1$d 项内容</item>
+        <item quantity="one">正在上传 %1$d 项内容</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d 张照片尚未备份</item>
+        <item quantity="one">%1$d 张照片尚未备份</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title_exp">
+        <item quantity="other">确保 %1$d 项内容安全无虞</item>
+        <item quantity="one">确保 %1$d 项内容安全无虞</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_items">
+        <item quantity="other">正在上传 %d 项内容</item>
+        <item quantity="one">正在上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_uploading_videos">
+        <item quantity="other">正在上传 %d 个视频</item>
+        <item quantity="one">正在上传 %d 个视频</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_items">
+        <item quantity="other">%d 项内容等待上传</item>
+        <item quantity="one">%d 项内容等待上传</item>
+    </plurals>
+    <plurals name="photos_backup_persistentstatus_waiting_to_upload_videos">
+        <item quantity="other">%d 个视频等待上传</item>
+        <item quantity="one">%d 个视频等待上传</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">所有 %d 张照片</item>
+        <item quantity="one">所有 %d 张照片</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d 张照片尚未备份</item>
+        <item quantity="one">%d 张照片尚未备份</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">已添加 %1$d 项内容</item>
+        <item quantity="one">已添加 %1$d 项内容</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">单个相册最多只能容纳 %d 项内容。</item>
+        <item quantity="one">单个相册最多只能容纳 %d 项内容。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">最多可选择 %d 项内容。</item>
+        <item quantity="one">最多可选择 %d 项内容。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">至少要选择 %d 项内容。</item>
+        <item quantity="one">至少要选择 %d 项内容。</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">所选内容的日期范围不得超过 %d 天。</item>
+        <item quantity="one">所选内容的日期范围不得超过 %d 天。</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">已添加 %d 项内容</item>
+        <item quantity="one">已添加 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d 小时</item>
+        <item quantity="one">%d 小时</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours_for_a11y">
+        <item quantity="other">%d 小时前</item>
+        <item quantity="one">%d 小时前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d 周</item>
+        <item quantity="one">%d 周</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days_for_a11y">
+        <item quantity="other">%d 周前</item>
+        <item quantity="one">%d 周前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d 分钟</item>
+        <item quantity="one">%d 分钟</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour_for_a11y">
+        <item quantity="other">%d 分钟前</item>
+        <item quantity="one">%d 分钟前</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d 天</item>
+        <item quantity="one">%d 天</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days_for_a11y">
+        <item quantity="other">%d 天前</item>
+        <item quantity="one">%d 天前</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_batch_description_text_experiment2">
+        <item quantity="other">%1$d 项内容将从您的设备中移除。不用担心，这些内容仍保留在 Google 照片中。</item>
+        <item quantity="one">%1$d 项内容将从您的设备中移除。不用担心，该内容仍保留在 Google 照片中。</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">从设备中移除 %1$d 项内容</item>
+        <item quantity="one">从设备中移除 %1$d 项内容</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text_experiment1">
+        <item quantity="other">从设备中移除 %1$d 项照片和视频</item>
+        <item quantity="one">从设备中移除 %1$d 项照片或视频</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">正在移除 %1$d 张/个原始照片或视频</item>
+        <item quantity="one">正在移除 %1$d 张/个原始照片或视频</item>
+    </plurals>
+    <plurals name="photos_devicesetup_number_of_items_label">
+        <item quantity="other">%d 项内容</item>
+        <item quantity="one">%d 项内容</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d 张新卡片</item>
+        <item quantity="one">1 张新卡片</item>
+    </plurals>
+    <plurals name="photos_envelope_addmedia_toast_optimistic_add_online_quantity">
+        <item quantity="other">已添加 %d 项内容</item>
+        <item quantity="one">已添加 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_adapteritem_num_updates">
+        <item quantity="other">%1$d 项更新</item>
+        <item quantity="one">%1$d 项更新</item>
+    </plurals>
+    <plurals name="photos_envelope_feed_commentbar_viewbinders_num_comments">
+        <item quantity="other">%1$d 条评论</item>
+        <item quantity="one">%1$d 条评论</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">正在将内容保存到照片库…</item>
+        <item quantity="one">正在将内容保存到照片库…</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">已添加 %d 项内容</item>
+        <item quantity="one">已添加 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">您只能再添加 %d 项内容。</item>
+        <item quantity="one">您只能再添加 %d 项内容。</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">删除文件夹和其中的 %d 项内容</item>
+        <item quantity="one">删除文件夹和其中的 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_deleteconfirm_delete_from_device_plural">
+        <item quantity="other">从设备中删除（%d 项）</item>
+        <item quantity="one">从设备中删除（%d 项）</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">无法复制 %d 项内容</item>
+        <item quantity="one">无法复制 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">已复制 %d 项内容</item>
+        <item quantity="one">已复制 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">无法移动 %d 项内容</item>
+        <item quantity="one">无法移动 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">已移动 %d 项内容</item>
+        <item quantity="one">已移动 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_album_caption">
+        <item quantity="other">要添加到与 %1$d 人共享的相册吗？</item>
+        <item quantity="one">要添加到与 %1$d 人共享的相册吗？</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_oneplus_recipients">
+        <item quantity="other">要添加到与%1$s和另外 %2$d 人共享的相册吗？</item>
+        <item quantity="one">要添加到与%1$s和另外 %2$d 人共享的相册吗？</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_add_twoplus_recipients">
+        <item quantity="other">要添加到与%1$s、%2$s和另外 %3$d 人共享的相册吗？</item>
+        <item quantity="one">要添加到与%1$s、%2$s和另外 %3$d 人共享的相册吗？</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_oneplus_recipients">
+        <item quantity="other">要发送给%1$s和另外 %2$d 人吗？</item>
+        <item quantity="one">要发送给%1$s和另外 %2$d 人吗？</item>
+    </plurals>
+    <plurals name="photos_ondevicesharingsuggestions_notifications_send_twoplus_recipients">
+        <item quantity="other">要发送给%1$s、%2$s和另外 %3$d 人吗？</item>
+        <item quantity="one">要发送给%1$s、%2$s和另外 %3$d 人吗？</item>
+    </plurals>
+    <plurals name="photos_partneraccount_grid_promobanner_autosave_auto_save_num_people">
+        <item quantity="other">%d 个人的照片</item>
+        <item quantity="one">%d 个人的照片</item>
+    </plurals>
+    <plurals name="photos_partneraccount_onboarding_confirm_photos_access_selected_face_clusters_text">
+        <item quantity="other">与所选 %d 个面孔对应的照片</item>
+        <item quantity="one">与所选 %d 个面孔对应的照片</item>
+    </plurals>
+    <plurals name="photos_partneraccount_people_title_n_selected">
+        <item quantity="other">已选择 %d 项内容</item>
+        <item quantity="one">已选择 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_people_n_selected">
+        <item quantity="other">已选择 %d 张面孔</item>
+        <item quantity="one">已选择 %d 张面孔</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_by_day">
+        <item quantity="other">%2$s或之后拍摄的与所选 %1$d 个面孔对应的照片</item>
+        <item quantity="one">%2$s或之后拍摄的与所选 %1$d 个面孔对应的照片</item>
+    </plurals>
+    <plurals name="photos_partneraccount_settings_sender_share_selected_people_summary">
+        <item quantity="other">与所选 %d 个面孔对应的照片</item>
+        <item quantity="one">与所选 %d 个面孔对应的照片</item>
+    </plurals>
+    <plurals name="photos_partneraccount_unshare_success">
+        <item quantity="other">已移除 %1$d 张照片</item>
+        <item quantity="one">已移除 %1$d 张照片</item>
+    </plurals>
+    <plurals name="photos_peoplepicker_exceed_max_allowed">
+        <item quantity="other">请只选择 %d 人</item>
+        <item quantity="one">请只选择 %d 人</item>
+    </plurals>
+    <plurals name="photos_photobook_buyflow_num_extra_pages">
+        <item quantity="other">外加 %d 页</item>
+        <item quantity="one">外加 %d 页</item>
+    </plurals>
+    <plurals name="photos_photobook_confirmation_page_count">
+        <item quantity="other">%d 页</item>
+        <item quantity="one">%d 页</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_add_photos_tooltip">
+        <item quantity="other">添加另外 %d 张照片才可购买照片书</item>
+        <item quantity="one">添加另外 %d 张照片才可购买照片书</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_added_photo_count_toast">
+        <item quantity="other">已添加 %d 张照片</item>
+        <item quantity="one">已添加 %d 张照片</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_message">
+        <item quantity="other">照片可能已被删除或停止分享</item>
+        <item quantity="one">照片可能已被删除或停止分享</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_missing_item_dialog_title">
+        <item quantity="other">%d 张照片已不存在</item>
+        <item quantity="one">%d 张照片已不存在</item>
+    </plurals>
+    <plurals name="photos_photobook_preview_removed_photo_count_toast">
+        <item quantity="other">已移除 %d 张照片</item>
+        <item quantity="one">已移除 %d 张照片</item>
+    </plurals>
+    <plurals name="photos_photobook_product_extra_page_count">
+        <item quantity="other">外加 %d 页</item>
+        <item quantity="one">外加 %d 页</item>
+    </plurals>
+    <plurals name="photos_photobook_product_page_count">
+        <item quantity="other">%d 页</item>
+        <item quantity="one">%d 页</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_one">
+        <item quantity="other">最多只能打印 %d 张照片，</item>
+        <item quantity="one">最多只能打印 %d 张照片，</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_message_part_two">
+        <item quantity="other">已为您推荐 %d 张照片</item>
+        <item quantity="one">已为您推荐 %d 张照片</item>
+    </plurals>
+    <plurals name="photos_photobook_remediation_dialog_title">
+        <item quantity="other">已推荐 %d 张照片</item>
+        <item quantity="one">已推荐 %d 张照片</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_default_description">
+        <item quantity="other">照片或视频</item>
+        <item quantity="one">照片或视频</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_photos_only">
+        <item quantity="other">照片</item>
+        <item quantity="one">照片</item>
+    </plurals>
+    <plurals name="photos_picker_restriction_item_description_videos_only">
+        <item quantity="other">视频</item>
+        <item quantity="one">视频</item>
+    </plurals>
+    <plurals name="photos_search_explore_pets_impl_notification_title">
+        <item quantity="other">发现 %d 只宠物</item>
+        <item quantity="one">发现 %d 只宠物</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">另外还在您的照片中找到了 %1$d 个地点</item>
+        <item quantity="one">另外还在您的照片中找到了 %1$d 个地点</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">另外还在您的照片中找到了 %1$d 个事物</item>
+        <item quantity="one">另外还在您的照片中找到了 %1$d 个事物</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">另外还在您的照片中找到了 %1$d 个地点和事物</item>
+        <item quantity="one">另外还在您的照片中找到了 %1$d 个地点和事物</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">找到了 %1$d 个人物</item>
+        <item quantity="one">找到了 %1$d 个人物</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">找到了 %1$d 个地点</item>
+        <item quantity="one">找到了 %1$d 个地点</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">找到了 %1$d 个事物</item>
+        <item quantity="one">找到了 %1$d 个事物</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d 张照片</item>
+        <item quantity="one">%d 张照片</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_places">
+        <item quantity="other">以及另外 %1$d 个地点</item>
+        <item quantity="one">以及另外 %1$d 个地点</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things">
+        <item quantity="other">以及另外 %1$d 个事物</item>
+        <item quantity="one">以及另外 %1$d 个事物</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_content_things_and_places">
+        <item quantity="other">以及另外 %1$d 个事物和地点</item>
+        <item quantity="one">以及另外 %1$d 个事物和地点</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_people">
+        <item quantity="other">查看您照片中的 %1$d 个人物</item>
+        <item quantity="one">查看您照片中的 %1$d 个人物</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_people">
+        <item quantity="other">找到了 %1$d 个人物</item>
+        <item quantity="one">找到了 %1$d 个人物</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_places">
+        <item quantity="other">找到了 %1$d 个地点</item>
+        <item quantity="one">找到了 %1$d 个地点</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_single_category_things">
+        <item quantity="other">找到了 %1$d 个事物</item>
+        <item quantity="one">找到了 %1$d 个事物</item>
+    </plurals>
+    <plurals name="photos_searchretention_full_notification_title_things">
+        <item quantity="other">查看您照片中的 %1$d 个事物</item>
+        <item quantity="one">查看您照片中的 %1$d 个事物</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">已选择 %1$d 项内容</item>
+        <item quantity="one">已选择 %1$d 项内容</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">已选择 %d 项</item>
+        <item quantity="one">已选择 %d 项</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">已将 %d 项内容添加到相册</item>
+        <item quantity="one">已将 %d 项内容添加到相册</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_uploading">
+        <item quantity="other">正在上传 %d 项内容</item>
+        <item quantity="one">正在上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">连接到网络后，系统会上传 %d 项内容</item>
+        <item quantity="one">连接到网络后，系统会上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s和另外 %2$d 人</item>
+        <item quantity="one">%1$s和另外 %2$d 人</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d 项内容</item>
+        <item quantity="one">%d 项内容</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_add_related_photos">
+        <item quantity="other">要添加 %d 张相关照片吗？</item>
+        <item quantity="one">要添加 %d 张相关照片吗？</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_multiple_contributors">
+        <item quantity="other">%1$d 张新照片</item>
+        <item quantity="one">%1$d 张新照片</item>
+    </plurals>
+    <plurals name="photos_sharingtab_impl_viewbinders_new_photos_one_contributor">
+        <item quantity="other">%1$s添加了 %2$d 张新照片</item>
+        <item quantity="one">%1$s添加了 %2$d 张新照片</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_people_promo">
+        <item quantity="other">在您的照片中找到 %1$d 个人物</item>
+        <item quantity="one">在您的照片中找到 %1$d 个人物</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_places_promo">
+        <item quantity="other">在您的照片中找到 %1$d 个地点</item>
+        <item quantity="one">在您的照片中找到 %1$d 个地点</item>
+    </plurals>
+    <plurals name="photos_tabbar_progressive_edu_things_promo">
+        <item quantity="other">在您的照片中找到 %1$d 个事物</item>
+        <item quantity="one">在您的照片中找到 %1$d 个事物</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">无法删除内容</item>
+        <item quantity="one">无法删除 1 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">无法删除 %d 项内容</item>
+        <item quantity="one">无法删除 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">无法永久删除 %d 项内容</item>
+        <item quantity="one">无法永久删除 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">正在永久删除所选内容…</item>
+        <item quantity="one">正在永久删除所选的 1 项内容…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">已永久删除 %d 项内容</item>
+        <item quantity="one">已永久删除 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_delete_remove_local_only_delete_toast_text_plural">
+        <item quantity="other">已从设备中删除 %d 项内容</item>
+        <item quantity="one">已从设备中删除 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">正在还原所选的内容…</item>
+        <item quantity="one">正在还原所选的 1 项内容…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">无法还原 %d 项内容</item>
+        <item quantity="one">无法还原 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">已从回收站中还原 %d 项内容</item>
+        <item quantity="one">已从回收站中还原 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">要永久删除内容吗？</item>
+        <item quantity="one">要永久删除内容吗？</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">要删除 %d 项内容吗？</item>
+        <item quantity="one">要删除 %d 项内容吗？</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">永久删除 %d 项内容</item>
+        <item quantity="one">永久删除 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">距此版本过期还剩 %d 天。要继续使用 Google 照片，请立即更新。</item>
+        <item quantity="one">距此版本过期还剩 1 天。要继续使用 Google 照片，请立即更新。</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items">
+        <item quantity="other">正在上传 %d 项内容</item>
+        <item quantity="one">正在上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_offline">
+        <item quantity="other">系统会在连接到网络后上传 %d 项内容</item>
+        <item quantity="one">系统会在连接到网络后上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_upload_background_full_multiple_items_wait_wifi">
+        <item quantity="other">系统会在连接到 WLAN 后上传 %d 项内容</item>
+        <item quantity="one">系统会在连接到 WLAN 后上传 %d 项内容</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">目前备份这些内容将耗用约 %s 移动数据流量。连接到 WLAN 可避免使用流量。</item>
+        <item quantity="one">目前备份此项内容将耗用约 %s 移动数据流量。连接到 WLAN 可避免使用流量。</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">备份这些内容会耗用您的部分移动数据流量。连接到 WLAN 可避免使用流量。</item>
+        <item quantity="one">备份此项内容会耗用您的部分移动数据流量。连接到 WLAN 可避免使用流量。</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">正在上传…还剩 %d 个文件</item>
+        <item quantity="one">正在上传…还剩 %d 个文件</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d 个文件</item>
+        <item quantity="one">%d 个文件</item>
+    </plurals>
+    <plurals name="photos_welcomescreens_notification_subtitle">
+        <item quantity="other">%1$d new features now available in Google Photos</item>
+        <item quantity="one">%1$d new feature now available in Google Photos</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s 张照片</item>
+        <item quantity="one">%s 张照片</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s 项内容</item>
+        <item quantity="one">%s 项内容</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s 个视频</item>
+        <item quantity="one">%s 个视频</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">选择多张照片</item>
+        <item quantity="one">选择一张照片</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">选择内容</item>
+        <item quantity="one">选择 1 项内容</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">选择视频</item>
+        <item quantity="one">选择 1 个视频</item>
+    </plurals>
+    <plurals name="sendkit_ui_autocomplete_ellipsis_text">
+        <item quantity="other">和另外 %d 人</item>
+        <item quantity="one">和另外 %d 人</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s。%2$d 种联系方式</item>
+        <item quantity="one">%1$s。%2$d 种联系方式</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d 位成员</item>
+        <item quantity="one">%d 位成员</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">已选择 %d 种发送方式</item>
+        <item quantity="one">已选择 %d 种发送方式</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">已选择 %1$d 位成员（共 %2$d 位）</item>
+        <item quantity="one">已选择 %1$d 位成员（共 %2$d 位）</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">已选择 %d 位成员</item>
+        <item quantity="one">已选择 %d 位成员</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">您设备的回收站已满。如果您删除这些内容，系统会将其从您的设备和帐号中永久移除。</item>
+        <item quantity="one">您设备的回收站已满。如果您删除此内容，系统会将其从您的设备和帐号中永久移除。</item>
+    </plurals>
+</resources>

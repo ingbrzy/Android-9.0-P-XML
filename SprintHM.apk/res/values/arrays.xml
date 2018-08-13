@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="edit_view">
+        <item>@string/edit</item>
+        <item>@string/view</item>
+    </string-array>
+    <string-array name="pdn_type_array">
+        <item>@string/ip</item>
+        <item>@string/ipv6</item>
+        <item>@string/ipv4_ipv6</item>
+    </string-array>
+    <string-array name="rat_type_array">
+        <item>@string/none</item>
+        <item>@string/lte</item>
+        <item>@string/ehrpd</item>
+        <item>@string/lte_ehrpd</item>
+        <item>@string/all</item>
+    </string-array>
+    <string-array name="auth_type_array">
+        <item>@string/none</item>
+        <item>@string/pap</item>
+        <item>@string/chap</item>
+        <item>@string/pap_chap</item>
+    </string-array>
+    <string-array name="sprint_data_pdn_array">
+        <item>@string/sprint_data_pdn_label</item>
+        <item>@string/sprint_data_pdn_apn_ni</item>
+        <item>@string/sprint_data_pdn_type</item>
+        <item>@string/sprint_data_pdn_rat_type</item>
+        <item>@string/sprint_data_pdn_auth_type</item>
+        <item>@string/sprint_data_pdn_username</item>
+        <item>@string/sprint_data_pdn_password</item>
+    </string-array>
+    <string-array name="home_orig_vocoder">
+        <item>EVRC</item>
+        <item>13k</item>
+        <item>4GV</item>
+    </string-array>
+    <string-array name="home_page_vocoder">
+        <item>EVRC</item>
+        <item>EVRC-B</item>
+        <item>EVRC-NW</item>
+        <item>13k</item>
+        <item>Wild</item>
+    </string-array>
+    <string-array name="roam_orig_vocoder">
+        <item>EVRC</item>
+        <item>EVRC-B</item>
+        <item>EVRC-NW</item>
+        <item>13k</item>
+        <item>Wild</item>
+    </string-array>
+    <string-array name="enable_disable">
+        <item>@string/enable</item>
+        <item>@string/disable</item>
+    </string-array>
+    <string-array name="on_off">
+        <item>@string/on</item>
+        <item>@string/off</item>
+    </string-array>
+</resources>
